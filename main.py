@@ -16,9 +16,9 @@ class decoded_set:
 
 def sort_sets():
 	sets = []
-	for file in os.listdir('/yugioh_sets'): #need to set this up
+	for file in os.listdir('.'): #need to set this up
 		if file.endswith('.json'):
-			with open('/yugioh_sets/'+file) as json_data:
+			with open('./'+file) as json_data:
 				sets_objects[str(file)]=decoded_set() #hoping this works so much!
 				data = json.load(json_data)
 				for x in data:
