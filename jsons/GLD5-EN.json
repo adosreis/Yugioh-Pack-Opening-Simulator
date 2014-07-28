@@ -1,0 +1,277 @@
+[
+   {
+      "rarity" : "Ghost/Gold Rare",
+      "name" : "Blue-Eyes White Dragon",
+      "set_number" : "GLD5-EN001"
+   },
+   {
+      "set_number" : "GLD5-EN002",
+      "rarity" : "Common",
+      "name" : "Patrician of Darkness"
+   },
+   {
+      "set_number" : "GLD5-EN003",
+      "rarity" : "Common",
+      "name" : "Pyramid Turtle"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN004",
+      "name" : "Dark Scorpion Burglars"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Don Zaloog",
+      "set_number" : "GLD5-EN005"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Helpoemer",
+      "set_number" : "GLD5-EN006"
+   },
+   {
+      "set_number" : "GLD5-EN007",
+      "rarity" : "Common",
+      "name" : "Dark Scorpion - Cliff the Trap Remover"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Despair from the Dark",
+      "set_number" : "GLD5-EN008"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN009",
+      "name" : "Fear from the Dark"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN010",
+      "name" : "Dark Scorpion - Chick the Yellow"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN011",
+      "name" : "Dark Scorpion - Gorg the Strong"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dark Scorpion - Meanae the Thorn",
+      "set_number" : "GLD5-EN012"
+   },
+   {
+      "name" : "Ryu Kokki",
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN013"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN014",
+      "name" : "Vampire Lady"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN015",
+      "name" : "Double Coston"
+   },
+   {
+      "set_number" : "GLD5-EN016",
+      "rarity" : "Common",
+      "name" : "Regenerating Mummy"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN017",
+      "name" : "Dark Mimic LV1"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN018",
+      "name" : "Dark Mimic LV3"
+   },
+   {
+      "name" : "Zombie Master",
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN019"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN020",
+      "name" : "Gernia"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN021",
+      "name" : "Goblin Zombie"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "The Lady in Wight",
+      "set_number" : "GLD5-EN022"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Red Ogre",
+      "set_number" : "GLD5-EN023"
+   },
+   {
+      "rarity" : "Ghost/Gold Rare",
+      "name" : "Gorz the Emissary of Darkness",
+      "set_number" : "GLD5-EN024"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Bone Crusher",
+      "set_number" : "GLD5-EN025"
+   },
+   {
+      "set_number" : "GLD5-EN026",
+      "rarity" : "Gold Rare",
+      "name" : "Fabled Grimro"
+   },
+   {
+      "name" : "Master Hyperion",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD5-EN027"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Grapha, Dragon Lord of Dark World",
+      "set_number" : "GLD5-EN028"
+   },
+   {
+      "set_number" : "GLD5-EN029",
+      "rarity" : "Gold Rare",
+      "name" : "Sephylon, the Ultimate Timelord"
+   },
+   {
+      "rarity" : "Ghost/Gold Rare",
+      "set_number" : "GLD5-EN030",
+      "name" : "Herald of Perfection"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD5-EN031",
+      "name" : "Brionac, Dragon of the Ice Barrier"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD5-EN032",
+      "name" : "Naturia Beast"
+   },
+   {
+      "rarity" : "Ghost/Gold Rare",
+      "name" : "Naturia Barkion",
+      "set_number" : "GLD5-EN033"
+   },
+   {
+      "set_number" : "GLD5-EN034",
+      "rarity" : "Gold Rare",
+      "name" : "Formula Synchron"
+   },
+   {
+      "set_number" : "GLD5-EN035",
+      "rarity" : "Gold Rare",
+      "name" : "Karakuri Steel Shogun mdl 00X \"Bureido\""
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD5-EN036",
+      "name" : "Number 39: Utopia"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Dark Hole",
+      "set_number" : "GLD5-EN037"
+   },
+   {
+      "rarity" : "Ghost/Gold Rare",
+      "name" : "Mystical Space Typhoon",
+      "set_number" : "GLD5-EN038"
+   },
+   {
+      "set_number" : "GLD5-EN039",
+      "rarity" : "Common",
+      "name" : "Book of Life"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Call of the Mummy",
+      "set_number" : "GLD5-EN040"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN041",
+      "name" : "Spellbook Organization"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN042",
+      "name" : "Mustering of the Dark Scorpions"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN043",
+      "name" : "Pyramid of Wonders"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dawn of the Herald",
+      "set_number" : "GLD5-EN044"
+   },
+   {
+      "name" : "Solemn Judgment",
+      "rarity" : "Ghost/Gold Rare",
+      "set_number" : "GLD5-EN045"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD5-EN046",
+      "name" : "Call of the Haunted"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN047",
+      "name" : "Physical Double"
+   },
+   {
+      "set_number" : "GLD5-EN048",
+      "rarity" : "Common",
+      "name" : "Hidden Spellbook"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN049",
+      "name" : "Zoma the Spirit"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN050",
+      "name" : "Embodiment of Apophis"
+   },
+   {
+      "name" : "Machine King - 3000 B.C.",
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN051"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD5-EN052",
+      "name" : "Starlight Road"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD5-EN053",
+      "name" : "Tiki Curse"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Tiki Soul",
+      "set_number" : "GLD5-EN054"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Copy Knight",
+      "set_number" : "GLD5-EN055"
+   }
+]

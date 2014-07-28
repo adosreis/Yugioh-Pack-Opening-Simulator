@@ -1,0 +1,452 @@
+[
+   {
+      "set_number" : "PGLD-EN001",
+      "name" : "Gimmick Puppet Dreary Doll",
+      "rarity" : "Gold Secret Rare"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Gimmick Puppet Magnet Doll",
+      "set_number" : "PGLD-EN002"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Chronomaly Tula Guardian",
+      "set_number" : "PGLD-EN003"
+   },
+   {
+      "set_number" : "PGLD-EN004",
+      "name" : "Big Belly Knight",
+      "rarity" : "Gold Secret Rare"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Power Tool Mecha Dragon",
+      "set_number" : "PGLD-EN005"
+   },
+   {
+      "name" : "Ancient Pixie Dragon",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN006"
+   },
+   {
+      "set_number" : "PGLD-EN007",
+      "name" : "Junk Puppet",
+      "rarity" : "Gold Secret Rare"
+   },
+   {
+      "set_number" : "PGLD-EN008",
+      "name" : "Chronomaly City Babylon",
+      "rarity" : "Gold Secret Rare"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Utopia Buster",
+      "set_number" : "PGLD-EN009"
+   },
+   {
+      "name" : "Chronomaly Gordian Knot",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN010"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Gimmick Puppet Humpty Dumpty",
+      "set_number" : "PGLD-EN011"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Gimmick Puppet Shadow Feeler",
+      "set_number" : "PGLD-EN012"
+   },
+   {
+      "name" : "Silent Wobby",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN013"
+   },
+   {
+      "set_number" : "PGLD-EN014",
+      "name" : "Dynatherium",
+      "rarity" : "Gold Secret Rare"
+   },
+   {
+      "set_number" : "PGLD-EN015",
+      "rarity" : "Gold Secret Rare",
+      "name" : "Dragonecro Nethersoul Dragon"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Beelze of the Diabolic Dragons",
+      "set_number" : "PGLD-EN016"
+   },
+   {
+      "name" : "Blackfeather Darkrage Dragon",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN017"
+   },
+   {
+      "set_number" : "PGLD-EN018",
+      "rarity" : "Gold Secret Rare",
+      "name" : "Number C6: Chronomaly Chaos Atlandis"
+   },
+   {
+      "set_number" : "PGLD-EN019",
+      "name" : "Number C15: Gimmick Puppet Giant Hunter",
+      "rarity" : "Gold Secret Rare"
+   },
+   {
+      "set_number" : "PGLD-EN020",
+      "rarity" : "Gold Secret Rare",
+      "name" : "Number C40: Gimmick Puppet of Dark Strings"
+   },
+   {
+      "set_number" : "PGLD-EN021",
+      "rarity" : "Gold Secret Rare",
+      "name" : "Number C88: Gimmick Puppet Disaster Leo"
+   },
+   {
+      "name" : "Number C9: Chaos Dyson Sphere",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN022"
+   },
+   {
+      "name" : "Number 13: Embodiment of Crime",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN023"
+   },
+   {
+      "set_number" : "PGLD-EN024",
+      "rarity" : "Gold Secret Rare",
+      "name" : "Number 31: Embodiment of Punishment"
+   },
+   {
+      "name" : "Number 82: Heartlandraco",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN025"
+   },
+   {
+      "name" : "Tri-Edge Levia",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN026"
+   },
+   {
+      "name" : "Rank-Up-Magic Argent Chaos Force",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN027"
+   },
+   {
+      "set_number" : "PGLD-EN028",
+      "name" : "Gagaga Academy Emergency Network",
+      "rarity" : "Gold Secret Rare"
+   },
+   {
+      "set_number" : "PGLD-EN029",
+      "rarity" : "Gold Secret Rare",
+      "name" : "Ghost of a Grudge"
+   },
+   {
+      "set_number" : "PGLD-EN030",
+      "rarity" : "Gold Secret Rare",
+      "name" : "Obelisk the Tormentor"
+   },
+   {
+      "name" : "The Winged Dragon of Ra",
+      "rarity" : "Gold Secret Rare",
+      "set_number" : "PGLD-EN031"
+   },
+   {
+      "rarity" : "Gold Secret Rare",
+      "name" : "Slifer the Sky Dragon",
+      "set_number" : "PGLD-EN032"
+   },
+   {
+      "set_number" : "PGLD-EN033",
+      "name" : "Dark Magician Girl",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "set_number" : "PGLD-EN034",
+      "name" : "Lonefire Blossom",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "set_number" : "PGLD-EN035",
+      "rarity" : "Gold Rare",
+      "name" : "Honest"
+   },
+   {
+      "set_number" : "PGLD-EN036",
+      "rarity" : "Gold Rare",
+      "name" : "Effect Veiler"
+   },
+   {
+      "set_number" : "PGLD-EN037",
+      "name" : "Gagaga Magician",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Galaxy-Eyes Photon Dragon",
+      "set_number" : "PGLD-EN038"
+   },
+   {
+      "name" : "Lightpulsar Dragon",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN039"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Darkflare Dragon",
+      "set_number" : "PGLD-EN040"
+   },
+   {
+      "name" : "Eclipse Wyvern",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN041"
+   },
+   {
+      "set_number" : "PGLD-EN042",
+      "name" : "Crane Crane",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Colossal Fighter",
+      "set_number" : "PGLD-EN043"
+   },
+   {
+      "set_number" : "PGLD-EN044",
+      "rarity" : "Gold Rare",
+      "name" : "Number 32: Shark Drake"
+   },
+   {
+      "name" : "Brotherhood of the Fire Fist - Tiger King",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN045"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Solar Recharge",
+      "set_number" : "PGLD-EN046"
+   },
+   {
+      "set_number" : "PGLD-EN047",
+      "name" : "Forbidden Chalice",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Forbidden Lance",
+      "set_number" : "PGLD-EN048"
+   },
+   {
+      "set_number" : "PGLD-EN049",
+      "name" : "Forbidden Dress",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Fire Formation - Tenki",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN050"
+   },
+   {
+      "set_number" : "PGLD-EN051",
+      "rarity" : "Gold Rare",
+      "name" : "Jinzo"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Breaker the Magical Warrior",
+      "set_number" : "PGLD-EN052"
+   },
+   {
+      "name" : "Cyber Dragon",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN053"
+   },
+   {
+      "set_number" : "PGLD-EN054",
+      "rarity" : "Gold Rare",
+      "name" : "Goldd, Wu-Lord of Dark World"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Blue-Eyes Ultimate Dragon",
+      "set_number" : "PGLD-EN055"
+   },
+   {
+      "set_number" : "PGLD-EN056",
+      "name" : "Chimeratech Overdragon",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Swords of Revealing Light",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN057"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Reinforcement of the Army",
+      "set_number" : "PGLD-EN058"
+   },
+   {
+      "name" : "Mirror Force",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN059"
+   },
+   {
+      "name" : "Torrential Tribute",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN060"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Des Volstgalph",
+      "set_number" : "PGLD-EN061"
+   },
+   {
+      "set_number" : "PGLD-EN062",
+      "name" : "Raiza the Storm Monarch",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Necro Gardna",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN063"
+   },
+   {
+      "name" : "Dark Armed Dragon",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN064"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Prime Material Dragon",
+      "set_number" : "PGLD-EN065"
+   },
+   {
+      "name" : "Caius the Shadow Monarch",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN066"
+   },
+   {
+      "set_number" : "PGLD-EN067",
+      "rarity" : "Gold Rare",
+      "name" : "Mind Control"
+   },
+   {
+      "set_number" : "PGLD-EN068",
+      "rarity" : "Gold Rare",
+      "name" : "Gold Sarcophagus"
+   },
+   {
+      "set_number" : "PGLD-EN069",
+      "rarity" : "Gold Rare",
+      "name" : "Bottomless Trap Hole"
+   },
+   {
+      "name" : "Phoenix Wing Wind Blast",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN070"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Exploder Dragon",
+      "set_number" : "PGLD-EN071"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Judgment Dragon",
+      "set_number" : "PGLD-EN072"
+   },
+   {
+      "set_number" : "PGLD-EN073",
+      "rarity" : "Gold Rare",
+      "name" : "Mezuki"
+   },
+   {
+      "name" : "Plaguespreader Zombie",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN074"
+   },
+   {
+      "set_number" : "PGLD-EN075",
+      "name" : "Thunder King Rai-Oh",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Stardust Dragon",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN076"
+   },
+   {
+      "name" : "Blackwing Armor Master",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN077"
+   },
+   {
+      "set_number" : "PGLD-EN078",
+      "name" : "Blackwing Armed Wing",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "set_number" : "PGLD-EN079",
+      "name" : "Mystical Space Typhoon",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "set_number" : "PGLD-EN080",
+      "rarity" : "Gold Rare",
+      "name" : "Icarus Attack"
+   },
+   {
+      "name" : "Morphing Jar",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN081"
+   },
+   {
+      "name" : "Gravekeeper's Spy",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN082"
+   },
+   {
+      "name" : "Spirit Reaper",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN083"
+   },
+   {
+      "set_number" : "PGLD-EN084",
+      "name" : "Chaos Sorcerer",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "set_number" : "PGLD-EN085",
+      "rarity" : "Gold Rare",
+      "name" : "Black Luster Soldier - Envoy of the Beginning"
+   },
+   {
+      "set_number" : "PGLD-EN086",
+      "rarity" : "Gold Rare",
+      "name" : "Ryko, Lightsworn Hunter"
+   },
+   {
+      "set_number" : "PGLD-EN087",
+      "rarity" : "Gold Rare",
+      "name" : "Celestia, Lightsworn Angel"
+   },
+   {
+      "set_number" : "PGLD-EN088",
+      "rarity" : "Gold Rare",
+      "name" : "Tytannial, Princess of Camellias"
+   },
+   {
+      "set_number" : "PGLD-EN089",
+      "name" : "Summoner Monk",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Trap Stun",
+      "rarity" : "Gold Rare",
+      "set_number" : "PGLD-EN090"
+   }
+]
