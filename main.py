@@ -74,7 +74,7 @@ def generate_pack():
 	if rarity in range(117, 132):
 		pack.append(selected_set.secret[random.randint(0, (len(selected_set.secret)-1))])
 	if rarity in range(132, 147):
-		pack.append(s elected_set.ghost[random.randint(0, (len(selected_set.ghost)-1))])
+		pack.append(selected_set.ghost[random.randint(0, (len(selected_set.ghost)-1))])
 	if rarity in range(147, 360):
 		pack.append(selected_set.commoners[random.randint(0, (len(selected_set.commoners)-1))])
 
