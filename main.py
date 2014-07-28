@@ -4,7 +4,7 @@ import random
 import os
 set_objects = dict()
 
-class decoded_set:
+class decoded_set: #class to hold a specific sets cards
 	rare = []
 	commoners = []
 	supers = []
@@ -15,11 +15,10 @@ class decoded_set:
 
 
 def sort_sets():
-	sets = []
-	for file in os.listdir('.'): #need to set this up
+	for file in os.listdir('./jsons/'): 
 		if file.endswith('.json'):
-			with open('./'+file) as json_data:
-				sets_objects[str(file)]=decoded_set() #hoping this works so much!
+			with open('./jsons/'+file) as json_data:
+				sets_objects[str(file)]=decoded_set()
 				data = json.load(json_data)
 				for x in data:
 					if '\n' in x['rarity'] :
