@@ -59,25 +59,26 @@ def sort_sets():
 							set_objects[str(file)].ulti.append(str(x['name']))
 				
 def generate_pack(): 
-	selected_pack_name = input(str("which pack? "+set_objects.keys()))
-	selected_pack = set_objects[selected_pack_name]
+	selected_set_name = input(str("which pack? "+set_objects.keys()))
+	selected_set = set_objects[selected_set_name]
 	pack = []
 	for i in range(7):
-		pack.append(selected_pack.commoners[random.randint(0, (len(selected_pack.commoners)-1))])
-	rarity = random.randint(0, 72)
-	if rarity in range(0, 18):
-		pack.append(selected_pack.supers[random.randint(0, (len(selected_pack.supers)-1))])
-	if rarity in range(18, 24):
-		pack.append(selected_pack.ultra[random.randint(0, (len(selected_pack.ultra)-1))])
-	if rarity in range(24, 27):
-		pack.append(selected_pack.ulti[random.randint(0, (len(selected_pack.ulti)-1))])
-	if rarity in range(27, 31):
-		pack.append(selected_pack.secret[random.randint(0, (len(selected_pack.secret)-1))])
-	if rarity in range(31, 33):
-		pack.append(selected_pack.ghost[random.randint(0, (len(selected_pack.ghost)-1))])
-	if rarity in range(33, 73):
-		pack.append(selected_pack.rare[random.randint(0, (len(selected_pack.rare)-1))])
-
+		pack.append(selected_set.commoners[random.randint(0, (len(selected_set.commoners)-1))])
+	pack.append(selected_set.rare[random.randint(0, (len(selected_set.rare)-1))])
+	rarity = random.randint(0, 359)
+	if rarity in range(0, 72):
+		pack.append(selected_set.supers[random.randint(0, (len(selected_set.supers)-1))])
+	if rarity in range(72, 102):
+		pack.append(selected_set.ultra[random.randint(0, (len(selected_set.ultra)-1))])
+	if rarity in range(102, 117):
+		pack.append(selected_set.ulti[random.randint(0, (len(selected_set.ulti)-1))])
+	if rarity in range(117, 132):
+		pack.append(selected_set.secret[random.randint(0, (len(selected_set.secret)-1))])
+	if rarity in range(132, 142):
+		pack.append(s elected_set.ghost[random.randint(0, (len(selected_set.ghost)-1))])
+	if rarity in range(142, 360):
+		pack.append(selected_set.commoners[random.randint(0, (len(selected_set.commoners)-1))])
+	
 	return pack
 '''
 print rare
