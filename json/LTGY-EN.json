@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Mecha Phantom Beast Turtletracer",
+      "rarity" : "Super Rare",
+      "set_number" : "LTGY-EN000"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN001",
+      "name" : "Bachibachibachi"
+   },
+   {
+      "set_number" : "LTGY-EN002",
+      "rarity" : "Rare",
+      "name" : "Gogogo Gigas"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN003",
+      "name" : "Mimimic"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN004",
+      "name" : "Dotedotengu"
+   },
+   {
+      "name" : "Tatakawa Knight",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN005"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN006",
+      "name" : "Little Fairy"
+   },
+   {
+      "set_number" : "LTGY-EN007",
+      "rarity" : "Common",
+      "name" : "Sharkraken"
+   },
+   {
+      "name" : "Big Whale",
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN008"
+   },
+   {
+      "name" : "Starfish",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN009"
+   },
+   {
+      "name" : "Panther Shark",
+      "set_number" : "LTGY-EN010",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN011",
+      "name" : "Eagle Shark"
+   },
+   {
+      "name" : "Blizzard Falcon",
+      "set_number" : "LTGY-EN012",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Aurora Wing",
+      "set_number" : "LTGY-EN013",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Radius, the Half-Moon Dragon",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN014"
+   },
+   {
+      "name" : "Parsec, the Interstellar Dragon",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN015"
+   },
+   {
+      "set_number" : "LTGY-EN016",
+      "rarity" : "Common",
+      "name" : "Battlin' Boxer Headgeared"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN017",
+      "name" : "Battlin' Boxer Glassjaw"
+   },
+   {
+      "name" : "Battlin' Boxer Sparrer",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN018"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN019",
+      "name" : "Battlin' Boxer Switchitter"
+   },
+   {
+      "set_number" : "LTGY-EN020",
+      "rarity" : "Common",
+      "name" : "Battlin' Boxer Counterpunch"
+   },
+   {
+      "set_number" : "LTGY-EN021",
+      "rarity" : "Super Rare",
+      "name" : "Mecha Phantom Beast Megaraptor"
+   },
+   {
+      "name" : "Mecha Phantom Beast Tetherwolf",
+      "set_number" : "LTGY-EN022",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LTGY-EN023",
+      "rarity" : "Common",
+      "name" : "Mecha Phantom Beast Blackfalcon"
+   },
+   {
+      "set_number" : "LTGY-EN024",
+      "rarity" : "Common",
+      "name" : "Mecha Phantom Beast Stealthray"
+   },
+   {
+      "name" : "Mecha Phantom Beast Hamstrat",
+      "set_number" : "LTGY-EN025",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Brotherhood of the Fire Fist - Wolf",
+      "set_number" : "LTGY-EN026",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN027",
+      "name" : "Brotherhood of the Fire Fist - Leopard"
+   },
+   {
+      "set_number" : "LTGY-EN028",
+      "rarity" : "Rare",
+      "name" : "Brotherhood of the Fire Fist - Rhino"
+   },
+   {
+      "set_number" : "LTGY-EN029",
+      "rarity" : "Rare",
+      "name" : "Brotherhood of the Fire Fist - Buffalo"
+   },
+   {
+      "name" : "Mermail Abyssocea",
+      "set_number" : "LTGY-EN030",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Wheel of Prophecy",
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN031"
+   },
+   {
+      "name" : "Madolche Hootcake",
+      "set_number" : "LTGY-EN032",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN033",
+      "name" : "Legendary Atlantean Tridon"
+   },
+   {
+      "name" : "Fire King Avatar Garunix",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN034"
+   },
+   {
+      "set_number" : "LTGY-EN035",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Harpie Channeler"
+   },
+   {
+      "set_number" : "LTGY-EN036",
+      "rarity" : "Rare",
+      "name" : "Altitude Knight"
+   },
+   {
+      "name" : "Windrose the Elemental Lord",
+      "set_number" : "LTGY-EN037",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Redox, Dragon Ruler of Boulders",
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN038"
+   },
+   {
+      "name" : "Tidal, Dragon Ruler of Waterfalls",
+      "set_number" : "LTGY-EN039",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Blaster, Dragon Ruler of Infernos",
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN040"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN041",
+      "name" : "Tempest, Dragon Ruler of Storms"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "LTGY-EN042",
+      "name" : "Risebell the Star Adjuster"
+   },
+   {
+      "name" : "Green Duston",
+      "set_number" : "LTGY-EN043",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Number 107: Galaxy-Eyes Tachyon Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "LTGY-EN044"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "LTGY-EN045",
+      "name" : "Gauntlet Launcher"
+   },
+   {
+      "set_number" : "LTGY-EN046",
+      "rarity" : "Rare",
+      "name" : "Fairy Cheer Girl"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN047",
+      "name" : "CXyz Dark Fairy Cheer Girl"
+   },
+   {
+      "name" : "Shark Fortress",
+      "set_number" : "LTGY-EN048",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ice Beast Zerofyne",
+      "set_number" : "LTGY-EN049",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LTGY-EN050",
+      "rarity" : "Rare",
+      "name" : "Battlin' Boxer Lead Yoke"
+   },
+   {
+      "name" : "Number 105: Battlin' Boxer Star Cestus",
+      "rarity" : "Super Rare",
+      "set_number" : "LTGY-EN051"
+   },
+   {
+      "name" : "Number C105: Battlin' Boxer Comet Cestus",
+      "set_number" : "LTGY-EN052",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Mecha Phantom Beast Dracossack",
+      "rarity" : "Secret Rare",
+      "set_number" : "LTGY-EN053"
+   },
+   {
+      "name" : "Brotherhood of the Fire Fist - Cardinal",
+      "set_number" : "LTGY-EN054",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Harpie's Pet Phantasmal Dragon",
+      "set_number" : "LTGY-EN055",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "King of the Feral Imps",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN056"
+   },
+   {
+      "name" : "Gagagawind",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN057"
+   },
+   {
+      "name" : "Magnum Shield",
+      "set_number" : "LTGY-EN058",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LTGY-EN059",
+      "rarity" : "Rare",
+      "name" : "Xyz Revenge"
+   },
+   {
+      "name" : "Rank-Up-Magic Barian's Force",
+      "set_number" : "LTGY-EN060",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "LTGY-EN061",
+      "name" : "Scramble!! Scramble!!"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "LTGY-EN062",
+      "name" : "Fire Formation - Gyokkou"
+   },
+   {
+      "set_number" : "LTGY-EN063",
+      "rarity" : "Secret Rare",
+      "name" : "Spellbook of Judgment"
+   },
+   {
+      "name" : "Abyss-scale of the Mizuchi",
+      "set_number" : "LTGY-EN064",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Hysteric Sign",
+      "set_number" : "LTGY-EN065",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Sacred Sword of Seven Stars",
+      "rarity" : "Super Rare",
+      "set_number" : "LTGY-EN066"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN067",
+      "name" : "Jewels of the Valiant"
+   },
+   {
+      "name" : "Summon Breaker",
+      "rarity" : "Short Print",
+      "set_number" : "LTGY-EN068"
+   },
+   {
+      "set_number" : "LTGY-EN069",
+      "rarity" : "Secret Rare",
+      "name" : "Pinpoint Guard"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN070",
+      "name" : "Memory Loss"
+   },
+   {
+      "name" : "Torrential Reborn",
+      "set_number" : "LTGY-EN071",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Xyz Block",
+      "set_number" : "LTGY-EN072",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Aerial Recharge",
+      "set_number" : "LTGY-EN073",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN074",
+      "name" : "Do a Barrel Roll"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN075",
+      "name" : "Fire Formation - Kaiyo"
+   },
+   {
+      "name" : "Madolche Nights",
+      "set_number" : "LTGY-EN076",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Geargiagear",
+      "set_number" : "LTGY-EN077",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN078",
+      "name" : "High Tide on Fire Island"
+   },
+   {
+      "name" : "Mind Drain",
+      "set_number" : "LTGY-EN079",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LTGY-EN080",
+      "rarity" : "Short Print",
+      "name" : "Dragoncarnation"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "LTGY-EN081",
+      "name" : "Noble Knight Gwalchavad"
+   },
+   {
+      "name" : "Brotherhood of the Fire Fist - Coyote",
+      "set_number" : "LTGY-EN082",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Mermail Abyssbalaen",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "LTGY-EN083"
+   },
+   {
+      "name" : "Trifortressops",
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN084"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "LTGY-EN085",
+      "name" : "Ghost Fairy Elfobia"
+   },
+   {
+      "set_number" : "LTGY-EN086",
+      "rarity" : "Secret Rare",
+      "name" : "Totem Bird"
+   },
+   {
+      "set_number" : "LTGY-EN087",
+      "rarity" : "Super Rare",
+      "name" : "Noble Arms of Destiny"
+   },
+   {
+      "name" : "Spellbook of Miracles",
+      "set_number" : "LTGY-EN088",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN089",
+      "name" : "Five Brothers Explosion"
+   },
+   {
+      "name" : "Sonic Warrior",
+      "set_number" : "LTGY-EN090",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Constellar Omega",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "LTGY-EN091"
+   },
+   {
+      "name" : "Number 69: Heraldry Crest",
+      "rarity" : "Rare",
+      "set_number" : "LTGY-EN092"
+   },
+   {
+      "set_number" : "LTGY-EN093",
+      "rarity" : "Super Rare",
+      "name" : "Constellar Sombre"
+   },
+   {
+      "set_number" : "LTGY-EN094",
+      "rarity" : "Super Rare",
+      "name" : "Evilswarm Kerykeion"
+   },
+   {
+      "set_number" : "LTGY-EN095",
+      "rarity" : "Common",
+      "name" : "Reactan, Dragon Ruler of Pebbles"
+   },
+   {
+      "name" : "Stream, Dragon Ruler of Droplets",
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN096"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LTGY-EN097",
+      "name" : "Burner, Dragon Ruler of Sparks"
+   },
+   {
+      "name" : "Lightning, Dragon Ruler of Drafts",
+      "set_number" : "LTGY-EN098",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "LTGY-EN099",
+      "name" : "Duck Fighter"
+   }
+]

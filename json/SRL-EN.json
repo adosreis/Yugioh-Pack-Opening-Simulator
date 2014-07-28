@@ -1,0 +1,522 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Blue-Eyes Toon Dragon",
+      "set_number" : "SRL-EN000"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN001",
+      "name" : "Penguin Knight"
+   },
+   {
+      "name" : "Axe of Despair",
+      "set_number" : "SRL-EN002",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Black Pendant",
+      "set_number" : "SRL-EN003",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Horn of Light",
+      "set_number" : "SRL-EN004"
+   },
+   {
+      "name" : "Malevolent Nuzzler",
+      "set_number" : "SRL-EN005",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN006",
+      "name" : "Spellbinding Circle",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "SRL-EN007",
+      "name" : "Metal Fish",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Electric Snake",
+      "set_number" : "SRL-EN008"
+   },
+   {
+      "set_number" : "SRL-EN009",
+      "name" : "Queen Bird",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Ameba",
+      "set_number" : "SRL-EN010"
+   },
+   {
+      "set_number" : "SRL-EN011",
+      "name" : "Peacock",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SRL-EN012",
+      "name" : "Maha Vailo"
+   },
+   {
+      "set_number" : "SRL-EN013",
+      "name" : "Guardian of the Throne Room",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Fire Kraken",
+      "set_number" : "SRL-EN014",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN015",
+      "name" : "Minar",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN016",
+      "name" : "Griggle",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN017",
+      "name" : "Tyhone #2",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN018",
+      "name" : "Ancient One of the Deep Forest"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN019",
+      "name" : "Dark Witch"
+   },
+   {
+      "name" : "Weather Report",
+      "set_number" : "SRL-EN020",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN021",
+      "name" : "Mechanical Snail",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN022",
+      "name" : "Giant Turtle Who Feeds on Flames",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Liquid Beast",
+      "set_number" : "SRL-EN023",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN024",
+      "name" : "Hiro's Shadow Scout",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN025",
+      "name" : "High Tide Gyojin"
+   },
+   {
+      "name" : "Invader of the Throne",
+      "set_number" : "SRL-EN026",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Whiptail Crow",
+      "set_number" : "SRL-EN027",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Short Print",
+      "set_number" : "SRL-EN028",
+      "name" : "Slot Machine"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Relinquished",
+      "set_number" : "SRL-EN029"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Red Archery Girl",
+      "set_number" : "SRL-EN030"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Gravekeeper's Servant",
+      "set_number" : "SRL-EN031"
+   },
+   {
+      "set_number" : "SRL-EN032",
+      "name" : "Curse of Fiend",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN033",
+      "name" : "Upstart Goblin"
+   },
+   {
+      "rarity" : "Super Short Print",
+      "name" : "Toll",
+      "set_number" : "SRL-EN034"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Final Destiny",
+      "set_number" : "SRL-EN035"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "SRL-EN036",
+      "name" : "Snatch Steal"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN037",
+      "name" : "Chorus of Sanctuary"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SRL-EN038",
+      "name" : "Confiscation"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "SRL-EN039",
+      "name" : "Delinquent Duo"
+   },
+   {
+      "name" : "Darkness Approaches",
+      "set_number" : "SRL-EN040",
+      "rarity" : "Super Short Print"
+   },
+   {
+      "set_number" : "SRL-EN041",
+      "name" : "Fairy's Hand Mirror",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "SRL-EN042",
+      "name" : "Tailor of the Fickle"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Rush Recklessly",
+      "set_number" : "SRL-EN043"
+   },
+   {
+      "set_number" : "SRL-EN044",
+      "name" : "The Reliable Guardian",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "SRL-EN045",
+      "name" : "The Forceful Sentry"
+   },
+   {
+      "set_number" : "SRL-EN046",
+      "name" : "Chain Energy",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SRL-EN047",
+      "name" : "Mystical Space Typhoon",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Giant Trunade",
+      "set_number" : "SRL-EN048",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "SRL-EN049",
+      "name" : "Painful Choice",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Snake Fang",
+      "set_number" : "SRL-EN050"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Black Illusion Ritual",
+      "set_number" : "SRL-EN051"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Octoberser",
+      "set_number" : "SRL-EN052"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Psychic Kappa",
+      "set_number" : "SRL-EN053"
+   },
+   {
+      "name" : "Horn of the Unicorn",
+      "set_number" : "SRL-EN054",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Labyrinth Wall",
+      "set_number" : "SRL-EN055",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Wall Shadow",
+      "set_number" : "SRL-EN056"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN057",
+      "name" : "Twin Long Rods #2"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN058",
+      "name" : "Stone Ogre Grotto"
+   },
+   {
+      "name" : "Magical Labyrinth",
+      "set_number" : "SRL-EN059",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Short Print",
+      "name" : "Eternal Rest",
+      "set_number" : "SRL-EN060"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "SRL-EN061",
+      "name" : "Megamorph"
+   },
+   {
+      "set_number" : "SRL-EN062",
+      "name" : "Commencement Dance",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Hamburger Recipe",
+      "set_number" : "SRL-EN063"
+   },
+   {
+      "name" : "House of Adhesive Tape",
+      "set_number" : "SRL-EN064",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Eatgaboon",
+      "set_number" : "SRL-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Turtle Oath",
+      "set_number" : "SRL-EN066"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN067",
+      "name" : "Performance of Sword"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN068",
+      "name" : "Hungry Burger"
+   },
+   {
+      "name" : "Crab Turtle",
+      "set_number" : "SRL-EN069",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN070",
+      "name" : "Ryu-Ran"
+   },
+   {
+      "set_number" : "SRL-EN071",
+      "name" : "Manga Ryu-Ran",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "SRL-EN072",
+      "name" : "Toon Mermaid",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "SRL-EN073",
+      "name" : "Toon Summoned Skull",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Super Short Print",
+      "set_number" : "SRL-EN074",
+      "name" : "Jigen Bakudan"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SRL-EN075",
+      "name" : "Hyozanryu"
+   },
+   {
+      "set_number" : "SRL-EN076",
+      "name" : "Toon World",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Cyber Jar",
+      "set_number" : "SRL-EN077"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SRL-EN078",
+      "name" : "Banisher of the Light"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Giant Rat",
+      "set_number" : "SRL-EN079"
+   },
+   {
+      "name" : "Senju of the Thousand Hands",
+      "set_number" : "SRL-EN080",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SRL-EN081",
+      "name" : "UFO Turtle"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Flash Assailant",
+      "set_number" : "SRL-EN082"
+   },
+   {
+      "set_number" : "SRL-EN083",
+      "name" : "Karate Man",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "SRL-EN084",
+      "name" : "Dark Zebra",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Giant Germ",
+      "set_number" : "SRL-EN085"
+   },
+   {
+      "name" : "Nimble Momonga",
+      "set_number" : "SRL-EN086",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "SRL-EN087",
+      "name" : "Spear Cretin",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SRL-EN088",
+      "name" : "Shining Angel"
+   },
+   {
+      "set_number" : "SRL-EN089",
+      "name" : "Boar Soldier",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SRL-EN090",
+      "name" : "Mother Grizzly"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SRL-EN091",
+      "name" : "Flying Kamakiri #1"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN092",
+      "name" : "Ceremonial Bell"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN093",
+      "name" : "Sonic Bird"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SRL-EN094",
+      "name" : "Mystic Tomato"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SRL-EN095",
+      "name" : "Kotodama"
+   },
+   {
+      "name" : "Gaia Power",
+      "set_number" : "SRL-EN096",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Umiiruka",
+      "set_number" : "SRL-EN097"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "SRL-EN098",
+      "name" : "Molten Destruction"
+   },
+   {
+      "set_number" : "SRL-EN099",
+      "name" : "Rising Air Current",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "SRL-EN100",
+      "name" : "Luminous Spark",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "SRL-EN101",
+      "name" : "Mystic Plasma Zone",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SRL-EN102",
+      "name" : "Messenger of Peace"
+   },
+   {
+      "name" : "Serpent Night Dragon",
+      "set_number" : "SRL-EN103",
+      "rarity" : "Secret Rare"
+   }
+]

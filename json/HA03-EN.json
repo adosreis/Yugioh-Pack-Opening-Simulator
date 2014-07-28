@@ -1,0 +1,302 @@
+[
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN001",
+      "name" : "Fabled Urustos"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA03-EN002",
+      "name" : "Fabled Krus"
+   },
+   {
+      "set_number" : "HA03-EN003",
+      "name" : "Fabled Topi",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Fabled Soulkius",
+      "set_number" : "HA03-EN004",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Fabled Miztoji",
+      "set_number" : "HA03-EN005",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Jurrac Ptera",
+      "set_number" : "HA03-EN006"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN007",
+      "name" : "Jurrac Iguanon"
+   },
+   {
+      "set_number" : "HA03-EN008",
+      "name" : "Jurrac Brachis",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN009",
+      "name" : "Jurrac Spinos"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN010",
+      "name" : "Naturia Dragonfly"
+   },
+   {
+      "set_number" : "HA03-EN011",
+      "name" : "Naturia Sunflower",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA03-EN012",
+      "name" : "Naturia Cliff",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Naturia Tulip",
+      "set_number" : "HA03-EN013",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "R-Genex Turbo",
+      "set_number" : "HA03-EN014"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN015",
+      "name" : "R-Genex Overseer"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN016",
+      "name" : "R-Genex Crusher"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "R-Genex Magma",
+      "set_number" : "HA03-EN017"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN018",
+      "name" : "Shock Troops of the Ice Barrier"
+   },
+   {
+      "set_number" : "HA03-EN019",
+      "name" : "Samurai of the Ice Barrier",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Dewdark of the Ice Barrier",
+      "set_number" : "HA03-EN020"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Caravan of the Ice Barrier",
+      "set_number" : "HA03-EN021"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Worm Solid",
+      "set_number" : "HA03-EN022"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Worm Tentacles",
+      "set_number" : "HA03-EN023"
+   },
+   {
+      "set_number" : "HA03-EN024",
+      "name" : "Worm Ugly",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA03-EN025",
+      "name" : "Worm Victory",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA03-EN026",
+      "name" : "Fabled Leviathan",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Jurrac Velphito",
+      "set_number" : "HA03-EN027",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Naturia Barkion",
+      "set_number" : "HA03-EN028",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Locomotion R-Genex",
+      "set_number" : "HA03-EN029"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA03-EN030",
+      "name" : "Gungnir, Dragon of the Ice Barrier"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA03-EN031",
+      "name" : "Dragunity Dux"
+   },
+   {
+      "set_number" : "HA03-EN032",
+      "name" : "Dragunity Legionnaire",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN033",
+      "name" : "Dragunity Tribus"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Dragunity Darkspear",
+      "set_number" : "HA03-EN034"
+   },
+   {
+      "set_number" : "HA03-EN035",
+      "name" : "Dragunity Phalanx",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Fabled Dyf",
+      "set_number" : "HA03-EN036"
+   },
+   {
+      "name" : "Fabled Ashenveil",
+      "set_number" : "HA03-EN037",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Fabled Oltro",
+      "set_number" : "HA03-EN038",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Jurrac Titano",
+      "set_number" : "HA03-EN039",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Jurrac Guaiba",
+      "set_number" : "HA03-EN040",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Jurrac Stauriko",
+      "set_number" : "HA03-EN041",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Naturia Horneedle",
+      "set_number" : "HA03-EN042"
+   },
+   {
+      "set_number" : "HA03-EN043",
+      "name" : "Naturia Fruitfly",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN044",
+      "name" : "Naturia Hydrangea"
+   },
+   {
+      "name" : "R-Genex Accelerator",
+      "set_number" : "HA03-EN045",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA03-EN046",
+      "name" : "R-Genex Oracle",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "R-Genex Ultimum",
+      "set_number" : "HA03-EN047",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN048",
+      "name" : "Spellbreaker of the Ice Barrier"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "General Grunard of the Ice Barrier",
+      "set_number" : "HA03-EN049"
+   },
+   {
+      "name" : "Ally of Justice Omni-Weapon",
+      "set_number" : "HA03-EN050",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN051",
+      "name" : "Ally of Justice Quarantine"
+   },
+   {
+      "set_number" : "HA03-EN052",
+      "name" : "Ally of Justice Cycle Reader",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Worm Warlord",
+      "set_number" : "HA03-EN053"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA03-EN054",
+      "name" : "Worm Xex"
+   },
+   {
+      "name" : "Worm Yagan",
+      "set_number" : "HA03-EN055",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA03-EN056",
+      "name" : "Worm Zero"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA03-EN057",
+      "name" : "Dragunity Knight - Gae Bulg"
+   },
+   {
+      "name" : "Fabled Ragin",
+      "set_number" : "HA03-EN058",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA03-EN059",
+      "name" : "Vindikite R-Genex",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA03-EN060",
+      "name" : "Ally of Justice Decisive Armor"
+   }
+]

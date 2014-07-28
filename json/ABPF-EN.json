@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Gravekeeper's Priestess",
+      "set_number" : "ABPF-EN000",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Unicycular",
+      "set_number" : "ABPF-EN001"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN002",
+      "name" : "Bicular"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN003",
+      "name" : "Tricular"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ABPF-EN004",
+      "name" : "Drill Synchron"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "ABPF-EN005",
+      "name" : "Ogre of the Scarlet Sorrow"
+   },
+   {
+      "name" : "Battle Fader",
+      "set_number" : "ABPF-EN006",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "ABPF-EN007",
+      "name" : "Power Supplier",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN008",
+      "name" : "Magic Hole Golem"
+   },
+   {
+      "set_number" : "ABPF-EN009",
+      "name" : "Power Invader",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN010",
+      "name" : "Dark Bug",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "ABPF-EN011",
+      "name" : "Sword Master",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN012",
+      "name" : "Witch of the Black Rose",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Rose Fairy",
+      "set_number" : "ABPF-EN013",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Dragon Queen of Tragic Endings",
+      "set_number" : "ABPF-EN014",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Reptilianne Servant",
+      "set_number" : "ABPF-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN016",
+      "name" : "Reptilianne Gardna"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN017",
+      "name" : "Reptilianne Naga"
+   },
+   {
+      "set_number" : "ABPF-EN018",
+      "name" : "Reptilianne Vaskii",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "ABPF-EN019",
+      "name" : "Oracle of the Sun",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Fire Ant Ascator",
+      "set_number" : "ABPF-EN020",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN021",
+      "name" : "Weeping Idol",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN022",
+      "name" : "Apocatequil"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN023",
+      "name" : "Supay"
+   },
+   {
+      "name" : "Informer Spider",
+      "set_number" : "ABPF-EN024",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Koa'ki Meiru Urnight",
+      "set_number" : "ABPF-EN025",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ABPF-EN026",
+      "name" : "XX-Saber Garsem"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gravekeeper's Visionary",
+      "set_number" : "ABPF-EN027"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ABPF-EN028",
+      "name" : "Gravekeeper's Descendant"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Black Potan",
+      "set_number" : "ABPF-EN029"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN030",
+      "name" : "Shreddder"
+   },
+   {
+      "name" : "Pandaborg",
+      "set_number" : "ABPF-EN031",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Codarus",
+      "set_number" : "ABPF-EN032"
+   },
+   {
+      "set_number" : "ABPF-EN033",
+      "name" : "Consecrated Light",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN034",
+      "name" : "Gundari"
+   },
+   {
+      "name" : "Cyber Dragon Zwei",
+      "set_number" : "ABPF-EN035",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN036",
+      "name" : "Oilman"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Djinn Cursenchanter of Rituals",
+      "set_number" : "ABPF-EN037"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ABPF-EN038",
+      "name" : "Djinn Prognosticator of Rituals"
+   },
+   {
+      "set_number" : "ABPF-EN039",
+      "name" : "Garlandolf, King of Destruction",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "ABPF-EN040",
+      "name" : "Majestic Red Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "ABPF-EN041",
+      "name" : "Drill Warrior"
+   },
+   {
+      "set_number" : "ABPF-EN042",
+      "name" : "Sun Dragon Inti",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Moon Dragon Quilla",
+      "set_number" : "ABPF-EN043",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "XX-Saber Hyunlei",
+      "set_number" : "ABPF-EN044"
+   },
+   {
+      "set_number" : "ABPF-EN045",
+      "name" : "Cards of Consonance",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN046",
+      "name" : "Variety Comes Out"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Reptilianne Rage",
+      "set_number" : "ABPF-EN047"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN048",
+      "name" : "Advance Force"
+   },
+   {
+      "name" : "Viper's Rebirth",
+      "set_number" : "ABPF-EN049",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN050",
+      "name" : "Altar of the Sun",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Rocket Pilder",
+      "set_number" : "ABPF-EN051"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN052",
+      "name" : "Break! Draw!"
+   },
+   {
+      "set_number" : "ABPF-EN053",
+      "name" : "Power Pickaxe",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN054",
+      "name" : "Spider's Lair"
+   },
+   {
+      "set_number" : "ABPF-EN055",
+      "name" : "Iron Core Specimen Lab",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN056",
+      "name" : "Gravekeeper's Stele"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN057",
+      "name" : "Machine Assembly Line"
+   },
+   {
+      "name" : "Ritual of Destruction",
+      "set_number" : "ABPF-EN058",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN059",
+      "name" : "Ascending Soul",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "ABPF-EN060",
+      "name" : "Ritual Cage",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "ABPF-EN061",
+      "name" : "Pot of Benevolence",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Synchro Control",
+      "set_number" : "ABPF-EN062",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN063",
+      "name" : "Changing Destiny"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Fiendish Chain",
+      "set_number" : "ABPF-EN064"
+   },
+   {
+      "name" : "Nature's Reflection",
+      "set_number" : "ABPF-EN065",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN066",
+      "name" : "Serpent Suppression",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN067",
+      "name" : "Meteor Flare",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Offering to the Immortals",
+      "set_number" : "ABPF-EN068",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Destruct Potion",
+      "set_number" : "ABPF-EN069"
+   },
+   {
+      "name" : "Call of the Reaper",
+      "set_number" : "ABPF-EN070",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Lair Wire",
+      "set_number" : "ABPF-EN071"
+   },
+   {
+      "set_number" : "ABPF-EN072",
+      "name" : "Core Blast",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Saber Hole",
+      "set_number" : "ABPF-EN073"
+   },
+   {
+      "set_number" : "ABPF-EN074",
+      "name" : "Machine King - 3000 B.C.",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ABPF-EN075",
+      "name" : "Alien Brain"
+   },
+   {
+      "name" : "Forgotten Temple of the Deep",
+      "set_number" : "ABPF-EN076",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "ABPF-EN077",
+      "name" : "Tuner's Scheme"
+   },
+   {
+      "set_number" : "ABPF-EN078",
+      "name" : "Psi-Curse",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ABPF-EN079",
+      "name" : "Widespread Dud",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "ABPF-EN080",
+      "name" : "Inverse Universe"
+   },
+   {
+      "set_number" : "ABPF-EN081",
+      "name" : "XX-Saber Emmersblade",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "ABPF-EN082",
+      "name" : "Alchemist of Black Spells",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "ABPF-EN083",
+      "name" : "Super-Nimble Mega Hamster",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Cactus Bouncer",
+      "set_number" : "ABPF-EN084"
+   },
+   {
+      "set_number" : "ABPF-EN085",
+      "name" : "Dragonic Guard",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "ABPF-EN086",
+      "name" : "The Dragon Dwelling in the Deep",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Djinn Disserere of Rituals",
+      "set_number" : "ABPF-EN087",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Earthbound Linewalker",
+      "set_number" : "ABPF-EN088",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Core Transport Unit",
+      "set_number" : "ABPF-EN089"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ABPF-EN090",
+      "name" : "Gale Dogra"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Berfomet",
+      "set_number" : "ABPF-EN091"
+   },
+   {
+      "set_number" : "ABPF-EN092",
+      "name" : "Chimera the Flying Mythical Beast",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "ABPF-EN093",
+      "name" : "Viser Des",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Evil Blast",
+      "set_number" : "ABPF-EN094"
+   },
+   {
+      "name" : "Shield Wing",
+      "set_number" : "ABPF-EN095",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "ABPF-EN096",
+      "name" : "Underground Arachnid",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Zeman the Ape King",
+      "set_number" : "ABPF-EN097"
+   },
+   {
+      "set_number" : "ABPF-EN098",
+      "name" : "Skull Conductor",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ABPF-EN099",
+      "name" : "Shield Worm"
+   }
+]

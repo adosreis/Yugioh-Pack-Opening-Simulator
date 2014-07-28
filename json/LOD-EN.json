@@ -1,0 +1,507 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "LOD-EN000",
+      "name" : "Yata-Garasu"
+   },
+   {
+      "name" : "Dark Ruler Ha Des",
+      "set_number" : "LOD-EN001",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Dark Balter the Terrible",
+      "set_number" : "LOD-EN002",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN003",
+      "name" : "Lesser Fiend"
+   },
+   {
+      "name" : "Possessed Dark Soul",
+      "set_number" : "LOD-EN004",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Winged Minion",
+      "set_number" : "LOD-EN005",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Skull Knight #2",
+      "set_number" : "LOD-EN006",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ryu-Kishin Clown",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN007"
+   },
+   {
+      "set_number" : "LOD-EN008",
+      "rarity" : "Common",
+      "name" : "Twin-Headed Wolf"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN009",
+      "name" : "Opticlops"
+   },
+   {
+      "name" : "Bark of Dark Ruler",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN010"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN011",
+      "name" : "Fatal Abacus"
+   },
+   {
+      "name" : "Life Absorbing Machine",
+      "set_number" : "LOD-EN012",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "The Puppet Magic of Dark Ruler",
+      "set_number" : "LOD-EN013",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Soul Demolition",
+      "set_number" : "LOD-EN014",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LOD-EN015",
+      "rarity" : "Common",
+      "name" : "Double Snare"
+   },
+   {
+      "name" : "Freed the Matchless General",
+      "set_number" : "LOD-EN016",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Throwstone Unit",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN017"
+   },
+   {
+      "set_number" : "LOD-EN018",
+      "rarity" : "Ultra Rare",
+      "name" : "Marauding Captain"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "LOD-EN019",
+      "name" : "Ryu Senshi"
+   },
+   {
+      "name" : "Warrior Dai Grepher",
+      "set_number" : "LOD-EN020",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Mysterious Guard",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN021"
+   },
+   {
+      "set_number" : "LOD-EN022",
+      "rarity" : "Common",
+      "name" : "Frontier Wiseman"
+   },
+   {
+      "name" : "Exiled Force",
+      "set_number" : "LOD-EN023",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "The Hunter with 7 Weapons",
+      "set_number" : "LOD-EN024",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Shadow Tamer",
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN025"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN026",
+      "name" : "Dragon Manipulator"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN027",
+      "name" : "The A. Forces"
+   },
+   {
+      "name" : "Reinforcement of the Army",
+      "rarity" : "Super Rare",
+      "set_number" : "LOD-EN028"
+   },
+   {
+      "name" : "Array of Revealing Light",
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN029"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN030",
+      "name" : "The Warrior Returning Alive"
+   },
+   {
+      "set_number" : "LOD-EN031",
+      "rarity" : "Common",
+      "name" : "Ready for Intercepting"
+   },
+   {
+      "name" : "A Feint Plan",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN032"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN033",
+      "name" : "Emergency Provisions"
+   },
+   {
+      "name" : "Tyrant Dragon",
+      "rarity" : "Ultra Rare",
+      "set_number" : "LOD-EN034"
+   },
+   {
+      "name" : "Spear Dragon",
+      "set_number" : "LOD-EN035",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Spirit Ryu",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN036"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN037",
+      "name" : "The Dragon Dwelling in the Cave"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN038",
+      "name" : "Lizard Soldier"
+   },
+   {
+      "name" : "Fiend Skull Dragon",
+      "rarity" : "Super Rare",
+      "set_number" : "LOD-EN039"
+   },
+   {
+      "name" : "Cave Dragon",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN040"
+   },
+   {
+      "name" : "Gray Wing",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN041"
+   },
+   {
+      "set_number" : "LOD-EN042",
+      "rarity" : "Common",
+      "name" : "Troop Dragon"
+   },
+   {
+      "set_number" : "LOD-EN043",
+      "rarity" : "Rare",
+      "name" : "The Dragon's Bead"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN044",
+      "name" : "A Wingbeat of Giant Dragon"
+   },
+   {
+      "name" : "Dragon's Gunfire",
+      "set_number" : "LOD-EN045",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN046",
+      "name" : "Stamping Destruction"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN047",
+      "name" : "Super Rejuvenation"
+   },
+   {
+      "name" : "Dragon's Rage",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN048"
+   },
+   {
+      "name" : "Burst Breath",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN049"
+   },
+   {
+      "name" : "Luster Dragon #2",
+      "set_number" : "LOD-EN050",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Robotic Knight",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN051"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN052",
+      "name" : "Wolf Axwielder"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN053",
+      "name" : "The Illusory Gentleman"
+   },
+   {
+      "set_number" : "LOD-EN054",
+      "rarity" : "Common",
+      "name" : "Robolady"
+   },
+   {
+      "name" : "Roboyarou",
+      "set_number" : "LOD-EN055",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "LOD-EN056",
+      "name" : "Fiber Jar"
+   },
+   {
+      "name" : "Serpentine Princess",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN057"
+   },
+   {
+      "set_number" : "LOD-EN058",
+      "rarity" : "Common",
+      "name" : "Patrician of Darkness"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN059",
+      "name" : "Thunder Nyan Nyan"
+   },
+   {
+      "name" : "Gradius' Option",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN060"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN061",
+      "name" : "Woodland Sprite"
+   },
+   {
+      "set_number" : "LOD-EN062",
+      "rarity" : "Ultra Rare",
+      "name" : "Airknight Parshath"
+   },
+   {
+      "set_number" : "LOD-EN063",
+      "rarity" : "Super Rare",
+      "name" : "Twin-Headed Behemoth"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN064",
+      "name" : "Maharaghi"
+   },
+   {
+      "name" : "Inaba White Rabbit",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN065"
+   },
+   {
+      "set_number" : "LOD-EN066",
+      "rarity" : "Rare",
+      "name" : "Susa Soldier"
+   },
+   {
+      "set_number" : "LOD-EN067",
+      "rarity" : "Ultra Rare",
+      "name" : "Yamata Dragon"
+   },
+   {
+      "name" : "Great Long Nose",
+      "set_number" : "LOD-EN068",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Otohime",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN069"
+   },
+   {
+      "set_number" : "LOD-EN070",
+      "rarity" : "Ultra Rare",
+      "name" : "Hino-Kagu-Tsuchi"
+   },
+   {
+      "set_number" : "LOD-EN071",
+      "rarity" : "Super Rare",
+      "name" : "Asura Priest"
+   },
+   {
+      "name" : "Fushi No Tori",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN072"
+   },
+   {
+      "name" : "Super Robolady",
+      "set_number" : "LOD-EN073",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Super Roboyarou",
+      "set_number" : "LOD-EN074",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Fengsheng Mirror",
+      "set_number" : "LOD-EN075",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LOD-EN076",
+      "rarity" : "Common",
+      "name" : "Spring of Rebirth"
+   },
+   {
+      "name" : "Heart of Clear Water",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN077"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN078",
+      "name" : "A Legendary Ocean"
+   },
+   {
+      "name" : "Fusion Sword Murasame Blade",
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN079"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN080",
+      "name" : "Smoke Grenade of the Thief"
+   },
+   {
+      "set_number" : "LOD-EN081",
+      "rarity" : "Ultra Rare",
+      "name" : "Creature Swap"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN082",
+      "name" : "Spiritual Energy Settle Machine"
+   },
+   {
+      "set_number" : "LOD-EN083",
+      "rarity" : "Rare",
+      "name" : "Second Coin Toss"
+   },
+   {
+      "name" : "Convulsion of Nature",
+      "set_number" : "LOD-EN084",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "The Secret of the Bandit",
+      "set_number" : "LOD-EN085",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "After Genocide",
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN086"
+   },
+   {
+      "name" : "Magic Reflector",
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN087"
+   },
+   {
+      "name" : "Blast with Chain",
+      "set_number" : "LOD-EN088",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LOD-EN089",
+      "rarity" : "Common",
+      "name" : "Disappear"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN090",
+      "name" : "Bubble Crash"
+   },
+   {
+      "name" : "Royal Oppression",
+      "set_number" : "LOD-EN091",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Bottomless Trap Hole",
+      "rarity" : "Rare",
+      "set_number" : "LOD-EN092"
+   },
+   {
+      "name" : "Bad Reaction to Simochi",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN093"
+   },
+   {
+      "name" : "Ominous Fortunetelling",
+      "rarity" : "Common",
+      "set_number" : "LOD-EN094"
+   },
+   {
+      "set_number" : "LOD-EN095",
+      "rarity" : "Common",
+      "name" : "Spirit's Invitation"
+   },
+   {
+      "name" : "Nutrient Z",
+      "set_number" : "LOD-EN096",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Drop Off",
+      "rarity" : "Super Rare",
+      "set_number" : "LOD-EN097"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LOD-EN098",
+      "name" : "Fiend Comedian"
+   },
+   {
+      "name" : "Last Turn",
+      "rarity" : "Ultra Rare",
+      "set_number" : "LOD-EN099"
+   },
+   {
+      "name" : "Injection Fairy Lily",
+      "rarity" : "Secret Rare",
+      "set_number" : "LOD-EN100"
+   }
+]

@@ -1,0 +1,722 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "MRD-EN000",
+      "name" : "Gate Guardian"
+   },
+   {
+      "set_number" : "MRD-EN001",
+      "rarity" : "Common",
+      "name" : "Feral Imp"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN002",
+      "name" : "Winged Dragon, Guardian of the Fortress #1"
+   },
+   {
+      "set_number" : "MRD-EN003",
+      "rarity" : "Ultra Rare",
+      "name" : "Summoned Skull"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN004",
+      "name" : "Rock Ogre Grotto #1"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN005",
+      "name" : "Armored Lizard"
+   },
+   {
+      "name" : "Killer Needle",
+      "set_number" : "MRD-EN006",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Larvae Moth",
+      "set_number" : "MRD-EN007",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Harpie Lady",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN008"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "MRD-EN009",
+      "name" : "Harpie Lady Sisters"
+   },
+   {
+      "name" : "Kojikocy",
+      "set_number" : "MRD-EN010",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "MRD-EN011",
+      "name" : "Cocoon of Evolution"
+   },
+   {
+      "set_number" : "MRD-EN012",
+      "rarity" : "Common",
+      "name" : "Crawling Dragon"
+   },
+   {
+      "name" : "Armored Zombie",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN013"
+   },
+   {
+      "set_number" : "MRD-EN014",
+      "rarity" : "Rare",
+      "name" : "Mask of Darkness"
+   },
+   {
+      "name" : "Doma The Angel of Silence",
+      "set_number" : "MRD-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "White Magical Hat",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN016"
+   },
+   {
+      "name" : "Big Eye",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN017"
+   },
+   {
+      "set_number" : "MRD-EN018",
+      "rarity" : "Ultra Rare",
+      "name" : "B. Skull Dragon"
+   },
+   {
+      "name" : "Masked Sorcerer",
+      "set_number" : "MRD-EN019",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "MRD-EN020",
+      "rarity" : "Common",
+      "name" : "Roaring Ocean Snake"
+   },
+   {
+      "set_number" : "MRD-EN021",
+      "rarity" : "Common",
+      "name" : "Water Omotics"
+   },
+   {
+      "set_number" : "MRD-EN022",
+      "rarity" : "Common",
+      "name" : "Ground Attacker Bugroth"
+   },
+   {
+      "name" : "Petit Moth",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN023"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN024",
+      "name" : "Elegant Egotist"
+   },
+   {
+      "name" : "Sanga of the Thunder",
+      "set_number" : "MRD-EN025",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Kazejin",
+      "set_number" : "MRD-EN026",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Suijin",
+      "rarity" : "Super Rare",
+      "set_number" : "MRD-EN027"
+   },
+   {
+      "name" : "Mystic Lamp",
+      "set_number" : "MRD-EN028",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Steel Scorpion",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN029"
+   },
+   {
+      "name" : "Ocubeam",
+      "set_number" : "MRD-EN030",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Leghul",
+      "rarity" : "Short Print",
+      "set_number" : "MRD-EN031"
+   },
+   {
+      "set_number" : "MRD-EN032",
+      "rarity" : "Short Print",
+      "name" : "Ooguchi"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN033",
+      "name" : "Leogun"
+   },
+   {
+      "set_number" : "MRD-EN034",
+      "rarity" : "Common",
+      "name" : "Blast Juggler"
+   },
+   {
+      "set_number" : "MRD-EN035",
+      "rarity" : "Short Print",
+      "name" : "Jinzo #7"
+   },
+   {
+      "set_number" : "MRD-EN036",
+      "rarity" : "Rare",
+      "name" : "Magician of Faith"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN037",
+      "name" : "Ancient Elf"
+   },
+   {
+      "name" : "Deepsea Shark",
+      "set_number" : "MRD-EN038",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN039",
+      "rarity" : "Common",
+      "name" : "Bottom Dweller"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN040",
+      "name" : "Destroyer Golem"
+   },
+   {
+      "name" : "Kaminari Attack",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN041"
+   },
+   {
+      "name" : "Rainbow Flower",
+      "set_number" : "MRD-EN042",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Morinphen",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN043"
+   },
+   {
+      "name" : "Mega Thunderball",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN044"
+   },
+   {
+      "name" : "Tongyo",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN045"
+   },
+   {
+      "name" : "Empress Judge",
+      "set_number" : "MRD-EN046",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN047",
+      "name" : "Pale Beast"
+   },
+   {
+      "name" : "Electric Lizard",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN048"
+   },
+   {
+      "name" : "Hunter Spider",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN049"
+   },
+   {
+      "name" : "Ancient Lizard Warrior",
+      "set_number" : "MRD-EN050",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN051",
+      "rarity" : "Short Print",
+      "name" : "Queen's Double"
+   },
+   {
+      "name" : "Trent",
+      "set_number" : "MRD-EN052",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Disk Magician",
+      "set_number" : "MRD-EN053",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN054",
+      "name" : "Hyosube"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN055",
+      "name" : "Hibikime"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN056",
+      "name" : "Fake Trap"
+   },
+   {
+      "name" : "Tribute to the Doomed",
+      "rarity" : "Super Rare",
+      "set_number" : "MRD-EN057"
+   },
+   {
+      "set_number" : "MRD-EN058",
+      "rarity" : "Common",
+      "name" : "Soul Release"
+   },
+   {
+      "name" : "The Cheerful Coffin",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN059"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MRD-EN060",
+      "name" : "Change of Heart"
+   },
+   {
+      "name" : "Baby Dragon",
+      "set_number" : "MRD-EN061",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Blackland Fire Dragon",
+      "set_number" : "MRD-EN062",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Swamp Battleguard",
+      "set_number" : "MRD-EN063",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN064",
+      "name" : "Battle Steer"
+   },
+   {
+      "name" : "Time Wizard",
+      "set_number" : "MRD-EN065",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN066",
+      "name" : "Saggi the Dark Clown"
+   },
+   {
+      "set_number" : "MRD-EN067",
+      "rarity" : "Common",
+      "name" : "Dragon Piper"
+   },
+   {
+      "name" : "Illusionist Faceless Mage",
+      "set_number" : "MRD-EN068",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Sangan",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN069"
+   },
+   {
+      "name" : "Great Moth",
+      "set_number" : "MRD-EN070",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "MRD-EN071",
+      "name" : "Kuriboh"
+   },
+   {
+      "name" : "Jellyfish",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN072"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN073",
+      "name" : "Castle of Dark Illusions"
+   },
+   {
+      "name" : "King of Yamimakai",
+      "set_number" : "MRD-EN074",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "MRD-EN075",
+      "name" : "Catapult Turtle"
+   },
+   {
+      "set_number" : "MRD-EN076",
+      "rarity" : "Common",
+      "name" : "Mystic Horseman"
+   },
+   {
+      "name" : "Rabid Horseman",
+      "set_number" : "MRD-EN077",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Crass Clown",
+      "rarity" : "Short Print",
+      "set_number" : "MRD-EN078"
+   },
+   {
+      "name" : "Pumpking the King of Ghosts",
+      "set_number" : "MRD-EN079",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN080",
+      "rarity" : "Short Print",
+      "name" : "Dream Clown"
+   },
+   {
+      "name" : "Tainted Wisdom",
+      "set_number" : "MRD-EN081",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ancient Brain",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN082"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN083",
+      "name" : "Guardian of the Labyrinth"
+   },
+   {
+      "name" : "Prevent Rat",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN084"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN085",
+      "name" : "The Little Swordsman of Aile"
+   },
+   {
+      "name" : "Princess of Tsurugi",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN086"
+   },
+   {
+      "name" : "Protector of the Throne",
+      "set_number" : "MRD-EN087",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Tremendous Fire",
+      "set_number" : "MRD-EN088",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN089",
+      "name" : "Jirai Gumo"
+   },
+   {
+      "name" : "Shadow Ghoul",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN090"
+   },
+   {
+      "name" : "Labyrinth Tank",
+      "set_number" : "MRD-EN091",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN092",
+      "rarity" : "Common",
+      "name" : "Ryu-Kishin Powered"
+   },
+   {
+      "name" : "Bickuribox",
+      "set_number" : "MRD-EN093",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN094",
+      "rarity" : "Common",
+      "name" : "Giltia the D. Knight"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN095",
+      "name" : "Launcher Spider"
+   },
+   {
+      "set_number" : "MRD-EN096",
+      "rarity" : "Common",
+      "name" : "Giga-Tech Wolf"
+   },
+   {
+      "name" : "Thunder Dragon",
+      "set_number" : "MRD-EN097",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "7 Colored Fish",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN098"
+   },
+   {
+      "name" : "The Immortal of Thunder",
+      "set_number" : "MRD-EN099",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MRD-EN100",
+      "name" : "Punished Eagle"
+   },
+   {
+      "set_number" : "MRD-EN101",
+      "rarity" : "Common",
+      "name" : "Insect Soldiers of the Sky"
+   },
+   {
+      "name" : "Hoshiningen",
+      "set_number" : "MRD-EN102",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Musician King",
+      "set_number" : "MRD-EN103",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Yado Karu",
+      "set_number" : "MRD-EN104",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN105",
+      "rarity" : "Common",
+      "name" : "Cyber Saurus"
+   },
+   {
+      "name" : "Cannon Soldier",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN106"
+   },
+   {
+      "set_number" : "MRD-EN107",
+      "rarity" : "Rare",
+      "name" : "Muka Muka"
+   },
+   {
+      "name" : "The Bistro Butcher",
+      "set_number" : "MRD-EN108",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Star Boy",
+      "set_number" : "MRD-EN109",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN110",
+      "name" : "Milus Radiant"
+   },
+   {
+      "name" : "Flame Cerebrus",
+      "set_number" : "MRD-EN111",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Niwatori",
+      "set_number" : "MRD-EN112",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN113",
+      "rarity" : "Rare",
+      "name" : "Dark Elf"
+   },
+   {
+      "name" : "Mushroom Man #2",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN114"
+   },
+   {
+      "set_number" : "MRD-EN115",
+      "rarity" : "Common",
+      "name" : "Lava Battleguard"
+   },
+   {
+      "set_number" : "MRD-EN116",
+      "rarity" : "Rare",
+      "name" : "Witch of the Black Forest"
+   },
+   {
+      "name" : "Little Chimera",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN117"
+   },
+   {
+      "name" : "Bladefly",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN118"
+   },
+   {
+      "name" : "Lady of Faith",
+      "set_number" : "MRD-EN119",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "MRD-EN120",
+      "name" : "Twin-Headed Thunder Dragon"
+   },
+   {
+      "name" : "Witch's Apprentice",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN121"
+   },
+   {
+      "name" : "Blue-Winged Crown",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN122"
+   },
+   {
+      "set_number" : "MRD-EN123",
+      "rarity" : "Common",
+      "name" : "Skull Knight"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "MRD-EN124",
+      "name" : "Gazelle the King of Mythical Beasts"
+   },
+   {
+      "name" : "Garnecia Elefantis",
+      "rarity" : "Super Rare",
+      "set_number" : "MRD-EN125"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MRD-EN126",
+      "name" : "Barrel Dragon"
+   },
+   {
+      "name" : "Solemn Judgment",
+      "set_number" : "MRD-EN127",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MRD-EN128",
+      "name" : "Magic Jammer"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MRD-EN129",
+      "name" : "Seven Tools of the Bandit"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MRD-EN130",
+      "name" : "Horn of Heaven"
+   },
+   {
+      "name" : "Shield & Sword",
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN131"
+   },
+   {
+      "name" : "Sword of Deep-Seated",
+      "set_number" : "MRD-EN132",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MRD-EN133",
+      "rarity" : "Common",
+      "name" : "Block Attack"
+   },
+   {
+      "name" : "The Unhappy Maiden",
+      "set_number" : "MRD-EN134",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MRD-EN135",
+      "name" : "Robbin' Goblin"
+   },
+   {
+      "name" : "Germ Infection",
+      "rarity" : "Common",
+      "set_number" : "MRD-EN136"
+   },
+   {
+      "set_number" : "MRD-EN137",
+      "rarity" : "Common",
+      "name" : "Paralyzing Potion"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MRD-EN138",
+      "name" : "Mirror Force"
+   },
+   {
+      "set_number" : "MRD-EN139",
+      "rarity" : "Common",
+      "name" : "Ring of Magnetism"
+   },
+   {
+      "set_number" : "MRD-EN140",
+      "rarity" : "Common",
+      "name" : "Share the Pain"
+   },
+   {
+      "name" : "Stim-Pack",
+      "rarity" : "Short Print",
+      "set_number" : "MRD-EN141"
+   },
+   {
+      "set_number" : "MRD-EN142",
+      "rarity" : "Super Rare",
+      "name" : "Heavy Storm"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "MRD-EN143",
+      "name" : "Thousand Dragon"
+   }
+]

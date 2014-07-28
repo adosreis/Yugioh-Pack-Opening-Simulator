@@ -1,0 +1,302 @@
+[
+   {
+      "name" : "Space Mambo",
+      "set_number" : "FET-EN001",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FET-EN002",
+      "rarity" : "Common",
+      "name" : "Divine Dragon Ragnarok"
+   },
+   {
+      "name" : "Chu-Ske the Mouse Fighter",
+      "set_number" : "FET-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN004",
+      "name" : "Insect Knight"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "FET-EN005",
+      "name" : "Sacred Phoenix of Nephthys"
+   },
+   {
+      "name" : "Hand of Nephthys",
+      "set_number" : "FET-EN006",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FET-EN007",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Ultimate Insect LV5"
+   },
+   {
+      "name" : "Silent Swordsman LV5",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "FET-EN008"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "FET-EN009",
+      "name" : "Granmarg the Rock Monarch"
+   },
+   {
+      "set_number" : "FET-EN010",
+      "rarity" : "Common",
+      "name" : "Element Valkyrie"
+   },
+   {
+      "name" : "Element Doom",
+      "rarity" : "Common",
+      "set_number" : "FET-EN011"
+   },
+   {
+      "name" : "Maji-Gire Panda",
+      "set_number" : "FET-EN012",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN013",
+      "name" : "Catnipped Kitty"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "FET-EN014",
+      "name" : "Behemoth the King of All Animals"
+   },
+   {
+      "set_number" : "FET-EN015",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Big-Tusked Mammoth"
+   },
+   {
+      "name" : "Kangaroo Champ",
+      "set_number" : "FET-EN016",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FET-EN017",
+      "rarity" : "Common",
+      "name" : "Hyena"
+   },
+   {
+      "name" : "Blade Rabbit",
+      "set_number" : "FET-EN018",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FET-EN019",
+      "rarity" : "Common",
+      "name" : "Mecha-Dog Marron"
+   },
+   {
+      "set_number" : "FET-EN020",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Blast Magician"
+   },
+   {
+      "name" : "Chiron the Mage",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FET-EN021"
+   },
+   {
+      "name" : "Gearfried the Swordmaster",
+      "set_number" : "FET-EN022",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN023",
+      "name" : "Armed Samurai - Ben Kei"
+   },
+   {
+      "name" : "Shadowslayer",
+      "set_number" : "FET-EN024",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN025",
+      "name" : "Golem Sentry"
+   },
+   {
+      "set_number" : "FET-EN026",
+      "rarity" : "Common",
+      "name" : "Abare Ushioni"
+   },
+   {
+      "set_number" : "FET-EN027",
+      "rarity" : "Common",
+      "name" : "The Light - Hex-Sealed Fusion"
+   },
+   {
+      "name" : "The Dark - Hex-Sealed Fusion",
+      "rarity" : "Common",
+      "set_number" : "FET-EN028"
+   },
+   {
+      "set_number" : "FET-EN029",
+      "rarity" : "Common",
+      "name" : "The Earth - Hex-Sealed Fusion"
+   },
+   {
+      "name" : "Whirlwind Prodigy",
+      "rarity" : "Common",
+      "set_number" : "FET-EN030"
+   },
+   {
+      "name" : "Flame Ruler",
+      "rarity" : "Common",
+      "set_number" : "FET-EN031"
+   },
+   {
+      "set_number" : "FET-EN032",
+      "rarity" : "Common",
+      "name" : "Firebird"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN033",
+      "name" : "Rescue Cat"
+   },
+   {
+      "set_number" : "FET-EN034",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Brain Jacker"
+   },
+   {
+      "name" : "Gatling Dragon",
+      "set_number" : "FET-EN035",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "King Dragun",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "FET-EN036"
+   },
+   {
+      "name" : "A Feather of the Phoenix",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "FET-EN037"
+   },
+   {
+      "name" : "Poison Fangs",
+      "set_number" : "FET-EN038",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Spell Absorption",
+      "set_number" : "FET-EN039",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "FET-EN040",
+      "name" : "Lightning Vortex"
+   },
+   {
+      "name" : "Meteor of Destruction",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FET-EN041"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FET-EN042",
+      "name" : "Swords of Concealing Light"
+   },
+   {
+      "name" : "Spiral Spear Strike",
+      "set_number" : "FET-EN043",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN044",
+      "name" : "Release Restraint"
+   },
+   {
+      "set_number" : "FET-EN045",
+      "rarity" : "Common",
+      "name" : "Centrifugal Field"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN046",
+      "name" : "Fulfillment of the Contract"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN047",
+      "name" : "Re-Fusion"
+   },
+   {
+      "name" : "The Big March of Animals",
+      "set_number" : "FET-EN048",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Cross Counter",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FET-EN049"
+   },
+   {
+      "name" : "Pole Position",
+      "set_number" : "FET-EN050",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Penalty Game!",
+      "set_number" : "FET-EN051",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN052",
+      "name" : "Threatening Roar"
+   },
+   {
+      "set_number" : "FET-EN053",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Phoenix Wing Wind Blast"
+   },
+   {
+      "name" : "Good Goblin Housekeeping",
+      "set_number" : "FET-EN054",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "FET-EN055",
+      "name" : "Beast Soul Swap"
+   },
+   {
+      "name" : "Assault on GHQ",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FET-EN056"
+   },
+   {
+      "set_number" : "FET-EN057",
+      "rarity" : "Common",
+      "name" : "D.D. Dynamite"
+   },
+   {
+      "set_number" : "FET-EN058",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Deck Devastation Virus"
+   },
+   {
+      "name" : "Elemental Burst",
+      "rarity" : "Common",
+      "set_number" : "FET-EN059"
+   },
+   {
+      "name" : "Forced Ceasefire",
+      "set_number" : "FET-EN060",
+      "rarity" : "Rare\nUltimate Rare"
+   }
+]

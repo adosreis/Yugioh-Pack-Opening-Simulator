@@ -1,0 +1,152 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA01-EN001",
+      "name" : "Blizzed, Defender of the Ice Barrier"
+   },
+   {
+      "name" : "Blizzard Warrior",
+      "rarity" : "Super Rare",
+      "set_number" : "HA01-EN002"
+   },
+   {
+      "name" : "Cryomancer of the Ice Barrier",
+      "set_number" : "HA01-EN003",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Mist Valley Thunderbird",
+      "set_number" : "HA01-EN004",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA01-EN005",
+      "rarity" : "Secret Rare",
+      "name" : "Mist Valley Shaman"
+   },
+   {
+      "name" : "Mist Valley Soldier",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA01-EN006"
+   },
+   {
+      "name" : "Flamvell Dragnov",
+      "set_number" : "HA01-EN007",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA01-EN008",
+      "rarity" : "Super Rare",
+      "name" : "Flamvell Magician"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA01-EN009",
+      "name" : "Flamvell Guard"
+   },
+   {
+      "name" : "X-Saber Axel",
+      "rarity" : "Super Rare",
+      "set_number" : "HA01-EN010"
+   },
+   {
+      "set_number" : "HA01-EN011",
+      "rarity" : "Secret Rare",
+      "name" : "X-Saber Airbellum"
+   },
+   {
+      "name" : "X-Saber Uruz",
+      "set_number" : "HA01-EN012",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Commander Gottoms, Swordmaster",
+      "set_number" : "HA01-EN013",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Ally of Justice Clausolas",
+      "rarity" : "Super Rare",
+      "set_number" : "HA01-EN014"
+   },
+   {
+      "set_number" : "HA01-EN015",
+      "rarity" : "Super Rare",
+      "name" : "Ally of Justice Garadholg"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA01-EN016",
+      "name" : "Ally of Justice Rudra"
+   },
+   {
+      "name" : "Worm Apocalypse",
+      "rarity" : "Super Rare",
+      "set_number" : "HA01-EN017"
+   },
+   {
+      "name" : "Worm Barses",
+      "set_number" : "HA01-EN018",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Worm Cartaros",
+      "set_number" : "HA01-EN019",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Worm Dimikles",
+      "set_number" : "HA01-EN020",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Worm Erokin",
+      "set_number" : "HA01-EN021",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Brionac, Dragon of the Ice Barrier",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA01-EN022"
+   },
+   {
+      "name" : "Mist Wurm",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA01-EN023"
+   },
+   {
+      "name" : "Flamvell Uruquizas",
+      "set_number" : "HA01-EN024",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA01-EN025",
+      "name" : "X-Saber Urbellum"
+   },
+   {
+      "name" : "Ally of Justice Catastor ",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA01-EN026"
+   },
+   {
+      "set_number" : "HA01-EN027",
+      "rarity" : "Secret Rare",
+      "name" : "Wrath of Neos"
+   },
+   {
+      "name" : "Detonate",
+      "rarity" : "Super Rare",
+      "set_number" : "HA01-EN028"
+   },
+   {
+      "name" : "Berserker Crush",
+      "set_number" : "HA01-EN029",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Evolution Burst",
+      "set_number" : "HA01-EN030",
+      "rarity" : "Secret Rare"
+   }
+]

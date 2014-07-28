@@ -1,0 +1,522 @@
+[
+   {
+      "set_number" : "WGRT-EN001",
+      "rarity" : "Common",
+      "name" : "Evilswarm Heliotrope"
+   },
+   {
+      "set_number" : "WGRT-EN002",
+      "rarity" : "Super Rare",
+      "name" : "Wall of Illusion"
+   },
+   {
+      "name" : "Big Eye",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN003"
+   },
+   {
+      "set_number" : "WGRT-EN004",
+      "rarity" : "Super Rare",
+      "name" : "Kazejin"
+   },
+   {
+      "set_number" : "WGRT-EN005",
+      "name" : "Otohime",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "WGRT-EN006",
+      "name" : "Yomi Ship",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Winged Sage Falcos",
+      "set_number" : "WGRT-EN007"
+   },
+   {
+      "name" : "Cyber Raider",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN008"
+   },
+   {
+      "set_number" : "WGRT-EN009",
+      "rarity" : "Common",
+      "name" : "Berserk Gorilla"
+   },
+   {
+      "set_number" : "WGRT-EN010",
+      "name" : "Invader of Darkness",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Legendary Jujitsu Master",
+      "set_number" : "WGRT-EN011"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Blade Knight",
+      "set_number" : "WGRT-EN012"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Big-Tusked Mammoth",
+      "set_number" : "WGRT-EN013"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Golem Sentry",
+      "set_number" : "WGRT-EN014"
+   },
+   {
+      "set_number" : "WGRT-EN015",
+      "name" : "Adhesive Explosive",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "WGRT-EN016",
+      "rarity" : "Super Rare",
+      "name" : "Cyber Gymnast"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Cyber Prima",
+      "set_number" : "WGRT-EN017"
+   },
+   {
+      "name" : "Majestic Mech - Goryu",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN018"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Destiny HERO - Defender",
+      "set_number" : "WGRT-EN019"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Archfiend of Gilfer",
+      "set_number" : "WGRT-EN020"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Legendary Fiend",
+      "set_number" : "WGRT-EN021"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Lyla, Lightsworn Sorceress",
+      "set_number" : "WGRT-EN022"
+   },
+   {
+      "set_number" : "WGRT-EN023",
+      "rarity" : "Common",
+      "name" : "Montage Dragon"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Cursed Fig",
+      "set_number" : "WGRT-EN024"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Red Ogre",
+      "set_number" : "WGRT-EN025"
+   },
+   {
+      "name" : "Blackwing - Elphin the Raven",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN026"
+   },
+   {
+      "set_number" : "WGRT-EN027",
+      "rarity" : "Common",
+      "name" : "Sauropod Brachion"
+   },
+   {
+      "name" : "Worm Apocalypse",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN028"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Worm Jetelikpse",
+      "set_number" : "WGRT-EN029"
+   },
+   {
+      "set_number" : "WGRT-EN030",
+      "rarity" : "Super Rare",
+      "name" : "Infernity Destroyer"
+   },
+   {
+      "set_number" : "WGRT-EN031",
+      "name" : "Medium of the Ice Barrier",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "A/D Changer",
+      "set_number" : "WGRT-EN032"
+   },
+   {
+      "set_number" : "WGRT-EN033",
+      "rarity" : "Common",
+      "name" : "Playful Possum"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Hypnocorn",
+      "set_number" : "WGRT-EN034"
+   },
+   {
+      "name" : "Wattlemur",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN035"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Fabled Soulkius",
+      "set_number" : "WGRT-EN036"
+   },
+   {
+      "set_number" : "WGRT-EN037",
+      "name" : "Power Breaker",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Jurrac Gallim",
+      "set_number" : "WGRT-EN038"
+   },
+   {
+      "name" : "General Raiho of the Ice Barrier",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN039"
+   },
+   {
+      "name" : "Meklord Army of Granel",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN040"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Skull Kraken",
+      "set_number" : "WGRT-EN041"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Skystarray",
+      "set_number" : "WGRT-EN042"
+   },
+   {
+      "set_number" : "WGRT-EN043",
+      "rarity" : "Super Rare",
+      "name" : "Sergeant Electro"
+   },
+   {
+      "set_number" : "WGRT-EN044",
+      "name" : "Chow Len the Prophet",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "WGRT-EN045",
+      "rarity" : "Common",
+      "name" : "White Night Queen"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Junk Forward",
+      "set_number" : "WGRT-EN046"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Swallowtail Butterspy",
+      "set_number" : "WGRT-EN047"
+   },
+   {
+      "set_number" : "WGRT-EN048",
+      "name" : "Cameraclops",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "WGRT-EN049",
+      "name" : "Madolche Baaple",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "WGRT-EN050",
+      "name" : "Evilswarm Ketos",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Evilswarm Mandragora",
+      "set_number" : "WGRT-EN051"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Mogmole",
+      "set_number" : "WGRT-EN052"
+   },
+   {
+      "set_number" : "WGRT-EN053",
+      "rarity" : "Common",
+      "name" : "Deep Sweeper"
+   },
+   {
+      "set_number" : "WGRT-EN054",
+      "rarity" : "Common",
+      "name" : "Heroic Challenger - Night Watchman"
+   },
+   {
+      "name" : "Garbage Lord",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN055"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "D.D. Esper Star Sparrow",
+      "set_number" : "WGRT-EN056"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Evilswarm Obliviwisp",
+      "set_number" : "WGRT-EN057"
+   },
+   {
+      "set_number" : "WGRT-EN058",
+      "name" : "Evilswarm Salamandra",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "WGRT-EN059",
+      "name" : "Dododo Warrior",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Mecha Phantom Beast Tetherwolf",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN060"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Mecha Phantom Beast Blackfalcon",
+      "set_number" : "WGRT-EN061"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Mecha Phantom Beast Stealthray",
+      "set_number" : "WGRT-EN062"
+   },
+   {
+      "set_number" : "WGRT-EN063",
+      "name" : "Gentlemander",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Schwarzschild Limit Dragon",
+      "set_number" : "WGRT-EN064"
+   },
+   {
+      "set_number" : "WGRT-EN065",
+      "rarity" : "Super Rare",
+      "name" : "Tribute to The Doomed"
+   },
+   {
+      "name" : "Share the Pain",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN066"
+   },
+   {
+      "set_number" : "WGRT-EN067",
+      "name" : "Stim-Pack",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "WGRT-EN068",
+      "rarity" : "Common",
+      "name" : "Black Pendant"
+   },
+   {
+      "set_number" : "WGRT-EN069",
+      "rarity" : "Super Rare",
+      "name" : "Megamorph"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Dark Core",
+      "set_number" : "WGRT-EN070"
+   },
+   {
+      "name" : "Different Dimension Gate",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN071"
+   },
+   {
+      "set_number" : "WGRT-EN072",
+      "name" : "Back to Square One",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Mystic Box",
+      "set_number" : "WGRT-EN073"
+   },
+   {
+      "set_number" : "WGRT-EN074",
+      "name" : "Lucky Iron Axe",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "WGRT-EN075",
+      "rarity" : "Common",
+      "name" : "Double Summon"
+   },
+   {
+      "set_number" : "WGRT-EN076",
+      "rarity" : "Common",
+      "name" : "Ribbon of Rebirth"
+   },
+   {
+      "name" : "Release Restraint Wave",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN077"
+   },
+   {
+      "set_number" : "WGRT-EN078",
+      "rarity" : "Common",
+      "name" : "Berserk Scales"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Shift",
+      "set_number" : "WGRT-EN079"
+   },
+   {
+      "set_number" : "WGRT-EN080",
+      "rarity" : "Common",
+      "name" : "Riryoku Field"
+   },
+   {
+      "set_number" : "WGRT-EN081",
+      "name" : "Needle Ceiling",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "WGRT-EN082",
+      "rarity" : "Common",
+      "name" : "Pineapple Blast"
+   },
+   {
+      "set_number" : "WGRT-EN083",
+      "rarity" : "Super Rare",
+      "name" : "Adhesion Trap Hole"
+   },
+   {
+      "set_number" : "WGRT-EN084",
+      "rarity" : "Common",
+      "name" : "Covering Fire"
+   },
+   {
+      "set_number" : "WGRT-EN085",
+      "name" : "Conscription",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chthonian Blast",
+      "rarity" : "Common",
+      "set_number" : "WGRT-EN086"
+   },
+   {
+      "name" : "Dark Bribe",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN087"
+   },
+   {
+      "set_number" : "WGRT-EN088",
+      "name" : "Nordic Relic Brisingamen",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Nordic Relic Laevateinn",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN089"
+   },
+   {
+      "set_number" : "WGRT-EN090",
+      "name" : "Attention!",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Raigeki Bottle",
+      "rarity" : "Super Rare",
+      "set_number" : "WGRT-EN091"
+   },
+   {
+      "set_number" : "WGRT-EN092",
+      "rarity" : "Common",
+      "name" : "Nitwit Outwit"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Butterflyoke",
+      "set_number" : "WGRT-EN093"
+   },
+   {
+      "set_number" : "WGRT-EN094",
+      "rarity" : "Common",
+      "name" : "Dimension Slice"
+   },
+   {
+      "set_number" : "WGRT-EN095",
+      "rarity" : "Super Rare",
+      "name" : "That Wacky Alchemy!"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Memory Loss",
+      "set_number" : "WGRT-EN096"
+   },
+   {
+      "set_number" : "WGRT-EN097",
+      "rarity" : "Common",
+      "name" : "Butterspy Protection"
+   },
+   {
+      "set_number" : "WGRT-EN098",
+      "rarity" : "Common",
+      "name" : "Reverse Glasses"
+   },
+   {
+      "set_number" : "WGRT-EN099",
+      "rarity" : "Ultra Rare",
+      "name" : "Fog King"
+   },
+   {
+      "set_number" : "WGRT-EN100",
+      "name" : "High Priestess of Prophecy",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "WGRT-EN101",
+      "name" : "Dragunity Knight - Vajrayana",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Number 11: Big Eye",
+      "set_number" : "WGRT-EN102"
+   },
+   {
+      "set_number" : "WGRT-EN103",
+      "rarity" : "Ultra Rare",
+      "name" : "Safe Zone"
+   },
+   {
+      "set_number" : "WGRT-EN104",
+      "name" : "Zubaba General",
+      "rarity" : "Ultra Rare"
+   }
+]

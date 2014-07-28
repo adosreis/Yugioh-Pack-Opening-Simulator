@@ -1,0 +1,302 @@
+[
+   {
+      "set_number" : "HA06-EN001",
+      "name" : "Gem-Knight Crystal",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Laval Volcano Handmaiden",
+      "set_number" : "HA06-EN002"
+   },
+   {
+      "set_number" : "HA06-EN003",
+      "name" : "Laval Cannon",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vylon Sphere",
+      "set_number" : "HA06-EN004"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA06-EN005",
+      "name" : "Vylon Tetra"
+   },
+   {
+      "set_number" : "HA06-EN006",
+      "name" : "Vylon Stella",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vylon Prism",
+      "set_number" : "HA06-EN007"
+   },
+   {
+      "set_number" : "HA06-EN008",
+      "name" : "Vylon Hept",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gishki Reliever",
+      "set_number" : "HA06-EN009",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gishki Noellia",
+      "set_number" : "HA06-EN010",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gusto Squirro",
+      "set_number" : "HA06-EN011",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Reeze, Whirlwind of Gusto",
+      "set_number" : "HA06-EN012"
+   },
+   {
+      "set_number" : "HA06-EN013",
+      "name" : "Steelswarm Genome",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Steelswarm Sentinel",
+      "set_number" : "HA06-EN014",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Steelswarm Sting",
+      "set_number" : "HA06-EN015",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Steelswarm Longhorn",
+      "set_number" : "HA06-EN016",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Steelswarm Hercules",
+      "set_number" : "HA06-EN017",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Evigishki Tetrogre",
+      "set_number" : "HA06-EN018"
+   },
+   {
+      "set_number" : "HA06-EN019",
+      "name" : "Gem-Knight Citrine",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Gem-Knight Prismaura",
+      "set_number" : "HA06-EN020"
+   },
+   {
+      "set_number" : "HA06-EN021",
+      "name" : "Laval Stennon",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Vylon Alpha",
+      "set_number" : "HA06-EN022",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Vylon Omega",
+      "set_number" : "HA06-EN023",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Daigusto Sphreez",
+      "set_number" : "HA06-EN024",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vylon Component",
+      "set_number" : "HA06-EN025"
+   },
+   {
+      "name" : "Vylon Element",
+      "set_number" : "HA06-EN026",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA06-EN027",
+      "name" : "Forbidden Arts of the Gishki",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA06-EN028",
+      "name" : "Pyroxene Fusion",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Infestation Ripples",
+      "set_number" : "HA06-EN029"
+   },
+   {
+      "set_number" : "HA06-EN030",
+      "name" : "Infestation Tool",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gem-Knight Obsidian",
+      "set_number" : "HA06-EN031",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gem-Knight Iolite",
+      "set_number" : "HA06-EN032"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA06-EN033",
+      "name" : "Gem-Knight Amber"
+   },
+   {
+      "name" : "Laval Lakeside Lady",
+      "set_number" : "HA06-EN034",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA06-EN035",
+      "name" : "Laval Coatl"
+   },
+   {
+      "set_number" : "HA06-EN036",
+      "name" : "Laval Blaster",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA06-EN037",
+      "name" : "Vylon Pentachloro"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vylon Tesseract",
+      "set_number" : "HA06-EN038"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vylon Stigma",
+      "set_number" : "HA06-EN039"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA06-EN040",
+      "name" : "Gishki Vision"
+   },
+   {
+      "set_number" : "HA06-EN041",
+      "name" : "Gishki Emilia",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA06-EN042",
+      "name" : "Gishki Mollusk"
+   },
+   {
+      "set_number" : "HA06-EN043",
+      "name" : "Gusto Falco",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Kamui, Hope of Gusto",
+      "set_number" : "HA06-EN044"
+   },
+   {
+      "set_number" : "HA06-EN045",
+      "name" : "Musto, Oracle of Gusto",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA06-EN046",
+      "name" : "Evigishki Gustkraken",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA06-EN047",
+      "name" : "Gem-Knight Amethyst"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Lavalval Dragun",
+      "set_number" : "HA06-EN048"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Daigusto Falcos",
+      "set_number" : "HA06-EN049"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA06-EN050",
+      "name" : "Gem-Knight Pearl"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA06-EN051",
+      "name" : "Lavalval Ignis"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA06-EN052",
+      "name" : "Vylon Disigma"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA06-EN053",
+      "name" : "Evigishki Merrowgeist"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Daigusto Phoenix",
+      "set_number" : "HA06-EN054"
+   },
+   {
+      "name" : "Particle Fusion",
+      "set_number" : "HA06-EN055",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vylon Polytope",
+      "set_number" : "HA06-EN056"
+   },
+   {
+      "name" : "Vylon Segment",
+      "set_number" : "HA06-EN057",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Dustflame Blast",
+      "set_number" : "HA06-EN058"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA06-EN059",
+      "name" : "Aquamirror Illusion"
+   },
+   {
+      "set_number" : "HA06-EN060",
+      "name" : "Whirlwind of Gusto",
+      "rarity" : "Super Rare"
+   }
+]

@@ -1,0 +1,502 @@
+[
+   {
+      "rarity" : "Super Rare",
+      "name" : "Sylvan Bladefender",
+      "set_number" : "LVAL-EN000"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "White Duston",
+      "set_number" : "LVAL-EN001"
+   },
+   {
+      "set_number" : "LVAL-EN002",
+      "name" : "ZW - Asura Strike",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gillagillancer",
+      "set_number" : "LVAL-EN003"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "LVAL-EN004",
+      "name" : "Rainbow Kuriboh"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Overlay Sentinel",
+      "set_number" : "LVAL-EN005"
+   },
+   {
+      "name" : "Overlay Booster",
+      "set_number" : "LVAL-EN006",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Photon Chargeman",
+      "set_number" : "LVAL-EN007"
+   },
+   {
+      "set_number" : "LVAL-EN008",
+      "name" : "Chronomaly Moai Carrier",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Chronomaly Winged Sphinx",
+      "set_number" : "LVAL-EN009"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Deep-Space Cruiser IX",
+      "set_number" : "LVAL-EN010"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN011",
+      "name" : "Gorgonic Golem"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN012",
+      "name" : "Gorgonic Gargoyle"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN013",
+      "name" : "Gorgonic Ghoul"
+   },
+   {
+      "set_number" : "LVAL-EN014",
+      "name" : "Gorgonic Cerberus",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Sylvan Peaskeeper",
+      "set_number" : "LVAL-EN015"
+   },
+   {
+      "set_number" : "LVAL-EN016",
+      "name" : "Sylvan Komushroomo",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Sylvan Marshalleaf",
+      "set_number" : "LVAL-EN017"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "LVAL-EN018",
+      "name" : "Sylvan Flowerknight"
+   },
+   {
+      "name" : "Sylvan Guardioak",
+      "set_number" : "LVAL-EN019",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LVAL-EN020",
+      "name" : "Sylvan Hermitree",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "LVAL-EN021",
+      "name" : "Ghostrick Jackfrost",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ghostrick Mary",
+      "set_number" : "LVAL-EN022",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "LVAL-EN023",
+      "name" : "Ghostrick Nekomusume",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ghostrick Skeleton",
+      "set_number" : "LVAL-EN024",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ghostrick Mummy",
+      "set_number" : "LVAL-EN025"
+   },
+   {
+      "name" : "Bujin Arasuda",
+      "set_number" : "LVAL-EN026",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Bujingi Peacock",
+      "set_number" : "LVAL-EN027"
+   },
+   {
+      "name" : "Bujingi Swallow",
+      "set_number" : "LVAL-EN028",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LVAL-EN029",
+      "name" : "Bujingi Fox"
+   },
+   {
+      "name" : "Bujingi Hare",
+      "set_number" : "LVAL-EN030",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gravekeeper's Nobleman",
+      "set_number" : "LVAL-EN031",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Gravekeeper's Ambusher",
+      "set_number" : "LVAL-EN032",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Gravekeeper's Shaman",
+      "set_number" : "LVAL-EN033",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gravekeeper's Oracle",
+      "set_number" : "LVAL-EN034",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN035",
+      "name" : "Mystic Macrocarpa Seed"
+   },
+   {
+      "set_number" : "LVAL-EN036",
+      "name" : "Kalantosa, Mystical Beast of the Forest",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LVAL-EN037",
+      "name" : "Nikitama"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN038",
+      "name" : "Black Brachios"
+   },
+   {
+      "set_number" : "LVAL-EN039",
+      "name" : "Chirubimé, Princess of Autumn Leaves",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare/Ghost Rare",
+      "name" : "Mobius the Mega Monarch",
+      "set_number" : "LVAL-EN040"
+   },
+   {
+      "name" : "Sirenorca",
+      "set_number" : "LVAL-EN041",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Xyz Avenger",
+      "set_number" : "LVAL-EN042",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN043",
+      "name" : "Tackle Crusader"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Majiosheldon",
+      "set_number" : "LVAL-EN044"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Paladin of Photon Dragon",
+      "set_number" : "LVAL-EN045"
+   },
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "LVAL-EN046",
+      "name" : "Number C101: Silent Honor DARK"
+   },
+   {
+      "name" : "Number 101: Silent Honor ARK",
+      "set_number" : "LVAL-EN047",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "LVAL-EN048",
+      "name" : "Number 39: Utopia Roots",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LVAL-EN049",
+      "name" : "Number C69: Heraldry Crest of Horror"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LVAL-EN050",
+      "name" : "Number C92: Heart-eartH Chaos Dragon"
+   },
+   {
+      "name" : "Gorgonic Guardian",
+      "set_number" : "LVAL-EN051",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Alsei, the Sylvan High Protector",
+      "set_number" : "LVAL-EN052"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LVAL-EN053",
+      "name" : "Ghostrick Dullahan"
+   },
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "LVAL-EN054",
+      "name" : "Bujintei Tsukuyomi"
+   },
+   {
+      "name" : "Fairy Knight Ingunar",
+      "set_number" : "LVAL-EN055",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "LVAL-EN056",
+      "name" : "Evilswarm Exciton Knight"
+   },
+   {
+      "set_number" : "LVAL-EN057",
+      "name" : "Downerd Magician",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "LVAL-EN058",
+      "name" : "Leo, the Keeper of the Sacred Tree",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LVAL-EN059",
+      "name" : "Rank-Up-Magic Astral Force",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Rank-Down-Magic Numeron Fall",
+      "set_number" : "LVAL-EN060"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Xyz Shift",
+      "set_number" : "LVAL-EN061"
+   },
+   {
+      "name" : "Luminous Dragon Ritual",
+      "set_number" : "LVAL-EN062",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LVAL-EN063",
+      "name" : "Mount Sylvania",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ghostrick Museum",
+      "set_number" : "LVAL-EN064"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Bujinunity",
+      "set_number" : "LVAL-EN065"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Hidden Temples of Necrovalley",
+      "set_number" : "LVAL-EN066"
+   },
+   {
+      "set_number" : "LVAL-EN067",
+      "name" : "Onomatopaira",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Xyz Override",
+      "set_number" : "LVAL-EN068"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "LVAL-EN069",
+      "name" : "Stand-Off"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "LVAL-EN070",
+      "name" : "Shared Ride"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Release, Reverse, Burst",
+      "set_number" : "LVAL-EN071"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Purge Ray",
+      "set_number" : "LVAL-EN072"
+   },
+   {
+      "set_number" : "LVAL-EN073",
+      "name" : "Sylvan Blessing",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LVAL-EN074",
+      "name" : "Ghostrick-Go-Round"
+   },
+   {
+      "set_number" : "LVAL-EN075",
+      "name" : "Bujin Regalia - The Jewel",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Imperial Tombs of Necrovalley",
+      "set_number" : "LVAL-EN076"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN077",
+      "name" : "The Monarchs Awaken"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "LVAL-EN078",
+      "name" : "Skill Prisoner"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Oath of Companionship",
+      "set_number" : "LVAL-EN079"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Duston Roller",
+      "set_number" : "LVAL-EN080"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Sylvan Mikorange",
+      "set_number" : "LVAL-EN081"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN082",
+      "name" : "Ghostrick Yeti"
+   },
+   {
+      "name" : "Bujingi Pavo",
+      "set_number" : "LVAL-EN083",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Gravekeeper's Heretic",
+      "set_number" : "LVAL-EN084"
+   },
+   {
+      "name" : "Noble Knight Peredur",
+      "set_number" : "LVAL-EN085",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "LVAL-EN086",
+      "name" : "Gwenhwyfar, Queen of Noble Arms",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Powered Inzektron",
+      "set_number" : "LVAL-EN087"
+   },
+   {
+      "name" : "Obedience Schooled",
+      "set_number" : "LVAL-EN088",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "The First Monarch",
+      "set_number" : "LVAL-EN089",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Dark Artist",
+      "set_number" : "LVAL-EN090",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Swordsman from a Distant Land",
+      "set_number" : "LVAL-EN091"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Queen Angel of Roses",
+      "set_number" : "LVAL-EN092"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN093",
+      "name" : "Rose Witch"
+   },
+   {
+      "name" : "Snapdragon",
+      "set_number" : "LVAL-EN094",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LVAL-EN095",
+      "name" : "Alpacaribou, Mystical Beast of the Forest"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Mighty Warrior",
+      "set_number" : "LVAL-EN096"
+   },
+   {
+      "set_number" : "LVAL-EN097",
+      "name" : "Dododo Buster",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Interplanetarypurplythorny Beast",
+      "set_number" : "LVAL-EN098"
+   },
+   {
+      "name" : "Starship Spy Plane",
+      "set_number" : "LVAL-EN099",
+      "rarity" : "Common"
+   }
+]

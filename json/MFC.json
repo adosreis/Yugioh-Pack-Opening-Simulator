@@ -1,0 +1,542 @@
+[
+   {
+      "set_number" : "MFC-000",
+      "rarity" : "Secret Rare",
+      "name" : "Dark Magician Girl"
+   },
+   {
+      "name" : "People Running About",
+      "set_number" : "MFC-001",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Oppressed People",
+      "rarity" : "Common",
+      "set_number" : "MFC-002"
+   },
+   {
+      "name" : "United Resistance",
+      "rarity" : "Common",
+      "set_number" : "MFC-003"
+   },
+   {
+      "name" : "X-Head Cannon",
+      "set_number" : "MFC-004",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Y-Dragon Head",
+      "set_number" : "MFC-005",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "MFC-006",
+      "name" : "Z-Metal Tank"
+   },
+   {
+      "name" : "Dark Blade",
+      "set_number" : "MFC-007",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "MFC-008",
+      "rarity" : "Common",
+      "name" : "Pitch-Dark Dragon"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-009",
+      "name" : "Kiryu"
+   },
+   {
+      "name" : "Decayed Commander",
+      "rarity" : "Common",
+      "set_number" : "MFC-010"
+   },
+   {
+      "name" : "Zombie Tiger",
+      "set_number" : "MFC-011",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Giant Orc",
+      "rarity" : "Common",
+      "set_number" : "MFC-012"
+   },
+   {
+      "name" : "Second Goblin",
+      "set_number" : "MFC-013",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Vampire Orchis",
+      "rarity" : "Common",
+      "set_number" : "MFC-014"
+   },
+   {
+      "set_number" : "MFC-015",
+      "rarity" : "Common",
+      "name" : "Des Dendle"
+   },
+   {
+      "name" : "Burning Beast",
+      "set_number" : "MFC-016",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Freezing Beast",
+      "set_number" : "MFC-017",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Union Rider",
+      "rarity" : "Common",
+      "set_number" : "MFC-018"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MFC-019",
+      "name" : "D.D. Crazy Beast"
+   },
+   {
+      "set_number" : "MFC-020",
+      "rarity" : "Ultra Rare",
+      "name" : "Spell Canceller"
+   },
+   {
+      "set_number" : "MFC-021",
+      "rarity" : "Common",
+      "name" : "Neko Mane King"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MFC-022",
+      "name" : "Helping Robo for Combat (as \"Helping Robo For Combat\")"
+   },
+   {
+      "name" : "Dimension Jar",
+      "set_number" : "MFC-023",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Great Phantom Thief",
+      "set_number" : "MFC-024",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Roulette Barrel",
+      "rarity" : "Common",
+      "set_number" : "MFC-025"
+   },
+   {
+      "set_number" : "MFC-026",
+      "rarity" : "Ultra Rare",
+      "name" : "Paladin of White Dragon"
+   },
+   {
+      "name" : "White Dragon Ritual",
+      "set_number" : "MFC-027",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Frontline Base",
+      "rarity" : "Common",
+      "set_number" : "MFC-028"
+   },
+   {
+      "name" : "Demotion",
+      "rarity" : "Common",
+      "set_number" : "MFC-029"
+   },
+   {
+      "name" : "Combination Attack",
+      "rarity" : "Rare",
+      "set_number" : "MFC-030"
+   },
+   {
+      "set_number" : "MFC-031",
+      "rarity" : "Common",
+      "name" : "Kaiser Colosseum"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-032",
+      "name" : "Autonomous Action Unit"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-033",
+      "name" : "Poison of the Old Man"
+   },
+   {
+      "set_number" : "MFC-034",
+      "rarity" : "Rare",
+      "name" : "Ante"
+   },
+   {
+      "name" : "Dark Core",
+      "set_number" : "MFC-035",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Raregold Armor",
+      "set_number" : "MFC-036",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MFC-037",
+      "rarity" : "Common",
+      "name" : "Metalsilver Armor"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-038",
+      "name" : "Kishido Spirit"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MFC-039",
+      "name" : "Tribute Doll"
+   },
+   {
+      "name" : "Wave-Motion Cannon",
+      "set_number" : "MFC-040",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-041",
+      "name" : "Huge Revolution"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-042",
+      "name" : "Thunder of Ruler"
+   },
+   {
+      "set_number" : "MFC-043",
+      "rarity" : "Super Rare",
+      "name" : "Spell Shield Type-8"
+   },
+   {
+      "name" : "Meteorain",
+      "rarity" : "Common",
+      "set_number" : "MFC-044"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-045",
+      "name" : "Pineapple Blast"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-046",
+      "name" : "Secret Barrel"
+   },
+   {
+      "name" : "Physical Double",
+      "rarity" : "Common",
+      "set_number" : "MFC-047"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-048",
+      "name" : "Rivalry of Warlords"
+   },
+   {
+      "set_number" : "MFC-049",
+      "rarity" : "Common",
+      "name" : "Formation Union"
+   },
+   {
+      "name" : "Adhesion Trap Hole",
+      "rarity" : "Common",
+      "set_number" : "MFC-050"
+   },
+   {
+      "set_number" : "MFC-051",
+      "rarity" : "Ultra Rare",
+      "name" : "XY-Dragon Cannon"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MFC-052",
+      "name" : "XYZ-Dragon Cannon"
+   },
+   {
+      "name" : "XZ-Tank Cannon",
+      "set_number" : "MFC-053",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "YZ-Tank Dragon",
+      "set_number" : "MFC-054",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Great Angus",
+      "rarity" : "Common",
+      "set_number" : "MFC-055"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-056",
+      "name" : "Aitsu"
+   },
+   {
+      "name" : "Sonic Duck",
+      "set_number" : "MFC-057",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Luster Dragon",
+      "rarity" : "Ultra Rare",
+      "set_number" : "MFC-058"
+   },
+   {
+      "set_number" : "MFC-059",
+      "rarity" : "Common",
+      "name" : "Amazoness Paladin"
+   },
+   {
+      "name" : "Amazoness Fighter",
+      "set_number" : "MFC-060",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "MFC-061",
+      "name" : "Amazoness Swords Woman"
+   },
+   {
+      "name" : "Amazoness Blowpiper",
+      "set_number" : "MFC-062",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MFC-063",
+      "rarity" : "Rare",
+      "name" : "Amazoness Tiger"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "MFC-064",
+      "name" : "Skilled White Magician"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "MFC-065",
+      "name" : "Skilled Dark Magician"
+   },
+   {
+      "set_number" : "MFC-066",
+      "rarity" : "Rare",
+      "name" : "Apprentice Magician"
+   },
+   {
+      "set_number" : "MFC-067",
+      "rarity" : "Common",
+      "name" : "Old Vindictive Magician"
+   },
+   {
+      "name" : "Chaos Command Magician",
+      "set_number" : "MFC-068",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "MFC-069",
+      "rarity" : "Common",
+      "name" : "Magical Marionette"
+   },
+   {
+      "name" : "Pixie Knight",
+      "rarity" : "Common",
+      "set_number" : "MFC-070"
+   },
+   {
+      "name" : "Breaker the Magical Warrior",
+      "set_number" : "MFC-071",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "MFC-072",
+      "rarity" : "Common",
+      "name" : "Magical Plant Mandragola"
+   },
+   {
+      "name" : "Magical Scientist",
+      "set_number" : "MFC-073",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Royal Magical Library",
+      "set_number" : "MFC-074",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MFC-075",
+      "rarity" : "Rare",
+      "name" : "Armor Exe"
+   },
+   {
+      "name" : "Tribe-Infecting Virus",
+      "rarity" : "Super Rare",
+      "set_number" : "MFC-076"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MFC-077",
+      "name" : "Des Koala"
+   },
+   {
+      "name" : "Cliff the Trap Remover",
+      "set_number" : "MFC-078",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-079",
+      "name" : "Magical Merchant"
+   },
+   {
+      "set_number" : "MFC-080",
+      "rarity" : "Common",
+      "name" : "Koitsu"
+   },
+   {
+      "name" : "Cat's Ear Tribe",
+      "set_number" : "MFC-081",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Ultimate Obedient Fiend",
+      "set_number" : "MFC-082",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MFC-083",
+      "rarity" : "Common",
+      "name" : "Dark Cat with White Tail"
+   },
+   {
+      "set_number" : "MFC-084",
+      "rarity" : "Common",
+      "name" : "Amazoness Spellcaster"
+   },
+   {
+      "name" : "Continuous Destruction Punch",
+      "rarity" : "Rare",
+      "set_number" : "MFC-085"
+   },
+   {
+      "name" : "Big Bang Shot",
+      "set_number" : "MFC-086",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-087",
+      "name" : "Gather Your Mind"
+   },
+   {
+      "name" : "Mass Driver",
+      "rarity" : "Common",
+      "set_number" : "MFC-088"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "MFC-089",
+      "name" : "Senri Eye"
+   },
+   {
+      "name" : "Emblem of Dragon Destroyer",
+      "rarity" : "Common",
+      "set_number" : "MFC-090"
+   },
+   {
+      "name" : "Jar Robber",
+      "set_number" : "MFC-091",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "My Body as a Shield",
+      "set_number" : "MFC-092",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "MFC-093",
+      "rarity" : "Common",
+      "name" : "Pigeonholing Books of Spell"
+   },
+   {
+      "name" : "Mega Ton Magical Cannon",
+      "rarity" : "Rare",
+      "set_number" : "MFC-094"
+   },
+   {
+      "set_number" : "MFC-095",
+      "rarity" : "Common",
+      "name" : "Pitch-Black Power Stone"
+   },
+   {
+      "name" : "Amazoness Archers",
+      "set_number" : "MFC-096",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "MFC-097",
+      "name" : "Dramatic Rescue"
+   },
+   {
+      "set_number" : "MFC-098",
+      "rarity" : "Common",
+      "name" : "Exhausting Spell"
+   },
+   {
+      "name" : "Hidden Book of Spell",
+      "rarity" : "Common",
+      "set_number" : "MFC-099"
+   },
+   {
+      "set_number" : "MFC-100",
+      "rarity" : "Common",
+      "name" : "Miracle Restoring"
+   },
+   {
+      "name" : "Remove Brainwashing",
+      "rarity" : "Common",
+      "set_number" : "MFC-101"
+   },
+   {
+      "name" : "Disarmament",
+      "rarity" : "Common",
+      "set_number" : "MFC-102"
+   },
+   {
+      "name" : "Anti-Spell",
+      "rarity" : "Common",
+      "set_number" : "MFC-103"
+   },
+   {
+      "name" : "The Spell Absorbing Life",
+      "rarity" : "Common",
+      "set_number" : "MFC-104"
+   },
+   {
+      "set_number" : "MFC-105",
+      "rarity" : "Ultra Rare",
+      "name" : "Dark Paladin"
+   },
+   {
+      "set_number" : "MFC-106",
+      "rarity" : "Ultra Rare",
+      "name" : "Double Spell"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "MFC-107",
+      "name" : "Diffusion Wave-Motion"
+   }
+]

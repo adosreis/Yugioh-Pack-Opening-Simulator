@@ -1,0 +1,562 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "IOC-EN000",
+      "name" : "Chaos Emperor Dragon - Envoy of the End"
+   },
+   {
+      "name" : "Ojama Yellow",
+      "set_number" : "IOC-EN001",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ojama Black",
+      "set_number" : "IOC-EN002"
+   },
+   {
+      "name" : "Soul Tiger",
+      "set_number" : "IOC-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Big Koala",
+      "set_number" : "IOC-EN004"
+   },
+   {
+      "name" : "Des Kangaroo",
+      "set_number" : "IOC-EN005",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN006",
+      "name" : "Crimson Ninja",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Strike Ninja",
+      "set_number" : "IOC-EN007"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gale Lizard",
+      "set_number" : "IOC-EN008"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Spirit of the Pot of Greed",
+      "set_number" : "IOC-EN009"
+   },
+   {
+      "name" : "Chopman the Desperate Outlaw",
+      "set_number" : "IOC-EN010",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Sasuke Samurai #3",
+      "set_number" : "IOC-EN011",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "D.D. Scout Plane",
+      "set_number" : "IOC-EN012"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Berserk Gorilla",
+      "set_number" : "IOC-EN013"
+   },
+   {
+      "set_number" : "IOC-EN014",
+      "name" : "Freed the Brave Wanderer",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "IOC-EN015",
+      "name" : "Coach Goblin",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN016",
+      "name" : "Witch Doctor of Chaos"
+   },
+   {
+      "set_number" : "IOC-EN017",
+      "name" : "Chaos Necromancer",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chaosrider Gustaph",
+      "set_number" : "IOC-EN018",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "IOC-EN019",
+      "name" : "Inferno",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN020",
+      "name" : "Fenrir"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gigantes",
+      "set_number" : "IOC-EN021"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN022",
+      "name" : "Silpheed"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Chaos Sorcerer",
+      "set_number" : "IOC-EN023"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN024",
+      "name" : "Gren Maju Da Eiza"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "IOC-EN025",
+      "name" : "Black Luster Soldier - Envoy of the Beginning"
+   },
+   {
+      "set_number" : "IOC-EN026",
+      "name" : "Drillago",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Lekunga",
+      "set_number" : "IOC-EN027"
+   },
+   {
+      "name" : "Lord Poison",
+      "set_number" : "IOC-EN028",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN029",
+      "name" : "Bowganian",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Granadora",
+      "set_number" : "IOC-EN030",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "IOC-EN031",
+      "name" : "Fuhma Shuriken"
+   },
+   {
+      "set_number" : "IOC-EN032",
+      "name" : "Heart of the Underdog",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Wild Nature's Release",
+      "set_number" : "IOC-EN033",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "IOC-EN034",
+      "name" : "Ojama Delta Hurricane!!",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Stumbling",
+      "set_number" : "IOC-EN035",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN036",
+      "name" : "Chaos End"
+   },
+   {
+      "name" : "Yellow Luster Shield",
+      "set_number" : "IOC-EN037",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN038",
+      "name" : "Chaos Greed",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "IOC-EN039",
+      "name" : "D.D. Designator"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN040",
+      "name" : "D.D. Borderline"
+   },
+   {
+      "name" : "Recycle",
+      "set_number" : "IOC-EN041",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Primal Seed",
+      "set_number" : "IOC-EN042",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN043",
+      "name" : "Thunder Crash",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN044",
+      "name" : "Dimension Distortion",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN045",
+      "name" : "Reload",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN046",
+      "name" : "Soul Absorption"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Big Burn",
+      "set_number" : "IOC-EN047"
+   },
+   {
+      "set_number" : "IOC-EN048",
+      "name" : "Blasting the Ruins",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Cursed Seal of the Forbidden Spell",
+      "set_number" : "IOC-EN049"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Tower of Babel",
+      "set_number" : "IOC-EN050"
+   },
+   {
+      "set_number" : "IOC-EN051",
+      "name" : "Spatial Collapse",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "IOC-EN052",
+      "name" : "Chain Disappearance"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN053",
+      "name" : "Zero Gravity"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Dark Mirror Force",
+      "set_number" : "IOC-EN054"
+   },
+   {
+      "set_number" : "IOC-EN055",
+      "name" : "Energy Drain",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN056",
+      "name" : "Giga Gagagigo",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "IOC-EN057",
+      "name" : "Mad Dog of Darkness"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Neo Bug",
+      "set_number" : "IOC-EN058"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN059",
+      "name" : "Sea Serpent Warrior of Darkness"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN060",
+      "name" : "Terrorking Salmon"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Blazing Inpachi",
+      "set_number" : "IOC-EN061"
+   },
+   {
+      "set_number" : "IOC-EN062",
+      "name" : "Burning Algae",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "The Thing in the Crater",
+      "set_number" : "IOC-EN063",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN064",
+      "name" : "Molten Zombie"
+   },
+   {
+      "name" : "Dark Magician of Chaos",
+      "set_number" : "IOC-EN065",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gora Turtle of Illusion",
+      "set_number" : "IOC-EN066"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Manticore of Darkness",
+      "set_number" : "IOC-EN067"
+   },
+   {
+      "set_number" : "IOC-EN068",
+      "name" : "Stealth Bird",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Sacred Crane",
+      "set_number" : "IOC-EN069"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "IOC-EN070",
+      "name" : "Enraged Battle Ox"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN071",
+      "name" : "Don Turtle"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN072",
+      "name" : "Balloon Lizard"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Dark Driceratops",
+      "set_number" : "IOC-EN073"
+   },
+   {
+      "name" : "Hyper Hammerhead",
+      "set_number" : "IOC-EN074",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN075",
+      "name" : "Black Tyranno",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "IOC-EN076",
+      "name" : "Anti-Aircraft Flower",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Prickle Fairy",
+      "set_number" : "IOC-EN077",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Pinch Hopper",
+      "set_number" : "IOC-EN078"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN079",
+      "name" : "Skull-Mark Ladybug"
+   },
+   {
+      "set_number" : "IOC-EN080",
+      "name" : "Insect Princess",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Amphibious Bugroth MK-3",
+      "set_number" : "IOC-EN081",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Torpedo Fish",
+      "set_number" : "IOC-EN082",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Levia-Dragon - Daedalus",
+      "set_number" : "IOC-EN083"
+   },
+   {
+      "name" : "Orca Mega-Fortress of Darkness",
+      "set_number" : "IOC-EN084",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "IOC-EN085",
+      "name" : "Cannonball Spear Shellfish",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN086",
+      "name" : "Mataza the Zapper",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "IOC-EN087",
+      "name" : "Guardian Angel Joan",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Manju of the Ten Thousand Hands",
+      "set_number" : "IOC-EN088"
+   },
+   {
+      "set_number" : "IOC-EN089",
+      "name" : "Getsu Fuhma",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ryu Kokki",
+      "set_number" : "IOC-EN090"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gryphon's Feather Duster",
+      "set_number" : "IOC-EN091"
+   },
+   {
+      "name" : "Stray Lambs",
+      "set_number" : "IOC-EN092",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "IOC-EN093",
+      "name" : "Smashing Ground",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "IOC-EN094",
+      "name" : "Dimension Fusion"
+   },
+   {
+      "set_number" : "IOC-EN095",
+      "name" : "Dedication through Light and Darkness",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN096",
+      "name" : "Salvage"
+   },
+   {
+      "set_number" : "IOC-EN097",
+      "name" : "Ultra Evolution Pill",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Multiplication of Ants",
+      "set_number" : "IOC-EN098",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN099",
+      "name" : "Earth Chant",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "IOC-EN100",
+      "name" : "Jade Insect Whistle",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Destruction Ring",
+      "set_number" : "IOC-EN101",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "IOC-EN102",
+      "name" : "Fiend's Hand Mirror"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "IOC-EN103",
+      "name" : "Compulsory Evacuation Device"
+   },
+   {
+      "set_number" : "IOC-EN104",
+      "name" : "A Hero Emerges",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Self-Destruct Button",
+      "set_number" : "IOC-EN105",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Curse of Darkness",
+      "set_number" : "IOC-EN106"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Begone, Knave!",
+      "set_number" : "IOC-EN107"
+   },
+   {
+      "set_number" : "IOC-EN108",
+      "name" : "DNA Transplant",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Robbin' Zombie",
+      "set_number" : "IOC-EN109",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "IOC-EN110",
+      "name" : "Trap Jammer"
+   },
+   {
+      "name" : "Invader of Darkness",
+      "set_number" : "IOC-EN111",
+      "rarity" : "Secret Rare"
+   }
+]

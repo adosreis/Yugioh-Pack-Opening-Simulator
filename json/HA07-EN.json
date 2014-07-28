@@ -1,0 +1,352 @@
+[
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gem-Knight Sardonyx",
+      "set_number" : "HA07-EN001"
+   },
+   {
+      "set_number" : "HA07-EN002",
+      "name" : "Laval Phlogis",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA07-EN003",
+      "rarity" : "Super Rare",
+      "name" : "Gishki Avance"
+   },
+   {
+      "name" : "Gusto Griffin",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN004"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Constellar Sheratan",
+      "set_number" : "HA07-EN005"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Constellar Aldebaran",
+      "set_number" : "HA07-EN006"
+   },
+   {
+      "name" : "Constellar Algiedi",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN007"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Constellar Pollux",
+      "set_number" : "HA07-EN008"
+   },
+   {
+      "set_number" : "HA07-EN009",
+      "name" : "Constellar Zubeneschamali",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Constellar Virgo",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN010"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Evilswarm Heliotrope",
+      "set_number" : "HA07-EN011"
+   },
+   {
+      "set_number" : "HA07-EN012",
+      "rarity" : "Super Rare",
+      "name" : "Evilswarm Zahak"
+   },
+   {
+      "name" : "Evilswarm Ketos",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN013"
+   },
+   {
+      "name" : "Evilswarm O'lantern",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN014"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Evilswarm Mandragora",
+      "set_number" : "HA07-EN015"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Evilswarm Hraesvelg",
+      "set_number" : "HA07-EN016"
+   },
+   {
+      "set_number" : "HA07-EN017",
+      "rarity" : "Secret Rare",
+      "name" : "Evigishki Levianima"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gem-Knight Zirconia",
+      "set_number" : "HA07-EN018"
+   },
+   {
+      "set_number" : "HA07-EN019",
+      "rarity" : "Secret Rare",
+      "name" : "Lavalval Chain"
+   },
+   {
+      "name" : "Daigusto Emeral",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA07-EN020"
+   },
+   {
+      "set_number" : "HA07-EN021",
+      "name" : "Constellar Hyades",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA07-EN022",
+      "rarity" : "Secret Rare",
+      "name" : "Constellar Pleiades"
+   },
+   {
+      "set_number" : "HA07-EN023",
+      "rarity" : "Super Rare",
+      "name" : "Evilswarm Nightmare"
+   },
+   {
+      "set_number" : "HA07-EN024",
+      "rarity" : "Secret Rare",
+      "name" : "Evilswarm Bahamut"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Molten Conduction Field",
+      "set_number" : "HA07-EN025"
+   },
+   {
+      "name" : "Gishki Photomirror",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN026"
+   },
+   {
+      "name" : "Constellar Star Chart",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA07-EN027"
+   },
+   {
+      "name" : "Fragment Fusion",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN028"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Dust Storm of Gusto",
+      "set_number" : "HA07-EN029"
+   },
+   {
+      "set_number" : "HA07-EN030",
+      "name" : "Infestation Infection",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA07-EN031",
+      "rarity" : "Secret Rare",
+      "name" : "D.D. Esper Star Sparrow"
+   },
+   {
+      "set_number" : "HA07-EN032",
+      "name" : "Beast-Warrior Puma",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Phoenix Beast Gairuda",
+      "set_number" : "HA07-EN033"
+   },
+   {
+      "name" : "Ironhammer the Giant",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN034"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "D.D. Jet Iron",
+      "set_number" : "HA07-EN035"
+   },
+   {
+      "name" : "Aye-Iron",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN036"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Tin Goldfish",
+      "set_number" : "HA07-EN037"
+   },
+   {
+      "name" : "Gearspring Spirit",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN038"
+   },
+   {
+      "set_number" : "HA07-EN039",
+      "rarity" : "Super Rare",
+      "name" : "Gem-Knight Lazuli"
+   },
+   {
+      "set_number" : "HA07-EN040",
+      "name" : "Gishki Natalia",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA07-EN041",
+      "name" : "Constellar Siat",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Constellar Rasalhague",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN042"
+   },
+   {
+      "name" : "Constellar Leonis",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN043"
+   },
+   {
+      "name" : "Constellar Acubens",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN044"
+   },
+   {
+      "name" : "Constellar Kaus",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA07-EN045"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Constellar Alrescha",
+      "set_number" : "HA07-EN046"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Constellar Antares",
+      "set_number" : "HA07-EN047"
+   },
+   {
+      "name" : "Evilswarm Castor",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN048"
+   },
+   {
+      "name" : "Evilswarm Obliviwisp",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN049"
+   },
+   {
+      "name" : "Evilswarm Azzathoth",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN050"
+   },
+   {
+      "set_number" : "HA07-EN051",
+      "rarity" : "Secret Rare",
+      "name" : "Evilswarm Thunderbird"
+   },
+   {
+      "name" : "Evilswarm Salamandra",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN052"
+   },
+   {
+      "name" : "Evilswarm Golem",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN053"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Evilswarm Coppelia",
+      "set_number" : "HA07-EN054"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Sophia, Goddess of Rebirth",
+      "set_number" : "HA07-EN055"
+   },
+   {
+      "name" : "Gishki Psychelone",
+      "rarity" : "Super Rare",
+      "set_number" : "HA07-EN056"
+   },
+   {
+      "name" : "Gishki Zielgigas",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA07-EN057"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gem-Knight Seraphinite",
+      "set_number" : "HA07-EN058"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Gem-Knight Master Diamond",
+      "set_number" : "HA07-EN059"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Tin Archduke",
+      "set_number" : "HA07-EN060"
+   },
+   {
+      "set_number" : "HA07-EN061",
+      "rarity" : "Secret Rare",
+      "name" : "Constellar Praesepe"
+   },
+   {
+      "set_number" : "HA07-EN062",
+      "name" : "Constellar Ptolemy M7",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Evilswarm Thanatos",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA07-EN063"
+   },
+   {
+      "set_number" : "HA07-EN064",
+      "name" : "Evilswarm Ophion",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Evilswarm Ouroboros",
+      "set_number" : "HA07-EN065"
+   },
+   {
+      "set_number" : "HA07-EN066",
+      "name" : "Iron Call",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA07-EN067",
+      "rarity" : "Super Rare",
+      "name" : "Constellar Star Cradle"
+   },
+   {
+      "set_number" : "HA07-EN068",
+      "name" : "Infestation Pandemic",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Constellar Meteor",
+      "set_number" : "HA07-EN069"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Infestation Terminus",
+      "set_number" : "HA07-EN070"
+   }
+]

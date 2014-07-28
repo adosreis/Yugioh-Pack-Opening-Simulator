@@ -1,0 +1,502 @@
+[
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STOR-EN000",
+      "name" : "Vortex the Whirlwind"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN001",
+      "name" : "Cosmic Compass"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STOR-EN002",
+      "name" : "Doppelwarrior"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STOR-EN003",
+      "name" : "Stardust Phantom"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STOR-EN004",
+      "name" : "D.D. Sprite"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN005",
+      "name" : "Top Runner"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Barrier Resonator",
+      "set_number" : "STOR-EN006"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STOR-EN007",
+      "name" : "Blackwing - Boreas the Sharp"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Blackwing - Brisote the Tailwind",
+      "set_number" : "STOR-EN008"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN009",
+      "name" : "Blackwing - Calima the Haze"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Tanngrisnir of the Nordic Beasts",
+      "set_number" : "STOR-EN010"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Guldfaxe of the Nordic Beasts",
+      "set_number" : "STOR-EN011"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN012",
+      "name" : "Garmr of the Nordic Beasts"
+   },
+   {
+      "set_number" : "STOR-EN013",
+      "name" : "Tanngnjostr of the Nordic Beasts",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ljosalf of the Nordic Alfar",
+      "set_number" : "STOR-EN014"
+   },
+   {
+      "name" : "Svartalf of the Nordic Alfar",
+      "set_number" : "STOR-EN015",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Dverg of the Nordic Alfar",
+      "set_number" : "STOR-EN016",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "STOR-EN017",
+      "name" : "Valkyrie of the Nordic Ascendant",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN018",
+      "name" : "Mimir of the Nordic Ascendant"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Tyr of the Nordic Champions",
+      "set_number" : "STOR-EN019"
+   },
+   {
+      "name" : "Legendary Six Samurai - Kizan",
+      "set_number" : "STOR-EN020",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Legendary Six Samurai - Enishi",
+      "set_number" : "STOR-EN021",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "STOR-EN022",
+      "name" : "Legendary Six Samurai - Kageki",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Legendary Six Samurai - Shinai",
+      "set_number" : "STOR-EN023",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Legendary Six Samurai - Mizuho",
+      "set_number" : "STOR-EN024"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN025",
+      "name" : "Kagemusha of the Six Samurai"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN026",
+      "name" : "Shien's Squire"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN027",
+      "name" : "Karakuri Watchdog mdl 313 \"Saizan\""
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Karakuri Ninja mdl 919 \"Kuick\"",
+      "set_number" : "STOR-EN028"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Scrap Worm",
+      "set_number" : "STOR-EN029"
+   },
+   {
+      "set_number" : "STOR-EN030",
+      "name" : "Scrap Shark",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Wattberyx",
+      "set_number" : "STOR-EN031"
+   },
+   {
+      "name" : "Wattmole",
+      "set_number" : "STOR-EN032",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Symphonic Warrior Basses",
+      "set_number" : "STOR-EN033"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Symphonic Warrior Drumss",
+      "set_number" : "STOR-EN034"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Symphonic Warrior Piaano",
+      "set_number" : "STOR-EN035"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "STOR-EN036",
+      "name" : "Majioshaleon"
+   },
+   {
+      "name" : "Yaksha",
+      "set_number" : "STOR-EN037",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "STOR-EN038",
+      "name" : "Thor, Lord of the Aesir",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "STOR-EN039",
+      "name" : "Loki, Lord of the Aesir"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "name" : "Odin, Father of the Aesir",
+      "set_number" : "STOR-EN040"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Legendary Six Samurai - Shi En",
+      "set_number" : "STOR-EN041"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "STOR-EN042",
+      "name" : "Karakuri Steel Shogun mdl 00X \"Bureido\""
+   },
+   {
+      "set_number" : "STOR-EN043",
+      "name" : "Atomic Scrap Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Watthydra",
+      "set_number" : "STOR-EN044"
+   },
+   {
+      "set_number" : "STOR-EN045",
+      "name" : "Nordic Relic Draupnir",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STOR-EN046",
+      "name" : "Gotterdammerung",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STOR-EN047",
+      "name" : "March Towards Ragnarok",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Shien's Smoke Signal",
+      "set_number" : "STOR-EN048",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Six Strike - Triple Impact",
+      "set_number" : "STOR-EN049"
+   },
+   {
+      "name" : "Asceticism of the Six Samurai",
+      "set_number" : "STOR-EN050",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Temple of the Six",
+      "set_number" : "STOR-EN051",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "STOR-EN052",
+      "name" : "Karakuri Cash Cache",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Karakuri Gold Dust",
+      "set_number" : "STOR-EN053"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN054",
+      "name" : "Wattkey"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Stardust Shimmer",
+      "set_number" : "STOR-EN055"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Resonator Engine",
+      "set_number" : "STOR-EN056"
+   },
+   {
+      "set_number" : "STOR-EN057",
+      "name" : "Token Sundae",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STOR-EN058",
+      "name" : "Foolish Return",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "STOR-EN059",
+      "name" : "Divine Wind of Mist Valley",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Vylon Matter",
+      "set_number" : "STOR-EN060"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STOR-EN061",
+      "name" : "Forbidden Lance"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "STOR-EN062",
+      "name" : "Terminal World"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Hope for Escape",
+      "set_number" : "STOR-EN063"
+   },
+   {
+      "name" : "Zero Force",
+      "set_number" : "STOR-EN064",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN065",
+      "name" : "Blackboost"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN066",
+      "name" : "Divine Relic Mjollnir"
+   },
+   {
+      "name" : "Solemn Authority",
+      "set_number" : "STOR-EN067",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Nordic Relic Brisingamen",
+      "set_number" : "STOR-EN068",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STOR-EN069",
+      "name" : "Nordic Relic Laevateinn",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STOR-EN070",
+      "name" : "Nordic Relic Gungnir",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "The Golden Apples",
+      "set_number" : "STOR-EN071"
+   },
+   {
+      "name" : "Odin's Eye",
+      "set_number" : "STOR-EN072",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "STOR-EN073",
+      "name" : "Gleipnir, the Fetters of Fenrir"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Musakani Magatama",
+      "set_number" : "STOR-EN074"
+   },
+   {
+      "set_number" : "STOR-EN075",
+      "name" : "Shien's Scheme",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Token Stampede",
+      "set_number" : "STOR-EN076",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Xing Zhen Hu Replica",
+      "set_number" : "STOR-EN077",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "STOR-EN078",
+      "name" : "Tyrant's Tirade",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Tiki Curse",
+      "set_number" : "STOR-EN079"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN080",
+      "name" : "Tiki Soul"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "STOR-EN081",
+      "name" : "Vanadis of the Nordic Ascendant"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STOR-EN082",
+      "name" : "Shien's Daredevil"
+   },
+   {
+      "name" : "Karakuri Muso mdl 818 \"Haipa\"",
+      "set_number" : "STOR-EN083",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Scrap Breaker",
+      "set_number" : "STOR-EN084",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "STOR-EN085",
+      "name" : "Chaos Hunter",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "STOR-EN086",
+      "name" : "Maxx \"C\"",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "STOR-EN087",
+      "name" : "The Nordic Lights"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Nordic Relic Megingjord",
+      "set_number" : "STOR-EN088"
+   },
+   {
+      "set_number" : "STOR-EN089",
+      "name" : "Six Strike - Thunder Blast",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Cyber Shield",
+      "set_number" : "STOR-EN090"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Hourglass of Courage",
+      "set_number" : "STOR-EN091"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Needle Ball",
+      "set_number" : "STOR-EN092"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STOR-EN093",
+      "name" : "Blood Sucker"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STOR-EN094",
+      "name" : "Overpowering Eye"
+   },
+   {
+      "name" : "Worm Illidan",
+      "set_number" : "STOR-EN095",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Worm Jetelikpse",
+      "set_number" : "STOR-EN096"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Worm King",
+      "set_number" : "STOR-EN097"
+   },
+   {
+      "name" : "Elemental Hero Ice Edge",
+      "set_number" : "STOR-EN098",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Vylon Delta",
+      "set_number" : "STOR-EN099",
+      "rarity" : "Secret Rare"
+   }
+]

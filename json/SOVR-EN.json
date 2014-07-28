@@ -1,0 +1,512 @@
+[
+   {
+      "rarity" : "Super Rare",
+      "name" : "Koa'ki Meiru Beetle",
+      "set_number" : "SOVR-EN000"
+   },
+   {
+      "set_number" : "SOVR-EN001",
+      "name" : "Majestic Dragon",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "SOVR-EN002",
+      "name" : "Stardust Xiaolong",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Max Warrior",
+      "set_number" : "SOVR-EN003"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Quickdraw Synchron",
+      "set_number" : "SOVR-EN004"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN005",
+      "name" : "Level Eater"
+   },
+   {
+      "set_number" : "SOVR-EN006",
+      "name" : "Zero Gardna",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Regulus",
+      "set_number" : "SOVR-EN007"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN008",
+      "name" : "Infernity Necromancer"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SOVR-EN009",
+      "name" : "Fortune Lady Wind"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SOVR-EN010",
+      "name" : "Fortune Lady Water"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SOVR-EN011",
+      "name" : "Fortune Lady Dark"
+   },
+   {
+      "name" : "Fortune Lady Earth",
+      "set_number" : "SOVR-EN012",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Solitaire Magician",
+      "set_number" : "SOVR-EN013"
+   },
+   {
+      "name" : "Catoblepas and the Witch of Fate",
+      "set_number" : "SOVR-EN014",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Dark Spider",
+      "set_number" : "SOVR-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ground Spider",
+      "set_number" : "SOVR-EN016",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Relinquished Spider",
+      "set_number" : "SOVR-EN017",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN018",
+      "name" : "Spyder Spider"
+   },
+   {
+      "name" : "Mother Spider",
+      "set_number" : "SOVR-EN019",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Reptilianne Gorgon",
+      "set_number" : "SOVR-EN020",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOVR-EN021",
+      "name" : "Reptilianne Medusa",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOVR-EN022",
+      "name" : "Reptilianne Scylla",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN023",
+      "name" : "Reptilianne Viper"
+   },
+   {
+      "name" : "Earthbound Immortal Ccarayhua",
+      "set_number" : "SOVR-EN024",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Earthbound Immortal Uru",
+      "set_number" : "SOVR-EN025",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "SOVR-EN026",
+      "name" : "Earthbound Immortal Wiraqocha Rasca"
+   },
+   {
+      "set_number" : "SOVR-EN027",
+      "name" : "Koa'ki Meiru Sea Panther",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SOVR-EN028",
+      "name" : "Koa'ki Meiru Rooklord"
+   },
+   {
+      "name" : "Tuned Magician",
+      "set_number" : "SOVR-EN029",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Crusader of Endymion",
+      "set_number" : "SOVR-EN030"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Woodland Archer",
+      "set_number" : "SOVR-EN031"
+   },
+   {
+      "set_number" : "SOVR-EN032",
+      "name" : "Knight of the Red Lotus",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Energy Bravery",
+      "set_number" : "SOVR-EN033"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN034",
+      "name" : "Swap Frog"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Lord British Space Fighter",
+      "set_number" : "SOVR-EN035"
+   },
+   {
+      "set_number" : "SOVR-EN036",
+      "name" : "Oshaleon",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Djinn Releaser of Rituals",
+      "set_number" : "SOVR-EN037",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "SOVR-EN038",
+      "name" : "Djinn Presider of Rituals",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Divine Grace - Northwemko",
+      "set_number" : "SOVR-EN039"
+   },
+   {
+      "name" : "Majestic Star Dragon",
+      "set_number" : "SOVR-EN040",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare"
+   },
+   {
+      "set_number" : "SOVR-EN041",
+      "name" : "Blackwing - Silverwind the Ascendant",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Reptilianne Hydra",
+      "set_number" : "SOVR-EN042"
+   },
+   {
+      "set_number" : "SOVR-EN043",
+      "name" : "Black Brutdrago",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Explosive Magician",
+      "set_number" : "SOVR-EN044",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN045",
+      "name" : "Spider Web"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Earthbound Whirlwind",
+      "set_number" : "SOVR-EN046"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN047",
+      "name" : "Savage Colosseum"
+   },
+   {
+      "set_number" : "SOVR-EN048",
+      "name" : "Attack Pheromones",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOVR-EN049",
+      "name" : "Molting Escape",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN050",
+      "name" : "Reptilianne Spawn"
+   },
+   {
+      "name" : "Fortune's Future",
+      "set_number" : "SOVR-EN051",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Time Passage",
+      "set_number" : "SOVR-EN052"
+   },
+   {
+      "set_number" : "SOVR-EN053",
+      "name" : "Iron Core Armor",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Herculean Power",
+      "set_number" : "SOVR-EN054",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gemini Spark",
+      "set_number" : "SOVR-EN055"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN056",
+      "name" : "Ritual of Grace"
+   },
+   {
+      "set_number" : "SOVR-EN057",
+      "name" : "Preparation of Rites",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "SOVR-EN058",
+      "name" : "Moray of Greed"
+   },
+   {
+      "name" : "Spiritual Forest",
+      "set_number" : "SOVR-EN059",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOVR-EN060",
+      "name" : "Raging Mad Plants",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Insect Neglect",
+      "set_number" : "SOVR-EN061",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Faustian Bargain",
+      "set_number" : "SOVR-EN062",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "SOVR-EN063",
+      "name" : "Slip Summon",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Synchro Barrier",
+      "set_number" : "SOVR-EN064",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Enlightenment",
+      "set_number" : "SOVR-EN065",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOVR-EN066",
+      "name" : "Bending Destiny",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SOVR-EN067",
+      "name" : "Inherited Fortune"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN068",
+      "name" : "Spider Egg"
+   },
+   {
+      "set_number" : "SOVR-EN069",
+      "name" : "Wolf in Sheep's Clothing",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Earthbound Wave",
+      "set_number" : "SOVR-EN070",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOVR-EN071",
+      "name" : "Roar of the Earthbound",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOVR-EN072",
+      "name" : "Limit Impulse"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Infernity Force",
+      "set_number" : "SOVR-EN073"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SOVR-EN074",
+      "name" : "Nega-Ton Corepanel"
+   },
+   {
+      "name" : "Gemini Counter",
+      "set_number" : "SOVR-EN075",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Gemini Booster",
+      "set_number" : "SOVR-EN076",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ritual Buster",
+      "set_number" : "SOVR-EN077"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "SOVR-EN078",
+      "name" : "Stygian Dirge"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SOVR-EN079",
+      "name" : "Seal of Wickedness"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Appointer of the Red Lotus",
+      "set_number" : "SOVR-EN080"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Koa'ki Meiru Maximus",
+      "set_number" : "SOVR-EN081"
+   },
+   {
+      "name" : "Shire, Lightsworn Spirit",
+      "set_number" : "SOVR-EN082",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "SOVR-EN083",
+      "name" : "Rinyan, Lightsworn Rogue",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "SOVR-EN084",
+      "name" : "Yellow Baboon, Archer of the Forest"
+   },
+   {
+      "name" : "Gemini Scorpion",
+      "set_number" : "SOVR-EN085",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "SOVR-EN086",
+      "name" : "Metabo-Shark",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "SOVR-EN087",
+      "name" : "Earthbound Revival",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Reptilianne Poison",
+      "set_number" : "SOVR-EN088"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SOVR-EN089",
+      "name" : "Gateway of the Six"
+   },
+   {
+      "set_number" : "SOVR-EN090",
+      "name" : "Dark Rabbit",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Shine Palace",
+      "set_number" : "SOVR-EN091",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "SOVR-EN092",
+      "name" : "Dark Simorgh",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Victoria",
+      "set_number" : "SOVR-EN093",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "SOVR-EN094",
+      "name" : "Ice Queen",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "SOVR-EN095",
+      "name" : "Shutendoji"
+   },
+   {
+      "name" : "Archlord Kristya",
+      "set_number" : "SOVR-EN096",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Guardian Eatos",
+      "set_number" : "SOVR-EN097",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "SOVR-EN098",
+      "name" : "Clear Vice Dragon"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Clear World",
+      "set_number" : "SOVR-EN099"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Tempest Magician",
+      "set_number" : "SOVR-ENSE1"
+   },
+   {
+      "name" : "Charge of the Light Brigade",
+      "set_number" : "SOVR-ENSE2",
+      "rarity" : "Super Rare"
+   }
+]

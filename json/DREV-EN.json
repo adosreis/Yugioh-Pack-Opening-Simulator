@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Scrap Archfiend",
+      "rarity" : "Super Rare",
+      "set_number" : "DREV-EN000"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Earthquake Giant",
+      "set_number" : "DREV-EN001"
+   },
+   {
+      "set_number" : "DREV-EN002",
+      "name" : "Effect Veiler",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "DREV-EN003",
+      "name" : "Dash Warrior",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DREV-EN004",
+      "rarity" : "Common",
+      "name" : "Damage Eater "
+   },
+   {
+      "set_number" : "DREV-EN005",
+      "rarity" : "Common",
+      "name" : "A/D Changer "
+   },
+   {
+      "set_number" : "DREV-EN006",
+      "rarity" : "Common",
+      "name" : "Stronghold Guardian "
+   },
+   {
+      "set_number" : "DREV-EN007",
+      "rarity" : "Rare",
+      "name" : "Playful Possum"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Egotistical Ape",
+      "set_number" : "DREV-EN008"
+   },
+   {
+      "name" : "Uni-Horned Familiar",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN009"
+   },
+   {
+      "name" : "Monoceros",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN010"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "D.D. Unicorn Knight",
+      "set_number" : "DREV-EN011"
+   },
+   {
+      "name" : "Unibird ",
+      "rarity" : "Super Rare",
+      "set_number" : "DREV-EN012"
+   },
+   {
+      "name" : "Bicorn Re'em",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN013"
+   },
+   {
+      "set_number" : "DREV-EN014",
+      "name" : "Mine Mole",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Trident Warrior",
+      "set_number" : "DREV-EN015"
+   },
+   {
+      "name" : "Delta Flyer",
+      "rarity" : "Rare",
+      "set_number" : "DREV-EN016"
+   },
+   {
+      "set_number" : "DREV-EN017",
+      "rarity" : "Common",
+      "name" : "Rhinotaurus"
+   },
+   {
+      "set_number" : "DREV-EN018",
+      "rarity" : "Rare",
+      "name" : "Hypnocorn "
+   },
+   {
+      "name" : "Scrap Chimera",
+      "rarity" : "Super Rare",
+      "set_number" : "DREV-EN019"
+   },
+   {
+      "set_number" : "DREV-EN020",
+      "rarity" : "Common",
+      "name" : "Scrap Goblin"
+   },
+   {
+      "set_number" : "DREV-EN021",
+      "rarity" : "Rare",
+      "name" : "Scrap Beast"
+   },
+   {
+      "set_number" : "DREV-EN022",
+      "name" : "Scrap Hunter",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DREV-EN023",
+      "rarity" : "Rare",
+      "name" : "Scrap Golem"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Wattbetta",
+      "set_number" : "DREV-EN024"
+   },
+   {
+      "set_number" : "DREV-EN025",
+      "rarity" : "Common",
+      "name" : "Wattlemur"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Wattpheasant",
+      "set_number" : "DREV-EN026"
+   },
+   {
+      "set_number" : "DREV-EN027",
+      "rarity" : "Common",
+      "name" : "Naturia Mosquito"
+   },
+   {
+      "set_number" : "DREV-EN028",
+      "rarity" : "Common",
+      "name" : "Naturia Beans"
+   },
+   {
+      "name" : "Naturia Bamboo Shoot",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "DREV-EN029"
+   },
+   {
+      "set_number" : "DREV-EN030",
+      "name" : "Amazoness Sage",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Amazoness Trainee",
+      "set_number" : "DREV-EN031"
+   },
+   {
+      "name" : "Amazoness Queen",
+      "rarity" : "Super Rare",
+      "set_number" : "DREV-EN032"
+   },
+   {
+      "name" : "Lock Cat",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN033"
+   },
+   {
+      "name" : "Elephun",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN034"
+   },
+   {
+      "name" : "Synchro Fusionist",
+      "rarity" : "Rare",
+      "set_number" : "DREV-EN035"
+   },
+   {
+      "set_number" : "DREV-EN036",
+      "name" : "Ambitious Gofer",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DREV-EN037",
+      "name" : "Final Psychic Ogre",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Dragon Knight Draco-Equiste",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "DREV-EN038"
+   },
+   {
+      "name" : "Ultimate Axon Kicker",
+      "rarity" : "Super Rare",
+      "set_number" : "DREV-EN039"
+   },
+   {
+      "set_number" : "DREV-EN040",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Thunder Unicorn"
+   },
+   {
+      "set_number" : "DREV-EN041",
+      "name" : "Voltic Bicorn",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "DREV-EN042",
+      "name" : "Lightning Tricorn",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Scrap Dragon",
+      "set_number" : "DREV-EN043"
+   },
+   {
+      "name" : "Wattchimera",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "DREV-EN044"
+   },
+   {
+      "set_number" : "DREV-EN045",
+      "rarity" : "Common",
+      "name" : "Blind Spot Strike"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Double Cyclone",
+      "set_number" : "DREV-EN046"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Scrapyard",
+      "set_number" : "DREV-EN047"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Scrapstorm",
+      "set_number" : "DREV-EN048"
+   },
+   {
+      "set_number" : "DREV-EN049",
+      "name" : "Scrap Sheen",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Wattcine",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN050"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Naturia Forest",
+      "set_number" : "DREV-EN051"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Landoise's Luminous Moss ",
+      "set_number" : "DREV-EN052"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Amazoness Village",
+      "set_number" : "DREV-EN053"
+   },
+   {
+      "set_number" : "DREV-EN054",
+      "name" : "Amazoness Fighting Spirit ",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DREV-EN055",
+      "name" : "Unicorn Beacon",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Beast Rage",
+      "set_number" : "DREV-EN056"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Miracle Synchro Fusion",
+      "set_number" : "DREV-EN057"
+   },
+   {
+      "set_number" : "DREV-EN058",
+      "name" : "Pestilence ",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DREV-EN059",
+      "name" : "Cursed Armaments ",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "DREV-EN060",
+      "rarity" : "Super Rare",
+      "name" : "Wiseman's Chalice"
+   },
+   {
+      "name" : "Summoning Curse",
+      "rarity" : "Short Print",
+      "set_number" : "DREV-EN061"
+   },
+   {
+      "name" : "Pot of Duality",
+      "rarity" : "Secret Rare",
+      "set_number" : "DREV-EN062"
+   },
+   {
+      "set_number" : "DREV-EN063",
+      "name" : "Desperate Tag",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Battle Instinct",
+      "set_number" : "DREV-EN064"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Howl of the Wild",
+      "set_number" : "DREV-EN065"
+   },
+   {
+      "set_number" : "DREV-EN066",
+      "rarity" : "Rare",
+      "name" : "Parallel Selection"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Reanimation Wave",
+      "set_number" : "DREV-EN067"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Barrier Wave",
+      "set_number" : "DREV-EN068"
+   },
+   {
+      "name" : "Chain Whirlwind",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN069"
+   },
+   {
+      "set_number" : "DREV-EN070",
+      "rarity" : "Common",
+      "name" : "Scrap Rage"
+   },
+   {
+      "name" : "Wattcannon",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN071"
+   },
+   {
+      "set_number" : "DREV-EN072",
+      "name" : "Amazoness Willpower",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Queen's Pawn",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN073"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Beast Rising",
+      "set_number" : "DREV-EN074"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Horn of the Phantom Beast",
+      "set_number" : "DREV-EN075"
+   },
+   {
+      "name" : "Paradox Fusion",
+      "rarity" : "Super Rare",
+      "set_number" : "DREV-EN076"
+   },
+   {
+      "set_number" : "DREV-EN077",
+      "name" : "Solemn Warning",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "DREV-EN078",
+      "rarity" : "Common",
+      "name" : "Anti-Magic Prism"
+   },
+   {
+      "set_number" : "DREV-EN079",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Chivalry "
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Light of Destruction",
+      "set_number" : "DREV-EN080"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Amazoness Scouts",
+      "set_number" : "DREV-EN081"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Naturia Pineapple",
+      "set_number" : "DREV-EN082"
+   },
+   {
+      "name" : "D.D. Destroyer",
+      "rarity" : "Rare",
+      "set_number" : "DREV-EN083"
+   },
+   {
+      "set_number" : "DREV-EN084",
+      "rarity" : "Rare",
+      "name" : "Dark Desertapir"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Psychic Nightmare",
+      "set_number" : "DREV-EN085"
+   },
+   {
+      "set_number" : "DREV-EN086",
+      "name" : "Guts of Steel",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DREV-EN087",
+      "name" : "Amazoness Heirloom",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Amazoness Shamanism",
+      "set_number" : "DREV-EN088"
+   },
+   {
+      "name" : "Super Rush Recklessly",
+      "rarity" : "Super Rare",
+      "set_number" : "DREV-EN089"
+   },
+   {
+      "name" : "Mystical Refpanel",
+      "rarity" : "Secret Rare",
+      "set_number" : "DREV-EN090"
+   },
+   {
+      "name" : "Fabled Raven",
+      "rarity" : "Secret Rare",
+      "set_number" : "DREV-EN091"
+   },
+   {
+      "set_number" : "DREV-EN092",
+      "rarity" : "Secret Rare",
+      "name" : "Ally of Justice Cyclone Creator"
+   },
+   {
+      "name" : "Miracle's Wake",
+      "rarity" : "Secret Rare",
+      "set_number" : "DREV-EN093"
+   },
+   {
+      "name" : "Flamvell Poun",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN094"
+   },
+   {
+      "name" : "Flamvell Archer",
+      "rarity" : "Common",
+      "set_number" : "DREV-EN095"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Flamvell Fiend",
+      "set_number" : "DREV-EN096"
+   },
+   {
+      "set_number" : "DREV-EN097",
+      "rarity" : "Common",
+      "name" : "Genex Worker"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Genex Power Planner",
+      "set_number" : "DREV-EN098"
+   },
+   {
+      "set_number" : "DREV-EN099",
+      "rarity" : "Secret Rare",
+      "name" : "Stygian Street Patrol"
+   }
+]

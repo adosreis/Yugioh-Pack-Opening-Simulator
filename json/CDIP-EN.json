@@ -1,0 +1,302 @@
+[
+   {
+      "name" : "Cyberdark Horn",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN001"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Cyberdark Edge",
+      "set_number" : "CDIP-EN002"
+   },
+   {
+      "set_number" : "CDIP-EN003",
+      "name" : "Cyberdark Keel",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "CDIP-EN004",
+      "name" : "Cyber Ogre",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CDIP-EN005",
+      "name" : "Cyber Esper",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Allure Queen LV3",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN006"
+   },
+   {
+      "set_number" : "CDIP-EN007",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Allure Queen LV5"
+   },
+   {
+      "set_number" : "CDIP-EN008",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Allure Queen LV7"
+   },
+   {
+      "name" : "Dark Lucius LV4",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN009"
+   },
+   {
+      "set_number" : "CDIP-EN010",
+      "name" : "Dark Lucius LV6",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Dark Lucius LV8",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN011"
+   },
+   {
+      "name" : "Stray Asmodian",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN012"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Abaki",
+      "set_number" : "CDIP-EN013"
+   },
+   {
+      "name" : "Flame Ogre",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN014"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Snipe Hunter",
+      "set_number" : "CDIP-EN015"
+   },
+   {
+      "set_number" : "CDIP-EN016",
+      "rarity" : "Common",
+      "name" : "Blast Asmodian"
+   },
+   {
+      "set_number" : "CDIP-EN017",
+      "name" : "Vanity's Fiend",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Barrier Statue of the Abyss",
+      "set_number" : "CDIP-EN018"
+   },
+   {
+      "set_number" : "CDIP-EN019",
+      "name" : "Barrier Statue of the Torrent",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Barrier Statue of the Inferno",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN020"
+   },
+   {
+      "name" : "Barrier Statue of the Stormwinds",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN021"
+   },
+   {
+      "set_number" : "CDIP-EN022",
+      "rarity" : "Common",
+      "name" : "Barrier Statue of the Drought"
+   },
+   {
+      "name" : "Barrier Statue of the Heavens",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN023"
+   },
+   {
+      "set_number" : "CDIP-EN024",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Vanity's Ruler"
+   },
+   {
+      "set_number" : "CDIP-EN025",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Iris, the Earth Mother"
+   },
+   {
+      "set_number" : "CDIP-EN026",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Lightning Punisher"
+   },
+   {
+      "set_number" : "CDIP-EN027",
+      "rarity" : "Common",
+      "name" : "Queen's Bodyguard"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Combo Fighter",
+      "set_number" : "CDIP-EN028"
+   },
+   {
+      "name" : "Combo Master",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN029"
+   },
+   {
+      "set_number" : "CDIP-EN030",
+      "rarity" : "Common",
+      "name" : "Man Beast of Ares"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Rampaging Rhynos",
+      "set_number" : "CDIP-EN031"
+   },
+   {
+      "name" : "Storm Shooter",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN032"
+   },
+   {
+      "set_number" : "CDIP-EN033",
+      "name" : "Alien Infiltrator",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CDIP-EN034",
+      "rarity" : "Common",
+      "name" : "Alien Mars"
+   },
+   {
+      "set_number" : "CDIP-EN035",
+      "name" : "Cyberdark Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Cyber Ogre 2",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN036"
+   },
+   {
+      "set_number" : "CDIP-EN037",
+      "name" : "Corruption Cell \"A\"",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Flash of the Forbidden Spell",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN038"
+   },
+   {
+      "set_number" : "CDIP-EN039",
+      "rarity" : "Common",
+      "name" : "Ritual Foregone"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Instant Fusion",
+      "set_number" : "CDIP-EN040"
+   },
+   {
+      "set_number" : "CDIP-EN041",
+      "rarity" : "Common",
+      "name" : "Counter Cleaner"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Linear Accelerator Cannon",
+      "set_number" : "CDIP-EN042"
+   },
+   {
+      "set_number" : "CDIP-EN043",
+      "rarity" : "Common",
+      "name" : "Chain Strike"
+   },
+   {
+      "name" : "Miraculous Rebirth",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN044"
+   },
+   {
+      "name" : "Mystical Wind Typhoon",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN045"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Level Down!?",
+      "set_number" : "CDIP-EN046"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Degenerate Circuit",
+      "set_number" : "CDIP-EN047"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Senet Switch",
+      "set_number" : "CDIP-EN048"
+   },
+   {
+      "set_number" : "CDIP-EN049",
+      "name" : "Blasting Fuse",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "CDIP-EN050",
+      "name" : "Straight Flush",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Justi-Break",
+      "set_number" : "CDIP-EN051"
+   },
+   {
+      "name" : "Dimensional Inversion",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN052"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Chain Healing",
+      "set_number" : "CDIP-EN053"
+   },
+   {
+      "set_number" : "CDIP-EN054",
+      "rarity" : "Common",
+      "name" : "Chain Detonation"
+   },
+   {
+      "name" : "Byroad Sacrifice",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN055"
+   },
+   {
+      "name" : "Trojan Blast",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "CDIP-EN056"
+   },
+   {
+      "name" : "Accumulated Fortune",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN057"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Cyber Shadow Gardna",
+      "set_number" : "CDIP-EN058"
+   },
+   {
+      "name" : "Vanity's Call",
+      "rarity" : "Common",
+      "set_number" : "CDIP-EN059"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Black Horn of Heaven",
+      "set_number" : "CDIP-EN060"
+   }
+]

@@ -1,0 +1,302 @@
+[
+   {
+      "set_number" : "HA02-EN001",
+      "name" : "Naturia Beetle",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Naturia Rock",
+      "set_number" : "HA02-EN002"
+   },
+   {
+      "set_number" : "HA02-EN003",
+      "name" : "Naturia Guardian",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Naturia Vein",
+      "set_number" : "HA02-EN004"
+   },
+   {
+      "set_number" : "HA02-EN005",
+      "rarity" : "Super Rare",
+      "name" : "Genex Furnace"
+   },
+   {
+      "name" : "Genex Gaia",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN006"
+   },
+   {
+      "set_number" : "HA02-EN007",
+      "name" : "Genex Spare",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Genex Turbine",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN008"
+   },
+   {
+      "set_number" : "HA02-EN009",
+      "rarity" : "Super Rare",
+      "name" : "Genex Doctor"
+   },
+   {
+      "set_number" : "HA02-EN010",
+      "name" : "Genex Solar",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA02-EN011",
+      "rarity" : "Secret Rare",
+      "name" : "Dai-sojo of the Ice Barrier"
+   },
+   {
+      "set_number" : "HA02-EN012",
+      "name" : "Medium of the Ice Barrier",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA02-EN013",
+      "name" : "Mist Valley Baby Roc",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA02-EN014",
+      "rarity" : "Super Rare",
+      "name" : "Mist Valley Executor"
+   },
+   {
+      "set_number" : "HA02-EN015",
+      "rarity" : "Super Rare",
+      "name" : "Flamvell Grunika"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Flamvell Baby",
+      "set_number" : "HA02-EN016"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Ally Mind",
+      "set_number" : "HA02-EN017"
+   },
+   {
+      "set_number" : "HA02-EN018",
+      "rarity" : "Super Rare",
+      "name" : "Ally of Justice Nullfier"
+   },
+   {
+      "set_number" : "HA02-EN019",
+      "rarity" : "Super Rare",
+      "name" : "Ally of Justice Searcher"
+   },
+   {
+      "name" : "Ally of Justice Enemy Catcher",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN020"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Ally of Justice Thunder Armor",
+      "set_number" : "HA02-EN021"
+   },
+   {
+      "set_number" : "HA02-EN022",
+      "rarity" : "Secret Rare",
+      "name" : "Ally of Justice Cosmic Gateway"
+   },
+   {
+      "name" : "Worm Linx",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN023"
+   },
+   {
+      "name" : "Worm Millidith",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN024"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Worm Noble",
+      "set_number" : "HA02-EN025"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Naturia Beast",
+      "set_number" : "HA02-EN026"
+   },
+   {
+      "set_number" : "HA02-EN027",
+      "name" : "Dewloren, Tiger King of the Ice Barrier",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Thermal Genex",
+      "set_number" : "HA02-EN028"
+   },
+   {
+      "set_number" : "HA02-EN029",
+      "name" : "Geo Genex",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA02-EN030",
+      "rarity" : "Secret Rare",
+      "name" : "Ally of Justice Field Marshal"
+   },
+   {
+      "set_number" : "HA02-EN031",
+      "rarity" : "Super Rare",
+      "name" : "Fabled Lurrie"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Fabled Grimro",
+      "set_number" : "HA02-EN032"
+   },
+   {
+      "set_number" : "HA02-EN033",
+      "rarity" : "Secret Rare",
+      "name" : "Fabled Gallabas"
+   },
+   {
+      "set_number" : "HA02-EN034",
+      "name" : "Fabled Kushano",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Jurrac Protops",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN035"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Jurrac Velo",
+      "set_number" : "HA02-EN036"
+   },
+   {
+      "name" : "Jurrac Monoloph",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN037"
+   },
+   {
+      "set_number" : "HA02-EN038",
+      "name" : "Jurrac Tyrannus",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA02-EN039",
+      "rarity" : "Super Rare",
+      "name" : "Naturia Antjaw"
+   },
+   {
+      "set_number" : "HA02-EN040",
+      "rarity" : "Super Rare",
+      "name" : "Naturia Spiderfang"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Naturia Rosewhip",
+      "set_number" : "HA02-EN041"
+   },
+   {
+      "name" : "Naturia Cosmobeet",
+      "rarity" : "Super Rare",
+      "set_number" : "HA02-EN042"
+   },
+   {
+      "set_number" : "HA02-EN043",
+      "rarity" : "Super Rare",
+      "name" : "Genex Blastfan"
+   },
+   {
+      "set_number" : "HA02-EN044",
+      "name" : "Genex Recycled",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA02-EN045",
+      "rarity" : "Secret Rare",
+      "name" : "Genex Army"
+   },
+   {
+      "set_number" : "HA02-EN046",
+      "name" : "Pilgrim of the Ice Barrier",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Geomancer of the Ice Barrier",
+      "set_number" : "HA02-EN047"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Mist Valley Falcon",
+      "set_number" : "HA02-EN048"
+   },
+   {
+      "name" : "Mist Valley Apex Avian",
+      "rarity" : "Secret Rare",
+      "set_number" : "HA02-EN049"
+   },
+   {
+      "set_number" : "HA02-EN050",
+      "name" : "Ally of Justice Reverse Break",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA02-EN051",
+      "name" : "Ally of Justice Unlimiter",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA02-EN052",
+      "name" : "Worm Opera",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA02-EN053",
+      "name" : "Worm Prince",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Worm Queen",
+      "set_number" : "HA02-EN054"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Worm Rakuyeh",
+      "set_number" : "HA02-EN055"
+   },
+   {
+      "set_number" : "HA02-EN056",
+      "name" : "Fabled Valkyrus",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA02-EN057",
+      "rarity" : "Secret Rare",
+      "name" : "Jurrac Giganoto"
+   },
+   {
+      "set_number" : "HA02-EN058",
+      "rarity" : "Secret Rare",
+      "name" : "Naturia Leodrake"
+   },
+   {
+      "set_number" : "HA02-EN059",
+      "rarity" : "Secret Rare",
+      "name" : "Windmill Genex"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Mist Valley Thunder Lord",
+      "set_number" : "HA02-EN060"
+   }
+]

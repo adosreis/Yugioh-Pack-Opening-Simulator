@@ -1,0 +1,502 @@
+[
+   {
+      "set_number" : "CRMS-EN000",
+      "rarity" : "Secret Rare",
+      "name" : "Colossal Fighter/Assault Mode"
+   },
+   {
+      "set_number" : "CRMS-EN001",
+      "rarity" : "Super Rare",
+      "name" : "Turret Warrior"
+   },
+   {
+      "set_number" : "CRMS-EN002",
+      "name" : "Debris Dragon",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CRMS-EN003",
+      "rarity" : "Rare",
+      "name" : "Hyper Synchron"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "name" : "Red Dragon Archfiend/Assault Mode",
+      "set_number" : "CRMS-EN004"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Trap Eater",
+      "set_number" : "CRMS-EN005"
+   },
+   {
+      "name" : "Twin-Sword Marauder",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN006"
+   },
+   {
+      "name" : "Dark Tinker",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN007"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Blackwing - Gale the Whirlwind",
+      "set_number" : "CRMS-EN008"
+   },
+   {
+      "name" : "Blackwing - Bora the Spear",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN009"
+   },
+   {
+      "set_number" : "CRMS-EN010",
+      "rarity" : "Common",
+      "name" : "Blackwing - Sirocco the Dawn"
+   },
+   {
+      "name" : "Twilight Rose Knight",
+      "rarity" : "Super Rare",
+      "set_number" : "CRMS-EN011"
+   },
+   {
+      "set_number" : "CRMS-EN012",
+      "name" : "Summon Reactor・SK",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Trap Reactor・Y FI",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN013"
+   },
+   {
+      "name" : "Spell Reactor・RE",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN014"
+   },
+   {
+      "set_number" : "CRMS-EN015",
+      "name" : "Black Salvo",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "CRMS-EN016",
+      "name" : "Flying Fortress SKY FIRE",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Boarden",
+      "set_number" : "CRMS-EN017"
+   },
+   {
+      "name" : "Morphtronic Slingen",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN018"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Doomkaiser Dragon/Assault Mode",
+      "set_number" : "CRMS-EN019"
+   },
+   {
+      "set_number" : "CRMS-EN020",
+      "name" : "Hyper Psychic Blaster/Assault Mode",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Arcanite Magician/Assault Mode",
+      "set_number" : "CRMS-EN021"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Arcane Apprentice",
+      "set_number" : "CRMS-EN022"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Assault Mercenary",
+      "set_number" : "CRMS-EN023"
+   },
+   {
+      "name" : "Assault Beast",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN024"
+   },
+   {
+      "set_number" : "CRMS-EN025",
+      "rarity" : "Common",
+      "name" : "Night Wing Sorceress"
+   },
+   {
+      "set_number" : "CRMS-EN026",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Lifeforce Harmonizer"
+   },
+   {
+      "set_number" : "CRMS-EN027",
+      "rarity" : "Rare",
+      "name" : "Gladiator Beast Samnite"
+   },
+   {
+      "name" : "Dupe Frog",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN028"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Flip Flop Frog",
+      "set_number" : "CRMS-EN029"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "B.E.S. Big Core MK-2",
+      "set_number" : "CRMS-EN030"
+   },
+   {
+      "name" : "Inmato",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN031"
+   },
+   {
+      "name" : "Scanner",
+      "rarity" : "Super Rare",
+      "set_number" : "CRMS-EN032"
+   },
+   {
+      "set_number" : "CRMS-EN033",
+      "rarity" : "Super Rare",
+      "name" : "Dimension Fortress Weapon"
+   },
+   {
+      "name" : "Desert Protector",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN034"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Cross-Sword Beetle",
+      "set_number" : "CRMS-EN035"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Bee List Soldier",
+      "set_number" : "CRMS-EN036"
+   },
+   {
+      "name" : "Hydra Viper",
+      "rarity" : "Short Print",
+      "set_number" : "CRMS-EN037"
+   },
+   {
+      "name" : "Alien Overlord",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN038"
+   },
+   {
+      "name" : "Alien Ammonite",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN039"
+   },
+   {
+      "name" : "Dark Strike Fighter",
+      "rarity" : "Super Rare",
+      "set_number" : "CRMS-EN040"
+   },
+   {
+      "name" : "Blackwing Armor Master",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "CRMS-EN041"
+   },
+   {
+      "name" : "Hyper Psychic Blaster",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "CRMS-EN042"
+   },
+   {
+      "set_number" : "CRMS-EN043",
+      "name" : "Arcanite Magician",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Cosmic Fortress Gol'gar",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "CRMS-EN044"
+   },
+   {
+      "set_number" : "CRMS-EN045",
+      "name" : "Prevention Star",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Vengeful Servant",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN046"
+   },
+   {
+      "name" : "Star Blast",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN047"
+   },
+   {
+      "set_number" : "CRMS-EN048",
+      "name" : "Raptor Wing Strike",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Morphtronic Rusty Engine",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN049"
+   },
+   {
+      "set_number" : "CRMS-EN050",
+      "rarity" : "Common",
+      "name" : "Morphtronic Map"
+   },
+   {
+      "set_number" : "CRMS-EN051",
+      "rarity" : "Common",
+      "name" : "Assault Overload"
+   },
+   {
+      "name" : "Assault Teleport",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN052"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Assault Revival",
+      "set_number" : "CRMS-EN053"
+   },
+   {
+      "set_number" : "CRMS-EN054",
+      "name" : "Psychic Sword",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Telekinetic Power Well",
+      "set_number" : "CRMS-EN055"
+   },
+   {
+      "set_number" : "CRMS-EN056",
+      "rarity" : "Short Print",
+      "name" : "Indomitable Gladiator Beast"
+   },
+   {
+      "set_number" : "CRMS-EN057",
+      "rarity" : "Common",
+      "name" : "Seed Cannon"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Super Solar Nutrient",
+      "set_number" : "CRMS-EN058"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Six Scrolls of the Samurai",
+      "set_number" : "CRMS-EN059"
+   },
+   {
+      "set_number" : "CRMS-EN060",
+      "rarity" : "Common",
+      "name" : "Verdant Sanctuary"
+   },
+   {
+      "set_number" : "CRMS-EN061",
+      "name" : "Arcane Barrier",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CRMS-EN062",
+      "name" : "Mysterious Triangle",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Assault Mode Activate",
+      "set_number" : "CRMS-EN063"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Spirit Force",
+      "set_number" : "CRMS-EN064"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Descending Lost Star",
+      "set_number" : "CRMS-EN065"
+   },
+   {
+      "name" : "Shining Silver Force",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN066"
+   },
+   {
+      "set_number" : "CRMS-EN067",
+      "rarity" : "Common",
+      "name" : "Half or Nothing"
+   },
+   {
+      "set_number" : "CRMS-EN068",
+      "rarity" : "Short Print",
+      "name" : "Nightmare Archfiends"
+   },
+   {
+      "set_number" : "CRMS-EN069",
+      "rarity" : "Common",
+      "name" : "Ebon Arrow"
+   },
+   {
+      "set_number" : "CRMS-EN070",
+      "name" : "Ivy Shackles",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CRMS-EN071",
+      "name" : "Fake Explosion",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Forcefield",
+      "set_number" : "CRMS-EN072"
+   },
+   {
+      "name" : "Morphtronic Mix-up",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN073"
+   },
+   {
+      "set_number" : "CRMS-EN074",
+      "rarity" : "Common",
+      "name" : "Assault Slash"
+   },
+   {
+      "set_number" : "CRMS-EN075",
+      "name" : "Assault Counter",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CRMS-EN076",
+      "name" : "Psychic Tuning",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CRMS-EN077",
+      "name" : "Metaphysical Regeneration",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Trojan Gladiator Beast",
+      "rarity" : "Common",
+      "set_number" : "CRMS-EN078"
+   },
+   {
+      "set_number" : "CRMS-EN079",
+      "name" : "Wall of Thorns",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Planet Pollutant Virus",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN080"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Dark Voltanis",
+      "set_number" : "CRMS-EN081"
+   },
+   {
+      "name" : "Prime Material Falcon",
+      "rarity" : "Secret Rare",
+      "set_number" : "CRMS-EN082"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Bone Crusher",
+      "set_number" : "CRMS-EN083"
+   },
+   {
+      "set_number" : "CRMS-EN084",
+      "name" : "Alien Kid",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "CRMS-EN085",
+      "rarity" : "Super Rare",
+      "name" : "Totem Dragon"
+   },
+   {
+      "set_number" : "CRMS-EN086",
+      "rarity" : "Super Rare",
+      "name" : "Royal Swamp Eel"
+   },
+   {
+      "set_number" : "CRMS-EN087",
+      "rarity" : "Common",
+      "name" : "Submarine Frog"
+   },
+   {
+      "name" : "Code A Ancient Ruins",
+      "rarity" : "Super Rare",
+      "set_number" : "CRMS-EN088"
+   },
+   {
+      "set_number" : "CRMS-EN089",
+      "rarity" : "Rare",
+      "name" : "Synchro Change"
+   },
+   {
+      "set_number" : "CRMS-EN090",
+      "rarity" : "Super Rare",
+      "name" : "Multiply"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Makiu, the Magical Mist",
+      "set_number" : "CRMS-EN091"
+   },
+   {
+      "name" : "Assault Armor",
+      "rarity" : "Rare",
+      "set_number" : "CRMS-EN092"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Puppet King",
+      "set_number" : "CRMS-EN093"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Zeta Reticulant",
+      "set_number" : "CRMS-EN094"
+   },
+   {
+      "set_number" : "CRMS-EN095",
+      "name" : "Tethys, Goddess of Light",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Ido the Supreme Magical Force",
+      "rarity" : "Secret Rare",
+      "set_number" : "CRMS-EN096"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Violet Witch",
+      "set_number" : "CRMS-EN097"
+   },
+   {
+      "name" : "Greed Quasar",
+      "rarity" : "Secret Rare",
+      "set_number" : "CRMS-EN098"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Armoroid",
+      "set_number" : "CRMS-EN099"
+   }
+]

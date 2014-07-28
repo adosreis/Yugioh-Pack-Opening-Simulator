@@ -1,0 +1,502 @@
+[
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Rose, Warrior of Revenge",
+      "set_number" : "CSOC-EN000"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Healing Wave Generator",
+      "set_number" : "CSOC-EN001"
+   },
+   {
+      "name" : "Turbo Synchron",
+      "set_number" : "CSOC-EN002",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CSOC-EN003",
+      "name" : "Mad Archfiend"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Wall of Ivy",
+      "set_number" : "CSOC-EN004"
+   },
+   {
+      "set_number" : "CSOC-EN005",
+      "name" : "Copy Plant",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CSOC-EN006",
+      "name" : "Morphtronic Celfon"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Magnen",
+      "set_number" : "CSOC-EN007"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Datatron",
+      "set_number" : "CSOC-EN008"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CSOC-EN009",
+      "name" : "Morphtronic Boomboxen"
+   },
+   {
+      "set_number" : "CSOC-EN010",
+      "name" : "Morphtronic Cameran",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Morphtronic Radion",
+      "set_number" : "CSOC-EN011"
+   },
+   {
+      "name" : "Morphtronic Clocken",
+      "set_number" : "CSOC-EN012",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Gadget Hauler",
+      "set_number" : "CSOC-EN013",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CSOC-EN014",
+      "name" : "Gadget Driver"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CSOC-EN015",
+      "name" : "Search Striker"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Pursuit Chaser",
+      "set_number" : "CSOC-EN016"
+   },
+   {
+      "name" : "Iron Chain Repairman",
+      "set_number" : "CSOC-EN017",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CSOC-EN018",
+      "name" : "Iron Chain Snake"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Iron Chain Blaster",
+      "set_number" : "CSOC-EN019"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Iron Chain Coil",
+      "set_number" : "CSOC-EN020"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Power Injector",
+      "set_number" : "CSOC-EN021"
+   },
+   {
+      "name" : "Storm Caller",
+      "set_number" : "CSOC-EN022",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CSOC-EN023",
+      "name" : "Psychic Jumper"
+   },
+   {
+      "name" : "Nettles",
+      "set_number" : "CSOC-EN024",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Gigantic Cephalotus",
+      "set_number" : "CSOC-EN025",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CSOC-EN026",
+      "name" : "Horseytail",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Botanical Girl",
+      "set_number" : "CSOC-EN027",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Cursed Fig",
+      "set_number" : "CSOC-EN028"
+   },
+   {
+      "name" : "Tytannial, Princess of Camellias",
+      "set_number" : "CSOC-EN029",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Zombie Mammoth",
+      "set_number" : "CSOC-EN030"
+   },
+   {
+      "set_number" : "CSOC-EN031",
+      "name" : "Plaguespreader Zombie",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Goblin Decoy Squad",
+      "set_number" : "CSOC-EN032"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CSOC-EN033",
+      "name" : "Comrade Swordsman of Landstar"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "CSOC-EN034",
+      "name" : "Hanewata"
+   },
+   {
+      "name" : "The White Stone of Legend",
+      "set_number" : "CSOC-EN035",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CSOC-EN036",
+      "name" : "Tiger Dragon"
+   },
+   {
+      "name" : "Jade Knight",
+      "set_number" : "CSOC-EN037",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Turbo Warrior",
+      "set_number" : "CSOC-EN038",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Black Rose Dragon",
+      "set_number" : "CSOC-EN039",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare"
+   },
+   {
+      "set_number" : "CSOC-EN040",
+      "name" : "Iron Chain Dragon",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Psychic Lifetrancer",
+      "set_number" : "CSOC-EN041"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Queen of Thorns",
+      "set_number" : "CSOC-EN042"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Doomkaiser Dragon",
+      "set_number" : "CSOC-EN043"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "CSOC-EN044",
+      "name" : "Revived King Ha Des"
+   },
+   {
+      "set_number" : "CSOC-EN045",
+      "name" : "Card Rotator",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CSOC-EN046",
+      "name" : "Seed of Deception"
+   },
+   {
+      "set_number" : "CSOC-EN047",
+      "name" : "Mark of the Rose",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "CSOC-EN048",
+      "name" : "Black Garden"
+   },
+   {
+      "name" : "Factory of 100 Machines",
+      "set_number" : "CSOC-EN049",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CSOC-EN050",
+      "name" : "Morphtronic Accelerator"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Cord",
+      "set_number" : "CSOC-EN051"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Engine",
+      "set_number" : "CSOC-EN052"
+   },
+   {
+      "set_number" : "CSOC-EN053",
+      "name" : "Poison Chain",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CSOC-EN054",
+      "name" : "Paralyzing Chain"
+   },
+   {
+      "name" : "Teleport",
+      "set_number" : "CSOC-EN055",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Psychokinesis",
+      "set_number" : "CSOC-EN056"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Miracle Fertilizer",
+      "set_number" : "CSOC-EN057"
+   },
+   {
+      "set_number" : "CSOC-EN058",
+      "name" : "Fragrance Storm",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "The World Tree",
+      "set_number" : "CSOC-EN059"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Everliving Underworld Cannon",
+      "set_number" : "CSOC-EN060"
+   },
+   {
+      "name" : "Secret Village of the Spellcasters",
+      "set_number" : "CSOC-EN061",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Omega Goggles",
+      "set_number" : "CSOC-EN062",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "CSOC-EN063",
+      "name" : "Battle Mania"
+   },
+   {
+      "set_number" : "CSOC-EN064",
+      "name" : "Confusion Chaff",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Urgent Tuning",
+      "set_number" : "CSOC-EN065",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Synchro Strike",
+      "set_number" : "CSOC-EN066"
+   },
+   {
+      "set_number" : "CSOC-EN067",
+      "name" : "Prideful Roar",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CSOC-EN068",
+      "name" : "Revival Gift"
+   },
+   {
+      "name" : "Lineage of Destruction",
+      "set_number" : "CSOC-EN069",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CSOC-EN070",
+      "name" : "Doppelganger",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtransition",
+      "set_number" : "CSOC-EN071"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Monitron",
+      "set_number" : "CSOC-EN072"
+   },
+   {
+      "set_number" : "CSOC-EN073",
+      "name" : "Psychic Trigger",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "CSOC-EN074",
+      "name" : "Pollinosis",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Bamboo Scrap",
+      "set_number" : "CSOC-EN075",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Plant Food Chain",
+      "set_number" : "CSOC-EN076"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CSOC-EN077",
+      "name" : "Trap of the Imperial Tomb"
+   },
+   {
+      "set_number" : "CSOC-EN078",
+      "name" : "DNA Checkup",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gozen Match",
+      "set_number" : "CSOC-EN079"
+   },
+   {
+      "name" : "Giant Trap Hole",
+      "set_number" : "CSOC-EN080",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Seed of Flame",
+      "set_number" : "CSOC-EN081",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "CSOC-EN082",
+      "name" : "Cactus Fighter",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CSOC-EN083",
+      "name" : "Overdrive Teleporter",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Rai-Jin",
+      "set_number" : "CSOC-EN084",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "CSOC-EN085",
+      "name" : "Rai-Mei"
+   },
+   {
+      "name" : "Gladiator Beast Retiari",
+      "set_number" : "CSOC-EN086",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Night's End Sorcerer",
+      "set_number" : "CSOC-EN087",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Tempest Magician",
+      "set_number" : "CSOC-EN088",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Treacherous Trap Hole",
+      "set_number" : "CSOC-EN089",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "CSOC-EN090",
+      "name" : "Puppet Master",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Time Machine",
+      "set_number" : "CSOC-EN091",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Virus Cannon",
+      "set_number" : "CSOC-EN092",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CSOC-EN093",
+      "name" : "Machine Lord Ür",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Mosaic Manticore",
+      "set_number" : "CSOC-EN094",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Goka, the Pyre of Malice",
+      "set_number" : "CSOC-EN095"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "CSOC-EN096",
+      "name" : "Red Ogre"
+   },
+   {
+      "set_number" : "CSOC-EN097",
+      "name" : "Neos Wiseman",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Elemental Hero Divine Neos",
+      "set_number" : "CSOC-EN098",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "CSOC-EN099",
+      "name" : "Botanical Lion",
+      "rarity" : "Super Rare"
+   }
+]

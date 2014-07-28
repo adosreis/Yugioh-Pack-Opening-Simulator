@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Noble Knight Artorigus",
+      "set_number" : "GAOV-EN000",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "GAOV-EN001",
+      "rarity" : "Common",
+      "name" : "Wattaildragon"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN002",
+      "name" : "Hieratic Seal of the Sun Dragon Overlord"
+   },
+   {
+      "name" : "Overlay Owl",
+      "set_number" : "GAOV-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Tasuke Knight",
+      "set_number" : "GAOV-EN004",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gagaga Gardna",
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN005"
+   },
+   {
+      "name" : "Cardcar D",
+      "rarity" : "Secret Rare",
+      "set_number" : "GAOV-EN006"
+   },
+   {
+      "name" : "Overlay Eater",
+      "set_number" : "GAOV-EN007",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN008",
+      "name" : "Hammer Shark"
+   },
+   {
+      "name" : "Hammer Bounzer",
+      "rarity" : "Super Rare",
+      "set_number" : "GAOV-EN009"
+   },
+   {
+      "name" : "Blade Bounzer",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN010"
+   },
+   {
+      "set_number" : "GAOV-EN011",
+      "rarity" : "Common",
+      "name" : "Phantom Bounzer"
+   },
+   {
+      "set_number" : "GAOV-EN012",
+      "rarity" : "Common",
+      "name" : "Morpho Butterspy"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN013",
+      "name" : "Swallowtail Butterspy"
+   },
+   {
+      "set_number" : "GAOV-EN014",
+      "rarity" : "Common",
+      "name" : "Moonlit Papillon"
+   },
+   {
+      "set_number" : "GAOV-EN015",
+      "rarity" : "Super Rare",
+      "name" : "Jumbo Drill"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN016",
+      "name" : "Rocket Arrow Express"
+   },
+   {
+      "name" : "Cameraclops",
+      "set_number" : "GAOV-EN017",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Hieratic Dragon of Nuit",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN018"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "GAOV-EN019",
+      "name" : "Hieratic Dragon of Gebeb"
+   },
+   {
+      "name" : "Hieratic Dragon of Eset",
+      "set_number" : "GAOV-EN020",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Hieratic Dragon of Nebthet",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN021"
+   },
+   {
+      "name" : "Hieratic Dragon of Tefnuit",
+      "set_number" : "GAOV-EN022",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "GAOV-EN023",
+      "rarity" : "Common",
+      "name" : "Hieratic Dragon of Su"
+   },
+   {
+      "name" : "Hieratic Dragon of Asar",
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN024"
+   },
+   {
+      "set_number" : "GAOV-EN025",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Hieratic Dragon of Sutekh"
+   },
+   {
+      "name" : "Evoltile Lagosucho",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN026"
+   },
+   {
+      "set_number" : "GAOV-EN027",
+      "rarity" : "Common",
+      "name" : "Evolsaur Darwino"
+   },
+   {
+      "name" : "Inzektor Firefly",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN028"
+   },
+   {
+      "set_number" : "GAOV-EN029",
+      "rarity" : "Common",
+      "name" : "Inzektor Ladybug"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN030",
+      "name" : "Inzektor Earwig"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN031",
+      "name" : "Inzektor Giga-Cricket"
+   },
+   {
+      "name" : "Lightray Sorcerer",
+      "set_number" : "GAOV-EN032",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Lightray Daedalus",
+      "set_number" : "GAOV-EN033",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GAOV-EN034",
+      "rarity" : "Rare",
+      "name" : "Lightray Gearfried"
+   },
+   {
+      "name" : "Lightray Diabolos",
+      "set_number" : "GAOV-EN035",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Lady of D.",
+      "set_number" : "GAOV-EN036",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GAOV-EN037",
+      "rarity" : "Rare",
+      "name" : "Absorbing Jar"
+   },
+   {
+      "set_number" : "GAOV-EN038",
+      "rarity" : "Common",
+      "name" : "Red-Headed Oni"
+   },
+   {
+      "name" : "Flame Tiger",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN039"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN040",
+      "name" : "Nomadic Force"
+   },
+   {
+      "name" : "Neo Galaxy-Eyes Photon Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "GAOV-EN041"
+   },
+   {
+      "name" : "Number 32: Shark Drake",
+      "set_number" : "GAOV-EN042",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Photon Strike Bounzer",
+      "rarity" : "Secret Rare",
+      "set_number" : "GAOV-EN043"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN044",
+      "name" : "Photon Papilloperative"
+   },
+   {
+      "name" : "Number 25: Force Focus",
+      "set_number" : "GAOV-EN045",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Gaia Dragon, the Thunder Charger",
+      "rarity" : "Super Rare",
+      "set_number" : "GAOV-EN046"
+   },
+   {
+      "set_number" : "GAOV-EN047",
+      "rarity" : "Super Rare",
+      "name" : "Hieratic Dragon King of Atum"
+   },
+   {
+      "name" : "Hieratic Sun Dragon Overlord of Heliopolis",
+      "rarity" : "Secret Rare",
+      "set_number" : "GAOV-EN048"
+   },
+   {
+      "name" : "Queen Dragun Djinn",
+      "set_number" : "GAOV-EN049",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "GAOV-EN050",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Inzektor Exa-Stag"
+   },
+   {
+      "name" : "Bound Wand",
+      "set_number" : "GAOV-EN051",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "GAOV-EN052",
+      "rarity" : "Common",
+      "name" : "Mini-Guts"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN053",
+      "name" : "Falling Current"
+   },
+   {
+      "name" : "Berserk Scales",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN054"
+   },
+   {
+      "name" : "Night Beam",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "GAOV-EN055"
+   },
+   {
+      "name" : "Hieratic Seal of Convocation",
+      "set_number" : "GAOV-EN056",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "GAOV-EN057",
+      "rarity" : "Common",
+      "name" : "Hieratic Seal of Supremacy"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN058",
+      "name" : "Evo-Diversity"
+   },
+   {
+      "set_number" : "GAOV-EN059",
+      "rarity" : "Rare",
+      "name" : "Evo-Price"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN060",
+      "name" : "Final Inzektion"
+   },
+   {
+      "name" : "Inzektor Crossbow - Zektarrow",
+      "set_number" : "GAOV-EN061",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Xyz Unit",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "GAOV-EN062"
+   },
+   {
+      "set_number" : "GAOV-EN063",
+      "rarity" : "Common",
+      "name" : "That Wacky Magic!"
+   },
+   {
+      "name" : "Constellar Belt",
+      "set_number" : "GAOV-EN064",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN065",
+      "name" : "Storm"
+   },
+   {
+      "name" : "Nitwit Outwit",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN066"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN067",
+      "name" : "Gamushara"
+   },
+   {
+      "name" : "Commander of Swords",
+      "set_number" : "GAOV-EN068",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN069",
+      "name" : "Bounzer Guard"
+   },
+   {
+      "set_number" : "GAOV-EN070",
+      "rarity" : "Common",
+      "name" : "Butterflyoke"
+   },
+   {
+      "name" : "Hieratic Seal of Banishment",
+      "set_number" : "GAOV-EN071",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Hieratic Seal of Reflection",
+      "rarity" : "Super Rare",
+      "set_number" : "GAOV-EN072"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "GAOV-EN073",
+      "name" : "Zekt Conversion"
+   },
+   {
+      "set_number" : "GAOV-EN074",
+      "rarity" : "Common",
+      "name" : "Inzektor Gauntlet"
+   },
+   {
+      "name" : "Return",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN075"
+   },
+   {
+      "name" : "Dimension Slice",
+      "set_number" : "GAOV-EN076",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Spiritual Light Art - Hijiri",
+      "set_number" : "GAOV-EN077",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "GAOV-EN078",
+      "rarity" : "Common",
+      "name" : "Sealing Ceremony of Raiton"
+   },
+   {
+      "name" : "Aquamirror Cycle",
+      "set_number" : "GAOV-EN079",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Double Payback",
+      "set_number" : "GAOV-EN080",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN081",
+      "name" : "Ancient Dragon"
+   },
+   {
+      "name" : "Hieratic Seal of the Dragon King",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN082"
+   },
+   {
+      "set_number" : "GAOV-EN083",
+      "rarity" : "Super Rare",
+      "name" : "Evoltile Elginero"
+   },
+   {
+      "name" : "Lightray Grepher",
+      "rarity" : "Rare",
+      "set_number" : "GAOV-EN084"
+   },
+   {
+      "name" : "Tardy Orc",
+      "rarity" : "Secret Rare",
+      "set_number" : "GAOV-EN085"
+   },
+   {
+      "name" : "Draconnection",
+      "set_number" : "GAOV-EN086",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Trial and Tribulation",
+      "rarity" : "Secret Rare",
+      "set_number" : "GAOV-EN087"
+   },
+   {
+      "name" : "Hieratic Seal From the Ashes",
+      "rarity" : "Secret Rare",
+      "set_number" : "GAOV-EN088"
+   },
+   {
+      "name" : "Xyz Wrath",
+      "set_number" : "GAOV-EN089",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Number 11: Big Eye",
+      "set_number" : "GAOV-EN090",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "GAOV-EN091",
+      "name" : "Number 7: Lucky Straight"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "GAOV-EN092",
+      "name" : "Beetron"
+   },
+   {
+      "set_number" : "GAOV-EN093",
+      "rarity" : "Common",
+      "name" : "Influence Dragon"
+   },
+   {
+      "set_number" : "GAOV-EN094",
+      "rarity" : "Common",
+      "name" : "Bright Star Dragon"
+   },
+   {
+      "set_number" : "GAOV-EN095",
+      "rarity" : "Common",
+      "name" : "Buten"
+   },
+   {
+      "name" : "Doom Donuts",
+      "set_number" : "GAOV-EN096",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Nimble Manta",
+      "rarity" : "Common",
+      "set_number" : "GAOV-EN097"
+   },
+   {
+      "set_number" : "GAOV-EN098",
+      "rarity" : "Super Rare",
+      "name" : "Shining Elf"
+   },
+   {
+      "set_number" : "GAOV-EN099",
+      "rarity" : "Super Rare",
+      "name" : "Flelf"
+   }
+]

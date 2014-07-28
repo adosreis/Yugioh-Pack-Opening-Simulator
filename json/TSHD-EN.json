@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "XX-Saber Boggart Knight",
+      "rarity" : "Super Rare",
+      "set_number" : "TSHD-EN000"
+   },
+   {
+      "set_number" : "TSHD-EN001",
+      "rarity" : "Common",
+      "name" : "Blackwing - Ghibli the Searing Wind"
+   },
+   {
+      "name" : "Blackwing - Gust the Backblast",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN002"
+   },
+   {
+      "name" : "Blackwing - Breeze the Zephyr",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TSHD-EN003"
+   },
+   {
+      "name" : "Changer Synchron",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN004"
+   },
+   {
+      "name" : "Card Breaker",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN005"
+   },
+   {
+      "set_number" : "TSHD-EN006",
+      "rarity" : "Common",
+      "name" : "Second Booster"
+   },
+   {
+      "name" : "Archfiend Interceptor",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN007"
+   },
+   {
+      "name" : "Dread Dragon",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN008"
+   },
+   {
+      "set_number" : "TSHD-EN009",
+      "name" : "Trust Guardian",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Flare Resonator",
+      "set_number" : "TSHD-EN010"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Synchro Magnet",
+      "set_number" : "TSHD-EN011"
+   },
+   {
+      "set_number" : "TSHD-EN012",
+      "name" : "Infernity Mirage",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Infernity Randomizer",
+      "set_number" : "TSHD-EN013"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Infernity Beetle",
+      "set_number" : "TSHD-EN014"
+   },
+   {
+      "set_number" : "TSHD-EN015",
+      "rarity" : "Rare",
+      "name" : "Infernity Avenger"
+   },
+   {
+      "set_number" : "TSHD-EN016",
+      "rarity" : "Rare",
+      "name" : "Revival Rose"
+   },
+   {
+      "set_number" : "TSHD-EN017",
+      "rarity" : "Common",
+      "name" : "Morphtronic Vacuumen"
+   },
+   {
+      "name" : "Bird of Roses",
+      "rarity" : "Super Rare",
+      "set_number" : "TSHD-EN018"
+   },
+   {
+      "name" : "Spore",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN019"
+   },
+   {
+      "name" : "Fairy Archer",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN020"
+   },
+   {
+      "name" : "Biofalcon",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN021"
+   },
+   {
+      "name" : "Cherry Inmato",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN022"
+   },
+   {
+      "set_number" : "TSHD-EN023",
+      "rarity" : "Rare",
+      "name" : "Magidog"
+   },
+   {
+      "set_number" : "TSHD-EN024",
+      "name" : "Lyna the Light Charmer",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TSHD-EN025",
+      "name" : "Wattgiraffe",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "TSHD-EN026",
+      "name" : "Wattfox",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Wattwoodpecker",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN027"
+   },
+   {
+      "name" : "Koa'ki Meiru Sandman",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN028"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Memory Crush King",
+      "set_number" : "TSHD-EN029"
+   },
+   {
+      "name" : "Delta Tri",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN030"
+   },
+   {
+      "set_number" : "TSHD-EN031",
+      "name" : "Trigon",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Testudo erat Numen",
+      "rarity" : "Short Print",
+      "set_number" : "TSHD-EN032"
+   },
+   {
+      "set_number" : "TSHD-EN033",
+      "rarity" : "Common",
+      "name" : "Ronintoadin"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Batteryman AAA",
+      "set_number" : "TSHD-EN034"
+   },
+   {
+      "set_number" : "TSHD-EN035",
+      "rarity" : "Rare",
+      "name" : "Batteryman Fuel Cell"
+   },
+   {
+      "set_number" : "TSHD-EN036",
+      "rarity" : "Common",
+      "name" : "Key Mouse"
+   },
+   {
+      "set_number" : "TSHD-EN037",
+      "name" : "Ally of Justice Core Destroyer",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "TSHD-EN038",
+      "name" : "Hunter of Black Feathers",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Herald of Perfection",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TSHD-EN039"
+   },
+   {
+      "set_number" : "TSHD-EN040",
+      "name" : "Black-Winged Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare"
+   },
+   {
+      "set_number" : "TSHD-EN041",
+      "name" : "Chaos King Archfiend",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Infernity Doom Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TSHD-EN042"
+   },
+   {
+      "set_number" : "TSHD-EN043",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Splendid Rose"
+   },
+   {
+      "set_number" : "TSHD-EN044",
+      "name" : "Chaos Goddess",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Black-Winged Strafe",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN045"
+   },
+   {
+      "set_number" : "TSHD-EN046",
+      "name" : "Cards for Black Feathers",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "TSHD-EN047",
+      "name" : "ZERO-MAX",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "TSHD-EN048",
+      "name" : "Infernity Launcher",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Into the Void",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TSHD-EN049"
+   },
+   {
+      "set_number" : "TSHD-EN050",
+      "name" : "Intercept Wave",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Pyramid of Wonders",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN051"
+   },
+   {
+      "name" : "The Fountain in the Sky",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN052"
+   },
+   {
+      "set_number" : "TSHD-EN053",
+      "rarity" : "Common",
+      "name" : "Dragon Laser"
+   },
+   {
+      "set_number" : "TSHD-EN054",
+      "rarity" : "Common",
+      "name" : "Wattcube"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Electromagnetic Shield",
+      "set_number" : "TSHD-EN055"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Worm Call",
+      "set_number" : "TSHD-EN056"
+   },
+   {
+      "set_number" : "TSHD-EN057",
+      "name" : "Magic Triangle of the Ice Barrier",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Koa'ki Meiru Initialize!",
+      "set_number" : "TSHD-EN058"
+   },
+   {
+      "set_number" : "TSHD-EN059",
+      "rarity" : "Common",
+      "name" : "Dawn of the Herald"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Forbidden Graveyard",
+      "set_number" : "TSHD-EN060"
+   },
+   {
+      "set_number" : "TSHD-EN061",
+      "name" : "Leeching the Light",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TSHD-EN062",
+      "rarity" : "Short Print",
+      "name" : "Corridor of Agony"
+   },
+   {
+      "set_number" : "TSHD-EN063",
+      "name" : "Power Frame",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "TSHD-EN064",
+      "name" : "Blackwing - Backlash",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Blackwing - Bombardment",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Black Thunder",
+      "set_number" : "TSHD-EN066"
+   },
+   {
+      "set_number" : "TSHD-EN067",
+      "rarity" : "Rare",
+      "name" : "Guard Mines"
+   },
+   {
+      "set_number" : "TSHD-EN068",
+      "rarity" : "Common",
+      "name" : "Infernity Reflector"
+   },
+   {
+      "set_number" : "TSHD-EN069",
+      "rarity" : "Common",
+      "name" : "Infernity Break"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Damage Gate",
+      "set_number" : "TSHD-EN070"
+   },
+   {
+      "name" : "Infernity Inferno",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN071"
+   },
+   {
+      "set_number" : "TSHD-EN072",
+      "name" : "Phantom Hand",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TSHD-EN073",
+      "name" : "Assault Spirits",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Blossom Bombardment",
+      "set_number" : "TSHD-EN074"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronics, Scramble!",
+      "set_number" : "TSHD-EN075"
+   },
+   {
+      "set_number" : "TSHD-EN076",
+      "rarity" : "Common",
+      "name" : "Power Break"
+   },
+   {
+      "set_number" : "TSHD-EN077",
+      "name" : "Koa'ki Meiru Shield",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Crevice Into the Different Dimension",
+      "set_number" : "TSHD-EN078"
+   },
+   {
+      "set_number" : "TSHD-EN079",
+      "rarity" : "Super Rare",
+      "name" : "Synchro Ejection"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Chaos Trap Hole",
+      "set_number" : "TSHD-EN080"
+   },
+   {
+      "set_number" : "TSHD-EN081",
+      "name" : "XX-Saber Darksoul",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Koa'ki Meiru Prototype",
+      "set_number" : "TSHD-EN082"
+   },
+   {
+      "name" : "Snyffus",
+      "rarity" : "Secret Rare",
+      "set_number" : "TSHD-EN083"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Nimble Sunfish",
+      "set_number" : "TSHD-EN084"
+   },
+   {
+      "set_number" : "TSHD-EN085",
+      "rarity" : "Rare",
+      "name" : "Akz, the Pumer"
+   },
+   {
+      "set_number" : "TSHD-EN086",
+      "name" : "Saber Vault",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Core Overclock",
+      "set_number" : "TSHD-EN087"
+   },
+   {
+      "set_number" : "TSHD-EN088",
+      "rarity" : "Secret Rare",
+      "name" : "Wave-Motion Inferno"
+   },
+   {
+      "name" : "Infernity Barrier",
+      "rarity" : "Secret Rare",
+      "set_number" : "TSHD-EN089"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Genex Controller",
+      "set_number" : "TSHD-EN090"
+   },
+   {
+      "set_number" : "TSHD-EN091",
+      "name" : "Genex Undine",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Genex Searcher",
+      "rarity" : "Rare",
+      "set_number" : "TSHD-EN092"
+   },
+   {
+      "set_number" : "TSHD-EN093",
+      "rarity" : "Common",
+      "name" : "X-Saber Palomuro"
+   },
+   {
+      "name" : "X-Saber Pashuul",
+      "rarity" : "Common",
+      "set_number" : "TSHD-EN094"
+   },
+   {
+      "name" : "Hydro Genex",
+      "rarity" : "Super Rare",
+      "set_number" : "TSHD-EN095"
+   },
+   {
+      "set_number" : "TSHD-EN096",
+      "rarity" : "Super Rare",
+      "name" : "Ally of Justice Light Gazer"
+   },
+   {
+      "set_number" : "TSHD-EN097",
+      "name" : "Genex Neutron",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "TSHD-EN098",
+      "name" : "Infernity Destroyer",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Koa'ki Meiru Bergzak",
+      "set_number" : "TSHD-EN099"
+   }
+]

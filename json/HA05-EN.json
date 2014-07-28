@@ -1,0 +1,302 @@
+[
+   {
+      "name" : "Gem-Knight Garnet",
+      "set_number" : "HA05-EN001",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA05-EN002",
+      "name" : "Gem-Knight Sapphire",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gem-Knight Tourmaline",
+      "set_number" : "HA05-EN003"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA05-EN004",
+      "name" : "Gem-Knight Alexandrite"
+   },
+   {
+      "name" : "Gem-Armadillo",
+      "set_number" : "HA05-EN005",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN006",
+      "name" : "Gem-Merchant"
+   },
+   {
+      "set_number" : "HA05-EN007",
+      "name" : "Laval Miller",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA05-EN008",
+      "name" : "Soaring Eagle Above the Searing Land",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Laval Warrior",
+      "set_number" : "HA05-EN009",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Prominence, Molten Swordsman",
+      "set_number" : "HA05-EN010",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Laval Forest Sprite",
+      "set_number" : "HA05-EN011"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Kayenn, the Master Magma Blacksmith",
+      "set_number" : "HA05-EN012"
+   },
+   {
+      "name" : "Laval Burner",
+      "set_number" : "HA05-EN013",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA05-EN014",
+      "name" : "Laval Judgment Lord",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vylon Cube",
+      "set_number" : "HA05-EN015"
+   },
+   {
+      "name" : "Vylon Vanguard",
+      "set_number" : "HA05-EN016",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN017",
+      "name" : "Vylon Charger"
+   },
+   {
+      "name" : "Vylon Soldier",
+      "set_number" : "HA05-EN018",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA05-EN019",
+      "name" : "Gem-Knight Ruby",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Gem-Knight Aquamarine",
+      "set_number" : "HA05-EN020",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Gem-Knight Topaz",
+      "set_number" : "HA05-EN021",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Lavalval Dragon",
+      "set_number" : "HA05-EN022"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA05-EN023",
+      "name" : "Laval the Greater"
+   },
+   {
+      "name" : "Vylon Sigma",
+      "set_number" : "HA05-EN024",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA05-EN025",
+      "name" : "Vylon Epsilon"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gem-Knight Fusion",
+      "set_number" : "HA05-EN026"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN027",
+      "name" : "Searing Fire Wall"
+   },
+   {
+      "name" : "Vylon Material",
+      "set_number" : "HA05-EN028",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN029",
+      "name" : "Gem-Enhancement"
+   },
+   {
+      "set_number" : "HA05-EN030",
+      "name" : "Molten Whirlwind Wall",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA05-EN031",
+      "name" : "Gishki Abyss",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA05-EN032",
+      "name" : "Gishki Vanity",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gishki Marker",
+      "set_number" : "HA05-EN033",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA05-EN034",
+      "name" : "Gishki Chain"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gishki Ariel",
+      "set_number" : "HA05-EN035"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN036",
+      "name" : "Gishki Shadow"
+   },
+   {
+      "set_number" : "HA05-EN037",
+      "name" : "Gusto Gulldo",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gusto Egul",
+      "set_number" : "HA05-EN038"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gusto Thunbolt",
+      "set_number" : "HA05-EN039"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN040",
+      "name" : "Winda, Priestess of Gusto"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Caam, Serenity of Gusto",
+      "set_number" : "HA05-EN041"
+   },
+   {
+      "set_number" : "HA05-EN042",
+      "name" : "Windaar, Sage of Gusto",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Steelswarm Cell",
+      "set_number" : "HA05-EN043"
+   },
+   {
+      "name" : "Steelswarm Scout",
+      "set_number" : "HA05-EN044",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN045",
+      "name" : "Steelswarm Gatekeeper"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Steelswarm Caller",
+      "set_number" : "HA05-EN046"
+   },
+   {
+      "name" : "Steelswarm Mantis",
+      "set_number" : "HA05-EN047",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "HA05-EN048",
+      "name" : "Steelswarm Moth",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA05-EN049",
+      "name" : "Steelswarm Girastag"
+   },
+   {
+      "name" : "Steelswarm Caucastag",
+      "set_number" : "HA05-EN050",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "HA05-EN051",
+      "name" : "Evigishki Mind Augus"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Evigishki Soul Ogre",
+      "set_number" : "HA05-EN052"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Daigusto Gulldos",
+      "set_number" : "HA05-EN053"
+   },
+   {
+      "set_number" : "HA05-EN054",
+      "name" : "Daigusto Eguls",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN055",
+      "name" : "Gishki Aquamirror"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Contact with Gusto",
+      "set_number" : "HA05-EN056"
+   },
+   {
+      "name" : "First Step Towards Infestation",
+      "set_number" : "HA05-EN057",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "HA05-EN058",
+      "name" : "Aquamirror Meditation"
+   },
+   {
+      "set_number" : "HA05-EN059",
+      "name" : "Blessings for Gusto",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "HA05-EN060",
+      "name" : "Infestation Wave",
+      "rarity" : "Super Rare"
+   }
+]

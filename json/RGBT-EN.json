@@ -1,0 +1,502 @@
+[
+   {
+      "set_number" : "RGBT-EN000",
+      "rarity" : "Secret Rare",
+      "name" : "Battlestorm"
+   },
+   {
+      "set_number" : "RGBT-EN001",
+      "name" : "Rockstone Warrior",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Level Warrior",
+      "rarity" : "Super Rare",
+      "set_number" : "RGBT-EN002"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Strong Wind Dragon",
+      "set_number" : "RGBT-EN003"
+   },
+   {
+      "set_number" : "RGBT-EN004",
+      "name" : "Dark Verger",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Phoenixian Seed",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN005"
+   },
+   {
+      "set_number" : "RGBT-EN006",
+      "rarity" : "Super Rare",
+      "name" : "Phoenixian Cluster Amaryllis"
+   },
+   {
+      "name" : "Rose Tentacles",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN007"
+   },
+   {
+      "set_number" : "RGBT-EN008",
+      "rarity" : "Common",
+      "name" : "Hedge Guard"
+   },
+   {
+      "set_number" : "RGBT-EN009",
+      "rarity" : "Common",
+      "name" : "Evil Thorn"
+   },
+   {
+      "name" : "Blackwing - Blizzard the Far North",
+      "rarity" : "Rare",
+      "set_number" : "RGBT-EN010"
+   },
+   {
+      "set_number" : "RGBT-EN011",
+      "rarity" : "Common",
+      "name" : "Blackwing - Shura the Blue Flame"
+   },
+   {
+      "set_number" : "RGBT-EN012",
+      "rarity" : "Common",
+      "name" : "Blackwing - Kalut the Moon Shadow"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Blackwing - Elphin the Raven",
+      "set_number" : "RGBT-EN013"
+   },
+   {
+      "set_number" : "RGBT-EN014",
+      "name" : "Morphtronic Remoten",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Morphtronic Videon",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN015"
+   },
+   {
+      "name" : "Morphtronic Scopen",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN016"
+   },
+   {
+      "name" : "Gadget Arms",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN017"
+   },
+   {
+      "name" : "Torapart",
+      "rarity" : "Rare",
+      "set_number" : "RGBT-EN018"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Earthbound Immortal Aslla piscu",
+      "set_number" : "RGBT-EN019"
+   },
+   {
+      "name" : "Earthbound Immortal Ccapac Apu",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "RGBT-EN020"
+   },
+   {
+      "set_number" : "RGBT-EN021",
+      "name" : "Koa'ki Meiru Valafar",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Koa'ki Meiru Powerhand",
+      "rarity" : "Super Rare",
+      "set_number" : "RGBT-EN022"
+   },
+   {
+      "set_number" : "RGBT-EN023",
+      "name" : "Koa'ki Meiru Guardian",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RGBT-EN024",
+      "name" : "Koa'ki Meiru Drago",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Koa'ki Meiru Ice",
+      "set_number" : "RGBT-EN025"
+   },
+   {
+      "set_number" : "RGBT-EN026",
+      "name" : "Koa'ki Meiru Doom",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Brain Golem",
+      "rarity" : "Rare",
+      "set_number" : "RGBT-EN027"
+   },
+   {
+      "set_number" : "RGBT-EN028",
+      "name" : "Minoan Centaur",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RGBT-EN029",
+      "rarity" : "Super Rare",
+      "name" : "Reinforced Human Psychic Borg"
+   },
+   {
+      "set_number" : "RGBT-EN030",
+      "rarity" : "Common",
+      "name" : "Master Gig"
+   },
+   {
+      "set_number" : "RGBT-EN031",
+      "name" : "Emissary from Pandemonium",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gigastone Omega",
+      "set_number" : "RGBT-EN032"
+   },
+   {
+      "name" : "Alien Dog",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN033"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Spined Gillman",
+      "set_number" : "RGBT-EN034"
+   },
+   {
+      "set_number" : "RGBT-EN035",
+      "name" : "Deep Sea Diva",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Mermaid Archer",
+      "set_number" : "RGBT-EN036"
+   },
+   {
+      "set_number" : "RGBT-EN037",
+      "name" : "Lava Dragon",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RGBT-EN038",
+      "rarity" : "Common",
+      "name" : "Vanguard of the Dragon"
+   },
+   {
+      "set_number" : "RGBT-EN039",
+      "rarity" : "Short Print",
+      "name" : "G.B. Hunter"
+   },
+   {
+      "set_number" : "RGBT-EN040",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Exploder Dragonwing"
+   },
+   {
+      "set_number" : "RGBT-EN041",
+      "name" : "Blackwing Armed Wing",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "RGBT-EN042",
+      "name" : "Power Tool Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Trident Dragion",
+      "set_number" : "RGBT-EN043"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Sea Dragon Lord Gishilnodon",
+      "set_number" : "RGBT-EN044"
+   },
+   {
+      "set_number" : "RGBT-EN045",
+      "name" : "One for One",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Mind Trust",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN046"
+   },
+   {
+      "set_number" : "RGBT-EN047",
+      "rarity" : "Common",
+      "name" : "Thorn of Malice"
+   },
+   {
+      "set_number" : "RGBT-EN048",
+      "rarity" : "Super Rare",
+      "name" : "Magic Planter"
+   },
+   {
+      "set_number" : "RGBT-EN049",
+      "name" : "Wonder Clover",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Against the Wind",
+      "set_number" : "RGBT-EN050"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Black Whirlwind",
+      "set_number" : "RGBT-EN051"
+   },
+   {
+      "name" : "Junk Box",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN052"
+   },
+   {
+      "set_number" : "RGBT-EN053",
+      "rarity" : "Common",
+      "name" : "Double Tool C&D"
+   },
+   {
+      "set_number" : "RGBT-EN054",
+      "rarity" : "Common",
+      "name" : "Morphtronic Repair Unit"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Iron Core of Koa'ki Meiru",
+      "set_number" : "RGBT-EN055"
+   },
+   {
+      "name" : "Iron Core Immediate Disposal",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN056"
+   },
+   {
+      "set_number" : "RGBT-EN057",
+      "name" : "Urgent Synthesis",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Psychic Path",
+      "set_number" : "RGBT-EN058"
+   },
+   {
+      "set_number" : "RGBT-EN059",
+      "name" : "Natural Tune",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RGBT-EN060",
+      "name" : "Supremacy Berry",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Forbidden Chalice",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "RGBT-EN061"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Calming Magic",
+      "set_number" : "RGBT-EN062"
+   },
+   {
+      "set_number" : "RGBT-EN063",
+      "name" : "Miracle Locus",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RGBT-EN064",
+      "name" : "Crimson Fire",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Tuner Capture",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN065"
+   },
+   {
+      "set_number" : "RGBT-EN066",
+      "name" : "Overdoom Line",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Wicked Rebirth",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN067"
+   },
+   {
+      "set_number" : "RGBT-EN068",
+      "name" : "Delta Crow - Anti Reverse",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Level Retuner",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN069"
+   },
+   {
+      "name" : "Fake Feather",
+      "rarity" : "Common",
+      "set_number" : "RGBT-EN070"
+   },
+   {
+      "set_number" : "RGBT-EN071",
+      "rarity" : "Common",
+      "name" : "Trap Stun"
+   },
+   {
+      "set_number" : "RGBT-EN072",
+      "name" : "Morphtronic Bind",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RGBT-EN073",
+      "rarity" : "Common",
+      "name" : "Reckoned Power"
+   },
+   {
+      "set_number" : "RGBT-EN074",
+      "name" : "Automatic Laser",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Attack of the Cornered Rat",
+      "set_number" : "RGBT-EN075"
+   },
+   {
+      "set_number" : "RGBT-EN076",
+      "rarity" : "Common",
+      "name" : "Proof of Powerlessness"
+   },
+   {
+      "name" : "Bone Temple Block",
+      "rarity" : "Short Print",
+      "set_number" : "RGBT-EN077"
+   },
+   {
+      "set_number" : "RGBT-EN078",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Grave of the Super Ancient Organism"
+   },
+   {
+      "set_number" : "RGBT-EN079",
+      "rarity" : "Super Rare",
+      "name" : "Swallow Flip"
+   },
+   {
+      "set_number" : "RGBT-EN080",
+      "name" : "Mirror of Oaths",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Koa'ki Meiru War Arms",
+      "set_number" : "RGBT-EN081"
+   },
+   {
+      "set_number" : "RGBT-EN082",
+      "rarity" : "Secret Rare",
+      "name" : "Immortal Ruler"
+   },
+   {
+      "set_number" : "RGBT-EN083",
+      "rarity" : "Secret Rare",
+      "name" : "Hardened Armed Dragon"
+   },
+   {
+      "set_number" : "RGBT-EN084",
+      "rarity" : "Rare",
+      "name" : "Moja"
+   },
+   {
+      "name" : "Beast Striker",
+      "rarity" : "Super Rare",
+      "set_number" : "RGBT-EN085"
+   },
+   {
+      "set_number" : "RGBT-EN086",
+      "rarity" : "Secret Rare",
+      "name" : "King of the Beasts"
+   },
+   {
+      "name" : "Swallow's Nest",
+      "rarity" : "Super Rare",
+      "set_number" : "RGBT-EN087"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Overwhelm",
+      "set_number" : "RGBT-EN088"
+   },
+   {
+      "set_number" : "RGBT-EN089",
+      "name" : "Berserking",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "RGBT-EN090",
+      "name" : "Spell of Pain",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Light End Dragon",
+      "set_number" : "RGBT-EN091"
+   },
+   {
+      "set_number" : "RGBT-EN092",
+      "rarity" : "Secret Rare",
+      "name" : "Chaos-End Master"
+   },
+   {
+      "set_number" : "RGBT-EN093",
+      "name" : "Sphere of Chaos",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "RGBT-EN094",
+      "rarity" : "Rare",
+      "name" : "Snowman Eater"
+   },
+   {
+      "set_number" : "RGBT-EN095",
+      "rarity" : "Rare",
+      "name" : "Tree Otter"
+   },
+   {
+      "set_number" : "RGBT-EN096",
+      "name" : "Ojama Red",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Ojama Blue",
+      "set_number" : "RGBT-EN097"
+   },
+   {
+      "name" : "Ojama Country",
+      "rarity" : "Rare",
+      "set_number" : "RGBT-EN098"
+   },
+   {
+      "set_number" : "RGBT-EN099",
+      "rarity" : "Rare",
+      "name" : "Emperor Sem"
+   }
+]

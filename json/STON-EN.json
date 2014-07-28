@@ -1,0 +1,347 @@
+[
+   {
+      "set_number" : "STON-EN000",
+      "name" : "Grandmaster of the Six Samurai",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "STON-EN001",
+      "name" : "Gene-Warped Warwolf",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Frostosaurus",
+      "set_number" : "STON-EN002"
+   },
+   {
+      "set_number" : "STON-EN003",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Spiral Serpent"
+   },
+   {
+      "set_number" : "STON-EN004",
+      "name" : "Neo-Spacian Air Hummingbird",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "STON-EN005",
+      "name" : "Neo-Spacian Grand Mole",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Neo-Spacian Glow Moss",
+      "rarity" : "Common",
+      "set_number" : "STON-EN006"
+   },
+   {
+      "set_number" : "STON-EN007",
+      "name" : "The Six Samurai - Yaichi",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN008",
+      "rarity" : "Common",
+      "name" : "The Six Samurai - Kamon"
+   },
+   {
+      "name" : "The Six Samurai - Yariza",
+      "rarity" : "Common",
+      "set_number" : "STON-EN009"
+   },
+   {
+      "set_number" : "STON-EN010",
+      "name" : "The Six Samurai - Nisashi",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN011",
+      "name" : "The Six Samurai - Zanji",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN012",
+      "name" : "The Six Samurai - Irou",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Great Shogun Shien",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "STON-EN013"
+   },
+   {
+      "set_number" : "STON-EN014",
+      "rarity" : "Common",
+      "name" : "Shien's Footsoldier"
+   },
+   {
+      "name" : "Sage of Silence",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "STON-EN015"
+   },
+   {
+      "set_number" : "STON-EN016",
+      "rarity" : "Common",
+      "name" : "Sage of Stillness"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Reign-Beaux, Overlord of Dark World",
+      "set_number" : "STON-EN017"
+   },
+   {
+      "name" : "Kahkki, Guerilla of Dark World",
+      "rarity" : "Common",
+      "set_number" : "STON-EN018"
+   },
+   {
+      "set_number" : "STON-EN019",
+      "rarity" : "Common",
+      "name" : "Gren, Tactician of Dark World"
+   },
+   {
+      "name" : "Fusion Devourer",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "STON-EN020"
+   },
+   {
+      "set_number" : "STON-EN021",
+      "name" : "Electric Virus",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Puppet Plant",
+      "rarity" : "Common",
+      "set_number" : "STON-EN022"
+   },
+   {
+      "set_number" : "STON-EN023",
+      "rarity" : "Common",
+      "name" : "Marionette Mite"
+   },
+   {
+      "name" : "D.D. Crow",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "STON-EN024"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Silent Abyss",
+      "set_number" : "STON-EN025"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Firestorm Prominence",
+      "set_number" : "STON-EN026"
+   },
+   {
+      "set_number" : "STON-EN027",
+      "rarity" : "Common",
+      "name" : "Raging Earth"
+   },
+   {
+      "set_number" : "STON-EN028",
+      "name" : "Destruction Cyclone",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN029",
+      "rarity" : "Common",
+      "name" : "Radiant Spirit"
+   },
+   {
+      "set_number" : "STON-EN030",
+      "name" : "Umbral Soul",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN031",
+      "rarity" : "Common",
+      "name" : "Alien Psychic"
+   },
+   {
+      "name" : "Lycanthrope",
+      "rarity" : "Common",
+      "set_number" : "STON-EN032"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Cú Chulainn the Awakened",
+      "set_number" : "STON-EN033"
+   },
+   {
+      "set_number" : "STON-EN034",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Elemental Hero Air Neos"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Elemental Hero Grand Neos",
+      "set_number" : "STON-EN035"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Elemental Hero Glow Neos",
+      "set_number" : "STON-EN036"
+   },
+   {
+      "set_number" : "STON-EN037",
+      "name" : "Ancient Rules",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "STON-EN038",
+      "name" : "Dark World Dealings",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "STON-EN039",
+      "name" : "Neos Force",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "STON-EN040",
+      "name" : "Legendary Ebon Steed",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN041",
+      "rarity" : "Common",
+      "name" : "\"A\" Cell Scatter Burst"
+   },
+   {
+      "name" : "Twister",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "STON-EN042"
+   },
+   {
+      "name" : "Synthesis Spell",
+      "rarity" : "Common",
+      "set_number" : "STON-EN043"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Emblem of the Awakening",
+      "set_number" : "STON-EN044"
+   },
+   {
+      "set_number" : "STON-EN045",
+      "name" : "Advanced Ritual Art",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Card Trader",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "STON-EN046"
+   },
+   {
+      "name" : "Shien's Castle of Mist",
+      "rarity" : "Common",
+      "set_number" : "STON-EN047"
+   },
+   {
+      "set_number" : "STON-EN048",
+      "name" : "Skyscraper 2 - Hero City",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "STON-EN049",
+      "name" : "Change of Hero - Reflector Ray",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN050",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Hero Medal"
+   },
+   {
+      "set_number" : "STON-EN051",
+      "name" : "Return of the Six Samurai",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Eliminating the League",
+      "set_number" : "STON-EN052"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Flashbang",
+      "set_number" : "STON-EN053"
+   },
+   {
+      "name" : "The Transmigration Prophecy",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "STON-EN054"
+   },
+   {
+      "name" : "Anti-Fusion Device",
+      "rarity" : "Common",
+      "set_number" : "STON-EN055"
+   },
+   {
+      "set_number" : "STON-EN056",
+      "name" : "Ritual Sealing",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STON-EN057",
+      "name" : "Birthright",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Swift Samurai Storm!",
+      "rarity" : "Common",
+      "set_number" : "STON-EN058"
+   },
+   {
+      "set_number" : "STON-EN059",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Cloak and Dagger"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Pulling the Rug",
+      "set_number" : "STON-EN060"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Neo-Parshath, the Sky Paladin",
+      "set_number" : "STON-EN061"
+   },
+   {
+      "set_number" : "STON-EN062",
+      "rarity" : "Secret Rare",
+      "name" : "Meltiel, Sage of the Sky"
+   },
+   {
+      "name" : "Harvest Angel of Wisdom",
+      "rarity" : "Secret Rare",
+      "set_number" : "STON-EN063"
+   },
+   {
+      "name" : "Freya, Spirit of Victory",
+      "rarity" : "Secret Rare",
+      "set_number" : "STON-EN064"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Nova Summoner",
+      "set_number" : "STON-EN065"
+   },
+   {
+      "set_number" : "STON-EN066",
+      "rarity" : "Secret Rare",
+      "name" : "Radiant Jeral"
+   },
+   {
+      "set_number" : "STON-EN067",
+      "name" : "Gellenduo",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "STON-EN068",
+      "name" : "Aegis of Gaia",
+      "rarity" : "Secret Rare"
+   }
+]

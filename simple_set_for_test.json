@@ -1,0 +1,602 @@
+[
+   {
+      "rarity" : "Super Rare",
+      "card_id" : "19680539",
+      "name" : "Noble Knight Gawayn",
+      "set_number" : "REDU-EN000"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Trance the Magic Swordsman",
+      "card_id" : "14214060",
+      "set_number" : "REDU-EN001"
+   },
+   {
+      "card_id" : "50613779",
+      "name" : "Damage Mage",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN002"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "ZW - Phoenix Bow",
+      "card_id" : "87008374",
+      "set_number" : "REDU-EN003"
+   },
+   {
+      "set_number" : "REDU-EN004",
+      "card_id" : "13492423",
+      "name" : "Photon Caesar",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "REDU-EN005",
+      "rarity" : "Common",
+      "card_id" : "50491121",
+      "name" : "Heroic Challenger - Spartan"
+   },
+   {
+      "set_number" : "REDU-EN006",
+      "name" : "Heroic Challenger - War Hammer",
+      "card_id" : "26885836",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "52370835",
+      "name" : "Heroic Challenger - Swordshield",
+      "set_number" : "REDU-EN007"
+   },
+   {
+      "rarity" : "Rare",
+      "card_id" : "89774530",
+      "name" : "Heroic Challenger - Double Lance",
+      "set_number" : "REDU-EN008"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "25163248",
+      "name" : "Chronomaly Mayan Machine",
+      "set_number" : "REDU-EN009"
+   },
+   {
+      "name" : "Chronomaly Colossal Head",
+      "card_id" : "52158283",
+      "rarity" : "Rare",
+      "set_number" : "REDU-EN010"
+   },
+   {
+      "set_number" : "REDU-EN011",
+      "name" : "Chronomaly Golden Jet",
+      "card_id" : "88552992",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "REDU-EN012",
+      "rarity" : "Rare",
+      "name" : "Chronomaly Crystal Bones",
+      "card_id" : "15941690"
+   },
+   {
+      "set_number" : "REDU-EN013",
+      "rarity" : "Rare",
+      "card_id" : "51435705",
+      "name" : "Chronomaly Crystal Skull"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "87430304",
+      "name" : "Chronomaly Moai",
+      "set_number" : "REDU-EN014"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Spellbook Magician of Prophecy",
+      "card_id" : "14824019",
+      "set_number" : "REDU-EN015"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "40213117",
+      "name" : "Amores of Prophecy",
+      "set_number" : "REDU-EN016"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Temperance of Prophecy",
+      "card_id" : "87608852",
+      "set_number" : "REDU-EN017"
+   },
+   {
+      "set_number" : "REDU-EN018",
+      "card_id" : "13002451",
+      "name" : "Strength of Prophecy",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Charioteer of Prophecy",
+      "card_id" : "49191560",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN019"
+   },
+   {
+      "card_id" : "86585274",
+      "name" : "High Priestess of Prophecy",
+      "rarity" : "Secret Rare",
+      "set_number" : "REDU-EN020"
+   },
+   {
+      "name" : "Madolche Mewfeuille",
+      "card_id" : "12980373",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN021"
+   },
+   {
+      "card_id" : "49374988",
+      "name" : "Madolche Baaple",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN022"
+   },
+   {
+      "set_number" : "REDU-EN023",
+      "rarity" : "Rare",
+      "name" : "Madolche Chouxvalier",
+      "card_id" : "75363626"
+   },
+   {
+      "set_number" : "REDU-EN024",
+      "name" : "Madolche Magileine",
+      "card_id" : "11868731",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "48252330",
+      "name" : "Madolche Butlerusk",
+      "set_number" : "REDU-EN025"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Madolche Puddingcess",
+      "card_id" : "74641045",
+      "set_number" : "REDU-EN026"
+   },
+   {
+      "set_number" : "REDU-EN027",
+      "name" : "Geargiano Mk-II",
+      "card_id" : "01045143",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "REDU-EN028",
+      "card_id" : "47030842",
+      "name" : "Geargiaccelerator",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "card_id" : "73428497",
+      "name" : "Geargiarsenal",
+      "set_number" : "REDU-EN029"
+   },
+   {
+      "set_number" : "REDU-EN030",
+      "rarity" : "Super Rare",
+      "card_id" : "00923596",
+      "name" : "Geargiarmor"
+   },
+   {
+      "set_number" : "REDU-EN031",
+      "card_id" : "36318200",
+      "name" : "Uniflora, Mystical Beast of the Forest",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "REDU-EN032",
+      "card_id" : "73702909",
+      "name" : "Little Trooper",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "REDU-EN033",
+      "card_id" : "09791914",
+      "name" : "Silver Sentinel",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "REDU-EN034",
+      "rarity" : "Rare",
+      "card_id" : "35195612",
+      "name" : "Dust Knight"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "72580321",
+      "name" : "Block Golem",
+      "set_number" : "REDU-EN035"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Atlantean Attack Squad",
+      "card_id" : "08078366",
+      "set_number" : "REDU-EN036"
+   },
+   {
+      "rarity" : "Super Rare",
+      "card_id" : "35073065",
+      "name" : "Illusory Snatcher",
+      "set_number" : "REDU-EN037"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Grandsoil the Elemental Lord",
+      "card_id" : "61468779",
+      "set_number" : "REDU-EN038"
+   },
+   {
+      "rarity" : "Short Print",
+      "card_id" : "07852878",
+      "name" : "Three Thousand Needles",
+      "set_number" : "REDU-EN039"
+   },
+   {
+      "set_number" : "REDU-EN040",
+      "name" : "Goblin Marauding Squad",
+      "card_id" : "34251483",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Heroic Champion - Excalibur",
+      "card_id" : "60645181",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "REDU-EN041"
+   },
+   {
+      "set_number" : "REDU-EN042",
+      "name" : "Chronomaly Crystal Chrononaut",
+      "card_id" : "93730230",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "REDU-EN043",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Number 33: Chronomaly Machu Mech",
+      "card_id" : "39139935"
+   },
+   {
+      "card_id" : "66523544",
+      "name" : "Superdimensional Robot Galaxy Destroyer",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "REDU-EN044"
+   },
+   {
+      "set_number" : "REDU-EN045",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Hierophant of Prophecy",
+      "card_id" : "92918648"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "card_id" : "28912357",
+      "name" : "Gear Gigant X",
+      "set_number" : "REDU-EN046"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Alchemic Magician",
+      "card_id" : "65301952",
+      "set_number" : "REDU-EN047"
+   },
+   {
+      "set_number" : "REDU-EN048",
+      "card_id" : "91895091",
+      "name" : "Soul of Silvermountain",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Fairy King Albverdich",
+      "card_id" : "28290705",
+      "set_number" : "REDU-EN049"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Sword Breaker",
+      "card_id" : "64689404",
+      "set_number" : "REDU-EN050"
+   },
+   {
+      "set_number" : "REDU-EN051",
+      "rarity" : "Super Rare",
+      "name" : "Gagagarevenge",
+      "card_id" : "90673413"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "27068117",
+      "name" : "Overlay Regen",
+      "set_number" : "REDU-EN052"
+   },
+   {
+      "set_number" : "REDU-EN053",
+      "card_id" : "53466826",
+      "name" : "Heroic Chance",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "REDU-EN054",
+      "name" : "Chronomaly Technology",
+      "card_id" : "90951921",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "REDU-EN055",
+      "rarity" : "Common",
+      "name" : "Chronomaly Pyramid Eye Tablet",
+      "card_id" : "26345570"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Galaxy Queen's Light",
+      "card_id" : "52340274",
+      "set_number" : "REDU-EN056"
+   },
+   {
+      "set_number" : "REDU-EN057",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Spellbook of Secrets",
+      "card_id" : "89739383"
+   },
+   {
+      "set_number" : "REDU-EN058",
+      "name" : "Spellbook of Power",
+      "card_id" : "25123082",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Spellbook of Life",
+      "card_id" : "52628687",
+      "rarity" : "Super Rare",
+      "set_number" : "REDU-EN059"
+   },
+   {
+      "set_number" : "REDU-EN060",
+      "card_id" : "88616795",
+      "name" : "Spellbook of Wisdom",
+      "rarity" : "Rare"
+   },
+   {
+      "card_id" : "14001430",
+      "name" : "Madolche Chateau",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN061"
+   },
+   {
+      "card_id" : "51405049",
+      "name" : "Where Arf Thou?",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN062"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "87890143",
+      "name" : "Generation Force",
+      "set_number" : "REDU-EN063"
+   },
+   {
+      "set_number" : "REDU-EN064",
+      "rarity" : "Common",
+      "card_id" : "14289852",
+      "name" : "Catapult Zone"
+   },
+   {
+      "set_number" : "REDU-EN065",
+      "rarity" : "Short Print",
+      "name" : "Cold Feet",
+      "card_id" : "40383551"
+   },
+   {
+      "card_id" : "86778566",
+      "name" : "Impenetrable Attack",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN066"
+   },
+   {
+      "set_number" : "REDU-EN067",
+      "name" : "Gagagarush",
+      "card_id" : "13166204",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "card_id" : "49551909",
+      "name" : "Heroic Retribution Sword",
+      "set_number" : "REDU-EN068"
+   },
+   {
+      "card_id" : "86555018",
+      "name" : "Stonehenge Methods",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN069"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Madolche Lesson",
+      "card_id" : "12940613",
+      "set_number" : "REDU-EN070"
+   },
+   {
+      "card_id" : "48439321",
+      "name" : "Madolche Waltz",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN071"
+   },
+   {
+      "set_number" : "REDU-EN072",
+      "rarity" : "Rare",
+      "card_id" : "75833426",
+      "name" : "Madolche Tea Break"
+   },
+   {
+      "set_number" : "REDU-EN073",
+      "rarity" : "Common",
+      "card_id" : "11228035",
+      "name" : "Xyz Soul"
+   },
+   {
+      "set_number" : "REDU-EN074",
+      "rarity" : "Common",
+      "name" : "Compulsory Escape Device",
+      "card_id" : "48216773"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Turnabout",
+      "card_id" : "74611888",
+      "set_number" : "REDU-EN075"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Void Trap Hole",
+      "card_id" : "01005587",
+      "set_number" : "REDU-EN076"
+   },
+   {
+      "card_id" : "47594192",
+      "name" : "Three of a Kind",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN077"
+   },
+   {
+      "set_number" : "REDU-EN078",
+      "rarity" : "Rare",
+      "card_id" : "73599290",
+      "name" : "Soul Drain"
+   },
+   {
+      "set_number" : "REDU-EN079",
+      "rarity" : "Super Rare",
+      "name" : "Rebound",
+      "card_id" : "00983995"
+   },
+   {
+      "rarity" : "Short Print",
+      "card_id" : "36378044",
+      "name" : "Lucky Punch",
+      "set_number" : "REDU-EN080"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Prophecy Destroyer",
+      "card_id" : "56174248",
+      "set_number" : "REDU-EN081"
+   },
+   {
+      "card_id" : "82579942",
+      "name" : "Lightray Madoor",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN082"
+   },
+   {
+      "set_number" : "REDU-EN083",
+      "name" : "Blue Dragon Ninja",
+      "card_id" : "14568951",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "card_id" : "41952656",
+      "name" : "Imairuka",
+      "set_number" : "REDU-EN084"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Revival Golem",
+      "card_id" : "87347365",
+      "set_number" : "REDU-EN085"
+   },
+   {
+      "set_number" : "REDU-EN086",
+      "rarity" : "Common",
+      "card_id" : "14745409",
+      "name" : "Noble Arms - Gallatin"
+   },
+   {
+      "set_number" : "REDU-EN087",
+      "rarity" : "Rare",
+      "name" : "Spellbook Library of the Crescent",
+      "card_id" : "40230018"
+   },
+   {
+      "set_number" : "REDU-EN088",
+      "name" : "Advance Zone",
+      "card_id" : "76224717",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "REDU-EN089",
+      "card_id" : "13629812",
+      "name" : "Ninjitsu Art of Shadow Sealing",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chewbone",
+      "card_id" : "07392745",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN090"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Eco, Mystical Spirit of the Forest",
+      "card_id" : "04192696",
+      "set_number" : "REDU-EN091"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "card_id" : "09161357",
+      "name" : "Number 6: Chronomaly Atlandis",
+      "set_number" : "REDU-EN092"
+   },
+   {
+      "set_number" : "REDU-EN093",
+      "card_id" : "35255456",
+      "name" : "Miracle Contact",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "card_id" : "12644061",
+      "name" : "Advanced Dark",
+      "rarity" : "Secret Rare",
+      "set_number" : "REDU-EN094"
+   },
+   {
+      "set_number" : "REDU-EN095",
+      "card_id" : "84530620",
+      "name" : "Pahunder",
+      "rarity" : "Rare"
+   },
+   {
+      "card_id" : "21524779",
+      "name" : "Mahunder",
+      "rarity" : "Rare",
+      "set_number" : "REDU-EN096"
+   },
+   {
+      "set_number" : "REDU-EN097",
+      "card_id" : "57019473",
+      "name" : "Sishunder",
+      "rarity" : "Rare"
+   },
+   {
+      "card_id" : "84417082",
+      "name" : "Number 91: Thunder Spark Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "REDU-EN098"
+   },
+   {
+      "card_id" : "20802187",
+      "name" : "Spirit Converter",
+      "rarity" : "Secret Rare",
+      "set_number" : "REDU-EN099"
+   }
+]

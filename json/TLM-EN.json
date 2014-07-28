@@ -1,0 +1,302 @@
+[
+   {
+      "set_number" : "TLM-EN001",
+      "name" : "Elemental Hero Avian",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TLM-EN002",
+      "name" : "Elemental Hero Burstinatrix"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Elemental Hero Clayman",
+      "set_number" : "TLM-EN003"
+   },
+   {
+      "name" : "Elemental Hero Sparkman",
+      "set_number" : "TLM-EN004",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "Winged Kuriboh",
+      "set_number" : "TLM-EN005"
+   },
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "name" : "Ancient Gear Golem",
+      "set_number" : "TLM-EN006"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "TLM-EN007",
+      "name" : "Ancient Gear Beast"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TLM-EN008",
+      "name" : "Ancient Gear Soldier"
+   },
+   {
+      "set_number" : "TLM-EN009",
+      "name" : "Millennium Scorpion",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "TLM-EN010",
+      "name" : "Ultimate Insect LV7",
+      "rarity" : "Super Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "TLM-EN011",
+      "name" : "Lost Guardian",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "Hieracosphinx",
+      "set_number" : "TLM-EN012"
+   },
+   {
+      "set_number" : "TLM-EN013",
+      "name" : "Criosphinx",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "name" : "Moai Interceptor Cannons",
+      "set_number" : "TLM-EN014",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Megarock Dragon",
+      "set_number" : "TLM-EN015",
+      "rarity" : "Super Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dummy Golem",
+      "set_number" : "TLM-EN016"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Grave Ohja",
+      "set_number" : "TLM-EN017"
+   },
+   {
+      "name" : "Mine Golem",
+      "set_number" : "TLM-EN018",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Monk Fighter",
+      "set_number" : "TLM-EN019",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "Master Monk",
+      "set_number" : "TLM-EN020"
+   },
+   {
+      "set_number" : "TLM-EN021",
+      "name" : "Guardian Statue",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TLM-EN022",
+      "name" : "Medusa Worm",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "D.D. Survivor",
+      "set_number" : "TLM-EN023",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "name" : "Mid Shield Gardna",
+      "set_number" : "TLM-EN024",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "White Ninja",
+      "set_number" : "TLM-EN025"
+   },
+   {
+      "set_number" : "TLM-EN026",
+      "name" : "Aussa the Earth Charmer",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Eria the Water Charmer",
+      "set_number" : "TLM-EN027"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TLM-EN028",
+      "name" : "Hiita the Fire Charmer"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Wynn the Wind Charmer",
+      "set_number" : "TLM-EN029"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Batteryman AA",
+      "set_number" : "TLM-EN030"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Des Wombat",
+      "set_number" : "TLM-EN031"
+   },
+   {
+      "name" : "King of the Skull Servants",
+      "set_number" : "TLM-EN032",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "name" : "Reshef the Dark Being",
+      "set_number" : "TLM-EN033"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "TLM-EN034",
+      "name" : "Elemental Mistress Doriado"
+   },
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "TLM-EN035",
+      "name" : "Elemental Hero Flame Wingman"
+   },
+   {
+      "name" : "Elemental Hero Thunder Giant",
+      "set_number" : "TLM-EN036",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "set_number" : "TLM-EN037",
+      "name" : "Card of Sanctity"
+   },
+   {
+      "name" : "Brain Control",
+      "set_number" : "TLM-EN038",
+      "rarity" : "Super Rare/Ultimate Rare"
+   },
+   {
+      "name" : "Gift of the Martyr",
+      "set_number" : "TLM-EN039",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TLM-EN040",
+      "name" : "Double Attack",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Battery Charger",
+      "set_number" : "TLM-EN041",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TLM-EN042",
+      "name" : "Kaminote Blow",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Doriado's Blessing",
+      "set_number" : "TLM-EN043"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TLM-EN044",
+      "name" : "Final Ritual of the Ancients"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Legendary Black Belt",
+      "set_number" : "TLM-EN045"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "TLM-EN046",
+      "name" : "Nitro Unit"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Shifting Shadows",
+      "set_number" : "TLM-EN047"
+   },
+   {
+      "name" : "Impenetrable Formation",
+      "set_number" : "TLM-EN048",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Hero Signal",
+      "set_number" : "TLM-EN049",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "name" : "Pikeru's Second Sight",
+      "set_number" : "TLM-EN050",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Minefield Eruption",
+      "set_number" : "TLM-EN051",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "TLM-EN052",
+      "name" : "Kozaky's Self-Destruct Button"
+   },
+   {
+      "name" : "Mispolymerization",
+      "set_number" : "TLM-EN053",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TLM-EN054",
+      "name" : "Level Conversion Lab",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TLM-EN055",
+      "name" : "Rock Bombardment"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TLM-EN056",
+      "name" : "Grave Lure"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Token Feastevil",
+      "set_number" : "TLM-EN057"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "TLM-EN058",
+      "name" : "Spell-Stopping Statute"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "TLM-EN059",
+      "name" : "Royal Surrender"
+   },
+   {
+      "set_number" : "TLM-EN060",
+      "name" : "Lone Wolf",
+      "rarity" : "Common"
+   }
+]

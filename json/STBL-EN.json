@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Archfiend Empress",
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN000"
+   },
+   {
+      "name" : "Swift Scarecrow",
+      "set_number" : "STBL-EN001",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN002",
+      "name" : "Mirror Ladybug"
+   },
+   {
+      "name" : "Reed Butterfly",
+      "set_number" : "STBL-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STBL-EN004",
+      "rarity" : "Common",
+      "name" : "Needle Soldier"
+   },
+   {
+      "name" : "Necro Linker",
+      "set_number" : "STBL-EN005",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STBL-EN006",
+      "rarity" : "Common",
+      "name" : "Rescue Warrior"
+   },
+   {
+      "name" : "Power Giant",
+      "set_number" : "STBL-EN007",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN008",
+      "name" : "Vice Berserker"
+   },
+   {
+      "set_number" : "STBL-EN009",
+      "rarity" : "Rare",
+      "name" : "Lancer Archfiend"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN010",
+      "name" : "Power Breaker"
+   },
+   {
+      "set_number" : "STBL-EN011",
+      "rarity" : "Common",
+      "name" : "Extra Veiler"
+   },
+   {
+      "set_number" : "STBL-EN012",
+      "rarity" : "Common",
+      "name" : "Synchro Soldier"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN013",
+      "name" : "Creation Resonator"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN014",
+      "name" : "Attack Gainer"
+   },
+   {
+      "name" : "Blackwing - Etesian of Two Swords",
+      "set_number" : "STBL-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN016",
+      "name" : "Blackwing - Aurora the Northern Lights"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN017",
+      "name" : "Blackwing - Abrolhos the Megaquake"
+   },
+   {
+      "name" : "Glow-Up Bulb",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "STBL-EN018"
+   },
+   {
+      "set_number" : "STBL-EN019",
+      "rarity" : "Common",
+      "name" : "Karakuri Soldier mdl 236 \"Nisamu\""
+   },
+   {
+      "name" : "Karakuri Merchant mdl 177 \"Inashichi\"",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN020"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN021",
+      "name" : "Karakuri Strategist mdl 248 \"Nishipachi\""
+   },
+   {
+      "set_number" : "STBL-EN022",
+      "rarity" : "Super Rare",
+      "name" : "Karakuri Ninja mdl 339 \"Sazank\""
+   },
+   {
+      "name" : "Karakuri Bushi mdl 6318 \"Muzanichiha\"",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN023"
+   },
+   {
+      "name" : "Scrap Soldier",
+      "set_number" : "STBL-EN024",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Scrap Searcher",
+      "set_number" : "STBL-EN025",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN026",
+      "name" : "Wattkiwi"
+   },
+   {
+      "set_number" : "STBL-EN027",
+      "rarity" : "Common",
+      "name" : "Watthopper"
+   },
+   {
+      "name" : "Wattdragonfly",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN028"
+   },
+   {
+      "set_number" : "STBL-EN029",
+      "rarity" : "Rare",
+      "name" : "Wattsquirrel"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN030",
+      "name" : "Naturia Cherries"
+   },
+   {
+      "name" : "Naturia Pumpkin",
+      "set_number" : "STBL-EN031",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STBL-EN032",
+      "rarity" : "Common",
+      "name" : "Naturia Stag Beetle"
+   },
+   {
+      "set_number" : "STBL-EN033",
+      "rarity" : "Super Rare",
+      "name" : "Dance Princess of the Ice Barrier"
+   },
+   {
+      "name" : "Chain Dog",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN034"
+   },
+   {
+      "set_number" : "STBL-EN035",
+      "rarity" : "Short Print",
+      "name" : "Wightmare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN036",
+      "name" : "Anarchist Monk Ranshin"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN037",
+      "name" : "Delg the Dark Monarch"
+   },
+   {
+      "name" : "Supreme Arcanite Magician",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "STBL-EN038"
+   },
+   {
+      "name" : "Gaia Drake, the Universal Force",
+      "set_number" : "STBL-EN039",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "STBL-EN040",
+      "rarity" : "Ultra Rare/Ultimate Rare/Ghost Rare",
+      "name" : "Shooting Star Dragon"
+   },
+   {
+      "set_number" : "STBL-EN041",
+      "rarity" : "Rare",
+      "name" : "Formula Synchron"
+   },
+   {
+      "name" : "Red Nova Dragon",
+      "set_number" : "STBL-EN042",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "name" : "Karakuri Shogun mdl 00 \"Burei\"",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "STBL-EN043"
+   },
+   {
+      "name" : "Scrap Twin Dragon",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "STBL-EN044"
+   },
+   {
+      "set_number" : "STBL-EN045",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "name" : "Tuning"
+   },
+   {
+      "name" : "Karakuri Showdown Castle",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN046"
+   },
+   {
+      "name" : "Golden Gearbox",
+      "set_number" : "STBL-EN047",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STBL-EN048",
+      "rarity" : "Common",
+      "name" : "Karakuri Anatomy"
+   },
+   {
+      "name" : "Scrap Lube",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN049"
+   },
+   {
+      "name" : "Wattcastle",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN050"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN051",
+      "name" : "Wattjustment"
+   },
+   {
+      "set_number" : "STBL-EN052",
+      "rarity" : "Common",
+      "name" : "Barkion's Bark"
+   },
+   {
+      "name" : "Leodrake's Mane",
+      "set_number" : "STBL-EN053",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Medallion of the Ice Barrier",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN054"
+   },
+   {
+      "name" : "Mirror of the Ice Barrier",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN055"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN056",
+      "name" : "Koa'ki Ring"
+   },
+   {
+      "name" : "Darkworld Shackles",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN057"
+   },
+   {
+      "set_number" : "STBL-EN058",
+      "rarity" : "Common",
+      "name" : "Axe of Fools"
+   },
+   {
+      "name" : "Cursed Bill",
+      "set_number" : "STBL-EN059",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STBL-EN060",
+      "rarity" : "Rare",
+      "name" : "Tokkosho of Ghost Destroying"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN061",
+      "name" : "Heat Wave"
+   },
+   {
+      "set_number" : "STBL-EN062",
+      "rarity" : "Short Print",
+      "name" : "White Elephant's Gift"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN063",
+      "name" : "D2 Shield"
+   },
+   {
+      "name" : "Red Screen",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN064"
+   },
+   {
+      "set_number" : "STBL-EN065",
+      "rarity" : "Super Rare",
+      "name" : "Blackback"
+   },
+   {
+      "name" : "Defenders Intersect",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN066"
+   },
+   {
+      "name" : "Gravity Collapse",
+      "set_number" : "STBL-EN067",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "STBL-EN068",
+      "rarity" : "Common",
+      "name" : "Blackwing - Boobytrap"
+   },
+   {
+      "name" : "Star Siphon",
+      "set_number" : "STBL-EN069",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "STBL-EN070",
+      "rarity" : "Common",
+      "name" : "Half Counter"
+   },
+   {
+      "name" : "Karakuri Trick House",
+      "set_number" : "STBL-EN071",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN072",
+      "name" : "Karakuri Klock"
+   },
+   {
+      "set_number" : "STBL-EN073",
+      "rarity" : "Common",
+      "name" : "Scrap Crash"
+   },
+   {
+      "name" : "Wattkeeper",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN074"
+   },
+   {
+      "set_number" : "STBL-EN075",
+      "rarity" : "Common",
+      "name" : "Exterio's Fang"
+   },
+   {
+      "set_number" : "STBL-EN076",
+      "rarity" : "Short Print",
+      "name" : "Vanity's Emptiness"
+   },
+   {
+      "name" : "Different Dimension Ground",
+      "rarity" : "Super Rare",
+      "set_number" : "STBL-EN077"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN078",
+      "name" : "Powersink Stone"
+   },
+   {
+      "set_number" : "STBL-EN079",
+      "rarity" : "Super Rare",
+      "name" : "Tyrant's Temper"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "STBL-EN080",
+      "name" : "Darkfall (as \"Dark Trap Hole\")"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "STBL-EN081",
+      "name" : "Skull Meister"
+   },
+   {
+      "name" : "Droll & Lock Bird",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN082"
+   },
+   {
+      "name" : "Spellstone Sorcerer Karood",
+      "set_number" : "STBL-EN083",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "STBL-EN084",
+      "name" : "Scrap Mind Reader"
+   },
+   {
+      "name" : "Gravekeeper's Recruiter",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN085"
+   },
+   {
+      "set_number" : "STBL-EN086",
+      "rarity" : "Secret Rare",
+      "name" : "Psi-Blocker"
+   },
+   {
+      "name" : "Koa'ki Meiru Wall",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN087"
+   },
+   {
+      "name" : "Karakuri Barrel mdl 96 \"Shinkuro\"",
+      "set_number" : "STBL-EN088",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "STBL-EN089",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "name" : "Mischief of the Yokai"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "STBL-EN090",
+      "name" : "Karakuri Spider"
+   },
+   {
+      "set_number" : "STBL-EN091",
+      "rarity" : "Super Rare",
+      "name" : "Royal Knight of the Ice Barrier"
+   },
+   {
+      "name" : "Ally Salvo",
+      "rarity" : "Rare",
+      "set_number" : "STBL-EN092"
+   },
+   {
+      "name" : "Ally of Justice Thousand Arms",
+      "set_number" : "STBL-EN093",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ally of Justice Unknown Crusher",
+      "rarity" : "Common",
+      "set_number" : "STBL-EN094"
+   },
+   {
+      "name" : "Genex Ally Duradark",
+      "set_number" : "STBL-EN095",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "The Fabled Rubyruda",
+      "set_number" : "STBL-EN096",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Dragunity Knight - Vajrayana",
+      "set_number" : "STBL-EN097",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Dragunity Knight - Gae Dearg",
+      "rarity" : "Secret Rare",
+      "set_number" : "STBL-EN098"
+   },
+   {
+      "name" : "Genex Ally Axel",
+      "set_number" : "STBL-EN099",
+      "rarity" : "Secret Rare"
+   }
+]

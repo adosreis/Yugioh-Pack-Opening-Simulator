@@ -1,0 +1,302 @@
+[
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "name" : "Uria, Lord of Searing Flames",
+      "set_number" : "SOI-EN001"
+   },
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "SOI-EN002",
+      "name" : "Hamon, Lord of Striking Thunder"
+   },
+   {
+      "name" : "Raviel, Lord of Phantasms",
+      "set_number" : "SOI-EN003",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Elemental Hero Neo Bubbleman",
+      "set_number" : "SOI-EN004"
+   },
+   {
+      "set_number" : "SOI-EN005",
+      "name" : "Hero Kid",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "Cyber Barrier Dragon",
+      "set_number" : "SOI-EN006"
+   },
+   {
+      "set_number" : "SOI-EN007",
+      "name" : "Cyber Laser Dragon",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ancient Gear",
+      "set_number" : "SOI-EN008"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ancient Gear Cannon",
+      "set_number" : "SOI-EN009"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "SOI-EN010",
+      "name" : "Proto-Cyber Dragon"
+   },
+   {
+      "name" : "Adhesive Explosive",
+      "set_number" : "SOI-EN011",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOI-EN012",
+      "name" : "Machine King Prototype"
+   },
+   {
+      "set_number" : "SOI-EN013",
+      "name" : "B.E.S. Covered Core",
+      "rarity" : "Super Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "D.D. Guide",
+      "set_number" : "SOI-EN014"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOI-EN015",
+      "name" : "Chain Thrasher"
+   },
+   {
+      "name" : "Disciple of the Forbidden Spell",
+      "set_number" : "SOI-EN016",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Tenkabito Shien",
+      "set_number" : "SOI-EN017"
+   },
+   {
+      "set_number" : "SOI-EN018",
+      "name" : "Parasitic Ticky",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOI-EN019",
+      "name" : "Gokipon",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOI-EN020",
+      "name" : "Silent Insect"
+   },
+   {
+      "name" : "Chainsaw Insect",
+      "set_number" : "SOI-EN021",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "SOI-EN022",
+      "name" : "Anteatereatingant",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Saber Beetle",
+      "set_number" : "SOI-EN023",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "SOI-EN024",
+      "name" : "Doom Dozer"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Treeborn Frog",
+      "set_number" : "SOI-EN025"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Beelze Frog",
+      "set_number" : "SOI-EN026"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "SOI-EN027",
+      "name" : "Princess Pikeru"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "SOI-EN028",
+      "name" : "Princess Curran"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Memory Crusher",
+      "set_number" : "SOI-EN029"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Malice Ascendant",
+      "set_number" : "SOI-EN030"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Grass Phantom",
+      "set_number" : "SOI-EN031"
+   },
+   {
+      "set_number" : "SOI-EN032",
+      "name" : "Sand Moth",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Divine Dragon - Excelion",
+      "set_number" : "SOI-EN033",
+      "rarity" : "Super Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "SOI-EN034",
+      "name" : "Ruin, Queen of Oblivion",
+      "rarity" : "Super Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "set_number" : "SOI-EN035",
+      "name" : "Demise, King of Armageddon"
+   },
+   {
+      "name" : "D.3.S. Frog",
+      "set_number" : "SOI-EN036",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Hero Heart",
+      "set_number" : "SOI-EN037"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOI-EN038",
+      "name" : "Magnet Circle LV2"
+   },
+   {
+      "name" : "Ancient Gear Factory",
+      "set_number" : "SOI-EN039",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ancient Gear Drill",
+      "set_number" : "SOI-EN040"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Phantasmal Martyrs",
+      "set_number" : "SOI-EN041"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "SOI-EN042",
+      "name" : "Cyclone Boomerang"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Symbol of Heritage",
+      "set_number" : "SOI-EN043"
+   },
+   {
+      "set_number" : "SOI-EN044",
+      "name" : "Trial of the Princesses",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Photon Generator Unit",
+      "set_number" : "SOI-EN045"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "End of the World",
+      "set_number" : "SOI-EN046"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "Ancient Gear Castle",
+      "set_number" : "SOI-EN047"
+   },
+   {
+      "set_number" : "SOI-EN048",
+      "name" : "Samsara",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOI-EN049",
+      "name" : "Super Junior Confrontation",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOI-EN050",
+      "name" : "Miracle Kids",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SOI-EN051",
+      "name" : "Attack Reflector Unit",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "set_number" : "SOI-EN052",
+      "name" : "Damage Condenser"
+   },
+   {
+      "set_number" : "SOI-EN053",
+      "name" : "Karma Cut",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "name" : "Next to be Lost",
+      "set_number" : "SOI-EN054",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Generation Shift",
+      "set_number" : "SOI-EN055",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SOI-EN056",
+      "name" : "Full Salvo"
+   },
+   {
+      "set_number" : "SOI-EN057",
+      "name" : "Success Probability 0%",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Option Hunter",
+      "set_number" : "SOI-EN058"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Goblin Out of the Frying Pan",
+      "set_number" : "SOI-EN059"
+   },
+   {
+      "name" : "Malfunction",
+      "set_number" : "SOI-EN060",
+      "rarity" : "Rare/Ultimate Rare"
+   }
+]

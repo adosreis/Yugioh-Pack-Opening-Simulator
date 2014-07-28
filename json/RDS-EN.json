@@ -1,0 +1,302 @@
+[
+   {
+      "rarity" : "Common",
+      "name" : "Woodborg Inpachi",
+      "set_number" : "RDS-EN001"
+   },
+   {
+      "set_number" : "RDS-EN002",
+      "rarity" : "Common",
+      "name" : "Mighty Guard"
+   },
+   {
+      "set_number" : "RDS-EN003",
+      "name" : "Bokoichi the Freightening Car",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RDS-EN004",
+      "name" : "Harpie Girl",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "The Creator",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "RDS-EN005"
+   },
+   {
+      "set_number" : "RDS-EN006",
+      "rarity" : "Common",
+      "name" : "The Creator Incarnate"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Ultimate Insect LV3",
+      "set_number" : "RDS-EN007"
+   },
+   {
+      "set_number" : "RDS-EN008",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Mystic Swordsman LV6"
+   },
+   {
+      "set_number" : "RDS-EN009",
+      "name" : "Silent Swordsman LV3",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "RDS-EN010",
+      "rarity" : "Common",
+      "name" : "Nightmare Penguin"
+   },
+   {
+      "name" : "Heavy Mech Support Platform",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN011"
+   },
+   {
+      "set_number" : "RDS-EN012",
+      "name" : "Perfect Machine King",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "RDS-EN013",
+      "rarity" : "Common",
+      "name" : "Element Magician"
+   },
+   {
+      "set_number" : "RDS-EN014",
+      "name" : "Element Saurus",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Roc from the Valley of Haze",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN015"
+   },
+   {
+      "name" : "Sasuke Samurai #4",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "RDS-EN016"
+   },
+   {
+      "set_number" : "RDS-EN017",
+      "rarity" : "Common",
+      "name" : "Harpie Lady 1"
+   },
+   {
+      "set_number" : "RDS-EN018",
+      "name" : "Harpie Lady 2",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RDS-EN019",
+      "name" : "Harpie Lady 3",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RDS-EN020",
+      "name" : "Raging Flame Sprite",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RDS-EN021",
+      "name" : "Thestalos the Firestorm Monarch",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "RDS-EN022",
+      "name" : "Eagle Eye",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RDS-EN023",
+      "rarity" : "Common",
+      "name" : "Tactical Espionage Expert"
+   },
+   {
+      "set_number" : "RDS-EN024",
+      "rarity" : "Common",
+      "name" : "Invasion of Flames"
+   },
+   {
+      "set_number" : "RDS-EN025",
+      "name" : "Creeping Doom Manta",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Pitch-Black Warwolf",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN026"
+   },
+   {
+      "name" : "Mirage Dragon",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN027"
+   },
+   {
+      "set_number" : "RDS-EN028",
+      "name" : "Gaia Soul the Combustible Collective",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Fox Fire",
+      "set_number" : "RDS-EN029"
+   },
+   {
+      "name" : "Big Core",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "RDS-EN030"
+   },
+   {
+      "set_number" : "RDS-EN031",
+      "name" : "Fusilier Dragon, the Dual-Mode Beast",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Dekoichi the Battlechanted Locomotive",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "RDS-EN032"
+   },
+   {
+      "set_number" : "RDS-EN033",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "A-Team: Trap Disposal Unit"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Homunculus the Alchemic Being",
+      "set_number" : "RDS-EN034"
+   },
+   {
+      "name" : "Dark Blade the Dragon Knight",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "RDS-EN035"
+   },
+   {
+      "set_number" : "RDS-EN036",
+      "rarity" : "Common",
+      "name" : "Mokey Mokey King"
+   },
+   {
+      "set_number" : "RDS-EN037",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Serial Spell"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Harpies' Hunting Ground",
+      "set_number" : "RDS-EN038"
+   },
+   {
+      "set_number" : "RDS-EN039",
+      "name" : "Triangle Ecstasy Spark",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "RDS-EN040",
+      "name" : "Necklace of Command",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "RDS-EN041",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Machine Duplication"
+   },
+   {
+      "set_number" : "RDS-EN042",
+      "name" : "Flint",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Mokey Mokey Smackdown",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN043"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Back to Square One",
+      "set_number" : "RDS-EN044"
+   },
+   {
+      "set_number" : "RDS-EN045",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Monster Reincarnation"
+   },
+   {
+      "set_number" : "RDS-EN046",
+      "rarity" : "Common",
+      "name" : "Ballista of Rampart Smashing"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Lighten the Load",
+      "set_number" : "RDS-EN047"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Malice Dispersion",
+      "set_number" : "RDS-EN048"
+   },
+   {
+      "set_number" : "RDS-EN049",
+      "name" : "Tragedy",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "RDS-EN050",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Divine Wrath"
+   },
+   {
+      "name" : "Xing Zhen Hu",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN051"
+   },
+   {
+      "set_number" : "RDS-EN052",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Rare Metalmorph"
+   },
+   {
+      "set_number" : "RDS-EN053",
+      "rarity" : "Common",
+      "name" : "Fruits of Kozaky's Studies"
+   },
+   {
+      "name" : "Mind Haxorz",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN054"
+   },
+   {
+      "set_number" : "RDS-EN055",
+      "name" : "Fuh-Rin-Ka-Zan",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Chain Burst",
+      "set_number" : "RDS-EN056"
+   },
+   {
+      "set_number" : "RDS-EN057",
+      "name" : "Pikeru's Circle of Enchantment",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Spell Purification",
+      "rarity" : "Common",
+      "set_number" : "RDS-EN058"
+   },
+   {
+      "set_number" : "RDS-EN059",
+      "name" : "Astral Barrier",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "RDS-EN060",
+      "name" : "Covering Fire",
+      "rarity" : "Rare\nUltimate Rare"
+   }
+]

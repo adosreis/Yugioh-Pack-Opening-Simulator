@@ -1,0 +1,302 @@
+[
+   {
+      "rarity" : "Super Rare",
+      "name" : "Chronomaly Aztec Mask Golem",
+      "set_number" : "NUMH-EN001"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN002",
+      "name" : "Chronomaly Cabrera Trebuchet"
+   },
+   {
+      "set_number" : "NUMH-EN003",
+      "name" : "Chronomaly Mud Golem",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN004",
+      "name" : "Chronomaly Sol Monolith"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN005",
+      "name" : "Gimmick Puppet Egg Head"
+   },
+   {
+      "set_number" : "NUMH-EN006",
+      "name" : "Gimmick Puppet Gear Changer",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gimmick Puppet Twilight Joker",
+      "set_number" : "NUMH-EN007",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN008",
+      "name" : "Gimmick Puppet Scissor Arms",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN009",
+      "name" : "Gimmick Puppet Nightmare",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Heroic Challenger - Ambush Soldier",
+      "set_number" : "NUMH-EN010",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Heroic Challenger - Clasp Sword",
+      "set_number" : "NUMH-EN011"
+   },
+   {
+      "set_number" : "NUMH-EN012",
+      "name" : "Blue Mountain Butterspy",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN013",
+      "name" : "Box of Friends",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Zombowwow",
+      "set_number" : "NUMH-EN014"
+   },
+   {
+      "name" : "Gash the Dust Lord",
+      "set_number" : "NUMH-EN015",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN016",
+      "name" : "Zubaba Knight",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gogogo Golem",
+      "set_number" : "NUMH-EN017",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN018",
+      "name" : "Kagetokage",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Kurivolt",
+      "set_number" : "NUMH-EN019",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gogogo Giant",
+      "set_number" : "NUMH-EN020",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN021",
+      "name" : "Gagaga Gardna"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Photon Cerberus",
+      "set_number" : "NUMH-EN022"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN023",
+      "name" : "Photon Lizard"
+   },
+   {
+      "name" : "Rocket Arrow Express",
+      "set_number" : "NUMH-EN024",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN025",
+      "name" : "Battle Warrior",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN026",
+      "name" : "Number 54: Lion Heart",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Number 15: Gimmick Puppet Giant Grinder",
+      "set_number" : "NUMH-EN027"
+   },
+   {
+      "set_number" : "NUMH-EN028",
+      "name" : "Number 44: Sky Pegasus",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Number 49: Fortune Tune",
+      "set_number" : "NUMH-EN029",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Number 57: Tri-Head Dust Dragon",
+      "set_number" : "NUMH-EN030"
+   },
+   {
+      "name" : "Number 63: Shamoji Soldier",
+      "set_number" : "NUMH-EN031",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN032",
+      "name" : "Number 74: Master of Blades",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "NUMH-EN033",
+      "name" : "Number 85: Crazy Box",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Number 87: Queen of the Night",
+      "set_number" : "NUMH-EN034"
+   },
+   {
+      "name" : "Mechquipped Angineer",
+      "set_number" : "NUMH-EN035",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN036",
+      "name" : "CXyz Mechquipped Djinn Angeneral"
+   },
+   {
+      "name" : "Coach King Giantrainer",
+      "set_number" : "NUMH-EN037",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "CXyz Coach Lord Ultimatrainer",
+      "set_number" : "NUMH-EN038"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Norito the Moral Leader",
+      "set_number" : "NUMH-EN039"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "NUMH-EN040",
+      "name" : "CXyz Simon the Great Moral Leader"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "NUMH-EN041",
+      "name" : "Comics Hero King Arthur"
+   },
+   {
+      "name" : "CXyz Comics Hero Legend Arthur",
+      "set_number" : "NUMH-EN042",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Battlecruiser Dianthus",
+      "set_number" : "NUMH-EN043",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "CXyz Battleship Cherry Blossom",
+      "set_number" : "NUMH-EN044",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Skypalace Gangaridai",
+      "set_number" : "NUMH-EN045",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "CXyz Skypalace Babylon",
+      "set_number" : "NUMH-EN046",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Photon Alexandra Queen",
+      "set_number" : "NUMH-EN047",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Night Papilloperative",
+      "set_number" : "NUMH-EN048"
+   },
+   {
+      "set_number" : "NUMH-EN049",
+      "name" : "Unformed Void",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN050",
+      "name" : "Princess Cologne",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Baby Tiragon",
+      "set_number" : "NUMH-EN051",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NUMH-EN052",
+      "name" : "Chakra",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN053",
+      "name" : "Resurrection of Chakra"
+   },
+   {
+      "name" : "Puppet Ritual",
+      "set_number" : "NUMH-EN054",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NUMH-EN055",
+      "name" : "Stoic Challenge"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Overlay Capture",
+      "set_number" : "NUMH-EN056"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Insect Armor with Laser Cannon",
+      "set_number" : "NUMH-EN057"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Number Wall",
+      "set_number" : "NUMH-EN058"
+   },
+   {
+      "set_number" : "NUMH-EN059",
+      "name" : "Heraldry Record",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Butterspy Protection",
+      "set_number" : "NUMH-EN060"
+   }
+]

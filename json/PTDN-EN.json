@@ -1,0 +1,502 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "PTDN-EN000",
+      "name" : "Dark Grepher"
+   },
+   {
+      "name" : "Gladiator Beast Andal",
+      "set_number" : "PTDN-EN001",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Atlantean Pikeman",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN002"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "PTDN-EN003",
+      "name" : "Rainbow Dark Dragon"
+   },
+   {
+      "set_number" : "PTDN-EN004",
+      "rarity" : "Common",
+      "name" : "Samsara Lotus"
+   },
+   {
+      "set_number" : "PTDN-EN005",
+      "rarity" : "Common",
+      "name" : "Regenerating Rose"
+   },
+   {
+      "name" : "Yubel",
+      "rarity" : "Super Rare",
+      "set_number" : "PTDN-EN006"
+   },
+   {
+      "name" : "Yubel - Terror Incarnate",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "PTDN-EN007"
+   },
+   {
+      "name" : "Yubel - The Ultimate Nightmare",
+      "set_number" : "PTDN-EN008",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN009",
+      "name" : "Armored Cybern"
+   },
+   {
+      "name" : "Cyber Valley",
+      "set_number" : "PTDN-EN010",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "PTDN-EN011",
+      "rarity" : "Common",
+      "name" : "Cyber Ouroboros"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PTDN-EN012",
+      "name" : "Volcanic Counter"
+   },
+   {
+      "set_number" : "PTDN-EN013",
+      "rarity" : "Common",
+      "name" : "Fire Trooper"
+   },
+   {
+      "name" : "Destiny Hero - Dunker",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN014"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN015",
+      "name" : "Destiny Hero - Departed"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "PTDN-EN016",
+      "name" : "Dark Horus"
+   },
+   {
+      "set_number" : "PTDN-EN017",
+      "rarity" : "Secret Rare",
+      "name" : "The Dark Creator"
+   },
+   {
+      "name" : "Dark Nephthys",
+      "set_number" : "PTDN-EN018",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Dark Armed Dragon",
+      "rarity" : "Secret Rare",
+      "set_number" : "PTDN-EN019"
+   },
+   {
+      "set_number" : "PTDN-EN020",
+      "rarity" : "Common",
+      "name" : "Dark Crusader"
+   },
+   {
+      "set_number" : "PTDN-EN021",
+      "rarity" : "Super Rare",
+      "name" : "Armageddon Knight"
+   },
+   {
+      "set_number" : "PTDN-EN022",
+      "rarity" : "Super Rare",
+      "name" : "Doomsday Horror"
+   },
+   {
+      "name" : "Obsidian Dragon",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN023"
+   },
+   {
+      "name" : "Shadowpriestess of Ohm",
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN024"
+   },
+   {
+      "set_number" : "PTDN-EN025",
+      "rarity" : "Common",
+      "name" : "Gemini Lancer"
+   },
+   {
+      "set_number" : "PTDN-EN026",
+      "rarity" : "Rare",
+      "name" : "Gigaplant"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN027",
+      "name" : "Future Samurai"
+   },
+   {
+      "name" : "Vengeful Shinobi",
+      "set_number" : "PTDN-EN028",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "The Immortal Bushi",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN029"
+   },
+   {
+      "name" : "Field-Commander Rahz",
+      "set_number" : "PTDN-EN030",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN031",
+      "name" : "Gladiator Beast Darius"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN032",
+      "name" : "Imprisoned Queen Archfiend"
+   },
+   {
+      "name" : "Black Veloci",
+      "set_number" : "PTDN-EN033",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "PTDN-EN034",
+      "name" : "Superancient Deepsea King Coelacanth"
+   },
+   {
+      "name" : "Cannon Soldier MK-2",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN035"
+   },
+   {
+      "name" : "The Calculator",
+      "set_number" : "PTDN-EN036",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN037",
+      "name" : "Sea Koala"
+   },
+   {
+      "set_number" : "PTDN-EN038",
+      "rarity" : "Common",
+      "name" : "Blue Thunder T-45"
+   },
+   {
+      "set_number" : "PTDN-EN039",
+      "rarity" : "Common",
+      "name" : "Magnetic Mosquito"
+   },
+   {
+      "name" : "Earth Effigy",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN040"
+   },
+   {
+      "set_number" : "PTDN-EN041",
+      "rarity" : "Common",
+      "name" : "Wind Effigy"
+   },
+   {
+      "name" : "Neo-Spacian Twinkle Moss",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN042"
+   },
+   {
+      "set_number" : "PTDN-EN043",
+      "rarity" : "Super Rare",
+      "name" : "Elemental Hero Storm Neos"
+   },
+   {
+      "name" : "Rainbow Neos",
+      "rarity" : "Secret Rare\nGhost Rare",
+      "set_number" : "PTDN-EN044"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN045",
+      "name" : "Rainbow Veil"
+   },
+   {
+      "set_number" : "PTDN-EN046",
+      "rarity" : "Rare",
+      "name" : "Super Polymerization"
+   },
+   {
+      "name" : "Vicious Claw",
+      "set_number" : "PTDN-EN047",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "PTDN-EN048",
+      "rarity" : "Common",
+      "name" : "Instant Neo Space"
+   },
+   {
+      "name" : "Mirage Tube",
+      "set_number" : "PTDN-EN049",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN050",
+      "name" : "Spell Chronicle"
+   },
+   {
+      "set_number" : "PTDN-EN051",
+      "rarity" : "Common",
+      "name" : "Dimension Explosion"
+   },
+   {
+      "name" : "Cybernetic Zone",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN052"
+   },
+   {
+      "name" : "The Beginning of the End",
+      "set_number" : "PTDN-EN053",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PTDN-EN054",
+      "name" : "Dark Eruption"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN055",
+      "name" : "Fires of Doomsday"
+   },
+   {
+      "set_number" : "PTDN-EN056",
+      "rarity" : "Common",
+      "name" : "Unleash Your Power!"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN057",
+      "name" : "Chain Summoning"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN058",
+      "name" : "Acidic Downpour"
+   },
+   {
+      "name" : "Six Samurai United",
+      "set_number" : "PTDN-EN059",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN060",
+      "name" : "Gladiator Beast's Battle Archfiend Shield"
+   },
+   {
+      "name" : "Gladiator Proving Ground",
+      "set_number" : "PTDN-EN061",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "PTDN-EN062",
+      "name" : "Dark World Grimoire"
+   },
+   {
+      "set_number" : "PTDN-EN063",
+      "rarity" : "Common",
+      "name" : "Rainbow Path"
+   },
+   {
+      "name" : "Rainbow Life",
+      "set_number" : "PTDN-EN064",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Sinister Seeds",
+      "set_number" : "PTDN-EN065",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Hate Buster",
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN066"
+   },
+   {
+      "name" : "Chain Material",
+      "set_number" : "PTDN-EN067",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN068",
+      "name" : "Alchemy Cycle"
+   },
+   {
+      "name" : "Cybernetic Hidden Technology",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN069"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN070",
+      "name" : "Dark Spirit Art - Greed"
+   },
+   {
+      "set_number" : "PTDN-EN071",
+      "rarity" : "Rare",
+      "name" : "Dark Illusion"
+   },
+   {
+      "name" : "Escape from the Dark Dimension",
+      "set_number" : "PTDN-EN072",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gemini Trap Hole",
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN073"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "PTDN-EN074",
+      "name" : "Drastic Drop Off"
+   },
+   {
+      "name" : "All-Out Attacks",
+      "set_number" : "PTDN-EN075",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PTDN-EN076",
+      "rarity" : "Common",
+      "name" : "Double Tag Team"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN077",
+      "name" : "Offering to the Snake Deity"
+   },
+   {
+      "name" : "Cry Havoc!",
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN078"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PTDN-EN079",
+      "name" : "Transmigration Break"
+   },
+   {
+      "name" : "Fine",
+      "set_number" : "PTDN-EN080",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "PTDN-EN081",
+      "rarity" : "Secret Rare",
+      "name" : "Darklord Zerato"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "PTDN-EN082",
+      "name" : "Darknight Parshath"
+   },
+   {
+      "name" : "Deepsea Macrotrema",
+      "set_number" : "PTDN-EN083",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "PTDN-EN084",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Allure of Darkness"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN085",
+      "name" : "Metabo Globster"
+   },
+   {
+      "name" : "Golden Flying Fish",
+      "rarity" : "Super Rare",
+      "set_number" : "PTDN-EN086"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PTDN-EN087",
+      "name" : "Prime Material Dragon"
+   },
+   {
+      "name" : "Lonefire Blossom",
+      "set_number" : "PTDN-EN088",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PTDN-EN089",
+      "name" : "Aztekipede, the Worm Warrior"
+   },
+   {
+      "name" : "Vampire's Curse",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "PTDN-EN090"
+   },
+   {
+      "name" : "Castle Gate",
+      "set_number" : "PTDN-EN091",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "PTDN-EN092",
+      "rarity" : "Rare",
+      "name" : "Dark-Eyes Illusionist"
+   },
+   {
+      "set_number" : "PTDN-EN093",
+      "rarity" : "Rare",
+      "name" : "Legendary Fiend"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "PTDN-EN094",
+      "name" : "Metal Reflect Slime"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PTDN-EN095",
+      "name" : "Zoma the Spirit"
+   },
+   {
+      "name" : "Call of the Earthbound",
+      "set_number" : "PTDN-EN096",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Dark Red Enchanter",
+      "rarity" : "Secret Rare",
+      "set_number" : "PTDN-EN097"
+   },
+   {
+      "set_number" : "PTDN-EN098",
+      "rarity" : "Secret Rare",
+      "name" : "Goblin Zombie"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "PTDN-EN099",
+      "name" : "Belial - Marquis of Darkness"
+   }
+]

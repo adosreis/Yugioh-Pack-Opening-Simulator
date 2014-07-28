@@ -1,0 +1,527 @@
+[
+   {
+      "name" : "Gemini Elf",
+      "set_number" : "LON-EN000",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "The Masked Beast",
+      "set_number" : "LON-EN001"
+   },
+   {
+      "name" : "Swordsman of Landstar",
+      "set_number" : "LON-EN002",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Humanoid Slime",
+      "set_number" : "LON-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Worm Drake",
+      "set_number" : "LON-EN004",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN005",
+      "name" : "Humanoid Worm Drake"
+   },
+   {
+      "set_number" : "LON-EN006",
+      "name" : "Revival Jam",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "LON-EN007",
+      "name" : "Flying Fish",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Amphibian Beast",
+      "set_number" : "LON-EN008",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LON-EN009",
+      "name" : "Shining Abyss",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN010",
+      "name" : "Gadget Soldier"
+   },
+   {
+      "name" : "Grand Tiki Elder",
+      "set_number" : "LON-EN011",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN012",
+      "name" : "Melchid the Four-Face Beast"
+   },
+   {
+      "name" : "Nuvia the Wicked",
+      "set_number" : "LON-EN013",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LON-EN014",
+      "name" : "Chosen One",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN015",
+      "name" : "Mask of Weakness"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Curse of the Masked Beast",
+      "set_number" : "LON-EN016"
+   },
+   {
+      "set_number" : "LON-EN017",
+      "name" : "Mask of Dispel",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "LON-EN018",
+      "name" : "Mask of Restrict"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Mask of the Accursed",
+      "set_number" : "LON-EN019"
+   },
+   {
+      "name" : "Mask of Brutality",
+      "set_number" : "LON-EN020",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LON-EN021",
+      "name" : "Return of the Doomed",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LON-EN022",
+      "name" : "Lightning Blade",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Tornado Wall",
+      "set_number" : "LON-EN023",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN024",
+      "name" : "Fairy Box"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Torrential Tribute",
+      "set_number" : "LON-EN025"
+   },
+   {
+      "set_number" : "LON-EN026",
+      "name" : "Jam Breeding Machine",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LON-EN027",
+      "name" : "Infinite Cards",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LON-EN028",
+      "name" : "Jam Defender",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Card of Safe Return",
+      "set_number" : "LON-EN029"
+   },
+   {
+      "name" : "Lady Panther",
+      "set_number" : "LON-EN030",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "The Unfriendly Amazon",
+      "set_number" : "LON-EN031"
+   },
+   {
+      "name" : "Amazoness Archer",
+      "set_number" : "LON-EN032",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Crimson Sentry",
+      "set_number" : "LON-EN033",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Fire Princess",
+      "set_number" : "LON-EN034",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "LON-EN035",
+      "name" : "Lady Assailant of Flames",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN036",
+      "name" : "Fire Sorcerer"
+   },
+   {
+      "name" : "Spirit of the Breeze",
+      "set_number" : "LON-EN037",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dancing Fairy",
+      "set_number" : "LON-EN038"
+   },
+   {
+      "set_number" : "LON-EN039",
+      "name" : "Fairy Guardian",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LON-EN040",
+      "name" : "Empress Mantis",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Cure Mermaid",
+      "set_number" : "LON-EN041",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Hysteric Fairy",
+      "set_number" : "LON-EN042",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN043",
+      "name" : "Bio-Mage"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN044",
+      "name" : "The Forgiving Maiden"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN045",
+      "name" : "St. Joan"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Marie the Fallen One",
+      "set_number" : "LON-EN046"
+   },
+   {
+      "name" : "Jar of Greed",
+      "set_number" : "LON-EN047",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Scroll of Bewitchment",
+      "set_number" : "LON-EN048"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "LON-EN049",
+      "name" : "United We Stand"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Mage Power",
+      "set_number" : "LON-EN050"
+   },
+   {
+      "name" : "Offerings to the Doomed",
+      "set_number" : "LON-EN051",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN052",
+      "name" : "The Portrait's Secret"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "The Gross Ghost of Fled Dreams",
+      "set_number" : "LON-EN053"
+   },
+   {
+      "set_number" : "LON-EN054",
+      "name" : "Headless Knight",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Earthbound Spirit",
+      "set_number" : "LON-EN055",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "The Earl of Demise",
+      "set_number" : "LON-EN056"
+   },
+   {
+      "set_number" : "LON-EN057",
+      "name" : "Boneheimer",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN058",
+      "name" : "Flame Dancer"
+   },
+   {
+      "name" : "Spherous Lady",
+      "set_number" : "LON-EN059",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Lightning Conger",
+      "set_number" : "LON-EN060"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Jowgen the Spiritualist",
+      "set_number" : "LON-EN061"
+   },
+   {
+      "set_number" : "LON-EN062",
+      "name" : "Kycoo the Ghost Destroyer",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Summoner of Illusions",
+      "set_number" : "LON-EN063"
+   },
+   {
+      "set_number" : "LON-EN064",
+      "name" : "Bazoo the Soul-Eater",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Dark Necrofear",
+      "set_number" : "LON-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN066",
+      "name" : "Soul of Purity and Light"
+   },
+   {
+      "name" : "Spirit of Flames",
+      "set_number" : "LON-EN067",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN068",
+      "name" : "Aqua Spirit"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "The Rock Spirit",
+      "set_number" : "LON-EN069"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Garuda the Wind Spirit",
+      "set_number" : "LON-EN070"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "LON-EN071",
+      "name" : "Gilasaurus"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Tornado Bird",
+      "set_number" : "LON-EN072"
+   },
+   {
+      "set_number" : "LON-EN073",
+      "name" : "Dreamsprite",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LON-EN074",
+      "name" : "Zombyra the Dark",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Supply",
+      "set_number" : "LON-EN075"
+   },
+   {
+      "set_number" : "LON-EN076",
+      "name" : "Maryokutai",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "LON-EN077",
+      "name" : "The Last Warrior from Another Planet"
+   },
+   {
+      "set_number" : "LON-EN078",
+      "name" : "Collected Power",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "LON-EN079",
+      "name" : "Dark Spirit of the Silent"
+   },
+   {
+      "name" : "Royal Command",
+      "set_number" : "LON-EN080",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Riryoku Field",
+      "set_number" : "LON-EN081",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Skull Lair",
+      "set_number" : "LON-EN082"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN083",
+      "name" : "Graverobber's Retribution"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Deal of Phantom",
+      "set_number" : "LON-EN084"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Destruction Punch",
+      "set_number" : "LON-EN085"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Blind Destruction",
+      "set_number" : "LON-EN086"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN087",
+      "name" : "The Emperor's Holiday"
+   },
+   {
+      "set_number" : "LON-EN088",
+      "name" : "Destiny Board",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Spirit Message \"I\"",
+      "set_number" : "LON-EN089",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Spirit Message \"N\"",
+      "set_number" : "LON-EN090",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Spirit Message \"A\"",
+      "set_number" : "LON-EN091",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "LON-EN092",
+      "name" : "Spirit Message \"L\"",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "The Dark Door",
+      "set_number" : "LON-EN093",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Spiritualism",
+      "set_number" : "LON-EN094",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Cyclon Laser",
+      "set_number" : "LON-EN095",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "LON-EN096",
+      "name" : "Bait Doll",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "De-Fusion",
+      "set_number" : "LON-EN097"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN098",
+      "name" : "Fusion Gate"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ekibyo Drakmord",
+      "set_number" : "LON-EN099"
+   },
+   {
+      "set_number" : "LON-EN100",
+      "name" : "Miracle Dig",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dragonic Attack",
+      "set_number" : "LON-EN101"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Spirit Elimination",
+      "set_number" : "LON-EN102"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "LON-EN103",
+      "name" : "Vengeful Bog Spirit"
+   },
+   {
+      "name" : "Magic Cylinder",
+      "set_number" : "LON-EN104",
+      "rarity" : "Secret Rare"
+   }
+]

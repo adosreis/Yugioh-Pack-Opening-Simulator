@@ -1,0 +1,532 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "DCR-EN000",
+      "name" : "Vampire Lord"
+   },
+   {
+      "set_number" : "DCR-EN001",
+      "rarity" : "Common",
+      "name" : "Battle Footballer"
+   },
+   {
+      "set_number" : "DCR-EN002",
+      "rarity" : "Common",
+      "name" : "Nin-Ken Dog"
+   },
+   {
+      "name" : "Acrobat Monkey",
+      "set_number" : "DCR-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DCR-EN004",
+      "rarity" : "Common",
+      "name" : "Arsenal Summoner"
+   },
+   {
+      "set_number" : "DCR-EN005",
+      "rarity" : "Common",
+      "name" : "Guardian Elma"
+   },
+   {
+      "name" : "Guardian Ceal",
+      "set_number" : "DCR-EN006",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "DCR-EN007",
+      "rarity" : "Ultra Rare",
+      "name" : "Guardian Grarl"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN008",
+      "name" : "Guardian Baou"
+   },
+   {
+      "set_number" : "DCR-EN009",
+      "rarity" : "Common",
+      "name" : "Guardian Kay'est"
+   },
+   {
+      "set_number" : "DCR-EN010",
+      "rarity" : "Rare",
+      "name" : "Guardian Tryce"
+   },
+   {
+      "name" : "Cyber Raider",
+      "set_number" : "DCR-EN011",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "DCR-EN012",
+      "name" : "Reflect Bounder"
+   },
+   {
+      "name" : "Little-Winguard",
+      "set_number" : "DCR-EN013",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Des Feral Imp",
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN014"
+   },
+   {
+      "name" : "Different Dimension Dragon",
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN015"
+   },
+   {
+      "name" : "Shinato, King of a Higher Plane",
+      "rarity" : "Ultra Rare",
+      "set_number" : "DCR-EN016"
+   },
+   {
+      "name" : "Dark Flare Knight",
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN017"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN018",
+      "name" : "Mirage Knight"
+   },
+   {
+      "name" : "Berserk Dragon",
+      "set_number" : "DCR-EN019",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "DCR-EN020",
+      "name" : "Exodia Necross"
+   },
+   {
+      "set_number" : "DCR-EN021",
+      "rarity" : "Common",
+      "name" : "Gyaku-Gire Panda"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN022",
+      "name" : "Blindly Loyal Goblin"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN023",
+      "name" : "Despair from the Dark"
+   },
+   {
+      "set_number" : "DCR-EN024",
+      "rarity" : "Common",
+      "name" : "Maju Garzett"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN025",
+      "name" : "Fear from the Dark"
+   },
+   {
+      "name" : "Dark Scorpion - Chick the Yellow",
+      "set_number" : "DCR-EN026",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DCR-EN027",
+      "rarity" : "Super Rare",
+      "name" : "D.D. Warrior Lady"
+   },
+   {
+      "name" : "Thousand Needles",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN028"
+   },
+   {
+      "name" : "Shinato's Ark",
+      "set_number" : "DCR-EN029",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN030",
+      "name" : "A Deal with Dark Ruler"
+   },
+   {
+      "set_number" : "DCR-EN031",
+      "rarity" : "Common",
+      "name" : "Contract with Exodia"
+   },
+   {
+      "name" : "Butterfly Dagger - Elma",
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN032"
+   },
+   {
+      "set_number" : "DCR-EN033",
+      "rarity" : "Common",
+      "name" : "Shooting Star Bow - Ceal"
+   },
+   {
+      "name" : "Gravity Axe - Grarl",
+      "set_number" : "DCR-EN034",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Wicked-Breaking Flamberge - Baou",
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN035"
+   },
+   {
+      "name" : "Rod of Silence - Kay'est",
+      "set_number" : "DCR-EN036",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Twin Swords of Flashing Light - Tryce",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN037"
+   },
+   {
+      "set_number" : "DCR-EN038",
+      "rarity" : "Common",
+      "name" : "Precious Cards from Beyond"
+   },
+   {
+      "name" : "Rod of the Mind's Eye",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN039"
+   },
+   {
+      "set_number" : "DCR-EN040",
+      "rarity" : "Common",
+      "name" : "Fairy of the Spring"
+   },
+   {
+      "name" : "Token Thanksgiving",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN041"
+   },
+   {
+      "set_number" : "DCR-EN042",
+      "rarity" : "Common",
+      "name" : "Morale Boost"
+   },
+   {
+      "name" : "Non-Spellcasting Area",
+      "set_number" : "DCR-EN043",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Different Dimension Gate",
+      "set_number" : "DCR-EN044",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DCR-EN045",
+      "rarity" : "Common",
+      "name" : "Final Attack Orders"
+   },
+   {
+      "set_number" : "DCR-EN046",
+      "rarity" : "Common",
+      "name" : "Staunch Defender"
+   },
+   {
+      "name" : "Ojama Trio",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN047"
+   },
+   {
+      "set_number" : "DCR-EN048",
+      "rarity" : "Common",
+      "name" : "Arsenal Robber"
+   },
+   {
+      "set_number" : "DCR-EN049",
+      "rarity" : "Rare",
+      "name" : "Skill Drain"
+   },
+   {
+      "set_number" : "DCR-EN050",
+      "rarity" : "Common",
+      "name" : "Really Eternal Rest"
+   },
+   {
+      "name" : "Kaiser Glider",
+      "rarity" : "Ultra Rare",
+      "set_number" : "DCR-EN051"
+   },
+   {
+      "name" : "Interdimensional Matter Transporter",
+      "set_number" : "DCR-EN052",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Cost Down",
+      "set_number" : "DCR-EN053",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Gagagigo",
+      "set_number" : "DCR-EN054",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "D.D. Trainer",
+      "set_number" : "DCR-EN055",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Ojama Green",
+      "set_number" : "DCR-EN056",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Archfiend Soldier",
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN057"
+   },
+   {
+      "name" : "Pandemonium Watchbear",
+      "set_number" : "DCR-EN058",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Sasuke Samurai #2",
+      "set_number" : "DCR-EN059",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Dark Scorpion - Gorg the Strong",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN060"
+   },
+   {
+      "name" : "Dark Scorpion - Meanae the Thorn",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN061"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN062",
+      "name" : "Outstanding Dog Marron"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN063",
+      "name" : "Great Maju Garzett"
+   },
+   {
+      "name" : "Iron Blacksmith Kotetsu",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN064"
+   },
+   {
+      "name" : "Goblin of Greed",
+      "set_number" : "DCR-EN065",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Mefist the Infernal General",
+      "set_number" : "DCR-EN066",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Vilepawn Archfiend",
+      "set_number" : "DCR-EN067",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DCR-EN068",
+      "rarity" : "Common",
+      "name" : "Shadowknight Archfiend"
+   },
+   {
+      "set_number" : "DCR-EN069",
+      "rarity" : "Rare",
+      "name" : "Darkbishop Archfiend"
+   },
+   {
+      "name" : "Desrook Archfiend",
+      "set_number" : "DCR-EN070",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Infernalqueen Archfiend",
+      "set_number" : "DCR-EN071",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN072",
+      "name" : "Terrorking Archfiend"
+   },
+   {
+      "name" : "Skull Archfiend of Lightning",
+      "set_number" : "DCR-EN073",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "DCR-EN074",
+      "rarity" : "Rare",
+      "name" : "Metallizing Parasite - Lunatite"
+   },
+   {
+      "set_number" : "DCR-EN075",
+      "rarity" : "Rare",
+      "name" : "Tsukuyomi"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN076",
+      "name" : "Mudora"
+   },
+   {
+      "name" : "Keldo",
+      "set_number" : "DCR-EN077",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Kelbek",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN078"
+   },
+   {
+      "name" : "Zolga",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN079"
+   },
+   {
+      "name" : "Agido",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN080"
+   },
+   {
+      "name" : "Legendary Flame Lord",
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN081"
+   },
+   {
+      "name" : "Dark Master - Zorc",
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN082"
+   },
+   {
+      "name" : "Spell Reproduction",
+      "set_number" : "DCR-EN083",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Dragged Down into the Grave",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN084"
+   },
+   {
+      "name" : "Incandescent Ordeal",
+      "set_number" : "DCR-EN085",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DCR-EN086",
+      "name" : "Contract with the Abyss"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN087",
+      "name" : "Contract with the Dark Master"
+   },
+   {
+      "name" : "Falling Down",
+      "set_number" : "DCR-EN088",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Checkmate",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN089"
+   },
+   {
+      "name" : "Cestus of Dagla",
+      "set_number" : "DCR-EN090",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Final Countdown",
+      "set_number" : "DCR-EN091",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Archfiend's Oath",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN092"
+   },
+   {
+      "set_number" : "DCR-EN093",
+      "rarity" : "Common",
+      "name" : "Mustering of the Dark Scorpions"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN094",
+      "name" : "Pandemonium"
+   },
+   {
+      "name" : "Altar for Tribute",
+      "set_number" : "DCR-EN095",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Frozen Soul",
+      "rarity" : "Common",
+      "set_number" : "DCR-EN096"
+   },
+   {
+      "name" : "Battle-Scarred",
+      "set_number" : "DCR-EN097",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DCR-EN098",
+      "rarity" : "Rare",
+      "name" : "Dark Scorpion Combination"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN099",
+      "name" : "Archfiend's Roar"
+   },
+   {
+      "set_number" : "DCR-EN100",
+      "rarity" : "Common",
+      "name" : "Dice Re-Roll"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DCR-EN101",
+      "name" : "Spell Vanishing"
+   },
+   {
+      "set_number" : "DCR-EN102",
+      "rarity" : "Common",
+      "name" : "Sakuretsu Armor"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DCR-EN103",
+      "name" : "Ray of Hope"
+   },
+   {
+      "set_number" : "DCR-EN104",
+      "rarity" : "Ultra Rare",
+      "name" : "Blast Held by a Tribute"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "DCR-EN105",
+      "name" : "Judgment of Anubis"
+   }
+]

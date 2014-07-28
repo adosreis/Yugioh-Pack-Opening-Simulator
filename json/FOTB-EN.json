@@ -1,0 +1,347 @@
+[
+   {
+      "set_number" : "FOTB-EN000",
+      "rarity" : "Secret Rare",
+      "name" : "Volcanic Rocket"
+   },
+   {
+      "name" : "Crystal Beast Ruby Carbuncle",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN001"
+   },
+   {
+      "set_number" : "FOTB-EN002",
+      "rarity" : "Common",
+      "name" : "Crystal Beast Amethyst Cat"
+   },
+   {
+      "set_number" : "FOTB-EN003",
+      "name" : "Crystal Beast Emerald Tortoise",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Crystal Beast Topaz Tiger",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN004"
+   },
+   {
+      "set_number" : "FOTB-EN005",
+      "name" : "Crystal Beast Amber Mammoth",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Crystal Beast Cobalt Eagle",
+      "set_number" : "FOTB-EN006"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Crystal Beast Sapphire Pegasus",
+      "set_number" : "FOTB-EN007"
+   },
+   {
+      "name" : "Volcanic Doomfire",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN008"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Volcanic Shell",
+      "set_number" : "FOTB-EN009"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Volcanic Scattershot",
+      "set_number" : "FOTB-EN010"
+   },
+   {
+      "set_number" : "FOTB-EN011",
+      "name" : "Volcanic Blaster",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FOTB-EN012",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Volcanic Slicer"
+   },
+   {
+      "set_number" : "FOTB-EN013",
+      "name" : "Volcanic Hammerer",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Elemental Hero Captain Gold",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN014"
+   },
+   {
+      "set_number" : "FOTB-EN015",
+      "name" : "Gravekeeper's Commandant",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "FOTB-EN016",
+      "name" : "Warrior of Atlantis",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "FOTB-EN017",
+      "name" : "Destroyersaurus",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "FOTB-EN018",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Zeradias, Herald of Heaven"
+   },
+   {
+      "name" : "Archfiend General",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN019"
+   },
+   {
+      "name" : "Harpie Queen",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN020"
+   },
+   {
+      "set_number" : "FOTB-EN021",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Sky Scourge Enrise"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Sky Scourge Norleras",
+      "set_number" : "FOTB-EN022"
+   },
+   {
+      "set_number" : "FOTB-EN023",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Sky Scourge Invicil"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Goe Goe the Gallant Ninja",
+      "set_number" : "FOTB-EN024"
+   },
+   {
+      "set_number" : "FOTB-EN025",
+      "rarity" : "Common",
+      "name" : "Mei-Kou, Master of Barriers"
+   },
+   {
+      "set_number" : "FOTB-EN026",
+      "name" : "Raiza the Storm Monarch",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Seismic Crasher",
+      "set_number" : "FOTB-EN027"
+   },
+   {
+      "set_number" : "FOTB-EN028",
+      "name" : "Dweller in the Depths",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FOTB-EN029",
+      "name" : "Magna-Slash Dragon",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Gravi-Crush Dragon",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN030"
+   },
+   {
+      "name" : "Soul of Fire",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN031"
+   },
+   {
+      "name" : "Crystal Beacon",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN032"
+   },
+   {
+      "set_number" : "FOTB-EN033",
+      "name" : "Rare Value",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "FOTB-EN034",
+      "name" : "Crystal Blessing",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FOTB-EN035",
+      "rarity" : "Common",
+      "name" : "Crystal Abundance"
+   },
+   {
+      "name" : "Crystal Promise",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN036"
+   },
+   {
+      "name" : "Lucky Iron Axe",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN037"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Tornado",
+      "set_number" : "FOTB-EN038"
+   },
+   {
+      "set_number" : "FOTB-EN039",
+      "name" : "Wild Fire",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Blaze Accelerator",
+      "set_number" : "FOTB-EN040"
+   },
+   {
+      "set_number" : "FOTB-EN041",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Tri-Blaze Accelerator"
+   },
+   {
+      "set_number" : "FOTB-EN042",
+      "name" : "Field Barrier",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FOTB-EN043",
+      "rarity" : "Common",
+      "name" : "\"A\" Cell Breeding Device"
+   },
+   {
+      "name" : "Otherworld - The \"A\" Zone",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN044"
+   },
+   {
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Ancient City - Rainbow Ruins",
+      "set_number" : "FOTB-EN045"
+   },
+   {
+      "name" : "Triggered Summon",
+      "rarity" : "Rare\nUltimate Rare",
+      "set_number" : "FOTB-EN046"
+   },
+   {
+      "name" : "Last Resort",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN047"
+   },
+   {
+      "name" : "Crystal Raigeki",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN048"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Volcanic Recharge",
+      "set_number" : "FOTB-EN049"
+   },
+   {
+      "set_number" : "FOTB-EN050",
+      "rarity" : "Common",
+      "name" : "Terrible Deal"
+   },
+   {
+      "name" : "Breakthrough!",
+      "rarity" : "Common",
+      "set_number" : "FOTB-EN051"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Backs to the Wall",
+      "set_number" : "FOTB-EN052"
+   },
+   {
+      "set_number" : "FOTB-EN053",
+      "rarity" : "Common",
+      "name" : "Introduction to Gallantry"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Secrets of the Gallant",
+      "set_number" : "FOTB-EN054"
+   },
+   {
+      "set_number" : "FOTB-EN055",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Radiant Mirror Force"
+   },
+   {
+      "set_number" : "FOTB-EN056",
+      "rarity" : "Common",
+      "name" : "Hard-sellin' Goblin"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Hard-sellin' Zombie",
+      "set_number" : "FOTB-EN057"
+   },
+   {
+      "set_number" : "FOTB-EN058",
+      "name" : "Mass Hypnosis",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FOTB-EN059",
+      "name" : "Gem Flash Energy",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "FOTB-EN060",
+      "rarity" : "Rare\nUltimate Rare",
+      "name" : "Firewall"
+   },
+   {
+      "set_number" : "FOTB-EN061",
+      "name" : "Diabolos, King of the Abyss",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Lich Lord, King of the Underworld",
+      "set_number" : "FOTB-EN062"
+   },
+   {
+      "name" : "Prometheus, King of the Shadows",
+      "rarity" : "Secret Rare",
+      "set_number" : "FOTB-EN063"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Mist Archfiend",
+      "set_number" : "FOTB-EN064"
+   },
+   {
+      "name" : "Plague Wolf",
+      "rarity" : "Secret Rare",
+      "set_number" : "FOTB-EN065"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Recurring Nightmare",
+      "set_number" : "FOTB-EN066"
+   },
+   {
+      "name" : "Sword of Dark Rites",
+      "rarity" : "Secret Rare",
+      "set_number" : "FOTB-EN067"
+   },
+   {
+      "name" : "Eradicator Epidemic Virus",
+      "rarity" : "Secret Rare",
+      "set_number" : "FOTB-EN068"
+   }
+]

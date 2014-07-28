@@ -1,0 +1,302 @@
+[
+   {
+      "set_number" : "EEN-EN001",
+      "rarity" : "Common",
+      "name" : "Zure, Knight of Dark World"
+   },
+   {
+      "name" : "V-Tiger Jet",
+      "set_number" : "EEN-EN002",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN003",
+      "name" : "Blade Skater"
+   },
+   {
+      "name" : "Queen's Knight",
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN004"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN005",
+      "name" : "Jack's Knight"
+   },
+   {
+      "name" : "King's Knight",
+      "set_number" : "EEN-EN006",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "EEN-EN007",
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "Elemental HERO Bladedge"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN008",
+      "name" : "Elemental HERO Wildheart"
+   },
+   {
+      "name" : "Reborn Zombie",
+      "set_number" : "EEN-EN009",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chthonian Soldier",
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN010"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN011",
+      "name" : "W-Wing Catapult"
+   },
+   {
+      "set_number" : "EEN-EN012",
+      "rarity" : "Common",
+      "name" : "Infernal Incinerator"
+   },
+   {
+      "name" : "Hydrogeddon",
+      "rarity" : "Common",
+      "set_number" : "EEN-EN013"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN014",
+      "name" : "Oxygeddon"
+   },
+   {
+      "set_number" : "EEN-EN015",
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "Water Dragon"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN016",
+      "name" : "Etoile Cyber"
+   },
+   {
+      "set_number" : "EEN-EN017",
+      "rarity" : "Super Rare/Ultimate Rare",
+      "name" : "B.E.S. Tetran"
+   },
+   {
+      "set_number" : "EEN-EN018",
+      "rarity" : "Common",
+      "name" : "Nanobreaker"
+   },
+   {
+      "set_number" : "EEN-EN019",
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Rapid-Fire Magician"
+   },
+   {
+      "name" : "Beiige, Vanguard of Dark World",
+      "rarity" : "Common",
+      "set_number" : "EEN-EN020"
+   },
+   {
+      "set_number" : "EEN-EN021",
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Broww, Huntsman of Dark World"
+   },
+   {
+      "name" : "Brron, Mad King of Dark World",
+      "set_number" : "EEN-EN022",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "EEN-EN023",
+      "rarity" : "Rare/Ultimate Rare",
+      "name" : "Sillva, Warlord of Dark World"
+   },
+   {
+      "name" : "Goldd, Wu-Lord of Dark World",
+      "rarity" : "Super Rare/Ultimate Rare",
+      "set_number" : "EEN-EN024"
+   },
+   {
+      "set_number" : "EEN-EN025",
+      "rarity" : "Common",
+      "name" : "Scarr, Scout of Dark World"
+   },
+   {
+      "set_number" : "EEN-EN026",
+      "rarity" : "Common",
+      "name" : "Familiar-Possessed - Aussa"
+   },
+   {
+      "name" : "Familiar-Possessed - Eria",
+      "set_number" : "EEN-EN027",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN028",
+      "name" : "Familiar-Possessed - Hiita"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN029",
+      "name" : "Familiar-Possessed - Wynn"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN030",
+      "name" : "VW-Tiger Catapult"
+   },
+   {
+      "name" : "VWXYZ-Dragon Catapult Cannon",
+      "rarity" : "Super Rare/Ultimate Rare",
+      "set_number" : "EEN-EN031"
+   },
+   {
+      "rarity" : "Super Rare/Ultimate Rare",
+      "set_number" : "EEN-EN032",
+      "name" : "Cyber Blader"
+   },
+   {
+      "name" : "Elemental HERO Rampart Blaster",
+      "set_number" : "EEN-EN033",
+      "rarity" : "Ultra Rare/Ultimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "EEN-EN034",
+      "name" : "Elemental HERO Tempest"
+   },
+   {
+      "name" : "Elemental HERO Wildedge",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "set_number" : "EEN-EN035"
+   },
+   {
+      "set_number" : "EEN-EN036",
+      "rarity" : "Ultra Rare/Ultimate Rare",
+      "name" : "Elemental HERO Shining Flare Wingman"
+   },
+   {
+      "name" : "Pot of Avarice",
+      "rarity" : "Super Rare/Ultimate Rare",
+      "set_number" : "EEN-EN037"
+   },
+   {
+      "set_number" : "EEN-EN038",
+      "rarity" : "Common",
+      "name" : "Dark World Lightning"
+   },
+   {
+      "set_number" : "EEN-EN039",
+      "rarity" : "Common",
+      "name" : "Level Modulation"
+   },
+   {
+      "name" : "Ojamagic",
+      "rarity" : "Common",
+      "set_number" : "EEN-EN040"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN041",
+      "name" : "Ojamuscle"
+   },
+   {
+      "name" : "Feather Shot",
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN042"
+   },
+   {
+      "set_number" : "EEN-EN043",
+      "rarity" : "Common",
+      "name" : "Bonding - H2O"
+   },
+   {
+      "name" : "Chthonian Alliance",
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN044"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN045",
+      "name" : "Armed Changer"
+   },
+   {
+      "name" : "Branch!",
+      "rarity" : "Common",
+      "set_number" : "EEN-EN046"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN047",
+      "name" : "Boss Rush"
+   },
+   {
+      "name" : "Gateway to Dark World",
+      "rarity" : "Common",
+      "set_number" : "EEN-EN048"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN049",
+      "name" : "Hero Barrier"
+   },
+   {
+      "name" : "Chthonian Blast",
+      "set_number" : "EEN-EN050",
+      "rarity" : "Rare/Ultimate Rare"
+   },
+   {
+      "set_number" : "EEN-EN051",
+      "rarity" : "Common",
+      "name" : "The Forces of Darkness"
+   },
+   {
+      "name" : "Dark Deal",
+      "set_number" : "EEN-EN052",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Simultaneous Loss",
+      "rarity" : "Common",
+      "set_number" : "EEN-EN053"
+   },
+   {
+      "name" : "Weed Out",
+      "set_number" : "EEN-EN054",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EEN-EN055",
+      "name" : "The League of Uniform Nomenclature"
+   },
+   {
+      "name" : "Roll Out!",
+      "set_number" : "EEN-EN056",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chthonian Polymer",
+      "rarity" : "Common",
+      "set_number" : "EEN-EN057"
+   },
+   {
+      "name" : "Feather Wind",
+      "set_number" : "EEN-EN058",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Non-Fusion Area",
+      "set_number" : "EEN-EN059",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare/Ultimate Rare",
+      "set_number" : "EEN-EN060",
+      "name" : "Level Limit - Area A"
+   }
+]

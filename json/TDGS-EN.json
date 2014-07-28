@@ -1,0 +1,502 @@
+[
+   {
+      "set_number" : "TDGS-EN000",
+      "rarity" : "Secret Rare",
+      "name" : "Avenging Knight Parshath"
+   },
+   {
+      "set_number" : "TDGS-EN001",
+      "rarity" : "Common",
+      "name" : "Turbo Booster"
+   },
+   {
+      "name" : "Nitro Synchron",
+      "set_number" : "TDGS-EN002",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Quillbolt Hedgehog",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN003"
+   },
+   {
+      "name" : "Ghost Gardna",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN004"
+   },
+   {
+      "name" : "Shield Warrior",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN005"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN006",
+      "name" : "Small Piece Golem"
+   },
+   {
+      "name" : "Medium Piece Golem",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN007"
+   },
+   {
+      "set_number" : "TDGS-EN008",
+      "rarity" : "Rare",
+      "name" : "Big Piece Golem"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN009",
+      "name" : "Sinister Sprocket"
+   },
+   {
+      "name" : "Dark Resonator",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN010"
+   },
+   {
+      "name" : "Twin-Shield Defender",
+      "set_number" : "TDGS-EN011",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN012",
+      "name" : "Jutte Fighter"
+   },
+   {
+      "name" : "Handcuffs Dragon",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN013"
+   },
+   {
+      "name" : "Montage Dragon",
+      "set_number" : "TDGS-EN014",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Gonogo",
+      "set_number" : "TDGS-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Mind Master",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN016"
+   },
+   {
+      "set_number" : "TDGS-EN017",
+      "rarity" : "Common",
+      "name" : "Doctor Cranium"
+   },
+   {
+      "name" : "Krebons",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN018"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN019",
+      "name" : "Mind Protector"
+   },
+   {
+      "name" : "Psychic Commander",
+      "set_number" : "TDGS-EN020",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TDGS-EN021",
+      "rarity" : "Common",
+      "name" : "Psychic Snail"
+   },
+   {
+      "name" : "Telekinetic Shocker",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN022"
+   },
+   {
+      "name" : "Destructotron",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN023"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN024",
+      "name" : "Gladiator Beast Equeste"
+   },
+   {
+      "name" : "Jenis, Lightsworn Mender",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN025"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN026",
+      "name" : "Dharc the Dark Charmer"
+   },
+   {
+      "set_number" : "TDGS-EN027",
+      "rarity" : "Common",
+      "name" : "Mecha Bunny"
+   },
+   {
+      "name" : "Oyster Meister",
+      "set_number" : "TDGS-EN028",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Twin-Barrel Dragon",
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN029"
+   },
+   {
+      "name" : "Izanagi",
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN030"
+   },
+   {
+      "name" : "Kunoichi",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN031"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN032",
+      "name" : "Beast of the Pharaoh"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TDGS-EN033",
+      "name" : "Dark Hunter"
+   },
+   {
+      "name" : "Kinka-byo",
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN034"
+   },
+   {
+      "name" : "Yamato-no-Kami",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN035"
+   },
+   {
+      "name" : "Silent Strider",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN036"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN037",
+      "name" : "Noisy Gnat"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TDGS-EN038",
+      "name" : "Multiple Piece Golem"
+   },
+   {
+      "name" : "Nitro Warrior",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TDGS-EN039"
+   },
+   {
+      "name" : "Stardust Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "TDGS-EN040"
+   },
+   {
+      "set_number" : "TDGS-EN041",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Red Dragon Archfiend"
+   },
+   {
+      "name" : "Goyo Guardian",
+      "set_number" : "TDGS-EN042",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Magical Android",
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN043"
+   },
+   {
+      "name" : "Thought Ruler Archfiend",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TDGS-EN044"
+   },
+   {
+      "name" : "Fighting Spirit",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN045"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN046",
+      "name" : "Domino Effect"
+   },
+   {
+      "set_number" : "TDGS-EN047",
+      "rarity" : "Common",
+      "name" : "Junk Barrage"
+   },
+   {
+      "name" : "Battle Tuned",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN048"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN049",
+      "name" : "De-Synchro"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN050",
+      "name" : "Lightwave Tuning"
+   },
+   {
+      "set_number" : "TDGS-EN051",
+      "rarity" : "Common",
+      "name" : "Psi-Station"
+   },
+   {
+      "name" : "Psi-Impulse",
+      "set_number" : "TDGS-EN052",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Emergency Teleport",
+      "set_number" : "TDGS-EN053",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Sword of Kusanagi",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN054"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN055",
+      "name" : "Orb of Yasaka"
+   },
+   {
+      "name" : "Mirror of Yata",
+      "set_number" : "TDGS-EN056",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TDGS-EN057",
+      "rarity" : "Common",
+      "name" : "Geartown"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN058",
+      "name" : "Power Filter"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN059",
+      "name" : "Lightsworn Sabre"
+   },
+   {
+      "name" : "Unstable Evolution",
+      "set_number" : "TDGS-EN060",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Recycling Batteries",
+      "set_number" : "TDGS-EN061",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN062",
+      "name" : "Book of Eclipse"
+   },
+   {
+      "set_number" : "TDGS-EN063",
+      "rarity" : "Common",
+      "name" : "Equip Shot"
+   },
+   {
+      "name" : "Graceful Revival",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN064"
+   },
+   {
+      "name" : "Defense Draw",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN066",
+      "name" : "Remote Revenge"
+   },
+   {
+      "name" : "Spacegate",
+      "set_number" : "TDGS-EN067",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Synchro Deflector",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN068"
+   },
+   {
+      "set_number" : "TDGS-EN069",
+      "rarity" : "Super Rare",
+      "name" : "Broken Blocker"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TDGS-EN070",
+      "name" : "Psychic Overload"
+   },
+   {
+      "name" : "Psychic Rejuvenation",
+      "set_number" : "TDGS-EN071",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Telepathic Power",
+      "set_number" : "TDGS-EN072",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN073",
+      "name" : "Mind Over Matter"
+   },
+   {
+      "set_number" : "TDGS-EN074",
+      "rarity" : "Super Rare",
+      "name" : "Gladiator Beast War Chariot"
+   },
+   {
+      "set_number" : "TDGS-EN075",
+      "rarity" : "Common",
+      "name" : "Lightsworn Barrier"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN076",
+      "name" : "Intercept"
+   },
+   {
+      "name" : "Judgment of Thunder",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN077"
+   },
+   {
+      "name" : "Fish Depth Charge",
+      "set_number" : "TDGS-EN078",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Needlebug Nest",
+      "set_number" : "TDGS-EN079",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Overworked",
+      "rarity" : "Common",
+      "set_number" : "TDGS-EN080"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN081",
+      "name" : "Counselor Lily"
+   },
+   {
+      "set_number" : "TDGS-EN082",
+      "rarity" : "Rare",
+      "name" : "Herald of Orange Light"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN083",
+      "name" : "Izanami"
+   },
+   {
+      "name" : "Maiden of Macabre",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN084"
+   },
+   {
+      "name" : "Hand of the Six Samurai",
+      "rarity" : "Secret Rare",
+      "set_number" : "TDGS-EN085"
+   },
+   {
+      "name" : "Cyber Shark",
+      "rarity" : "Secret Rare",
+      "set_number" : "TDGS-EN086"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN087",
+      "name" : "Grapple Blocker"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN088",
+      "name" : "Telekinetic Charging Cell"
+   },
+   {
+      "name" : "Charge of the Light Brigade",
+      "set_number" : "TDGS-EN089",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "TDGS-EN090",
+      "rarity" : "Rare",
+      "name" : "The Tricky"
+   },
+   {
+      "set_number" : "TDGS-EN091",
+      "rarity" : "Common",
+      "name" : "Tricky Spell 4"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN092",
+      "name" : "Trap of Darkness"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN093",
+      "name" : "The Selection"
+   },
+   {
+      "name" : "Splendid Venus",
+      "rarity" : "Secret Rare",
+      "set_number" : "TDGS-EN094"
+   },
+   {
+      "name" : "Fiendish Engine Ω",
+      "rarity" : "Secret Rare",
+      "set_number" : "TDGS-EN095"
+   },
+   {
+      "name" : "Cold Enchanter",
+      "rarity" : "Rare",
+      "set_number" : "TDGS-EN096"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "TDGS-EN097",
+      "name" : "Ice Master"
+   },
+   {
+      "name" : "Kunai with Chain",
+      "rarity" : "Super Rare",
+      "set_number" : "TDGS-EN098"
+   },
+   {
+      "set_number" : "TDGS-EN099",
+      "rarity" : "Secret Rare",
+      "name" : "Toy Magician"
+   }
+]

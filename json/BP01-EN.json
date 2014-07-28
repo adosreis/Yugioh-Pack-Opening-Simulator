@@ -1,0 +1,1102 @@
+[
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN001",
+      "name" : "Witch of the Black Forest"
+   },
+   {
+      "set_number" : "BP01-EN002",
+      "name" : "Cyber Jar",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Jinzo",
+      "set_number" : "BP01-EN003"
+   },
+   {
+      "set_number" : "BP01-EN004",
+      "name" : "Injection Fairy Lily",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN005",
+      "name" : "Dark Dust Spirit"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN006",
+      "name" : "Skull Archfiend of Lightning"
+   },
+   {
+      "set_number" : "BP01-EN007",
+      "name" : "Dark Magician of Chaos",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN008",
+      "name" : "Blowback Dragon",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Mobius the Frost Monarch",
+      "set_number" : "BP01-EN009"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Fox Fire",
+      "set_number" : "BP01-EN010"
+   },
+   {
+      "name" : "Ancient Gear Golem",
+      "set_number" : "BP01-EN011",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Treeborn Frog",
+      "set_number" : "BP01-EN012"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN013",
+      "name" : "Super Conductor Tyranno"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN014",
+      "name" : "Gorz the Emissary of Darkness"
+   },
+   {
+      "set_number" : "BP01-EN015",
+      "name" : "Raiza the Storm Monarch",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN016",
+      "name" : "White Night Dragon",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN017",
+      "name" : "Deep Diver"
+   },
+   {
+      "set_number" : "BP01-EN018",
+      "name" : "Caius the Shadow Monarch",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN019",
+      "name" : "Krebons"
+   },
+   {
+      "set_number" : "BP01-EN020",
+      "name" : "Tragoedia",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN021",
+      "name" : "Obelisk the Tormentor"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN022",
+      "name" : "Machina Fortress"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN023",
+      "name" : "Tour Guide From the Underworld"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Number 39: Utopia",
+      "set_number" : "BP01-EN024"
+   },
+   {
+      "name" : "Gachi Gachi Gantetsu",
+      "set_number" : "BP01-EN025",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN026",
+      "name" : "Grenosaurus"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Number 17: Leviathan Dragon",
+      "set_number" : "BP01-EN027"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN028",
+      "name" : "Wind-Up Zenmaister"
+   },
+   {
+      "name" : "Tiras, Keeper of Genesis",
+      "set_number" : "BP01-EN029",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN030",
+      "name" : "Adreus, Keeper of Armageddon",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "name" : "Gem-Knight Pearl",
+      "set_number" : "BP01-EN031",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "name" : "Raigeki",
+      "set_number" : "BP01-EN032",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Swords of Revealing Light",
+      "set_number" : "BP01-EN033"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN034",
+      "name" : "Pot of Greed"
+   },
+   {
+      "set_number" : "BP01-EN035",
+      "name" : "Harpie's Feather Duster",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN036",
+      "name" : "Graceful Charity",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Change of Heart",
+      "set_number" : "BP01-EN037"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN038",
+      "name" : "Heavy Storm"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Snatch Steal",
+      "set_number" : "BP01-EN039"
+   },
+   {
+      "name" : "Premature Burial",
+      "set_number" : "BP01-EN040",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Soul Exchange",
+      "set_number" : "BP01-EN041"
+   },
+   {
+      "set_number" : "BP01-EN042",
+      "name" : "Scapegoat",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN043",
+      "name" : "United We Stand"
+   },
+   {
+      "name" : "Creature Swap",
+      "set_number" : "BP01-EN044",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Burden of the Mighty",
+      "set_number" : "BP01-EN045"
+   },
+   {
+      "name" : "Pot of Duality",
+      "set_number" : "BP01-EN046",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Solemn Judgment",
+      "set_number" : "BP01-EN047"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Mirror Force",
+      "set_number" : "BP01-EN048"
+   },
+   {
+      "set_number" : "BP01-EN049",
+      "name" : "Call of the Haunted",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN050",
+      "name" : "Ring of Destruction"
+   },
+   {
+      "name" : "Torrential Tribute",
+      "set_number" : "BP01-EN051",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN052",
+      "name" : "Metal Reflect Slime",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "name" : "Skill Drain",
+      "set_number" : "BP01-EN053"
+   },
+   {
+      "rarity" : "Rare\nStarfoil Rare",
+      "set_number" : "BP01-EN054",
+      "name" : "Divine Wrath"
+   },
+   {
+      "name" : "Dark Bribe",
+      "set_number" : "BP01-EN055",
+      "rarity" : "Rare\nStarfoil Rare"
+   },
+   {
+      "name" : "Greenkappa",
+      "set_number" : "BP01-EN056",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Penguin Soldier",
+      "set_number" : "BP01-EN057"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Mysterious Guard",
+      "set_number" : "BP01-EN058"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN059",
+      "name" : "Exiled Force"
+   },
+   {
+      "set_number" : "BP01-EN060",
+      "name" : "Old Vindictive Magician",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Breaker the Magical Warrior",
+      "set_number" : "BP01-EN061",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN062",
+      "name" : "Grave Squirmer"
+   },
+   {
+      "name" : "Ryko, Lightsworn Hunter",
+      "set_number" : "BP01-EN063",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Snowman Eater",
+      "set_number" : "BP01-EN064"
+   },
+   {
+      "set_number" : "BP01-EN065",
+      "name" : "Fissure",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN066",
+      "name" : "Tribute to The Doomed",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Axe of Despair",
+      "set_number" : "BP01-EN067",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN068",
+      "name" : "Mystical Space Typhoon",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN069",
+      "name" : "Horn of the Unicorn",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN070",
+      "name" : "Offerings to the Doomed"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN071",
+      "name" : "Bait Doll"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN072",
+      "name" : "Book of Moon"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Autonomous Action Unit",
+      "set_number" : "BP01-EN073"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Ante",
+      "set_number" : "BP01-EN074"
+   },
+   {
+      "name" : "Big Bang Shot",
+      "set_number" : "BP01-EN075",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Fiend's Sanctuary",
+      "set_number" : "BP01-EN076"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN077",
+      "name" : "Different Dimension Gate"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN078",
+      "name" : "Enemy Controller"
+   },
+   {
+      "set_number" : "BP01-EN079",
+      "name" : "Monster Gate",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN080",
+      "name" : "Shield Crush"
+   },
+   {
+      "set_number" : "BP01-EN081",
+      "name" : "Fighting Spirit",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN082",
+      "name" : "Forbidden Chalice"
+   },
+   {
+      "set_number" : "BP01-EN083",
+      "name" : "Darkworld Shackles",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN084",
+      "name" : "Forbidden Lance",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN085",
+      "name" : "Infected Mail"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN086",
+      "name" : "Ego Boost"
+   },
+   {
+      "set_number" : "BP01-EN087",
+      "name" : "Kunai with Chain",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Dust Tornado",
+      "set_number" : "BP01-EN088"
+   },
+   {
+      "name" : "Windstorm of Etaqua",
+      "set_number" : "BP01-EN089",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN090",
+      "name" : "Magic Drain",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Magic Cylinder",
+      "set_number" : "BP01-EN091",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN092",
+      "name" : "Shadow Spell",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Blast with Chain",
+      "set_number" : "BP01-EN093",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN094",
+      "name" : "Needle Ceiling",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Reckless Greed",
+      "set_number" : "BP01-EN095",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Nightmare Wheel",
+      "set_number" : "BP01-EN096"
+   },
+   {
+      "name" : "Spell Shield Type-8",
+      "set_number" : "BP01-EN097",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN098",
+      "name" : "Interdimensional Matter Transporter",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN099",
+      "name" : "Compulsory Evacuation Device"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN100",
+      "name" : "Prideful Roar"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Half or Nothing",
+      "set_number" : "BP01-EN101"
+   },
+   {
+      "set_number" : "BP01-EN102",
+      "name" : "Skill Successor",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Pixie Ring",
+      "set_number" : "BP01-EN103",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Changing Destiny",
+      "set_number" : "BP01-EN104",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Fiendish Chain",
+      "set_number" : "BP01-EN105",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN106",
+      "name" : "Inverse Universe"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN107",
+      "name" : "Miracle's Wake"
+   },
+   {
+      "name" : "Power Frame",
+      "set_number" : "BP01-EN108",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Damage Gate",
+      "set_number" : "BP01-EN109",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Liberty at Last!",
+      "set_number" : "BP01-EN110"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Luster Dragon",
+      "set_number" : "BP01-EN111"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Archfiend Soldier",
+      "set_number" : "BP01-EN112"
+   },
+   {
+      "set_number" : "BP01-EN113",
+      "name" : "Mad Dog of Darkness",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN114",
+      "name" : "Charcoal Inpachi",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Insect Knight",
+      "set_number" : "BP01-EN115",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN116",
+      "name" : "Gene-Warped Warwolf",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Buster Blader",
+      "set_number" : "BP01-EN117"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN118",
+      "name" : "Goblin Attack Force"
+   },
+   {
+      "name" : "Bazoo the Soul-Eater",
+      "set_number" : "BP01-EN119",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Zombyra the Dark",
+      "set_number" : "BP01-EN120",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Slate Warrior",
+      "set_number" : "BP01-EN121"
+   },
+   {
+      "name" : "Dark Ruler Ha Des",
+      "set_number" : "BP01-EN122",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN123",
+      "name" : "Freed the Matchless General"
+   },
+   {
+      "set_number" : "BP01-EN124",
+      "name" : "Airknight Parshath",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Asura Priest",
+      "set_number" : "BP01-EN125",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN126",
+      "name" : "Exarion Universe",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Vampire Lord",
+      "set_number" : "BP01-EN127",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Toon Gemini Elf",
+      "set_number" : "BP01-EN128"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN129",
+      "name" : "King Tiger Wanghu"
+   },
+   {
+      "set_number" : "BP01-EN130",
+      "name" : "Guardian Sphinx",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Skilled White Magician",
+      "set_number" : "BP01-EN131",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN132",
+      "name" : "Zaborg the Thunder Monarch",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN133",
+      "name" : "D.D. Assailant"
+   },
+   {
+      "set_number" : "BP01-EN134",
+      "name" : "Theban Nightmare",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN135",
+      "name" : "The Tricky",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN136",
+      "name" : "Raging Flame Sprite",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Chiron the Mage",
+      "set_number" : "BP01-EN137",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Cyber Dragon",
+      "set_number" : "BP01-EN138",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Cybernetic Magician",
+      "set_number" : "BP01-EN139"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Goblin Elite Attack Force",
+      "set_number" : "BP01-EN140"
+   },
+   {
+      "set_number" : "BP01-EN141",
+      "name" : "Doomcaliber Knight",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN142",
+      "name" : "Chainsaw Insect"
+   },
+   {
+      "set_number" : "BP01-EN143",
+      "name" : "Card Trooper",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN144",
+      "name" : "Voltic Kong"
+   },
+   {
+      "set_number" : "BP01-EN145",
+      "name" : "Botanical Lion",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN146",
+      "name" : "Ancient Gear Knight"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN147",
+      "name" : "Blizzard Dragon"
+   },
+   {
+      "set_number" : "BP01-EN148",
+      "name" : "Beast King Barbaros",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN149",
+      "name" : "The Calculator",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN150",
+      "name" : "Gaap the Divine Soldier"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN151",
+      "name" : "Arcana Force XIV - Temperance"
+   },
+   {
+      "name" : "Dark Valkyria",
+      "set_number" : "BP01-EN152",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Alector, Sovereign of Birds",
+      "set_number" : "BP01-EN153"
+   },
+   {
+      "set_number" : "BP01-EN154",
+      "name" : "Twin-Barrel Dragon",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Abyssal Kingshark",
+      "set_number" : "BP01-EN155"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN156",
+      "name" : "Jurrac Protops"
+   },
+   {
+      "name" : "Hedge Guard",
+      "set_number" : "BP01-EN157",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN158",
+      "name" : "Fabled Ashenveil",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Backup Warrior",
+      "set_number" : "BP01-EN159",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Ambitious Gofer",
+      "set_number" : "BP01-EN160"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Power Giant",
+      "set_number" : "BP01-EN161"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN162",
+      "name" : "Card Guard"
+   },
+   {
+      "set_number" : "BP01-EN163",
+      "name" : "Yaksha",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN164",
+      "name" : "Gogogo Golem",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Big Jaws",
+      "set_number" : "BP01-EN165"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN166",
+      "name" : "Wind-Up Soldier"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Wind-Up Dog",
+      "set_number" : "BP01-EN167"
+   },
+   {
+      "name" : "Milla the Temporal Magician",
+      "set_number" : "BP01-EN168",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Ape Fighter",
+      "set_number" : "BP01-EN169"
+   },
+   {
+      "set_number" : "BP01-EN170",
+      "name" : "Wind-Up Warrior",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN171",
+      "name" : "Giant Soldier of Stone"
+   },
+   {
+      "name" : "Mask of Darkness",
+      "set_number" : "BP01-EN172",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Morphing Jar",
+      "set_number" : "BP01-EN173",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Muka Muka",
+      "set_number" : "BP01-EN174",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Blast Sphere",
+      "set_number" : "BP01-EN175",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Big Shield Gardna",
+      "set_number" : "BP01-EN176"
+   },
+   {
+      "set_number" : "BP01-EN177",
+      "name" : "Gilasaurus",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN178",
+      "name" : "Possessed Dark Soul"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Twin-Headed Behemoth",
+      "set_number" : "BP01-EN179"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN180",
+      "name" : "Makyura the Destructor"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Helping Robo for Combat",
+      "set_number" : "BP01-EN181"
+   },
+   {
+      "set_number" : "BP01-EN182",
+      "name" : "Zolga",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Chaos Necromancer",
+      "set_number" : "BP01-EN183",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Stealth Bird",
+      "set_number" : "BP01-EN184"
+   },
+   {
+      "name" : "Hyper Hammerhead",
+      "set_number" : "BP01-EN185",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Grave Protector",
+      "set_number" : "BP01-EN186"
+   },
+   {
+      "set_number" : "BP01-EN187",
+      "name" : "Night Assailant",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN188",
+      "name" : "Pitch-Black Warwolf",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "name" : "Dekoichi the Battlechanted Locomotive",
+      "set_number" : "BP01-EN189",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN190",
+      "name" : "Gyroid",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Drillroid",
+      "set_number" : "BP01-EN191"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Gravitic Orb",
+      "set_number" : "BP01-EN192"
+   },
+   {
+      "set_number" : "BP01-EN193",
+      "name" : "Cloudian - Poison Cloud",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN194",
+      "name" : "Des Mosquito"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Mad Reloader",
+      "set_number" : "BP01-EN195"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN196",
+      "name" : "Phantom of Chaos"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN197",
+      "name" : "Cyber Valley"
+   },
+   {
+      "set_number" : "BP01-EN198",
+      "name" : "Blue Thunder T-45",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN199",
+      "name" : "Vortex Trooper",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN200",
+      "name" : "DUCKER Mobile Cannon"
+   },
+   {
+      "name" : "Worm Barses",
+      "set_number" : "BP01-EN201",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Shield Warrior",
+      "set_number" : "BP01-EN202"
+   },
+   {
+      "name" : "Dark Resonator",
+      "set_number" : "BP01-EN203",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Noisy Gnat",
+      "set_number" : "BP01-EN204"
+   },
+   {
+      "set_number" : "BP01-EN205",
+      "name" : "Fabled Raven",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN206",
+      "name" : "Fortress Warrior"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN207",
+      "name" : "Twin-Sword Marauder"
+   },
+   {
+      "set_number" : "BP01-EN208",
+      "name" : "Level Warrior",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN209",
+      "name" : "Level Eater"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN210",
+      "name" : "Naturia Strawberry"
+   },
+   {
+      "set_number" : "BP01-EN211",
+      "name" : "Battle Fader",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN212",
+      "name" : "Amazoness Sage",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN213",
+      "name" : "Amazoness Trainee",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "set_number" : "BP01-EN214",
+      "name" : "Hardened Armed Dragon",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "set_number" : "BP01-EN215",
+      "name" : "Blackwing - Zephyros the Elite"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Tanngrisnir of the Nordic Beasts",
+      "set_number" : "BP01-EN216"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Shine Knight",
+      "set_number" : "BP01-EN217"
+   },
+   {
+      "set_number" : "BP01-EN218",
+      "name" : "Gagaga Magician",
+      "rarity" : "Common\nStarfoil Rare"
+   },
+   {
+      "rarity" : "Common\nStarfoil Rare",
+      "name" : "Goblindbergh",
+      "set_number" : "BP01-EN219"
+   },
+   {
+      "set_number" : "BP01-EN220",
+      "name" : "Psi-Blocker",
+      "rarity" : "Common\nStarfoil Rare"
+   }
+]

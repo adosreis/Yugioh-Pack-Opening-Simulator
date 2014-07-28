@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Reborn Tengu",
+      "set_number" : "EXVC-EN000",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "EXVC-EN001",
+      "name" : "Junk Servant",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Unknown Synchron",
+      "set_number" : "EXVC-EN002"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "EXVC-EN003",
+      "name" : "Salvage Warrior"
+   },
+   {
+      "name" : "Necro Defender",
+      "set_number" : "EXVC-EN004",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Mystic Piper",
+      "set_number" : "EXVC-EN005"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Force Resonator",
+      "set_number" : "EXVC-EN006"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN007",
+      "name" : "Clock Resonator"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "EXVC-EN008",
+      "name" : "Blackwing - Hillen the Tengu-wind"
+   },
+   {
+      "set_number" : "EXVC-EN009",
+      "name" : "Blackwing - Kogarashi the Wanderer",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Morphtronic Lantron",
+      "set_number" : "EXVC-EN010"
+   },
+   {
+      "name" : "Morphtronic Staplen",
+      "set_number" : "EXVC-EN011",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Meklord Army of Wisel",
+      "set_number" : "EXVC-EN012",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "EXVC-EN013",
+      "name" : "Meklord Army of Skiel",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Meklord Army of Granel",
+      "set_number" : "EXVC-EN014"
+   },
+   {
+      "set_number" : "EXVC-EN015",
+      "name" : "Meklord Astro Dragon Asterisk",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "T.G. Cyber Magician",
+      "set_number" : "EXVC-EN016"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "EXVC-EN017",
+      "name" : "T.G. Striker"
+   },
+   {
+      "set_number" : "EXVC-EN018",
+      "name" : "T.G. Jet Falcon",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN019",
+      "name" : "T.G. Catapult Dragon"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN020",
+      "name" : "T.G. Warwolf"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "T.G. Rush Rhino",
+      "set_number" : "EXVC-EN021"
+   },
+   {
+      "set_number" : "EXVC-EN022",
+      "name" : "Buster Blaster",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "EXVC-EN023",
+      "name" : "Esper Girl",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "EXVC-EN024",
+      "name" : "Mental Seeker",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Silent Psychic Wizard",
+      "set_number" : "EXVC-EN025",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Serene Psychic Witch",
+      "set_number" : "EXVC-EN026"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "EXVC-EN027",
+      "name" : "Hushed Psychic Cleric"
+   },
+   {
+      "set_number" : "EXVC-EN028",
+      "name" : "Elder of the Six Samurai",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Shien's Advisor",
+      "set_number" : "EXVC-EN029",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN030",
+      "name" : "Karakuri Komachi mdl 224 \"Ninishi\""
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN031",
+      "name" : "Karakuri Ninja mdl 7749 \"Nanashick\""
+   },
+   {
+      "set_number" : "EXVC-EN032",
+      "name" : "Scrap Kong",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "EXVC-EN033",
+      "name" : "Tradetoad",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "EXVC-EN034",
+      "name" : "Gladiator Beast Tygerius",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Jar Turtle",
+      "set_number" : "EXVC-EN035",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "EXVC-EN036",
+      "name" : "Aurora Paragon"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "EXVC-EN037",
+      "name" : "Junk Berserker"
+   },
+   {
+      "set_number" : "EXVC-EN038",
+      "name" : "Life Stream Dragon",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "EXVC-EN039",
+      "name" : "T.G. Recipro Dragonfly",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "T.G. Wonder Magician",
+      "set_number" : "EXVC-EN040"
+   },
+   {
+      "set_number" : "EXVC-EN041",
+      "name" : "T.G. Power Gladiator",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "T.G. Blade Blaster",
+      "set_number" : "EXVC-EN042",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "EXVC-EN043",
+      "name" : "T.G. Halberd Cannon",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "EXVC-EN044",
+      "name" : "Overmind Archfiend"
+   },
+   {
+      "name" : "Scarlet Security",
+      "set_number" : "EXVC-EN045",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN046",
+      "name" : "Red Dragon Vase"
+   },
+   {
+      "name" : "Resonator Call",
+      "set_number" : "EXVC-EN047",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN048",
+      "name" : "Resonant Destruction"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Fortissimo the Mobile Fortress",
+      "set_number" : "EXVC-EN049"
+   },
+   {
+      "name" : "Boon of the Meklord Emperor",
+      "set_number" : "EXVC-EN050",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "EXVC-EN051",
+      "name" : "The Resolute Meklord Army",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Reboot",
+      "set_number" : "EXVC-EN052"
+   },
+   {
+      "set_number" : "EXVC-EN053",
+      "name" : "TGX1-HL",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "TGX300",
+      "set_number" : "EXVC-EN054",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "ESP Amplifier",
+      "set_number" : "EXVC-EN055"
+   },
+   {
+      "set_number" : "EXVC-EN056",
+      "name" : "Psychic Feel Zone",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "EXVC-EN057",
+      "name" : "Shien's Dojo",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "EXVC-EN058",
+      "name" : "Runaway Karakuri",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "EXVC-EN059",
+      "name" : "Contact with the Aquamirror",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Soundproofed",
+      "set_number" : "EXVC-EN060"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Out of the Blue",
+      "set_number" : "EXVC-EN061"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "EXVC-EN062",
+      "name" : "Self-Mummification"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN063",
+      "name" : "Red Carpet"
+   },
+   {
+      "name" : "Power-Up Adapter",
+      "set_number" : "EXVC-EN064",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Chaos Infinity",
+      "set_number" : "EXVC-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN066",
+      "name" : "Mektimed Blast"
+   },
+   {
+      "name" : "Meklord Factory",
+      "set_number" : "EXVC-EN067",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "EXVC-EN068",
+      "name" : "TGX3-DX2"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "TG-SX1",
+      "set_number" : "EXVC-EN069"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN070",
+      "name" : "TG1-EM1"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "EXVC-EN071",
+      "name" : "Psychic Reactor"
+   },
+   {
+      "set_number" : "EXVC-EN072",
+      "name" : "Brain Hazard",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "EXVC-EN073",
+      "name" : "Six Style - Dual Wield",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Karakuri Cash Shed",
+      "set_number" : "EXVC-EN074"
+   },
+   {
+      "name" : "Tyrant's Tantrum",
+      "set_number" : "EXVC-EN075",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Debunk",
+      "set_number" : "EXVC-EN076"
+   },
+   {
+      "set_number" : "EXVC-EN077",
+      "name" : "Sealing Ceremony of Mokuton",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Safe Zone",
+      "set_number" : "EXVC-EN078"
+   },
+   {
+      "set_number" : "EXVC-EN079",
+      "name" : "Localized Tornado",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "EXVC-EN080",
+      "name" : "W Nebula Meteorite",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Vampire Dragon",
+      "set_number" : "EXVC-EN081",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "EXVC-EN082",
+      "name" : "Dodger Dragon"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "EXVC-EN083",
+      "name" : "Mara of the Nordic Alfar"
+   },
+   {
+      "set_number" : "EXVC-EN084",
+      "name" : "Tour Guide From the Underworld",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Psi-Beast",
+      "set_number" : "EXVC-EN085"
+   },
+   {
+      "set_number" : "EXVC-EN086",
+      "name" : "Gladiator Beast Essedarii",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Gladiator Taming",
+      "set_number" : "EXVC-EN087",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "EXVC-EN088",
+      "name" : "Full House"
+   },
+   {
+      "set_number" : "EXVC-EN089",
+      "name" : "Psychic Shockwave",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Axe Dragonute",
+      "set_number" : "EXVC-EN090"
+   },
+   {
+      "set_number" : "EXVC-EN091",
+      "name" : "Lancer Dragonute",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "EXVC-EN092",
+      "name" : "Lancer Lindwurm",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Elemental Hero Neos Knight",
+      "set_number" : "EXVC-EN093"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Meklord Emperor Skiel",
+      "set_number" : "EXVC-EN094"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Meklord Fortress",
+      "set_number" : "EXVC-EN095"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Blackwing - Jin the Rain Shadow",
+      "set_number" : "EXVC-EN096"
+   },
+   {
+      "set_number" : "EXVC-EN097",
+      "name" : "Scrap Orthros",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "EXVC-EN098",
+      "name" : "Naturia Eggplant",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Blue Rose Dragon",
+      "set_number" : "EXVC-EN099",
+      "rarity" : "Secret Rare"
+   }
+]

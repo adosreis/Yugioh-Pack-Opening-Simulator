@@ -1,0 +1,527 @@
+[
+   {
+      "set_number" : "PSV-EN000",
+      "name" : "Jinzo",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "PSV-EN001",
+      "name" : "Steel Ogre Grotto #2",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN002",
+      "name" : "Three-Headed Geedo",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Parasite Paracide",
+      "set_number" : "PSV-EN003"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN004",
+      "name" : "7 Completed"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Lightforce Sword",
+      "set_number" : "PSV-EN005"
+   },
+   {
+      "set_number" : "PSV-EN006",
+      "name" : "Chain Destruction",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Time Seal",
+      "set_number" : "PSV-EN007",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PSV-EN008",
+      "name" : "Graverobber"
+   },
+   {
+      "set_number" : "PSV-EN009",
+      "name" : "Gift of the Mystical Elf",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN010",
+      "name" : "The Eye of Truth",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN011",
+      "name" : "Dust Tornado",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PSV-EN012",
+      "name" : "Call of the Haunted"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN013",
+      "name" : "Solomon's Lawbook"
+   },
+   {
+      "set_number" : "PSV-EN014",
+      "name" : "Earthshaker",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Enchanted Javelin",
+      "set_number" : "PSV-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN016",
+      "name" : "Mirror Wall",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Gust",
+      "set_number" : "PSV-EN017",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN018",
+      "name" : "Driving Snow",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Armored Glass",
+      "set_number" : "PSV-EN019"
+   },
+   {
+      "set_number" : "PSV-EN020",
+      "name" : "World Suppression",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Mystic Probe",
+      "set_number" : "PSV-EN021",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN022",
+      "name" : "Metal Detector",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Numinous Healer",
+      "set_number" : "PSV-EN023",
+      "rarity" : "Super Short Print"
+   },
+   {
+      "set_number" : "PSV-EN024",
+      "name" : "Appropriate",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PSV-EN025",
+      "name" : "Forced Requisition"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN026",
+      "name" : "DNA Surgery"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN027",
+      "name" : "The Regulation of Tribe"
+   },
+   {
+      "set_number" : "PSV-EN028",
+      "name" : "Backup Soldier",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Major Riot",
+      "set_number" : "PSV-EN029",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PSV-EN030",
+      "name" : "Ceasefire"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Light of Intervention",
+      "set_number" : "PSV-EN031"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN032",
+      "name" : "Respect Play"
+   },
+   {
+      "set_number" : "PSV-EN033",
+      "name" : "Magical Hats",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Nobleman of Crossout",
+      "set_number" : "PSV-EN034",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "PSV-EN035",
+      "name" : "Nobleman of Extermination",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "The Shallow Grave",
+      "set_number" : "PSV-EN036"
+   },
+   {
+      "name" : "Premature Burial",
+      "set_number" : "PSV-EN037",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Inspection",
+      "set_number" : "PSV-EN038",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN039",
+      "name" : "Prohibition",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Morphing Jar #2",
+      "set_number" : "PSV-EN040",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Flame Champion",
+      "set_number" : "PSV-EN041"
+   },
+   {
+      "name" : "Twin-Headed Fire Dragon",
+      "set_number" : "PSV-EN042",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Darkfire Soldier #1",
+      "set_number" : "PSV-EN043",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN044",
+      "name" : "Mr. Volcano",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN045",
+      "name" : "Darkfire Soldier #2"
+   },
+   {
+      "name" : "Kiseitai",
+      "set_number" : "PSV-EN046",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN047",
+      "name" : "Cyber Falcon"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Flying Kamakiri #2",
+      "set_number" : "PSV-EN048"
+   },
+   {
+      "set_number" : "PSV-EN049",
+      "name" : "Sky Scout (as \"Harpie's Brother\")",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Buster Blader",
+      "set_number" : "PSV-EN050"
+   },
+   {
+      "name" : "Michizure",
+      "set_number" : "PSV-EN051",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN052",
+      "name" : "Minor Goblin Official"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN053",
+      "name" : "Gamble"
+   },
+   {
+      "set_number" : "PSV-EN054",
+      "name" : "Attack and Receive",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Solemn Wishes",
+      "set_number" : "PSV-EN055"
+   },
+   {
+      "name" : "Skull Invitation",
+      "set_number" : "PSV-EN056",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "PSV-EN057",
+      "name" : "Bubonic Vermin",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dark Bat",
+      "set_number" : "PSV-EN058"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Oni Tank T-34",
+      "set_number" : "PSV-EN059"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Overdrive",
+      "set_number" : "PSV-EN060"
+   },
+   {
+      "set_number" : "PSV-EN061",
+      "name" : "Burning Land",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN062",
+      "name" : "Cold Wave"
+   },
+   {
+      "name" : "Fairy Meteor Crush",
+      "set_number" : "PSV-EN063",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Limiter Removal",
+      "set_number" : "PSV-EN064",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Rain of Mercy",
+      "set_number" : "PSV-EN065",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PSV-EN066",
+      "name" : "Monster Recovery"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Shift",
+      "set_number" : "PSV-EN067"
+   },
+   {
+      "set_number" : "PSV-EN068",
+      "name" : "Insect Imitation",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Dimensionhole",
+      "set_number" : "PSV-EN069"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ground Collapse",
+      "set_number" : "PSV-EN070"
+   },
+   {
+      "set_number" : "PSV-EN071",
+      "name" : "Magic Drain",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Infinite Dismissal",
+      "set_number" : "PSV-EN072"
+   },
+   {
+      "name" : "Gravity Bind",
+      "set_number" : "PSV-EN073",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "PSV-EN074",
+      "name" : "Type Zero Magic Crusher",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Shadow of Eyes",
+      "set_number" : "PSV-EN075"
+   },
+   {
+      "set_number" : "PSV-EN076",
+      "name" : "The Legendary Fisherman",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Sword Hunter",
+      "set_number" : "PSV-EN077",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN078",
+      "name" : "Drill Bug"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN079",
+      "name" : "Deepsea Warrior"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN080",
+      "name" : "Bite Shoes"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN081",
+      "name" : "Spikebot"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN082",
+      "name" : "Invitation to a Dark Sleep"
+   },
+   {
+      "set_number" : "PSV-EN083",
+      "name" : "Thousand-Eyes Idol",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Thousand-Eyes Restrict",
+      "set_number" : "PSV-EN084"
+   },
+   {
+      "set_number" : "PSV-EN085",
+      "name" : "Girochin Kuwagata",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Hayabusa Knight",
+      "set_number" : "PSV-EN086"
+   },
+   {
+      "name" : "Bombardment Beetle",
+      "set_number" : "PSV-EN087",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN088",
+      "name" : "4-Starred Ladybug of Doom",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN089",
+      "name" : "Gradius",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Vampire Baby (as \"Red-Moon Baby\")",
+      "set_number" : "PSV-EN090"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PSV-EN091",
+      "name" : "Mad Sword Beast"
+   },
+   {
+      "name" : "Skull Mariner",
+      "set_number" : "PSV-EN092",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PSV-EN093",
+      "name" : "The All-Seeing White Tiger",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PSV-EN094",
+      "name" : "Goblin Attack Force"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN095",
+      "name" : "Island Turtle"
+   },
+   {
+      "set_number" : "PSV-EN096",
+      "name" : "Wingweaver",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Science Soldier",
+      "set_number" : "PSV-EN097"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN098",
+      "name" : "Souls of the Forgotten"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dokuroyaiba",
+      "set_number" : "PSV-EN099"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PSV-EN100",
+      "name" : "The Fiend Megacyber"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gearfried the Iron Knight",
+      "set_number" : "PSV-EN101"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PSV-EN102",
+      "name" : "Insect Barrier"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PSV-EN103",
+      "name" : "Beast of Talwar"
+   },
+   {
+      "name" : "Imperial Order",
+      "set_number" : "PSV-EN104",
+      "rarity" : "Secret Rare"
+   }
+]

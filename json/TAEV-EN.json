@@ -1,0 +1,452 @@
+[
+   {
+      "set_number" : "TAEV-EN000",
+      "rarity" : "Secret Rare",
+      "name" : "Gemini Summoner"
+   },
+   {
+      "name" : "Alien Shocktrooper",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN001"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Volcanic Rat",
+      "set_number" : "TAEV-EN002"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Renge, Gatekeeper of Dark World",
+      "set_number" : "TAEV-EN003"
+   },
+   {
+      "set_number" : "TAEV-EN004",
+      "name" : "Hunter Dragon",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Venom Cobra",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN005"
+   },
+   {
+      "set_number" : "TAEV-EN006",
+      "rarity" : "Secret Rare\nGhost Rare",
+      "name" : "Rainbow Dragon"
+   },
+   {
+      "name" : "Chrysalis Pantail",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN007"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Chrysalis Chicky",
+      "set_number" : "TAEV-EN008"
+   },
+   {
+      "name" : "Chrysalis Pinny",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN009"
+   },
+   {
+      "name" : "Chrysalis Larva",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN010"
+   },
+   {
+      "name" : "Chrysalis Mole",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN011"
+   },
+   {
+      "set_number" : "TAEV-EN012",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Necro Gardna"
+   },
+   {
+      "name" : "Vennominaga the Deity of Poisonous Snakes",
+      "rarity" : "Secret Rare",
+      "set_number" : "TAEV-EN013"
+   },
+   {
+      "set_number" : "TAEV-EN014",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Vennominon the King of Poisonous Snakes"
+   },
+   {
+      "set_number" : "TAEV-EN015",
+      "rarity" : "Common",
+      "name" : "Venom Snake"
+   },
+   {
+      "set_number" : "TAEV-EN016",
+      "name" : "Venom Boa",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Venom Serpent",
+      "set_number" : "TAEV-EN017"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Elemental Hero Neos Alius",
+      "set_number" : "TAEV-EN018"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Chthonian Emperor Dragon",
+      "set_number" : "TAEV-EN019"
+   },
+   {
+      "set_number" : "TAEV-EN020",
+      "name" : "Aquarian Alessa",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "TAEV-EN021",
+      "name" : "Lucky Pied Piper",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Grasschopper",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN022"
+   },
+   {
+      "name" : "Goggle Golem",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN023"
+   },
+   {
+      "name" : "Dawnbreak Gardna",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN024"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Doom Shaman",
+      "set_number" : "TAEV-EN025"
+   },
+   {
+      "name" : "King Pyron",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN026"
+   },
+   {
+      "set_number" : "TAEV-EN027",
+      "rarity" : "Common",
+      "name" : "Shadow Delver"
+   },
+   {
+      "name" : "Flint Lock",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN028"
+   },
+   {
+      "set_number" : "TAEV-EN029",
+      "rarity" : "Common",
+      "name" : "Gravitic Orb"
+   },
+   {
+      "set_number" : "TAEV-EN030",
+      "rarity" : "Common",
+      "name" : "Phantom Cricket"
+   },
+   {
+      "name" : "Crystal Seer",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "TAEV-EN031"
+   },
+   {
+      "name" : "Neo Space Pathfinder",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN032"
+   },
+   {
+      "name" : "Frost and Flame Dragon",
+      "rarity" : "Secret Rare",
+      "set_number" : "TAEV-EN033"
+   },
+   {
+      "set_number" : "TAEV-EN034",
+      "name" : "Desert Twister",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ritual Raven",
+      "set_number" : "TAEV-EN035"
+   },
+   {
+      "set_number" : "TAEV-EN036",
+      "name" : "Razor Lizard",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Light Effigy",
+      "set_number" : "TAEV-EN037"
+   },
+   {
+      "name" : "Dark Effigy",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN038"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Zombie Master",
+      "set_number" : "TAEV-EN039"
+   },
+   {
+      "set_number" : "TAEV-EN040",
+      "name" : "Neo-Spacian Marine Dolphin",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TAEV-EN041",
+      "rarity" : "Rare",
+      "name" : "Elemental Hero Marine Neos"
+   },
+   {
+      "set_number" : "TAEV-EN042",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Elemental Hero Darkbright"
+   },
+   {
+      "set_number" : "TAEV-EN043",
+      "rarity" : "Secret Rare",
+      "name" : "Elemental Hero Magma Neos"
+   },
+   {
+      "name" : "Ojama Knight",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN044"
+   },
+   {
+      "set_number" : "TAEV-EN045",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Fifth Hope"
+   },
+   {
+      "set_number" : "TAEV-EN046",
+      "rarity" : "Common",
+      "name" : "Reverse of Neos"
+   },
+   {
+      "name" : "Convert Contact",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN047"
+   },
+   {
+      "name" : "Cocoon Party",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN048"
+   },
+   {
+      "name" : "NEX",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN049"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Cocoon Rebirth",
+      "set_number" : "TAEV-EN050"
+   },
+   {
+      "name" : "Venom Swamp",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN051"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Snake Rain",
+      "set_number" : "TAEV-EN052"
+   },
+   {
+      "name" : "Venom Shot",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN053"
+   },
+   {
+      "set_number" : "TAEV-EN054",
+      "rarity" : "Secret Rare",
+      "name" : "Cyberdark Impact!"
+   },
+   {
+      "set_number" : "TAEV-EN055",
+      "rarity" : "Common",
+      "name" : "Flint Missile"
+   },
+   {
+      "set_number" : "TAEV-EN056",
+      "rarity" : "Rare",
+      "name" : "Double Summon"
+   },
+   {
+      "name" : "Summoner's Art",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN057"
+   },
+   {
+      "set_number" : "TAEV-EN058",
+      "rarity" : "Common",
+      "name" : "Creature Seizure"
+   },
+   {
+      "set_number" : "TAEV-EN059",
+      "name" : "Phalanx Pike",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Symbols of Duty",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN060"
+   },
+   {
+      "set_number" : "TAEV-EN061",
+      "rarity" : "Common",
+      "name" : "Amulet of Ambition"
+   },
+   {
+      "set_number" : "TAEV-EN062",
+      "name" : "Broken Bamboo Sword",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Mirror Gate",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "TAEV-EN063"
+   },
+   {
+      "set_number" : "TAEV-EN064",
+      "rarity" : "Common",
+      "name" : "Hero Counterattack"
+   },
+   {
+      "name" : "Cocoon Veil",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Snake Whistle",
+      "set_number" : "TAEV-EN066"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Damage = Reptile",
+      "set_number" : "TAEV-EN067"
+   },
+   {
+      "name" : "Snake Deity's Command",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN068"
+   },
+   {
+      "set_number" : "TAEV-EN069",
+      "name" : "Rise of the Snake Deity",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "TAEV-EN070",
+      "rarity" : "Common",
+      "name" : "Ambush Fangs"
+   },
+   {
+      "name" : "Venom Burn",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN071"
+   },
+   {
+      "set_number" : "TAEV-EN072",
+      "rarity" : "Rare",
+      "name" : "Common Charity"
+   },
+   {
+      "set_number" : "TAEV-EN073",
+      "name" : "Destructive Draw",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Shield Spear",
+      "rarity" : "Common",
+      "set_number" : "TAEV-EN074"
+   },
+   {
+      "set_number" : "TAEV-EN075",
+      "name" : "Strike Slash",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Spell Reclamation",
+      "set_number" : "TAEV-EN076"
+   },
+   {
+      "name" : "Trap Reclamation",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN077"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Gift Card",
+      "set_number" : "TAEV-EN078"
+   },
+   {
+      "set_number" : "TAEV-EN079",
+      "rarity" : "Common",
+      "name" : "The Gift of Greed"
+   },
+   {
+      "set_number" : "TAEV-EN080",
+      "name" : "Counter Counter",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Ocean's Keeper",
+      "set_number" : "TAEV-EN081"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Thousand-Eyes Jellyfish",
+      "set_number" : "TAEV-EN082"
+   },
+   {
+      "set_number" : "TAEV-EN083",
+      "rarity" : "Secret Rare",
+      "name" : "Cranium Fish"
+   },
+   {
+      "set_number" : "TAEV-EN084",
+      "name" : "Abyssal Kingshark",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Mormolith",
+      "rarity" : "Secret Rare",
+      "set_number" : "TAEV-EN085"
+   },
+   {
+      "name" : "Fossil Tusker",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN086"
+   },
+   {
+      "name" : "Phantom Dragonray Bronto",
+      "rarity" : "Rare",
+      "set_number" : "TAEV-EN087"
+   },
+   {
+      "name" : "Il Blud",
+      "rarity" : "Secret Rare",
+      "set_number" : "TAEV-EN088"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Blazewing Butterfly",
+      "set_number" : "TAEV-EN089"
+   }
+]

@@ -1,0 +1,562 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "AST-000",
+      "name" : "The End of Anubis"
+   },
+   {
+      "set_number" : "AST-001",
+      "rarity" : "Short Print",
+      "name" : "Gogiga Gagagigo"
+   },
+   {
+      "name" : "Warrior of Zera",
+      "set_number" : "AST-002",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Sealmaster Meisei",
+      "rarity" : "Rare",
+      "set_number" : "AST-003"
+   },
+   {
+      "set_number" : "AST-004",
+      "rarity" : "Common",
+      "name" : "Mystical Shine Ball"
+   },
+   {
+      "name" : "Metal Armored Bug",
+      "rarity" : "Common",
+      "set_number" : "AST-005"
+   },
+   {
+      "set_number" : "AST-006",
+      "rarity" : "Ultra Rare",
+      "name" : "The Agent of Judgment - Saturn"
+   },
+   {
+      "set_number" : "AST-007",
+      "rarity" : "Rare",
+      "name" : "The Agent of Wisdom - Mercury"
+   },
+   {
+      "name" : "The Agent of Creation - Venus",
+      "rarity" : "Rare",
+      "set_number" : "AST-008"
+   },
+   {
+      "name" : "The Agent of Force - Mars",
+      "rarity" : "Super Rare",
+      "set_number" : "AST-009"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "AST-010",
+      "name" : "The Unhappy Girl"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "AST-011",
+      "name" : "Soul-Absorbing Bone Tower"
+   },
+   {
+      "name" : "The Kick Man",
+      "set_number" : "AST-012",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "AST-013",
+      "rarity" : "Common",
+      "name" : "Vampire Lady"
+   },
+   {
+      "set_number" : "AST-014",
+      "rarity" : "Super Rare",
+      "name" : "Stone Statue of the Aztecs"
+   },
+   {
+      "name" : "Rocket Jumper",
+      "set_number" : "AST-015",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "AST-016",
+      "rarity" : "Rare",
+      "name" : "Avatar of The Pot"
+   },
+   {
+      "name" : "Legendary Jujitsu Master",
+      "rarity" : "Common",
+      "set_number" : "AST-017"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "AST-018",
+      "name" : "Gear Golem the Moving Fortress"
+   },
+   {
+      "name" : "KA-2 Des Scissors",
+      "rarity" : "Short Print",
+      "set_number" : "AST-019"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "AST-020",
+      "name" : "Needle Burrower"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-021",
+      "name" : "Sonic Jammer"
+   },
+   {
+      "name" : "Blowback Dragon",
+      "set_number" : "AST-022",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "AST-023",
+      "name" : "Zaborg the Thunder Monarch"
+   },
+   {
+      "set_number" : "AST-024",
+      "rarity" : "Short Print",
+      "name" : "Atomic Firefly"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-025",
+      "name" : "Mermaid Knight"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-026",
+      "name" : "Piranha Army"
+   },
+   {
+      "set_number" : "AST-027",
+      "rarity" : "Common",
+      "name" : "Two Thousand Needles"
+   },
+   {
+      "name" : "Disc Fighter",
+      "rarity" : "Common",
+      "set_number" : "AST-028"
+   },
+   {
+      "name" : "Arcane Archer of the Forest",
+      "rarity" : "Common",
+      "set_number" : "AST-029"
+   },
+   {
+      "name" : "Lady Ninja Yae",
+      "set_number" : "AST-030",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Goblin King",
+      "rarity" : "Common",
+      "set_number" : "AST-031"
+   },
+   {
+      "set_number" : "AST-032",
+      "rarity" : "Common",
+      "name" : "Solar Flare Dragon"
+   },
+   {
+      "name" : "White Magician Pikeru",
+      "set_number" : "AST-033",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "AST-034",
+      "name" : "Archlord Zerato"
+   },
+   {
+      "name" : "Opti-Camouflage Armor",
+      "rarity" : "Short Print",
+      "set_number" : "AST-035"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-036",
+      "name" : "Mystik Wok"
+   },
+   {
+      "name" : "Enemy Controller",
+      "set_number" : "AST-037",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "AST-038",
+      "rarity" : "Ultra Rare",
+      "name" : "Burst Stream of Destruction"
+   },
+   {
+      "set_number" : "AST-039",
+      "rarity" : "Common",
+      "name" : "Monster Gate"
+   },
+   {
+      "name" : "Amplifier",
+      "set_number" : "AST-040",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "AST-041",
+      "rarity" : "Common",
+      "name" : "Weapon Change"
+   },
+   {
+      "name" : "The Sanctuary in the Sky",
+      "set_number" : "AST-042",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Earthquake",
+      "rarity" : "Common",
+      "set_number" : "AST-043"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "AST-044",
+      "name" : "Talisman of Trap Sealing"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-045",
+      "name" : "Goblin Thief"
+   },
+   {
+      "name" : "Backfire",
+      "rarity" : "Common",
+      "set_number" : "AST-046"
+   },
+   {
+      "set_number" : "AST-047",
+      "rarity" : "Common",
+      "name" : "Micro Ray"
+   },
+   {
+      "set_number" : "AST-048",
+      "rarity" : "Short Print",
+      "name" : "Light of Judgment"
+   },
+   {
+      "name" : "Talisman of Spell Sealing",
+      "set_number" : "AST-049",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "AST-050",
+      "rarity" : "Common",
+      "name" : "Wall of Revealing Light"
+   },
+   {
+      "name" : "Solar Ray",
+      "set_number" : "AST-051",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-052",
+      "name" : "Ninjitsu Art of Transformation"
+   },
+   {
+      "name" : "Beckoning Light",
+      "rarity" : "Common",
+      "set_number" : "AST-053"
+   },
+   {
+      "name" : "Draining Shield",
+      "rarity" : "Rare",
+      "set_number" : "AST-054"
+   },
+   {
+      "name" : "Armor Break",
+      "set_number" : "AST-055",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Gigobyte",
+      "rarity" : "Short Print",
+      "set_number" : "AST-056"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "AST-057",
+      "name" : "Mokey Mokey"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "AST-058",
+      "name" : "Kozaky"
+   },
+   {
+      "set_number" : "AST-059",
+      "rarity" : "Common",
+      "name" : "Fiend Scorpion"
+   },
+   {
+      "name" : "Pharaoh's Servant",
+      "rarity" : "Short Print",
+      "set_number" : "AST-060"
+   },
+   {
+      "set_number" : "AST-061",
+      "rarity" : "Short Print",
+      "name" : "Pharaonic Protector"
+   },
+   {
+      "set_number" : "AST-062",
+      "rarity" : "Ultra Rare",
+      "name" : "Spirit of the Pharaoh"
+   },
+   {
+      "name" : "Theban Nightmare",
+      "set_number" : "AST-063",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Aswan Apparition",
+      "rarity" : "Common",
+      "set_number" : "AST-064"
+   },
+   {
+      "set_number" : "AST-065",
+      "rarity" : "Common",
+      "name" : "Protector of the Sanctuary"
+   },
+   {
+      "name" : "Nubian Guard",
+      "set_number" : "AST-066",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Legacy Hunter",
+      "rarity" : "Super Rare",
+      "set_number" : "AST-067"
+   },
+   {
+      "name" : "Desertapir",
+      "set_number" : "AST-068",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Sand Gambler",
+      "rarity" : "Common",
+      "set_number" : "AST-069"
+   },
+   {
+      "name" : "3-Hump Lacooda",
+      "set_number" : "AST-070",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "AST-071",
+      "rarity" : "Ultra Rare",
+      "name" : "Ghost Knight of Jackal"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-072",
+      "name" : "Absorbing Kid from the Sky"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "AST-073",
+      "name" : "Elephant Statue of Blessing"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "AST-074",
+      "name" : "Elephant Statue of Disaster"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-075",
+      "name" : "Spirit Caller"
+   },
+   {
+      "name" : "Emissary of the Afterlife",
+      "set_number" : "AST-076",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Grave Protector",
+      "set_number" : "AST-077",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "AST-078",
+      "rarity" : "Rare",
+      "name" : "Double Coston"
+   },
+   {
+      "set_number" : "AST-079",
+      "rarity" : "Common",
+      "name" : "Regenerating Mummy"
+   },
+   {
+      "name" : "Night Assailant",
+      "set_number" : "AST-080",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Man-Thro' Tro'",
+      "rarity" : "Short Print",
+      "set_number" : "AST-081"
+   },
+   {
+      "name" : "King of the Swamp",
+      "rarity" : "Rare",
+      "set_number" : "AST-082"
+   },
+   {
+      "name" : "Emissary of the Oasis",
+      "rarity" : "Common",
+      "set_number" : "AST-083"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "AST-084",
+      "name" : "Special Hurricane"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "AST-085",
+      "name" : "Order to Charge"
+   },
+   {
+      "set_number" : "AST-086",
+      "rarity" : "Common",
+      "name" : "Sword of the Soul-Eater"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-087",
+      "name" : "Dust Barrier"
+   },
+   {
+      "name" : "Soul Reversal",
+      "set_number" : "AST-088",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Spell Economics",
+      "rarity" : "Rare",
+      "set_number" : "AST-089"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-090",
+      "name" : "Blessings of the Nile"
+   },
+   {
+      "name" : "7",
+      "set_number" : "AST-091",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Level Limit - Area B",
+      "rarity" : "Short Print",
+      "set_number" : "AST-092"
+   },
+   {
+      "name" : "Enchanting Fitting Room",
+      "rarity" : "Common",
+      "set_number" : "AST-093"
+   },
+   {
+      "set_number" : "AST-094",
+      "rarity" : "Common",
+      "name" : "The Law of the Normal"
+   },
+   {
+      "name" : "Dark Magic Attack",
+      "rarity" : "Ultra Rare",
+      "set_number" : "AST-095"
+   },
+   {
+      "name" : "Delta Attacker",
+      "set_number" : "AST-096",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "AST-097",
+      "rarity" : "Rare",
+      "name" : "Thousand Energy"
+   },
+   {
+      "name" : "Triangle Power",
+      "rarity" : "Rare",
+      "set_number" : "AST-098"
+   },
+   {
+      "name" : "The Third Sarcophagus",
+      "rarity" : "Short Print",
+      "set_number" : "AST-099"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "AST-100",
+      "name" : "The Second Sarcophagus"
+   },
+   {
+      "name" : "The First Sarcophagus",
+      "set_number" : "AST-101",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "AST-102",
+      "rarity" : "Common",
+      "name" : "Dora of Fate"
+   },
+   {
+      "set_number" : "AST-103",
+      "rarity" : "Common",
+      "name" : "Judgment of the Desert"
+   },
+   {
+      "name" : "Human-Wave Tactics",
+      "set_number" : "AST-104",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Curse of Anubis",
+      "set_number" : "AST-105",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Desert Sunlight",
+      "set_number" : "AST-106",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "AST-107",
+      "name" : "Des Counterblow"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-108",
+      "name" : "Labyrinth of Nightmare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "AST-109",
+      "name" : "Soul Resurrection"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "AST-110",
+      "name" : "Order to Smash"
+   },
+   {
+      "set_number" : "AST-111",
+      "rarity" : "Secret Rare",
+      "name" : "Mazera DeVille"
+   }
+]

@@ -1,0 +1,502 @@
+[
+   {
+      "set_number" : "ANPR-EN000",
+      "name" : "XX-Saber Gardestrike",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ANPR-EN001",
+      "name" : "Kuribon"
+   },
+   {
+      "set_number" : "ANPR-EN002",
+      "name" : "Sunny Pixie",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Sunlight Unicorn",
+      "set_number" : "ANPR-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN004",
+      "name" : "Blackwing - Mistral the Silver Shield",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN005",
+      "name" : "Blackwing - Vayu the Emblem of Honor",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "ANPR-EN006",
+      "name" : "Blackwing - Fane the Steel Chain",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Morphtronic Magnen Bar",
+      "set_number" : "ANPR-EN007",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Jester Lord",
+      "set_number" : "ANPR-EN008"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Jester Confit",
+      "set_number" : "ANPR-EN009"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Fortune Lady Light",
+      "set_number" : "ANPR-EN010"
+   },
+   {
+      "name" : "Fortune Lady Fire",
+      "set_number" : "ANPR-EN011",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Infernity Beast",
+      "set_number" : "ANPR-EN012"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "ANPR-EN013",
+      "name" : "Darksea Rescue"
+   },
+   {
+      "set_number" : "ANPR-EN014",
+      "name" : "Darksea Float",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Turbo Rocket",
+      "set_number" : "ANPR-EN015",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Earthbound Immortal Cusillu",
+      "set_number" : "ANPR-EN016",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Earthbound Immortal Chacu Challhua",
+      "set_number" : "ANPR-EN017"
+   },
+   {
+      "name" : "Koa'ki Meiru Boulder",
+      "set_number" : "ANPR-EN018",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN019",
+      "name" : "Koa'ki Meiru Crusader",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Koa'ki Meiru Speeder",
+      "set_number" : "ANPR-EN020",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Koa'ki Meiru Tornado",
+      "set_number" : "ANPR-EN021",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "ANPR-EN022",
+      "name" : "Koa'ki Meiru Hydro Barrier",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN023",
+      "name" : "Scary Moth",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN024",
+      "name" : "Shiny Black \"C\""
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Armed Sea Hunter",
+      "set_number" : "ANPR-EN025"
+   },
+   {
+      "set_number" : "ANPR-EN026",
+      "name" : "Divine Dragon Aquabizarre",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Fishborg Blaster",
+      "set_number" : "ANPR-EN027"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN028",
+      "name" : "Shark Cruiser"
+   },
+   {
+      "set_number" : "ANPR-EN029",
+      "name" : "Armored Axon Kicker",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN030",
+      "name" : "Genetic Woman",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN031",
+      "name" : "Magicat",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN032",
+      "name" : "Cyborg Doctor"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN033",
+      "name" : "White Potan"
+   },
+   {
+      "name" : "Minefieldriller",
+      "set_number" : "ANPR-EN034",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "ANPR-EN035",
+      "name" : "XX-Saber Faultroll",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN036",
+      "name" : "XX-Saber Ragigura"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Flamvell Firedog",
+      "set_number" : "ANPR-EN037"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ancient Crimson Ape",
+      "set_number" : "ANPR-EN038"
+   },
+   {
+      "name" : "Falchionβ",
+      "set_number" : "ANPR-EN039",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "ANPR-EN040",
+      "name" : "Ancient Fairy Dragon"
+   },
+   {
+      "name" : "Turbo Cannon",
+      "set_number" : "ANPR-EN041",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "ANPR-EN042",
+      "name" : "Archfiend Zombie-Skull"
+   },
+   {
+      "set_number" : "ANPR-EN043",
+      "name" : "Ancient Sacred Wyvern",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "XX-Saber Gottoms",
+      "set_number" : "ANPR-EN044"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN045",
+      "name" : "Release Restraint Wave"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN046",
+      "name" : "Silver Wing"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Advance Draw",
+      "set_number" : "ANPR-EN047"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Ancient Forest",
+      "set_number" : "ANPR-EN048"
+   },
+   {
+      "name" : "Emergency Assistance",
+      "set_number" : "ANPR-EN049",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Spirit Burner",
+      "set_number" : "ANPR-EN050"
+   },
+   {
+      "name" : "Future Visions",
+      "set_number" : "ANPR-EN051",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "ANPR-EN052",
+      "name" : "Core Compression",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "ANPR-EN053",
+      "name" : "Core Blaster",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Solidarity",
+      "set_number" : "ANPR-EN054",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Hydro Pressure Cannon",
+      "set_number" : "ANPR-EN055",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN056",
+      "name" : "Water Hazard",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN057",
+      "name" : "Brain Research Lab"
+   },
+   {
+      "name" : "Saber Slash",
+      "set_number" : "ANPR-EN058",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "ANPR-EN059",
+      "name" : "Sword of Sparkles",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Rekindling",
+      "set_number" : "ANPR-EN060"
+   },
+   {
+      "name" : "Ancient Leaf",
+      "set_number" : "ANPR-EN061",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Fossil Dig",
+      "set_number" : "ANPR-EN062",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Skill Successor",
+      "set_number" : "ANPR-EN063",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Reinforce Truth",
+      "set_number" : "ANPR-EN064",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Pixie Ring",
+      "set_number" : "ANPR-EN065",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN066",
+      "name" : "Fairy Wind",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Imperial Custom",
+      "set_number" : "ANPR-EN067"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Discord",
+      "set_number" : "ANPR-EN068"
+   },
+   {
+      "set_number" : "ANPR-EN069",
+      "name" : "Slip of Fortune",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "ANPR-EN070",
+      "name" : "Depth Amulet",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Damage Translation",
+      "set_number" : "ANPR-EN071",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Battle Teleportation",
+      "set_number" : "ANPR-EN072",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Core Reinforcement",
+      "set_number" : "ANPR-EN073",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Iron Core Luster",
+      "set_number" : "ANPR-EN074"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Battle of the Elements",
+      "set_number" : "ANPR-EN075"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN076",
+      "name" : "Aegis of the Ocean Dragon Lord"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN077",
+      "name" : "Psychic Soul"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "ANPR-EN078",
+      "name" : "Flamvell Counter"
+   },
+   {
+      "set_number" : "ANPR-EN079",
+      "name" : "At One With the Sword",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "ANPR-EN080",
+      "name" : "A Major Upset"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "XX-Saber Fulhelmknight",
+      "set_number" : "ANPR-EN081"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Koa'ki Meiru Ghoulungulate",
+      "set_number" : "ANPR-EN082"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Koa'ki Meiru Gravirose",
+      "set_number" : "ANPR-EN083"
+   },
+   {
+      "set_number" : "ANPR-EN084",
+      "name" : "Psychic Emperor",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "ANPR-EN085",
+      "name" : "Card Guard"
+   },
+   {
+      "name" : "Flamvell Commando",
+      "set_number" : "ANPR-EN086",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "ANPR-EN087",
+      "name" : "Pseudo Space",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "ANPR-EN088",
+      "name" : "Greed Grado"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Revival of the Immortals",
+      "set_number" : "ANPR-EN089"
+   },
+   {
+      "name" : "Arcana Knight Joker",
+      "set_number" : "ANPR-EN090",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Armityle the Chaos Phantom",
+      "set_number" : "ANPR-EN091"
+   },
+   {
+      "set_number" : "ANPR-EN092",
+      "name" : "White Night Dragon",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Card Blocker",
+      "set_number" : "ANPR-EN093",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Gaia Plate the Earth Giant",
+      "set_number" : "ANPR-EN094"
+   },
+   {
+      "name" : "Sauropod Brachion",
+      "set_number" : "ANPR-EN095",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Gaap the Divine Soldier",
+      "set_number" : "ANPR-EN096",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Beast Machine King Barbaros Ür",
+      "set_number" : "ANPR-EN097",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "ANPR-EN098",
+      "name" : "Kasha"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Elemental Hero Gaia",
+      "set_number" : "ANPR-EN099"
+   }
+]

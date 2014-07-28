@@ -1,0 +1,542 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "PGD-000",
+      "name" : "Ring of Destruction"
+   },
+   {
+      "name" : "Molten Behemoth",
+      "rarity" : "Common",
+      "set_number" : "PGD-001"
+   },
+   {
+      "set_number" : "PGD-002",
+      "rarity" : "Common",
+      "name" : "Shapesnatch"
+   },
+   {
+      "set_number" : "PGD-003",
+      "rarity" : "Common",
+      "name" : "Souleater"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PGD-004",
+      "name" : "King Tiger Wanghu"
+   },
+   {
+      "set_number" : "PGD-005",
+      "rarity" : "Common",
+      "name" : "Birdface"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-006",
+      "name" : "Kryuel"
+   },
+   {
+      "name" : "Arsenal Bug",
+      "set_number" : "PGD-007",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Maiden of the Aqua",
+      "set_number" : "PGD-008",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PGD-009",
+      "name" : "Jowls of Dark Demise"
+   },
+   {
+      "set_number" : "PGD-010",
+      "rarity" : "Common",
+      "name" : "Timeater"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-011",
+      "name" : "Mucus Yolk"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-012",
+      "name" : "Servant of Catabolism"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PGD-013",
+      "name" : "Moisture Creature"
+   },
+   {
+      "set_number" : "PGD-014",
+      "rarity" : "Rare",
+      "name" : "Gora Turtle"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PGD-015",
+      "name" : "Sasuke Samurai"
+   },
+   {
+      "set_number" : "PGD-016",
+      "rarity" : "Common",
+      "name" : "Poison Mummy"
+   },
+   {
+      "name" : "Dark Dust Spirit",
+      "set_number" : "PGD-017",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Royal Keeper",
+      "set_number" : "PGD-018",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Wandering Mummy",
+      "set_number" : "PGD-019",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "PGD-020",
+      "rarity" : "Ultra Rare",
+      "name" : "Great Dezard"
+   },
+   {
+      "set_number" : "PGD-021",
+      "rarity" : "Common",
+      "name" : "Swarm of Scarabs"
+   },
+   {
+      "name" : "Swarm of Locusts",
+      "set_number" : "PGD-022",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Giant Axe Mummy",
+      "set_number" : "PGD-023",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "8-Claws Scorpion",
+      "set_number" : "PGD-024",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Guardian Sphinx",
+      "set_number" : "PGD-025",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Pyramid Turtle",
+      "set_number" : "PGD-026",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "PGD-027",
+      "rarity" : "Common",
+      "name" : "Dice Jar"
+   },
+   {
+      "name" : "Dark Scorpion Burglars",
+      "set_number" : "PGD-028",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PGD-029",
+      "rarity" : "Ultra Rare",
+      "name" : "Don Zaloog"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-030",
+      "name" : "Des Lacooda"
+   },
+   {
+      "name" : "Fushioh Richie",
+      "rarity" : "Ultra Rare",
+      "set_number" : "PGD-031"
+   },
+   {
+      "name" : "Cobraman Sakuzy",
+      "set_number" : "PGD-032",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Book of Life",
+      "set_number" : "PGD-033",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Book of Taiyou",
+      "set_number" : "PGD-034",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PGD-035",
+      "rarity" : "Rare",
+      "name" : "Book of Moon"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PGD-036",
+      "name" : "Mirage of Nightmare"
+   },
+   {
+      "name" : "Secret Pass to the Treasures",
+      "rarity" : "Common",
+      "set_number" : "PGD-037"
+   },
+   {
+      "name" : "Call of the Mummy",
+      "set_number" : "PGD-038",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-039",
+      "name" : "Timidity"
+   },
+   {
+      "name" : "Pyramid Energy",
+      "rarity" : "Common",
+      "set_number" : "PGD-040"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-041",
+      "name" : "Tutan Mask"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-042",
+      "name" : "Ordeal of a Traveler"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-043",
+      "name" : "Bottomless Shifting Sand"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PGD-044",
+      "name" : "Curse of Royal"
+   },
+   {
+      "set_number" : "PGD-045",
+      "rarity" : "Common",
+      "name" : "Needle Ceiling"
+   },
+   {
+      "set_number" : "PGD-046",
+      "rarity" : "Super Rare",
+      "name" : "Statue of the Wicked"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-047",
+      "name" : "Dark Coffin"
+   },
+   {
+      "name" : "Needle Wall",
+      "rarity" : "Common",
+      "set_number" : "PGD-048"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-049",
+      "name" : "Trap Dustshoot"
+   },
+   {
+      "set_number" : "PGD-050",
+      "rarity" : "Common",
+      "name" : "Pyro Clock of Destiny"
+   },
+   {
+      "name" : "Reckless Greed",
+      "set_number" : "PGD-051",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Pharaoh's Treasure",
+      "rarity" : "Rare",
+      "set_number" : "PGD-052"
+   },
+   {
+      "name" : "Master Kyonshee",
+      "set_number" : "PGD-053",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-054",
+      "name" : "Kabazauls"
+   },
+   {
+      "name" : "Inpachi",
+      "set_number" : "PGD-055",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Dark Jeroid",
+      "set_number" : "PGD-056",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Newdoria",
+      "set_number" : "PGD-057",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Helpoemer",
+      "set_number" : "PGD-058",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Gravekeeper's Spy",
+      "rarity" : "Common",
+      "set_number" : "PGD-059"
+   },
+   {
+      "name" : "Gravekeeper's Curse",
+      "rarity" : "Common",
+      "set_number" : "PGD-060"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-061",
+      "name" : "Gravekeeper's Guard"
+   },
+   {
+      "set_number" : "PGD-062",
+      "rarity" : "Common",
+      "name" : "Gravekeeper's Spear Soldier"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-063",
+      "name" : "Gravekeeper's Vassal"
+   },
+   {
+      "name" : "Gravekeeper's Watcher",
+      "rarity" : "Rare",
+      "set_number" : "PGD-064"
+   },
+   {
+      "name" : "Gravekeeper's Chief",
+      "rarity" : "Super Rare",
+      "set_number" : "PGD-065"
+   },
+   {
+      "set_number" : "PGD-066",
+      "rarity" : "Common",
+      "name" : "Gravekeeper's Cannonholder"
+   },
+   {
+      "name" : "Gravekeeper's Assailant",
+      "set_number" : "PGD-067",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "A Man with Wdjat",
+      "rarity" : "Common",
+      "set_number" : "PGD-068"
+   },
+   {
+      "name" : "Mystical Knight of Jackal",
+      "set_number" : "PGD-069",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-070",
+      "name" : "A Cat of Ill Omen"
+   },
+   {
+      "name" : "Yomi Ship",
+      "set_number" : "PGD-071",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PGD-072",
+      "rarity" : "Rare",
+      "name" : "Winged Sage Falcos"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-073",
+      "name" : "An Owl of Luck"
+   },
+   {
+      "set_number" : "PGD-074",
+      "rarity" : "Common",
+      "name" : "Charm of Shabti"
+   },
+   {
+      "name" : "Cobra Jar",
+      "rarity" : "Common",
+      "set_number" : "PGD-075"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PGD-076",
+      "name" : "Spirit Reaper"
+   },
+   {
+      "name" : "Nightmare Horse",
+      "rarity" : "Common",
+      "set_number" : "PGD-077"
+   },
+   {
+      "name" : "Reaper on the Nightmare",
+      "set_number" : "PGD-078",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "PGD-079",
+      "name" : "Dark Designator"
+   },
+   {
+      "set_number" : "PGD-080",
+      "rarity" : "Common",
+      "name" : "Card Shuffle"
+   },
+   {
+      "name" : "Reasoning",
+      "set_number" : "PGD-081",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Dark Room of Nightmare",
+      "set_number" : "PGD-082",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Different Dimension Capsule",
+      "set_number" : "PGD-083",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PGD-084",
+      "rarity" : "Super Rare",
+      "name" : "Necrovalley"
+   },
+   {
+      "name" : "Buster Rancher",
+      "set_number" : "PGD-085",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PGD-086",
+      "rarity" : "Common",
+      "name" : "Hieroglyph Lithograph"
+   },
+   {
+      "name" : "Dark Snake Syndrome",
+      "set_number" : "PGD-087",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Terraforming",
+      "set_number" : "PGD-088",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Banner of Courage",
+      "set_number" : "PGD-089",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Metamorphosis",
+      "set_number" : "PGD-090",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PGD-091",
+      "rarity" : "Common",
+      "name" : "Royal Tribute"
+   },
+   {
+      "set_number" : "PGD-092",
+      "rarity" : "Common",
+      "name" : "Reversal Quiz"
+   },
+   {
+      "set_number" : "PGD-093",
+      "rarity" : "Rare",
+      "name" : "Coffin Seller"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-094",
+      "name" : "Curse of Aging"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "PGD-095",
+      "name" : "Barrel Behind the Door"
+   },
+   {
+      "name" : "Raigeki Break",
+      "set_number" : "PGD-096",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "PGD-097",
+      "rarity" : "Common",
+      "name" : "Narrow Pass"
+   },
+   {
+      "name" : "Disturbance Strategy",
+      "set_number" : "PGD-098",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Trap of Board Eraser",
+      "set_number" : "PGD-099",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "PGD-100",
+      "name" : "Rite of Spirit"
+   },
+   {
+      "name" : "Non Aggression Area",
+      "rarity" : "Common",
+      "set_number" : "PGD-101"
+   },
+   {
+      "set_number" : "PGD-102",
+      "rarity" : "Common",
+      "name" : "D. Tribe"
+   },
+   {
+      "name" : "Byser Shock",
+      "rarity" : "Ultra Rare",
+      "set_number" : "PGD-103"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PGD-104",
+      "name" : "Question"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PGD-105",
+      "name" : "Rope of Life"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "PGD-106",
+      "name" : "Nightmare Wheel"
+   },
+   {
+      "name" : "Lava Golem",
+      "rarity" : "Secret Rare",
+      "set_number" : "PGD-107"
+   }
+]

@@ -1,0 +1,477 @@
+[
+   {
+      "set_number" : "GLAS-EN000",
+      "rarity" : "Secret Rare",
+      "name" : "Gladiator Beast Octavius"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Chamberlain of the Six Samurai",
+      "set_number" : "GLAS-EN001"
+   },
+   {
+      "name" : "Cloudian - Smoke Ball",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN002"
+   },
+   {
+      "set_number" : "GLAS-EN003",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Evil Hero Malicious Edge"
+   },
+   {
+      "set_number" : "GLAS-EN004",
+      "name" : "Evil Hero Infernal Gainer",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Cloudian - Eye of the Typhoon",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "GLAS-EN005"
+   },
+   {
+      "set_number" : "GLAS-EN006",
+      "name" : "Cloudian - Ghost Fog",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Cloudian - Nimbusman",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN007"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Cloudian - Sheep Cloud",
+      "set_number" : "GLAS-EN008"
+   },
+   {
+      "set_number" : "GLAS-EN009",
+      "name" : "Cloudian - Poison Cloud",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Cloudian - Acid Cloud",
+      "set_number" : "GLAS-EN010"
+   },
+   {
+      "set_number" : "GLAS-EN011",
+      "rarity" : "Rare",
+      "name" : "Cloudian - Cirrostratus"
+   },
+   {
+      "set_number" : "GLAS-EN012",
+      "rarity" : "Rare",
+      "name" : "Cloudian - Altus"
+   },
+   {
+      "set_number" : "GLAS-EN013",
+      "rarity" : "Common",
+      "name" : "Cloudian - Turbulence"
+   },
+   {
+      "set_number" : "GLAS-EN014",
+      "name" : "Truckroid",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Stealthroid",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN015"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Expressroid",
+      "set_number" : "GLAS-EN016"
+   },
+   {
+      "name" : "Gladiator Beast Alexander",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "GLAS-EN017"
+   },
+   {
+      "set_number" : "GLAS-EN018",
+      "name" : "Gladiator Beast Spartacus",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "GLAS-EN019",
+      "name" : "Gladiator Beast Murmillo",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "GLAS-EN020",
+      "rarity" : "Common",
+      "name" : "Gladiator Beast Bestiari"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Gladiator Beast Laquari",
+      "set_number" : "GLAS-EN021"
+   },
+   {
+      "set_number" : "GLAS-EN022",
+      "rarity" : "Common",
+      "name" : "Gladiator Beast Hoplomus"
+   },
+   {
+      "set_number" : "GLAS-EN023",
+      "name" : "Gladiator Beast Dimacari",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN024",
+      "rarity" : "Common",
+      "name" : "Gladiator Beast Secutor"
+   },
+   {
+      "set_number" : "GLAS-EN025",
+      "name" : "Test Ape",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN026",
+      "rarity" : "Common",
+      "name" : "Witch Doctor of Sparta"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Infinity Dark",
+      "set_number" : "GLAS-EN027"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Magical Reflect Slime",
+      "set_number" : "GLAS-EN028"
+   },
+   {
+      "set_number" : "GLAS-EN029",
+      "rarity" : "Common",
+      "name" : "Ancient Gear Knight"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Goblin Black Ops",
+      "set_number" : "GLAS-EN030"
+   },
+   {
+      "set_number" : "GLAS-EN031",
+      "name" : "Gambler of Legend",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Enishi, Shien's Chancellor",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "GLAS-EN032"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Spirit of the Six Samurai",
+      "set_number" : "GLAS-EN033"
+   },
+   {
+      "set_number" : "GLAS-EN034",
+      "rarity" : "Rare",
+      "name" : "Alien Telepath"
+   },
+   {
+      "name" : "Alien Hypno",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN035"
+   },
+   {
+      "set_number" : "GLAS-EN036",
+      "rarity" : "Secret Rare\nGhost Rare",
+      "name" : "Elemental Hero Chaos Neos"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Elemental Hero Plasma Vice",
+      "set_number" : "GLAS-EN037"
+   },
+   {
+      "name" : "Evil Hero Inferno Wing",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "GLAS-EN038"
+   },
+   {
+      "set_number" : "GLAS-EN039",
+      "name" : "Evil Hero Lightning Golem",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Evil Hero Dark Gaia",
+      "set_number" : "GLAS-EN040"
+   },
+   {
+      "set_number" : "GLAS-EN041",
+      "name" : "Super Vehicroid - Stealth Union",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "GLAS-EN042",
+      "rarity" : "Common",
+      "name" : "Superalloy Beast Raptinus"
+   },
+   {
+      "set_number" : "GLAS-EN043",
+      "rarity" : "Rare",
+      "name" : "Gladiator Beast Gaiodiaz"
+   },
+   {
+      "name" : "Gladiator Beast Heraklinos",
+      "rarity" : "Secret Rare",
+      "set_number" : "GLAS-EN044"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Contact Out",
+      "set_number" : "GLAS-EN045"
+   },
+   {
+      "name" : "Swing of Memories",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN046"
+   },
+   {
+      "name" : "Dark Fusion",
+      "rarity" : "Rare",
+      "set_number" : "GLAS-EN047"
+   },
+   {
+      "name" : "Diamond-Dust Cyclone",
+      "rarity" : "Rare",
+      "set_number" : "GLAS-EN048"
+   },
+   {
+      "name" : "Summon Cloud",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN049"
+   },
+   {
+      "set_number" : "GLAS-EN050",
+      "rarity" : "Common",
+      "name" : "Lucky Cloud"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Fog Control",
+      "set_number" : "GLAS-EN051"
+   },
+   {
+      "set_number" : "GLAS-EN052",
+      "rarity" : "Common",
+      "name" : "Cloudian Squall"
+   },
+   {
+      "name" : "Super Double Summon",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN053"
+   },
+   {
+      "set_number" : "GLAS-EN054",
+      "name" : "Colosseum - Cage of the Gladiator Beasts",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "GLAS-EN055",
+      "name" : "Gladiator Beast's Battle Halberd",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN056",
+      "rarity" : "Common",
+      "name" : "Gladiator Beast's Battle Gladius"
+   },
+   {
+      "set_number" : "GLAS-EN057",
+      "name" : "Gladiator Beast's Battle Manica",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "GLAS-EN058",
+      "name" : "Gladiator Beast's Respite",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Gladiator's Return",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN059"
+   },
+   {
+      "name" : "Soul Devouring Bamboo Sword",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN060"
+   },
+   {
+      "set_number" : "GLAS-EN061",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Cunning of the Six Samurai"
+   },
+   {
+      "set_number" : "GLAS-EN062",
+      "name" : "\"A\" Cell Incubator",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN063",
+      "name" : "Over Limit",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN064",
+      "rarity" : "Common",
+      "name" : "No Entry!!"
+   },
+   {
+      "set_number" : "GLAS-EN065",
+      "rarity" : "Common",
+      "name" : "Natural Disaster"
+   },
+   {
+      "name" : "Rain Storm",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN066"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Updraft",
+      "set_number" : "GLAS-EN067"
+   },
+   {
+      "set_number" : "GLAS-EN068",
+      "name" : "Release from Stone",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN069",
+      "name" : "Light-Imprisoning Mirror",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN070",
+      "name" : "Shadow-Imprisoning Mirror",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN071",
+      "name" : "Disarm",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLAS-EN072",
+      "rarity" : "Common",
+      "name" : "Parry"
+   },
+   {
+      "name" : "Swiftstrike Armor",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN073"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Double-Edged Sword Technique",
+      "set_number" : "GLAS-EN074"
+   },
+   {
+      "rarity" : "Super Rare\nUltimate Rare",
+      "name" : "Energy-Absorbing Monolith",
+      "set_number" : "GLAS-EN075"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Cell Explosion Virus",
+      "set_number" : "GLAS-EN076"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Detonator Circle \"A\"",
+      "set_number" : "GLAS-EN077"
+   },
+   {
+      "name" : "Interdimensional Warp",
+      "rarity" : "Common",
+      "set_number" : "GLAS-EN078"
+   },
+   {
+      "set_number" : "GLAS-EN079",
+      "name" : "Foolish Revival",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "An Unfortunate Report",
+      "set_number" : "GLAS-EN080"
+   },
+   {
+      "name" : "Gladiator Beast Torax",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "GLAS-EN081"
+   },
+   {
+      "set_number" : "GLAS-EN082",
+      "name" : "Test Tiger",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Defensive Tactics",
+      "rarity" : "Super Rare\nUltimate Rare",
+      "set_number" : "GLAS-EN083"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Dragon Ice",
+      "set_number" : "GLAS-EN084"
+   },
+   {
+      "set_number" : "GLAS-EN085",
+      "rarity" : "Secret Rare",
+      "name" : "Tongue Twister"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Skreech",
+      "set_number" : "GLAS-EN086"
+   },
+   {
+      "set_number" : "GLAS-EN087",
+      "name" : "Royal Firestorm Guards",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Veil of Darkness",
+      "set_number" : "GLAS-EN088"
+   },
+   {
+      "set_number" : "GLAS-EN089",
+      "name" : "Security Orb",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "GLAS-EN090",
+      "rarity" : "Secret Rare",
+      "name" : "Necroface"
+   },
+   {
+      "set_number" : "GLAS-EN091",
+      "rarity" : "Secret Rare",
+      "name" : "Gil Garth"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Soul Taker",
+      "set_number" : "GLAS-EN092"
+   },
+   {
+      "set_number" : "GLAS-EN093",
+      "rarity" : "Secret Rare",
+      "name" : "Magic Formula"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Silent Doom",
+      "set_number" : "GLAS-EN094"
+   }
+]
