@@ -15,6 +15,7 @@ class set: #class to hold a specific sets cards
 		self.secret = []
 		self.ghost = []
 
+	#Adds a card of the given name to the given rarity:
 	def add_card(self, rarity, cardname):
 		if(rarity == "Common"):
 			self.commoners.append(cardname)
@@ -43,7 +44,6 @@ class set: #class to hold a specific sets cards
 def sort_sets():
 	for file in os.listdir('./jsons/'): 
 		if file.endswith('.json'):
-#			print file #for debugging the unicode 
 			with open('./jsons/'+file) as json_data:
 				set_name = os.path.splitext(str(file))[0]
 				set_objects[set_name]=set()
