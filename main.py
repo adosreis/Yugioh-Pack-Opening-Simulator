@@ -61,21 +61,22 @@ def generate_pack():
 	selected_set = set_objects[selected_set_name]
 	pack = []
 	selected_set.shuffle()
+	pack.append(selected_set.rare[0])
 	for i in range (0, 7):
 		pack.append(selected_set.commoners[i])
-#	rarity = random.randint(0, 359)
-#	if rarity in range(0, 72):
-#		pack.append(selected_set.supers[random.randint(0, (len(selected_set.supers)-1))])
-#	if rarity in range(72, 102):
-#		pack.append(selected_set.ultra[random.randint(0, (len(selected_set.ultra)-1))])
-#	if rarity in range(102, 117):
-#		pack.append(selected_set.ulti[random.randint(0, (len(selected_set.ulti)-1))])
-#	if rarity in range(117, 132):
-#		pack.append(selected_set.secret[random.randint(0, (len(selected_set.secret)-1))])
-#	if rarity in range(132, 147):
-#		pack.append(selected_set.ghost[random.randint(0, (len(selected_set.ghost)-1))])
-#	if rarity in range(147, 360):
-#		pack.append(selected_set.commoners[random.randint(0, (len(selected_set.commoners)-1))])
+	rarity = random.randint(0, 359)
+	if rarity in range(0, 72):
+		pack.append(selected_set.supers[0])
+	if rarity in range(72, 102):
+		pack.append(selected_set.ultra[0])
+	if rarity in range(102, 117):
+		pack.append(selected_set.ulti[0])
+	if rarity in range(117, 132):
+		pack.append(selected_set.secret[0])
+	if rarity in range(132, 147):
+		pack.append(selected_set.ghost[0])
+	if rarity in range(147, 360):
+		pack.append(selected_set.commoners[7])
 
 	return pack
 '''
