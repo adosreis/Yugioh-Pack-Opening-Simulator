@@ -1,3 +1,5 @@
+#wait dont understand the shuffle, i doesnt have the correct ratios, right? so wouldnt my pack.append cluster still be necessary?
+
 #!/usr/bin/python
 import json
 import random
@@ -64,9 +66,6 @@ def generate_pack():
 	print set_objects.keys()
 	selected_set_name = input('which pack?')
 	selected_set = set_objects[selected_set_name]
-	print selected_set.rare
-	print selected_set.supers
-	print selected_set.commoners	
 	pack = []
 	selected_set.shuffle()
 	for i in range (0, 7):
