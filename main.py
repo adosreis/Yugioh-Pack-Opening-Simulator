@@ -9,6 +9,11 @@ class set: #class to hold a specific sets cards
 	def __init__(self):
 		self.commoners = []
 		self.rare = []
+
+class decoded_set: #class to hold a specific sets cards
+	def __init__(self):
+		self.commoners = []
+		self.rare = []
 		self.supers = []
 		self.ultra = []
 		self.ulti = []
@@ -59,6 +64,9 @@ def generate_pack():
 	print set_objects.keys()
 	selected_set_name = input('which pack?')
 	selected_set = set_objects[selected_set_name]
+	print selected_set.rare
+	print selected_set.supers
+	print selected_set.commoners	
 	pack = []
 	selected_set.shuffle()
 	for i in range (0, 7):
