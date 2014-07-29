@@ -27,7 +27,8 @@ def sort_sets():
 		if file.endswith('.json'):
 #			print file #for debugging the unicode 
 			with open('./jsons/'+file) as json_data:
-				set_objects[str(file)]=set()
+				set_name = os.path.splitext(str(file))[0]
+				set_objects[set_name]=set()
 				data = json.load(json_data)
 				for x in data:
 #					if '\n' in x['rarity'] :
@@ -35,42 +36,42 @@ def sort_sets():
 						print "topkek"
 #						for i in x['rarity'].split('\n'):
 #							if i == "Rare":
-#								set_objects[str(file)].rare.append(str(x['name']))
+#								set_objects[set_name].rare.append(str(x['name']))
 #							if i == "Super Rare":
-#								set_objects[str(file)].supers.append(str(x['name']))
+#								set_objects[set_name].supers.append(str(x['name']))
 #							if i == "Common":
-#								set_objects[str(file)].commoners.append(str(x['name']))			#if not totally fucked...
+#								set_objects[set_name].commoners.append(str(x['name']))			#if not totally fucked...
 #							if i == "Short Print":
-#								set_objects[str(file)].rare.append(str(x['name']))
+#								set_objects[set_name].rare.append(str(x['name']))
 #							if i == "Ultra Rare":
-#								set_objects[str(file)].ultra.append(str(x['name']))
+#								set_objects[set_name].ultra.append(str(x['name']))
 #							if i == "Secret Rare":
-#								set_objects[str(file)].secret.append(str(x['name']))
+#								set_objects[set_name].secret.append(str(x['name']))
 #							if i == "Ghost Rare":
-#								set_objects[str(file)].ghost.append(str(x['name']))
+#								set_objects[set_name].ghost.append(str(x['name']))
 #							if i == 'Ultimate Rare':
-#								set_objects[str(file)].ulti.append(str(x['name']))
+#								set_objects[set_name].ulti.append(str(x['name']))
 					else:
 						if x['rarity'] == "Rare":
-							set_objects[str(file)].rare.append(str(x['name']))
+							set_objects[set_name].rare.append(str(x['name']))
 #						if x['rarity'] == "Super Rare":
-#							set_objects[str(file)].supers.append(str(x['name']))
+#							set_objects[set_name].supers.append(str(x['name']))
 						if x['rarity'] == "Common":
-							set_objects[str(file)].commoners.append(str(x['name']))
+							set_objects[set_name].commoners.append(str(x['name']))
 #						if x['rarity'] == "Short Print":
-#							set_objects[str(file)].rare.append(str(x['name']))
+#							set_objects[set_name].rare.append(str(x['name']))
 #						if x['rarity'] == "Ultra Rare":
-#							set_objects[str(file)].ultra.append(str(x['name']))
+#							set_objects[set_name].ultra.append(str(x['name']))
 #						if x['rarity'] == "Secret Rare":
-#							set_objects[str(file)].secret.append(str(x['name']))
+#							set_objects[set_name].secret.append(str(x['name']))
 #						if x['rarity'] == "Ghost Rare":
-#							set_objects[str(file)].ghost.append(str(x['name']))
+#							set_objects[set_name].ghost.append(str(x['name']))
 #						if x['rarity'] == 'Ultimate Rare':
-#							set_objects[str(file)].ulti.append(str(x['name']))			
+#							set_objects[set_name].ulti.append(str(x['name']))			
 def generate_pack(): 
 	print set_objects.keys()
 #	selected_set_name = input('which pack?')
-	selected_set_name = "REDU-EN.json"
+	selected_set_name = "REDU-EN"
 	selected_set = set_objects[selected_set_name]
 	pack = []
 	selected_set.shuffle()
