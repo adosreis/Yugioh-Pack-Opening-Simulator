@@ -49,10 +49,10 @@ def sort_sets():
 				set_name = os.path.splitext(str(file))[0]
 				set_objects[set_name]=set()
 				data = json.load(json_data)
-				for x in data:
+				for x in data:x
 					if '\n' in x['rarity'] :
 						for i in x['rarity'].split('\n'):
-							set_objects[set_name].add_card(str(x['rarity']), str(x['name']))
+							set_objects[set_name].add_card(str(i), str(x['name']))
 					else:
 						set_objects[set_name].add_card(str(x['rarity']), str(x['name']))
 
@@ -80,20 +80,7 @@ def generate_pack():
 		pack.append(selected_set.commoners[7])
 
 	return pack
-'''
-print rare
-print('----------------------------------------')
-print commoners
-print('----------------------------------------')
-print supers
-print('----------------------------------------')
-print ultra
-print('----------------------------------------')
-print secret
-print('----------------------------------------')
-print ghost
-print('----------------------------------------')
-'''
+
 
 def main():
 	sort_sets()
