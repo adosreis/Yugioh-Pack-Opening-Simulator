@@ -1,5 +1,3 @@
-#wait dont understand the shuffle, i doesnt have the correct ratios, right? so wouldnt my pack.append cluster still be necessary?
-
 #!/usr/bin/python
 import json
 import random
@@ -8,11 +6,6 @@ set_objects = dict()
 
 class set: #class to hold a specific sets cards
 	#Create the empty arrays:
-	def __init__(self):
-		self.commoners = []
-		self.rare = []
-
-class decoded_set: #class to hold a specific sets cards
 	def __init__(self):
 		self.commoners = []
 		self.rare = []
