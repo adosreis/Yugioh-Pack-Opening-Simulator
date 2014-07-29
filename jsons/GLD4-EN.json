@@ -1,0 +1,252 @@
+[
+   {
+      "set_number" : "GLD4-EN001",
+      "rarity" : "Common",
+      "name" : "Millennium Shield"
+   },
+   {
+      "set_number" : "GLD4-EN002",
+      "rarity" : "Common",
+      "name" : "Pendulum Machine"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN003",
+      "name" : "The Wicked Worm Beast"
+   },
+   {
+      "name" : "Goddess with the Third Eye",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN004"
+   },
+   {
+      "set_number" : "GLD4-EN005",
+      "rarity" : "Common",
+      "name" : "Beastking of the Swamps"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN006",
+      "name" : "Versago the Destroyer"
+   },
+   {
+      "set_number" : "GLD4-EN007",
+      "rarity" : "Gold Rare",
+      "name" : "Morphing Jar"
+   },
+   {
+      "set_number" : "GLD4-EN008",
+      "rarity" : "Common",
+      "name" : "Goddess of Whim"
+   },
+   {
+      "set_number" : "GLD4-EN009",
+      "rarity" : "Common",
+      "name" : "Injection Fairy Lily"
+   },
+   {
+      "name" : "Gravekeeper's Spy",
+      "set_number" : "GLD4-EN010",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Spirit Reaper",
+      "set_number" : "GLD4-EN011",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD4-EN012",
+      "name" : "Chaos Sorcerer"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD4-EN013",
+      "name" : "Black Luster Soldier - Envoy of the Beginning"
+   },
+   {
+      "name" : "White-Horned Dragon",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN014"
+   },
+   {
+      "set_number" : "GLD4-EN015",
+      "rarity" : "Common",
+      "name" : "Toon Dark Magician Girl"
+   },
+   {
+      "name" : "Meltiel, Sage of the Sky",
+      "set_number" : "GLD4-EN016",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Radiant Jeral",
+      "set_number" : "GLD4-EN017",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Diabolos, King of the Abyss",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN018"
+   },
+   {
+      "name" : "Lich Lord, King of the Underworld",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN019"
+   },
+   {
+      "name" : "Prometheus, King of the Shadows",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN020"
+   },
+   {
+      "set_number" : "GLD4-EN021",
+      "rarity" : "Common",
+      "name" : "Mormolith"
+   },
+   {
+      "set_number" : "GLD4-EN022",
+      "rarity" : "Gold Rare",
+      "name" : "Darklord Zerato"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD4-EN023",
+      "name" : "Doomcaliber Knight"
+   },
+   {
+      "name" : "Ryko, Lightsworn Hunter",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD4-EN024"
+   },
+   {
+      "name" : "Celestia, Lightsworn Angel",
+      "set_number" : "GLD4-EN025",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Tytannial, Princess of Camellias",
+      "set_number" : "GLD4-EN026",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "set_number" : "GLD4-EN027",
+      "rarity" : "Gold Rare",
+      "name" : "Summoner Monk"
+   },
+   {
+      "name" : "Genesis Dragon",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN028"
+   },
+   {
+      "name" : "Orichalcos Shunoros",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN029"
+   },
+   {
+      "name" : "Obelisk the Tormentor",
+      "set_number" : "GLD4-EN030",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "set_number" : "GLD4-EN031",
+      "rarity" : "Gold Rare",
+      "name" : "Five-Headed Dragon"
+   },
+   {
+      "set_number" : "GLD4-EN032",
+      "rarity" : "Gold Rare",
+      "name" : "Gladiator Beast Gyzarus"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN033",
+      "name" : "Eternal Drought"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN034",
+      "name" : "Eradicating Aerosol"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN035",
+      "name" : "Soul Exchange"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN036",
+      "name" : "Toon World"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN037",
+      "name" : "Graceful Dice"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN038",
+      "name" : "Sage's Stone"
+   },
+   {
+      "name" : "Toon Table of Contents",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD4-EN039"
+   },
+   {
+      "name" : "Pot of Avarice",
+      "set_number" : "GLD4-EN040",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN041",
+      "name" : "Recurring Nightmare"
+   },
+   {
+      "name" : "Sword of Dark Rites",
+      "set_number" : "GLD4-EN042",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLD4-EN043",
+      "rarity" : "Common",
+      "name" : "Trade-In"
+   },
+   {
+      "name" : "Magic Formula",
+      "set_number" : "GLD4-EN044",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Robbin' Goblin",
+      "set_number" : "GLD4-EN045",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Skull Dice",
+      "rarity" : "Common",
+      "set_number" : "GLD4-EN046"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD4-EN047",
+      "name" : "Royal Oppression"
+   },
+   {
+      "name" : "Xing Zhen Hu",
+      "set_number" : "GLD4-EN048",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLD4-EN049",
+      "rarity" : "Common",
+      "name" : "Deck Devastation Virus"
+   },
+   {
+      "name" : "Trap Stun",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD4-EN050"
+   }
+]

@@ -1,0 +1,252 @@
+[
+   {
+      "set_number" : "GLD2-EN001",
+      "rarity" : "Gold Rare",
+      "name" : "Sangan"
+   },
+   {
+      "set_number" : "GLD2-EN002",
+      "rarity" : "Gold Rare",
+      "name" : "Des Volstgalph"
+   },
+   {
+      "set_number" : "GLD2-EN003",
+      "rarity" : "Common",
+      "name" : "Lekunga"
+   },
+   {
+      "name" : "Lord Poison",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN004"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN005",
+      "name" : "Rigorous Reaver"
+   },
+   {
+      "name" : "Zaborg the Thunder Monarch",
+      "set_number" : "GLD2-EN006",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN007",
+      "name" : "Mobius the Frost Monarch"
+   },
+   {
+      "set_number" : "GLD2-EN008",
+      "rarity" : "Common",
+      "name" : "Thestalos the Firestorm Monarch"
+   },
+   {
+      "set_number" : "GLD2-EN009",
+      "rarity" : "Common",
+      "name" : "Granmarg the Rock Monarch"
+   },
+   {
+      "name" : "Treeborn Frog",
+      "set_number" : "GLD2-EN010",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLD2-EN011",
+      "rarity" : "Common",
+      "name" : "Phantom Beast Cross-Wing"
+   },
+   {
+      "set_number" : "GLD2-EN012",
+      "rarity" : "Common",
+      "name" : "Phantom Beast Wild-Horn"
+   },
+   {
+      "set_number" : "GLD2-EN013",
+      "rarity" : "Common",
+      "name" : "Phantom Beast Thunder-Pegasus"
+   },
+   {
+      "name" : "Phantom Beast Rock-Lizard",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN014"
+   },
+   {
+      "name" : "Winged Rhynos",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN015"
+   },
+   {
+      "name" : "Snipe Hunter",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN016"
+   },
+   {
+      "name" : "The Six Samurai - Yaichi",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN017"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN018",
+      "name" : "The Six Samurai - Kamon"
+   },
+   {
+      "name" : "The Six Samurai - Yariza",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN019"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN020",
+      "name" : "The Six Samurai - Nisashi"
+   },
+   {
+      "name" : "The Six Samurai - Zanji",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN021"
+   },
+   {
+      "name" : "The Six Samurai - Irou",
+      "set_number" : "GLD2-EN022",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Volcanic Rocket",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN023"
+   },
+   {
+      "name" : "Volcanic Shell",
+      "set_number" : "GLD2-EN024",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN025",
+      "name" : "Elemental HERO Captain Gold"
+   },
+   {
+      "set_number" : "GLD2-EN026",
+      "rarity" : "Gold Rare",
+      "name" : "Raiza the Storm Monarch"
+   },
+   {
+      "set_number" : "GLD2-EN027",
+      "rarity" : "Gold Rare",
+      "name" : "Necro Gardna"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN028",
+      "name" : "Elemental HERO Neos Alius"
+   },
+   {
+      "name" : "Test Tiger",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN029"
+   },
+   {
+      "set_number" : "GLD2-EN030",
+      "rarity" : "Gold Rare",
+      "name" : "Royal Firestorm Guards"
+   },
+   {
+      "name" : "Dark Armed Dragon",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN031"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN032",
+      "name" : "Prime Material Dragon"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN033",
+      "name" : "Caius the Shadow Monarch"
+   },
+   {
+      "name" : "Exile of the Wicked",
+      "set_number" : "GLD2-EN034",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Warrior Elimination",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN035"
+   },
+   {
+      "name" : "Giant Trunade",
+      "set_number" : "GLD2-EN036",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Mind Control",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN037"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN038",
+      "name" : "Skyscraper"
+   },
+   {
+      "name" : "Future Fusion",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN039"
+   },
+   {
+      "name" : "Gold Sarcophagus",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN040"
+   },
+   {
+      "set_number" : "GLD2-EN041",
+      "rarity" : "Common",
+      "name" : "Shien's Castle of Mist"
+   },
+   {
+      "name" : "Six Samurai United",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN042"
+   },
+   {
+      "set_number" : "GLD2-EN043",
+      "rarity" : "Gold Rare",
+      "name" : "Veil of Darkness"
+   },
+   {
+      "name" : "Solemn Judgment",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN044"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN045",
+      "name" : "Bottomless Trap Hole"
+   },
+   {
+      "set_number" : "GLD2-EN046",
+      "rarity" : "Common",
+      "name" : "Compulsory Evacuation Device"
+   },
+   {
+      "set_number" : "GLD2-EN047",
+      "rarity" : "Common",
+      "name" : "Begone, Knave!"
+   },
+   {
+      "name" : "Phoenix Wing Wind Blast",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD2-EN048"
+   },
+   {
+      "name" : "Return of the Six Samurai",
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN049"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "GLD2-EN050",
+      "name" : "Double-Edged Sword Technique"
+   }
+]

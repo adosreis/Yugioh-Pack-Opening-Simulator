@@ -1,0 +1,252 @@
+[
+   {
+      "set_number" : "GLD3-EN001",
+      "rarity" : "Common",
+      "name" : "Mist Valley Watcher"
+   },
+   {
+      "set_number" : "GLD3-EN002",
+      "name" : "Vice Dragon",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Amazoness Archer",
+      "set_number" : "GLD3-EN003"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Amazoness Paladin",
+      "set_number" : "GLD3-EN004"
+   },
+   {
+      "set_number" : "GLD3-EN005",
+      "name" : "Amazoness Fighter",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLD3-EN006",
+      "name" : "Amazoness Swords Woman",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Amazoness Blowpiper",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN007"
+   },
+   {
+      "set_number" : "GLD3-EN008",
+      "rarity" : "Common",
+      "name" : "Amazoness Tiger"
+   },
+   {
+      "name" : "Destiny Hero - Malicious",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN009"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Freya, Spirit of Victory",
+      "set_number" : "GLD3-EN010"
+   },
+   {
+      "name" : "Nova Summoner",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN011"
+   },
+   {
+      "set_number" : "GLD3-EN012",
+      "rarity" : "Gold Rare",
+      "name" : "Exploder Dragon"
+   },
+   {
+      "set_number" : "GLD3-EN013",
+      "rarity" : "Common",
+      "name" : "Goblin Zombie"
+   },
+   {
+      "name" : "Elemental HERO Prisma",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD3-EN014"
+   },
+   {
+      "name" : "Dimensional Alchemist",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD3-EN015"
+   },
+   {
+      "name" : "Judgment Dragon",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD3-EN016"
+   },
+   {
+      "set_number" : "GLD3-EN017",
+      "rarity" : "Common",
+      "name" : "Amazoness Chain Master"
+   },
+   {
+      "set_number" : "GLD3-EN018",
+      "rarity" : "Gold Rare",
+      "name" : "Mezuki"
+   },
+   {
+      "name" : "Plaguespreader Zombie",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD3-EN019"
+   },
+   {
+      "set_number" : "GLD3-EN020",
+      "name" : "Thunder King Rai-Oh",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Blackwing - Gale the Whirlwind",
+      "set_number" : "GLD3-EN021"
+   },
+   {
+      "set_number" : "GLD3-EN022",
+      "rarity" : "Common",
+      "name" : "Blackwing - Bora the Spear"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Blackwing - Sirocco the Dawn",
+      "set_number" : "GLD3-EN023"
+   },
+   {
+      "set_number" : "GLD3-EN024",
+      "rarity" : "Common",
+      "name" : "Blackwing - Blizzard the Far North"
+   },
+   {
+      "name" : "Blackwing - Shura the Blue Flame",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN025"
+   },
+   {
+      "set_number" : "GLD3-EN026",
+      "rarity" : "Common",
+      "name" : "Blackwing - Kalut the Moon Shadow"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Infernity Archfiend",
+      "set_number" : "GLD3-EN027"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Infernity Dwarf",
+      "set_number" : "GLD3-EN028"
+   },
+   {
+      "set_number" : "GLD3-EN029",
+      "rarity" : "Common",
+      "name" : "Infernity Guardian"
+   },
+   {
+      "set_number" : "GLD3-EN030",
+      "rarity" : "Common",
+      "name" : "Reese the Ice Mistress"
+   },
+   {
+      "set_number" : "GLD3-EN031",
+      "rarity" : "Common",
+      "name" : "Numbing Grub in the Ice Barrier"
+   },
+   {
+      "name" : "Mist Condor",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN032"
+   },
+   {
+      "set_number" : "GLD3-EN033",
+      "rarity" : "Common",
+      "name" : "Mist Valley Windmaster"
+   },
+   {
+      "name" : "Worm Falco",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN034"
+   },
+   {
+      "set_number" : "GLD3-EN035",
+      "name" : "Worm Gulse",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "GLD3-EN036",
+      "rarity" : "Common",
+      "name" : "Worm Hope"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Stardust Dragon",
+      "set_number" : "GLD3-EN037"
+   },
+   {
+      "set_number" : "GLD3-EN038",
+      "name" : "Blackwing Armor Master",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Blackwing Armed Wing",
+      "set_number" : "GLD3-EN039"
+   },
+   {
+      "name" : "Mystical Space Typhoon",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD3-EN040"
+   },
+   {
+      "set_number" : "GLD3-EN041",
+      "name" : "My Body as a Shield",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "rarity" : "Gold Rare",
+      "name" : "Smashing Ground",
+      "set_number" : "GLD3-EN042"
+   },
+   {
+      "set_number" : "GLD3-EN043",
+      "name" : "Enemy Controller",
+      "rarity" : "Gold Rare"
+   },
+   {
+      "name" : "Destiny Draw",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN044"
+   },
+   {
+      "set_number" : "GLD3-EN045",
+      "rarity" : "Common",
+      "name" : "Black Whirlwind"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Amazoness Archers",
+      "set_number" : "GLD3-EN046"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dramatic Rescue",
+      "set_number" : "GLD3-EN047"
+   },
+   {
+      "name" : "Magical Arm Shield",
+      "rarity" : "Common",
+      "set_number" : "GLD3-EN048"
+   },
+   {
+      "name" : "Icarus Attack",
+      "rarity" : "Gold Rare",
+      "set_number" : "GLD3-EN049"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Aegis of Gaia",
+      "set_number" : "GLD3-EN050"
+   }
+]
