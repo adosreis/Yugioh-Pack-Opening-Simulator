@@ -4,7 +4,7 @@ import random
 import os
 set_objects = dict()
 
-class decoded_set: #class to hold a specific sets cards
+class set: #class to hold a specific sets cards
 	rare = []
 	commoners = []
 	supers = []
@@ -13,12 +13,21 @@ class decoded_set: #class to hold a specific sets cards
 	secret = []
 	ghost = []
 
+	#Shuffles all the rarities in one simple call:
+	def shuffle(self):
+		random.shuffle(self.commoners)
+		random.shuffle(self.rare)
+		random.shuffle(self.supers)
+		random.shuffle(self.ultra)
+		random.shuffle(self.ulti)
+		random.shuffle(self.secret)
+
 def sort_sets():
 	for file in os.listdir('./jsons/'): 
 		if file.endswith('.json'):
 #			print file #for debugging the unicode 
 			with open('./jsons/'+file) as json_data:
-				set_objects[str(file)]=decoded_set()
+				set_objects[str(file)]=set()
 				data = json.load(json_data)
 				for x in data:
 #					if '\n' in x['rarity'] :
@@ -60,10 +69,11 @@ def sort_sets():
 #							set_objects[str(file)].ulti.append(str(x['name']))			
 def generate_pack(): 
 	print set_objects.keys()
-	selected_set_name = input('which pack?')
+#	selected_set_name = input('which pack?')
+	selected_set_name = "REDU-EN.json"
 	selected_set = set_objects[selected_set_name]
 	pack = []
-	random.shuffle(selected_set.commoners)
+	selected_set.shuffle()
 	for i in range (0, 7):
 		pack.append(selected_set.commoners[i])
 #	rarity = random.randint(0, 359)
