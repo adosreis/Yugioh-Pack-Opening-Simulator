@@ -5,13 +5,14 @@ import os
 set_objects = dict()
 
 class decoded_set: #class to hold a specific sets cards
-	rare = []
-	commoners = []
-	supers = []
-	ultra = []
-	ulti = []
-	secret = []
-	ghost = []
+	def __init__(self):
+		self.rare = []
+		self.commoners = []
+		self.supers = []
+		self.ultra = []
+		self.ulti = []
+		self.secret = []
+		self.ghost = []
 
 
 def sort_sets():
@@ -19,48 +20,52 @@ def sort_sets():
 		if file.endswith('.json'):
 			print file #for debugging the unicode 
 			with open('./jsons/'+file) as json_data:
-				set_objects[str(file)]=decoded_set()
+				set_objects[file]=decoded_set()
 				data = json.load(json_data)
 				for x in data:
 					if '\n' in x['rarity'] :
 						for i in x['rarity'].split('\n'):
 							if i == "Rare":
-								set_objects[str(file)].rare.append(str(x['name']))
+								set_objects[file].rare.append(str(x['name']))
 							if i == "Super Rare":
-								set_objects[str(file)].supers.append(str(x['name']))
+								set_objects[file].supers.append(str(x['name']))
 							if i == "Common":
-								set_objects[str(file)].commoners.append(str(x['name']))			#if not totally fucked...
+								set_objects[file].commoners.append(str(x['name']))			#if not totally fucked...
 							if i == "Short Print":
-								set_objects[str(file)].rare.append(str(x['name']))
+								set_objects[file].rare.append(str(x['name']))
 							if i == "Ultra Rare":
-								set_objects[str(file)].ultra.append(str(x['name']))
+								set_objects[file].ultra.append(str(x['name']))
 							if i == "Secret Rare":
-								set_objects[str(file)].secret.append(str(x['name']))
+								set_objects[file].secret.append(str(x['name']))
 							if i == "Ghost Rare":
-								set_objects[str(file)].ghost.append(str(x['name']))
+								set_objects[file].ghost.append(str(x['name']))
 							if i == 'Ultimate Rare':
-								set_objects[str(file)].ulti.append(str(x['name']))
+								set_objects[file].ulti.append(str(x['name']))
 					else:
 						if x['rarity'] == "Rare":
-							set_objects[str(file)].rare.append(str(x['name']))
+							set_objects[file].rare.append(str(x['name']))
 						if x['rarity'] == "Super Rare":
-							set_objects[str(file)].supers.append(str(x['name']))
+							set_objects[file].supers.append(str(x['name']))
 						if x['rarity'] == "Common":
-							set_objects[str(file)].commoners.append(str(x['name']))
+							set_objects[file].commoners.append(str(x['name']))
 						if x['rarity'] == "Short Print":
-							set_objects[str(file)].rare.append(str(x['name']))
+							set_objects[file].rare.append(str(x['name']))
 						if x['rarity'] == "Ultra Rare":
-							set_objects[str(file)].ultra.append(str(x['name']))
+							set_objects[file].ultra.append(str(x['name']))
 						if x['rarity'] == "Secret Rare":
-							set_objects[str(file)].secret.append(str(x['name']))
+							set_objects[file].secret.append(str(x['name']))
 						if x['rarity'] == "Ghost Rare":
-							set_objects[str(file)].ghost.append(str(x['name']))
+							set_objects[file].ghost.append(str(x['name']))
 						if x['rarity'] == 'Ultimate Rare':
-							set_objects[str(file)].ulti.append(str(x['name']))			
+							set_objects[file].ulti.append(str(x['name']))
+						
 def generate_pack(): 
 	print set_objects.keys()
 	selected_set_name = input('which pack?')
 	selected_set = set_objects[selected_set_name]
+	print selected_set.rare
+	print selected_set.supers
+	print selected_set.commoners	
 	pack = []
 	for i in range(7):
 		pack.append(selected_set.commoners[random.randint(0, (len(selected_set.commoners)-1))])
