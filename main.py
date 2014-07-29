@@ -15,7 +15,6 @@ class decoded_set: #class to hold a specific sets cards
 
 
 def sort_sets():
-	set_objects = dict()
 	for file in os.listdir('./jsons/'): 
 		if file.endswith('.json'):
 			print file #for debugging the unicode 
@@ -57,8 +56,7 @@ def sort_sets():
 						if x['rarity'] == "Ghost Rare":
 							set_objects[str(file)].ghost.append(str(x['name']))
 						if x['rarity'] == 'Ultimate Rare':
-							set_objects[str(file)].ulti.append(str(x['name']))
-				
+							set_objects[str(file)].ulti.append(str(x['name']))			
 def generate_pack(): 
 	print set_objects.keys()
 	selected_set_name = input('which pack?')
