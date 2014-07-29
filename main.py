@@ -18,6 +18,7 @@ def sort_sets():
 	set_objects = dict()
 	for file in os.listdir('./jsons/'): 
 		if file.endswith('.json'):
+			print file #for debugging the unicode
 			with open('./jsons/'+file) as json_data:
 				set_objects[str(file)]=decoded_set()
 				data = json.load(json_data)
