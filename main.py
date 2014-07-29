@@ -40,6 +40,7 @@ class set: #class to hold a specific sets cards
 		random.shuffle(self.ultra)
 		random.shuffle(self.ulti)
 		random.shuffle(self.secret)
+		random.shuffle(self.ghost)
 
 def sort_sets():
 	for file in os.listdir('./jsons/'): 
