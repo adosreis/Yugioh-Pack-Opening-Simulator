@@ -1,37 +1,37 @@
 [
    {
-      "name" : "Noble Knight Gawayn",
       "rarity" : "Super Rare",
-      "set_number" : "REDU-EN000"
+      "set_number" : "REDU-EN000",
+      "name" : "Noble Knight Gawayn"
    },
    {
-      "set_number" : "REDU-EN001",
       "rarity" : "Common",
+      "set_number" : "REDU-EN001",
       "name" : "Trance the Magic Swordsman"
    },
    {
+      "rarity" : "Common",
       "set_number" : "REDU-EN002",
-      "name" : "Damage Mage",
-      "rarity" : "Common"
+      "name" : "Damage Mage"
    },
    {
       "rarity" : "Rare",
-      "name" : "ZW - Phoenix Bow",
-      "set_number" : "REDU-EN003"
+      "set_number" : "REDU-EN003",
+      "name" : "ZW - Phoenix Bow"
    },
    {
       "name" : "Photon Caesar",
-      "rarity" : "Common",
-      "set_number" : "REDU-EN004"
+      "set_number" : "REDU-EN004",
+      "rarity" : "Common"
    },
    {
-      "name" : "Heroic Challenger - Spartan",
+      "set_number" : "REDU-EN005",
       "rarity" : "Common",
-      "set_number" : "REDU-EN005"
+      "name" : "Heroic Challenger - Spartan"
    },
    {
-      "rarity" : "Common",
       "name" : "Heroic Challenger - War Hammer",
+      "rarity" : "Common",
       "set_number" : "REDU-EN006"
    },
    {
@@ -40,109 +40,109 @@
       "name" : "Heroic Challenger - Swordshield"
    },
    {
-      "rarity" : "Rare",
       "name" : "Heroic Challenger - Double Lance",
-      "set_number" : "REDU-EN008"
-   },
-   {
-      "set_number" : "REDU-EN009",
-      "rarity" : "Common",
-      "name" : "Chronomaly Mayan Machine"
-   },
-   {
-      "name" : "Chronomaly Colossal Head",
-      "rarity" : "Rare",
-      "set_number" : "REDU-EN010"
-   },
-   {
-      "set_number" : "REDU-EN011",
-      "name" : "Chronomaly Golden Jet",
-      "rarity" : "Common"
-   },
-   {
-      "set_number" : "REDU-EN012",
-      "rarity" : "Rare",
-      "name" : "Chronomaly Crystal Bones"
-   },
-   {
-      "set_number" : "REDU-EN013",
-      "name" : "Chronomaly Crystal Skull",
+      "set_number" : "REDU-EN008",
       "rarity" : "Rare"
    },
    {
+      "rarity" : "Common",
+      "set_number" : "REDU-EN009",
+      "name" : "Chronomaly Mayan Machine"
+   },
+   {
+      "set_number" : "REDU-EN010",
+      "rarity" : "Rare",
+      "name" : "Chronomaly Colossal Head"
+   },
+   {
+      "name" : "Chronomaly Golden Jet",
+      "set_number" : "REDU-EN011",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chronomaly Crystal Bones",
+      "set_number" : "REDU-EN012",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "REDU-EN013",
+      "rarity" : "Rare",
+      "name" : "Chronomaly Crystal Skull"
+   },
+   {
       "set_number" : "REDU-EN014",
-      "name" : "Chronomaly Moai",
-      "rarity" : "Common"
+      "rarity" : "Common",
+      "name" : "Chronomaly Moai"
    },
    {
-      "name" : "Spellbook Magician of Prophecy",
       "rarity" : "Ultra Rare\nUltimate Rare",
-      "set_number" : "REDU-EN015"
+      "set_number" : "REDU-EN015",
+      "name" : "Spellbook Magician of Prophecy"
    },
    {
-      "rarity" : "Common",
       "name" : "Amores of Prophecy",
-      "set_number" : "REDU-EN016"
-   },
-   {
-      "rarity" : "Super Rare",
-      "name" : "Temperance of Prophecy",
-      "set_number" : "REDU-EN017"
-   },
-   {
-      "rarity" : "Common",
-      "name" : "Strength of Prophecy",
-      "set_number" : "REDU-EN018"
-   },
-   {
-      "set_number" : "REDU-EN019",
-      "name" : "Charioteer of Prophecy",
+      "set_number" : "REDU-EN016",
       "rarity" : "Common"
+   },
+   {
+      "name" : "Temperance of Prophecy",
+      "set_number" : "REDU-EN017",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "REDU-EN018",
+      "rarity" : "Common",
+      "name" : "Strength of Prophecy"
+   },
+   {
+      "name" : "Charioteer of Prophecy",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN019"
    },
    {
       "set_number" : "REDU-EN020",
-      "name" : "High Priestess of Prophecy",
-      "rarity" : "Secret Rare"
+      "rarity" : "Secret Rare",
+      "name" : "High Priestess of Prophecy"
    },
    {
-      "set_number" : "REDU-EN021",
       "name" : "Madolche Mewfeuille",
+      "set_number" : "REDU-EN021",
       "rarity" : "Common"
    },
    {
       "set_number" : "REDU-EN022",
-      "name" : "Madolche Baaple",
-      "rarity" : "Common"
-   },
-   {
-      "set_number" : "REDU-EN023",
-      "name" : "Madolche Chouxvalier",
-      "rarity" : "Rare"
-   },
-   {
-      "rarity" : "Super Rare",
-      "name" : "Madolche Magileine",
-      "set_number" : "REDU-EN024"
-   },
-   {
-      "set_number" : "REDU-EN025",
       "rarity" : "Common",
+      "name" : "Madolche Baaple"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "REDU-EN023",
+      "name" : "Madolche Chouxvalier"
+   },
+   {
+      "name" : "Madolche Magileine",
+      "set_number" : "REDU-EN024",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "REDU-EN025",
       "name" : "Madolche Butlerusk"
    },
    {
-      "name" : "Madolche Puddingcess",
+      "set_number" : "REDU-EN026",
       "rarity" : "Ultra Rare\nUltimate Rare",
-      "set_number" : "REDU-EN026"
+      "name" : "Madolche Puddingcess"
    },
    {
-      "set_number" : "REDU-EN027",
       "name" : "Geargiano Mk-II",
-      "rarity" : "Rare"
+      "rarity" : "Rare",
+      "set_number" : "REDU-EN027"
    },
    {
       "set_number" : "REDU-EN028",
-      "name" : "Geargiaccelerator",
-      "rarity" : "Common"
+      "rarity" : "Common",
+      "name" : "Geargiaccelerator"
    },
    {
       "set_number" : "REDU-EN029",
@@ -150,9 +150,9 @@
       "name" : "Geargiarsenal"
    },
    {
-      "name" : "Geargiarmor",
+      "set_number" : "REDU-EN030",
       "rarity" : "Super Rare",
-      "set_number" : "REDU-EN030"
+      "name" : "Geargiarmor"
    },
    {
       "name" : "Uniflora, Mystical Beast of the Forest",
@@ -160,19 +160,19 @@
       "set_number" : "REDU-EN031"
    },
    {
+      "name" : "Little Trooper",
       "set_number" : "REDU-EN032",
-      "rarity" : "Common",
-      "name" : "Little Trooper"
+      "rarity" : "Common"
    },
    {
-      "set_number" : "REDU-EN033",
       "name" : "Silver Sentinel",
+      "set_number" : "REDU-EN033",
       "rarity" : "Ultra Rare\nUltimate Rare"
    },
    {
-      "set_number" : "REDU-EN034",
       "name" : "Dust Knight",
-      "rarity" : "Rare"
+      "rarity" : "Rare",
+      "set_number" : "REDU-EN034"
    },
    {
       "name" : "Block Golem",
@@ -180,9 +180,9 @@
       "set_number" : "REDU-EN035"
    },
    {
+      "rarity" : "Common",
       "set_number" : "REDU-EN036",
-      "name" : "Atlantean Attack Squad",
-      "rarity" : "Common"
+      "name" : "Atlantean Attack Squad"
    },
    {
       "name" : "Illusory Snatcher",
@@ -195,24 +195,24 @@
       "name" : "Grandsoil the Elemental Lord"
    },
    {
-      "set_number" : "REDU-EN039",
       "rarity" : "Short Print",
+      "set_number" : "REDU-EN039",
       "name" : "Three Thousand Needles"
    },
    {
       "rarity" : "Short Print",
-      "name" : "Goblin Marauding Squad",
-      "set_number" : "REDU-EN040"
+      "set_number" : "REDU-EN040",
+      "name" : "Goblin Marauding Squad"
    },
    {
+      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare",
       "set_number" : "REDU-EN041",
-      "name" : "Heroic Champion - Excalibur",
-      "rarity" : "Ultra Rare\nUltimate Rare\nGhost Rare"
+      "name" : "Heroic Champion - Excalibur"
    },
    {
       "rarity" : "Super Rare",
-      "name" : "Chronomaly Crystal Chrononaut",
-      "set_number" : "REDU-EN042"
+      "set_number" : "REDU-EN042",
+      "name" : "Chronomaly Crystal Chrononaut"
    },
    {
       "set_number" : "REDU-EN043",
@@ -220,19 +220,19 @@
       "name" : "Number 33: Chronomaly Machu Mech"
    },
    {
-      "set_number" : "REDU-EN044",
       "name" : "Superdimensional Robot Galaxy Destroyer",
+      "set_number" : "REDU-EN044",
       "rarity" : "Ultra Rare\nUltimate Rare"
    },
    {
       "rarity" : "Ultra Rare\nUltimate Rare",
-      "name" : "Hierophant of Prophecy",
-      "set_number" : "REDU-EN045"
+      "set_number" : "REDU-EN045",
+      "name" : "Hierophant of Prophecy"
    },
    {
-      "rarity" : "Secret Rare",
       "name" : "Gear Gigant X",
-      "set_number" : "REDU-EN046"
+      "set_number" : "REDU-EN046",
+      "rarity" : "Secret Rare"
    },
    {
       "name" : "Alchemic Magician",
@@ -240,59 +240,59 @@
       "set_number" : "REDU-EN047"
    },
    {
-      "name" : "Soul of Silvermountain",
       "rarity" : "Super Rare",
-      "set_number" : "REDU-EN048"
+      "set_number" : "REDU-EN048",
+      "name" : "Soul of Silvermountain"
    },
    {
-      "set_number" : "REDU-EN049",
       "name" : "Fairy King Albverdich",
+      "set_number" : "REDU-EN049",
       "rarity" : "Rare"
    },
    {
       "set_number" : "REDU-EN050",
-      "name" : "Sword Breaker",
-      "rarity" : "Super Rare"
+      "rarity" : "Super Rare",
+      "name" : "Sword Breaker"
    },
    {
-      "set_number" : "REDU-EN051",
       "name" : "Gagagarevenge",
+      "set_number" : "REDU-EN051",
       "rarity" : "Super Rare"
    },
    {
       "name" : "Overlay Regen",
-      "rarity" : "Common",
-      "set_number" : "REDU-EN052"
-   },
-   {
-      "set_number" : "REDU-EN053",
-      "name" : "Heroic Chance",
+      "set_number" : "REDU-EN052",
       "rarity" : "Common"
    },
    {
-      "set_number" : "REDU-EN054",
       "rarity" : "Common",
-      "name" : "Chronomaly Technology"
+      "set_number" : "REDU-EN053",
+      "name" : "Heroic Chance"
    },
    {
+      "name" : "Chronomaly Technology",
       "rarity" : "Common",
-      "name" : "Chronomaly Pyramid Eye Tablet",
-      "set_number" : "REDU-EN055"
+      "set_number" : "REDU-EN054"
    },
    {
+      "set_number" : "REDU-EN055",
       "rarity" : "Common",
-      "name" : "Galaxy Queen's Light",
-      "set_number" : "REDU-EN056"
+      "name" : "Chronomaly Pyramid Eye Tablet"
    },
    {
-      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "REDU-EN056",
+      "rarity" : "Common",
+      "name" : "Galaxy Queen's Light"
+   },
+   {
       "name" : "Spellbook of Secrets",
+      "rarity" : "Ultra Rare\nUltimate Rare",
       "set_number" : "REDU-EN057"
    },
    {
-      "name" : "Spellbook of Power",
       "rarity" : "Common",
-      "set_number" : "REDU-EN058"
+      "set_number" : "REDU-EN058",
+      "name" : "Spellbook of Power"
    },
    {
       "name" : "Spellbook of Life",
@@ -301,58 +301,58 @@
    },
    {
       "rarity" : "Rare",
-      "name" : "Spellbook of Wisdom",
-      "set_number" : "REDU-EN060"
-   },
-   {
-      "set_number" : "REDU-EN061",
-      "name" : "Madolche Chateau",
-      "rarity" : "Common"
+      "set_number" : "REDU-EN060",
+      "name" : "Spellbook of Wisdom"
    },
    {
       "rarity" : "Common",
+      "set_number" : "REDU-EN061",
+      "name" : "Madolche Chateau"
+   },
+   {
       "name" : "Where Arf Thou?",
-      "set_number" : "REDU-EN062"
+      "set_number" : "REDU-EN062",
+      "rarity" : "Common"
    },
    {
       "name" : "Generation Force",
-      "rarity" : "Common",
-      "set_number" : "REDU-EN063"
-   },
-   {
-      "rarity" : "Common",
-      "name" : "Catapult Zone",
-      "set_number" : "REDU-EN064"
-   },
-   {
-      "set_number" : "REDU-EN065",
-      "rarity" : "Short Print",
-      "name" : "Cold Feet"
-   },
-   {
-      "rarity" : "Common",
-      "name" : "Impenetrable Attack",
-      "set_number" : "REDU-EN066"
-   },
-   {
-      "set_number" : "REDU-EN067",
-      "name" : "Gagagarush",
+      "set_number" : "REDU-EN063",
       "rarity" : "Common"
    },
    {
       "rarity" : "Common",
-      "name" : "Heroic Retribution Sword",
-      "set_number" : "REDU-EN068"
+      "set_number" : "REDU-EN064",
+      "name" : "Catapult Zone"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "REDU-EN065",
+      "name" : "Cold Feet"
+   },
+   {
+      "name" : "Impenetrable Attack",
+      "rarity" : "Common",
+      "set_number" : "REDU-EN066"
    },
    {
       "rarity" : "Common",
-      "name" : "Stonehenge Methods",
-      "set_number" : "REDU-EN069"
+      "set_number" : "REDU-EN067",
+      "name" : "Gagagarush"
    },
    {
-      "name" : "Madolche Lesson",
+      "set_number" : "REDU-EN068",
       "rarity" : "Common",
-      "set_number" : "REDU-EN070"
+      "name" : "Heroic Retribution Sword"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "REDU-EN069",
+      "name" : "Stonehenge Methods"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "REDU-EN070",
+      "name" : "Madolche Lesson"
    },
    {
       "set_number" : "REDU-EN071",
@@ -360,29 +360,29 @@
       "name" : "Madolche Waltz"
    },
    {
-      "set_number" : "REDU-EN072",
       "name" : "Madolche Tea Break",
+      "set_number" : "REDU-EN072",
       "rarity" : "Rare"
    },
    {
+      "set_number" : "REDU-EN073",
       "rarity" : "Common",
-      "name" : "Xyz Soul",
-      "set_number" : "REDU-EN073"
+      "name" : "Xyz Soul"
    },
    {
       "name" : "Compulsory Escape Device",
-      "rarity" : "Common",
-      "set_number" : "REDU-EN074"
+      "set_number" : "REDU-EN074",
+      "rarity" : "Common"
    },
    {
-      "rarity" : "Common",
       "name" : "Turnabout",
-      "set_number" : "REDU-EN075"
+      "set_number" : "REDU-EN075",
+      "rarity" : "Common"
    },
    {
       "rarity" : "Super Rare",
-      "name" : "Void Trap Hole",
-      "set_number" : "REDU-EN076"
+      "set_number" : "REDU-EN076",
+      "name" : "Void Trap Hole"
    },
    {
       "set_number" : "REDU-EN077",
@@ -395,59 +395,59 @@
       "name" : "Soul Drain"
    },
    {
+      "name" : "Rebound",
       "set_number" : "REDU-EN079",
-      "rarity" : "Super Rare",
-      "name" : "Rebound"
-   },
-   {
-      "set_number" : "REDU-EN080",
-      "name" : "Lucky Punch",
-      "rarity" : "Short Print"
-   },
-   {
-      "rarity" : "Ultra Rare\nUltimate Rare",
-      "name" : "Prophecy Destroyer",
-      "set_number" : "REDU-EN081"
-   },
-   {
-      "name" : "Lightray Madoor",
-      "rarity" : "Common",
-      "set_number" : "REDU-EN082"
-   },
-   {
-      "set_number" : "REDU-EN083",
-      "name" : "Blue Dragon Ninja",
       "rarity" : "Super Rare"
    },
    {
-      "name" : "Imairuka",
-      "rarity" : "Rare",
-      "set_number" : "REDU-EN084"
+      "set_number" : "REDU-EN080",
+      "rarity" : "Short Print",
+      "name" : "Lucky Punch"
    },
    {
-      "set_number" : "REDU-EN085",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "REDU-EN081",
+      "name" : "Prophecy Destroyer"
+   },
+   {
+      "name" : "Lightray Madoor",
+      "set_number" : "REDU-EN082",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Blue Dragon Ninja",
+      "rarity" : "Super Rare",
+      "set_number" : "REDU-EN083"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "REDU-EN084",
+      "name" : "Imairuka"
+   },
+   {
       "name" : "Revival Golem",
-      "rarity" : "Rare"
+      "rarity" : "Rare",
+      "set_number" : "REDU-EN085"
    },
    {
-      "rarity" : "Common",
       "name" : "Noble Arms - Gallatin",
-      "set_number" : "REDU-EN086"
+      "set_number" : "REDU-EN086",
+      "rarity" : "Common"
    },
    {
       "rarity" : "Rare",
-      "name" : "Spellbook Library of the Crescent",
-      "set_number" : "REDU-EN087"
+      "set_number" : "REDU-EN087",
+      "name" : "Spellbook Library of the Crescent"
    },
    {
-      "name" : "Advance Zone",
+      "set_number" : "REDU-EN088",
       "rarity" : "Secret Rare",
-      "set_number" : "REDU-EN088"
+      "name" : "Advance Zone"
    },
    {
-      "name" : "Ninjitsu Art of Shadow Sealing",
+      "set_number" : "REDU-EN089",
       "rarity" : "Common",
-      "set_number" : "REDU-EN089"
+      "name" : "Ninjitsu Art of Shadow Sealing"
    },
    {
       "name" : "Chewbone",
@@ -455,48 +455,48 @@
       "set_number" : "REDU-EN090"
    },
    {
-      "rarity" : "Rare",
       "name" : "Eco, Mystical Spirit of the Forest",
-      "set_number" : "REDU-EN091"
+      "set_number" : "REDU-EN091",
+      "rarity" : "Rare"
    },
    {
+      "name" : "Number 6: Chronomaly Atlandis",
       "set_number" : "REDU-EN092",
-      "rarity" : "Secret Rare",
-      "name" : "Number 6: Chronomaly Atlandis"
+      "rarity" : "Secret Rare"
    },
    {
       "name" : "Miracle Contact",
-      "rarity" : "Secret Rare",
-      "set_number" : "REDU-EN093"
+      "set_number" : "REDU-EN093",
+      "rarity" : "Secret Rare"
    },
    {
-      "name" : "Advanced Dark",
       "rarity" : "Secret Rare",
-      "set_number" : "REDU-EN094"
+      "set_number" : "REDU-EN094",
+      "name" : "Advanced Dark"
    },
    {
       "set_number" : "REDU-EN095",
-      "name" : "Pahunder",
-      "rarity" : "Rare"
+      "rarity" : "Rare",
+      "name" : "Pahunder"
    },
    {
-      "set_number" : "REDU-EN096",
       "name" : "Mahunder",
+      "set_number" : "REDU-EN096",
       "rarity" : "Rare"
    },
    {
+      "rarity" : "Rare",
       "set_number" : "REDU-EN097",
-      "name" : "Sishunder",
-      "rarity" : "Rare"
+      "name" : "Sishunder"
    },
    {
-      "set_number" : "REDU-EN098",
       "name" : "Number 91: Thunder Spark Dragon",
+      "set_number" : "REDU-EN098",
       "rarity" : "Ultra Rare\nUltimate Rare"
    },
    {
-      "rarity" : "Secret Rare",
       "name" : "Spirit Converter",
-      "set_number" : "REDU-EN099"
+      "set_number" : "REDU-EN099",
+      "rarity" : "Secret Rare"
    }
 ]
