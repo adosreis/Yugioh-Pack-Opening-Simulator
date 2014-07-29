@@ -2,7 +2,7 @@
 import json
 import random
 import os
-global set_objects
+set_objects = dict()
 
 class decoded_set: #class to hold a specific sets cards
 	rare = []
@@ -18,7 +18,7 @@ def sort_sets():
 	set_objects = dict()
 	for file in os.listdir('./jsons/'): 
 		if file.endswith('.json'):
-			print file #for debugging the unicode
+			print file #for debugging the unicode 
 			with open('./jsons/'+file) as json_data:
 				set_objects[str(file)]=decoded_set()
 				data = json.load(json_data)
@@ -60,7 +60,8 @@ def sort_sets():
 							set_objects[str(file)].ulti.append(str(x['name']))
 				
 def generate_pack(): 
-	selected_set_name = input(str("which pack? "+set_objects.keys()))
+	print set_objects.keys()
+	selected_set_name = input('which pack?')
 	selected_set = set_objects[selected_set_name]
 	pack = []
 	for i in range(7):
