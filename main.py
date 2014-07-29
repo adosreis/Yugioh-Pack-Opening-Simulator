@@ -49,7 +49,7 @@ def sort_sets():
 				set_name = os.path.splitext(str(file))[0]
 				set_objects[set_name]=set()
 				data = json.load(json_data)
-				for x in data:x
+				for x in data:
 					if '\n' in x['rarity'] :
 						for i in x['rarity'].split('\n'):
 							set_objects[set_name].add_card(str(i), str(x['name']))
