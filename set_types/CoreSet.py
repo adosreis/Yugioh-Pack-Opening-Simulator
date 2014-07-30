@@ -9,7 +9,7 @@ class Core_Set:
 			"IOC", "AST", "SOD", "RDS", "FET", "TLM", "CRV", "EEN", "SOI",
 			"EOJ", "POTD", "CDIP", "STON", "FOTB", "TAEV", "GLAS", "PTDN",
 			"LODT", "TDGS", "CSOC", "CRMS", "RGBT", "ANPR", "SOVR", "ABPF",
-			"THSD", "DREV", "STBL", "STOR", "EXVC", "GENF", "PHSW", "ORCS",
+			"TSHD", "DREV", "STBL", "STOR", "EXVC", "GENF", "PHSW", "ORCS",
 			"GAOV", "REDU", "ABYR", "CBLZ", "LTGY", "JOTL", "SHSP", "LVAL",
 			"PRIO"] 
 
