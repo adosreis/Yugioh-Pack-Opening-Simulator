@@ -27,7 +27,7 @@ class Hidden_Arsenal_Like:
 	def generate_pack(self):
 		self.shuffle()
 		pack = []
-		for i in range(0, 3):
+		for i in range(0, 4):
 			pack.append(self.supers[i])
 		pack.append(self.secret[0])
 		return pack
