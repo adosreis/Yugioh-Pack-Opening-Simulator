@@ -2,46 +2,8 @@
 import json
 import random
 import os
-from HiddenArsenal import *
+from set_types import *
 set_objects = dict()
-
-#class set: #class to hold a specific sets cards
-#	#Create the empty arrays:
-#	def __init__(self):
-#		self.commoners = []
-#		self.rare = []
-#		self.supers = []
-#		self.ultra = []
-#		self.ulti = []
-#		self.secret = []
-#		self.ghost = []
-#
-#	#Adds a card of the given name to the given rarity:
-#	def add_card(self, rarity, cardname):
-#		if(rarity == "Common"):
-#			self.commoners.append(cardname)
-#		if(rarity == "Rare"):
-#			self.rare.append(cardname)
-#		if(rarity == "Super Rare"):
-#			self.supers.append(cardname)
-#		if(rarity == "Ultra Rare"):
-#			self.ultra.append(cardname)
-#		if(rarity == "Ultimate Rare"):
-#			self.ulti.append(cardname)
-#		if(rarity == "Secret Rare"):
-#			self.secret.append(cardname)
-#		if(rarity == "Ghost Rare"):
-#			self.ghost.append(cardname)
-#
-#	#Shuffles all the rarities in one simple call:
-#	def shuffle(self):
-#		random.shuffle(self.commoners)
-#		random.shuffle(self.rare)
-#		random.shuffle(self.supers)
-#		random.shuffle(self.ultra)
-#		random.shuffle(self.ulti)
-#		random.shuffle(self.secret)
-#		random.shuffle(self.ghost)
 
 def sort_sets():
 	for file in os.listdir('./jsons/'): 
@@ -51,6 +13,10 @@ def sort_sets():
 				set_name = os.path.splitext(str(file))[0]
 
 				#Identify what kind of set this is:
+				for i in Core_Set.sets:
+					if(set_name.startswith(i)):
+						set_objects[set_name] = Core_Set()
+
 				for i in Hidden_Arsenal_Like.sets:
 					if(set_name.startswith(i)):
 						set_objects[set_name] = Hidden_Arsenal_Like()
@@ -63,27 +29,6 @@ def sort_sets():
 					else:
 						set_objects[set_name].add_card(str(x['rarity']), str(x['name']))
 
-#def generate_pack(): 
-#	pack = []
-#	selected_set.shuffle()
-#	pack.append(selected_set.rare[0])
-#	for i in range (0, 7):
-#		pack.append(selected_set.commoners[i])
-#	rarity = random.randint(0, 359)
-#	if rarity in range(0, 72):
-#		pack.append(selected_set.supers[0])
-#	if rarity in range(72, 102):
-#		pack.append(selected_set.ultra[0])
-#	if rarity in range(102, 117):
-#		pack.append(selected_set.ulti[0])
-#	if rarity in range(117, 132):
-#		pack.append(selected_set.secret[0])
-#	if rarity in range(132, 147):
-#		pack.append(selected_set.ghost[0])
-#	if rarity in range(147, 360):
-#		pack.append(selected_set.commoners[7])
-#
-#	return pack
 
 
 def main():
