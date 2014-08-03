@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import json
 import random
 import os
@@ -13,13 +13,13 @@ def sort_sets():
 				set_name = os.path.splitext(str(file))[0]
 
 				#Identify what kind of set this is:
-				for i in Core_Set.sets:
+				for i in CS.Core_Set.sets:
 					if(set_name.startswith(i)):
-						set_objects[set_name] = Core_Set()
+						set_objects[set_name] = CS.Core_Set()
 
-				for i in Hidden_Arsenal_Like.sets:
+				for i in HA.Hidden_Arsenal_Like.sets:
 					if(set_name.startswith(i)):
-						set_objects[set_name] = Hidden_Arsenal_Like()
+						set_objects[set_name] = HA.Hidden_Arsenal_Like()
 
 				data = json.load(json_data)
 				for x in data:
@@ -34,11 +34,11 @@ def sort_sets():
 def main():
 	sort_sets()
 
-	print set_objects.keys()
+	print(set_objects.keys())
 	selected_set_name = input('which pack?')
 	selected_set = set_objects[selected_set_name]
 
-	print selected_set.generate_pack()
+	print(selected_set.generate_pack())
 
 if __name__ == '__main__':
     main()
