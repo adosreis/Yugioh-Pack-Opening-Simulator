@@ -21,6 +21,10 @@ def sort_sets():
 					if(set_name.startswith(i)):
 						set_objects[set_name] = HA.Hidden_Arsenal_Like()
 
+				for i in GS.Gold_Series.sets:
+					if(set_name.startswith(i)):
+						set_objects[set_name] = GS.Gold_Series()
+
 				data = json.load(json_data)
 				for x in data:
 					if '\n' in x['rarity'] :
