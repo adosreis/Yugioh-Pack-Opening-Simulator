@@ -1,0 +1,502 @@
+[
+   {
+      "set_number" : "DUEA-EN000",
+      "name" : "Dragon Horn Hunter",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DUEA-EN001",
+      "name" : "Flash Knight"
+   },
+   {
+      "name" : "Foucault's Cannon",
+      "set_number" : "DUEA-EN002",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN003",
+      "name" : "Metaphys Armed Dragon"
+   },
+   {
+      "name" : "Odd-Eyes Pendulum Dragon",
+      "set_number" : "DUEA-EN004",
+      "rarity" : "Secret Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN005",
+      "name" : "Performapal Skeeter Skimmer"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DUEA-EN006",
+      "name" : "Performapal Whip Snake"
+   },
+   {
+      "name" : "Performapal Sword Fish",
+      "set_number" : "DUEA-EN007",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DUEA-EN008",
+      "name" : "Performapal Hip Hippo",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DUEA-EN009",
+      "name" : "Performapal Kaleidoscorp"
+   },
+   {
+      "name" : "Performapal Turn Toad",
+      "set_number" : "DUEA-EN010",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Superheavy Samurai Blue Brawler",
+      "set_number" : "DUEA-EN011",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Superheavy Samurai Swordsman",
+      "set_number" : "DUEA-EN012",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Superheavy Samurai Big Benkei",
+      "set_number" : "DUEA-EN013"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Aria the Melodious Diva",
+      "set_number" : "DUEA-EN014"
+   },
+   {
+      "name" : "Sonata the Melodious Diva",
+      "set_number" : "DUEA-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Mozarta the Melodious Maestra",
+      "set_number" : "DUEA-EN016"
+   },
+   {
+      "name" : "Battleguard King",
+      "set_number" : "DUEA-EN017",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DUEA-EN018",
+      "name" : "Satellarknight Deneb",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "DUEA-EN019",
+      "name" : "Satellarknight Altair",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Satellarknight Vega",
+      "set_number" : "DUEA-EN020",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Satellarknight Alsahm",
+      "set_number" : "DUEA-EN021",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Satellarknight Unukalhai",
+      "set_number" : "DUEA-EN022"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DUEA-EN023",
+      "name" : "Shaddoll Falco"
+   },
+   {
+      "name" : "Shaddoll Hedgehog",
+      "set_number" : "DUEA-EN024",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Shaddoll Squamata",
+      "set_number" : "DUEA-EN025",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DUEA-EN026",
+      "name" : "Shaddoll Dragon",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Shaddoll Beast",
+      "set_number" : "DUEA-EN027",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Suanni, Fire of the Yang Zing",
+      "set_number" : "DUEA-EN028"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DUEA-EN029",
+      "name" : "Bi'an, Earth of the Yang Zing"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Bixi, Water of the Yang Zing",
+      "set_number" : "DUEA-EN030"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Pulao, Wind of the Yang Zing",
+      "set_number" : "DUEA-EN031"
+   },
+   {
+      "set_number" : "DUEA-EN032",
+      "name" : "Chiwen, Light of the Yang Zing",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "DUEA-EN033",
+      "name" : "Artifact Chakram",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Artifact Lancea",
+      "set_number" : "DUEA-EN034",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN035",
+      "name" : "Nefarious Archfiend Eater of Nefariousness"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN036",
+      "name" : "The Agent of Entropy - Uranus"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN037",
+      "name" : "Djinn Demolisher of Rituals"
+   },
+   {
+      "set_number" : "DUEA-EN038",
+      "name" : "Batteryman 9-Volt",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Resonance Insect",
+      "set_number" : "DUEA-EN039"
+   },
+   {
+      "name" : "Breaker the Dark Magical Warrior",
+      "set_number" : "DUEA-EN040",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DUEA-EN041",
+      "name" : "Raiza the Mega Monarch",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Dogu",
+      "set_number" : "DUEA-EN042",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Hypnosister",
+      "set_number" : "DUEA-EN043"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN044",
+      "name" : "Re-Cover"
+   },
+   {
+      "set_number" : "DUEA-EN045",
+      "name" : "Deskbot 001",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Spy-C-Spy",
+      "set_number" : "DUEA-EN046",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DUEA-EN047",
+      "name" : "Wightprince",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DUEA-EN048",
+      "name" : "El Shaddoll Winda",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "El Shaddoll Construct",
+      "set_number" : "DUEA-EN049"
+   },
+   {
+      "set_number" : "DUEA-EN050",
+      "name" : "Saffira, Queen of Dragons",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Secret Rare\nUltimate Rare",
+      "name" : "Baxia, Brightness of the Yang Zing",
+      "set_number" : "DUEA-EN051"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DUEA-EN052",
+      "name" : "Samsara, Dragon of Rebirth"
+   },
+   {
+      "rarity" : "Secret Rare\nUltimate Rare\nGhost Rare",
+      "name" : "Stellarknight Delteros",
+      "set_number" : "DUEA-EN053"
+   },
+   {
+      "name" : "Castel, the Skyblaster Musketeer",
+      "set_number" : "DUEA-EN054",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Hippo Carnival",
+      "set_number" : "DUEA-EN055"
+   },
+   {
+      "set_number" : "DUEA-EN056",
+      "name" : "Feast of the Wild LV5",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Stellarknight Alpha",
+      "set_number" : "DUEA-EN057"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Satellarknight Skybridge",
+      "set_number" : "DUEA-EN058"
+   },
+   {
+      "name" : "Shaddoll Fusion",
+      "set_number" : "DUEA-EN059",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Curse of the Shadow Prison",
+      "set_number" : "DUEA-EN060"
+   },
+   {
+      "name" : "Yang Zing Path",
+      "set_number" : "DUEA-EN061",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Yang Zing Prana",
+      "set_number" : "DUEA-EN062"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN063",
+      "name" : "Hymn of Light"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN064",
+      "name" : "Dracocension"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Magical Spring",
+      "set_number" : "DUEA-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "The Monarchs Stormforth",
+      "set_number" : "DUEA-EN066"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN067",
+      "name" : "Pop-Up"
+   },
+   {
+      "set_number" : "DUEA-EN068",
+      "name" : "Battleguard Rage",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Battleguard Howling",
+      "set_number" : "DUEA-EN069"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN070",
+      "name" : "Stellarnova Wave"
+   },
+   {
+      "set_number" : "DUEA-EN071",
+      "name" : "Stellarnova Alpha",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Sinister Shadow Games",
+      "set_number" : "DUEA-EN072",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Shaddoll Core",
+      "set_number" : "DUEA-EN073",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "DUEA-EN074",
+      "name" : "Yang Zing Creation",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Yang Zing Unleashed",
+      "set_number" : "DUEA-EN075",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chain Dispel",
+      "set_number" : "DUEA-EN076",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "DUEA-EN077",
+      "name" : "Face-Off"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DUEA-EN078",
+      "name" : "Pendulum Back"
+   },
+   {
+      "name" : "Time-Space Trap Hole",
+      "set_number" : "DUEA-EN079",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "DUEA-EN080",
+      "name" : "That Six",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "DUEA-EN081",
+      "name" : "Doomstar Magician"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Scarm, Malebranche of the Burning Abyss",
+      "set_number" : "DUEA-EN082"
+   },
+   {
+      "name" : "Graff, Malebranche of the Burning Abyss",
+      "set_number" : "DUEA-EN083",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DUEA-EN084",
+      "name" : "Cir, Malebranche of the Burning Abyss",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Dante, Traveler of the Burning Abyss",
+      "set_number" : "DUEA-EN085",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "DUEA-EN086",
+      "name" : "The Traveler and the Burning Abyss"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "U.A. Mighty Slugger",
+      "set_number" : "DUEA-EN087"
+   },
+   {
+      "name" : "U.A. Perfect Ace",
+      "set_number" : "DUEA-EN088",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN089",
+      "name" : "U.A. Stadium"
+   },
+   {
+      "name" : "Gaia, the Polar Knight",
+      "set_number" : "DUEA-EN090",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Gaia, the Mid-Knight Sun",
+      "set_number" : "DUEA-EN091",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Chaos Seed",
+      "set_number" : "DUEA-EN092",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DUEA-EN093",
+      "name" : "Exchange of Night and Day",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Number 58: Burner Visor",
+      "set_number" : "DUEA-EN094",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Felis, Lightsworn Archer",
+      "set_number" : "DUEA-EN095",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Fishborg Doctor",
+      "set_number" : "DUEA-EN096",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Panzer Dragon",
+      "set_number" : "DUEA-EN097"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "DUEA-EN098",
+      "name" : "Cloudcastle"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Pilgrim Reaper",
+      "set_number" : "DUEA-EN099"
+   }
+]
