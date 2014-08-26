@@ -25,6 +25,10 @@ def sort_sets():
 					if(set_name.startswith(i)):
 						set_objects[set_name] = GS.Gold_Series()
 
+				for i in BP.Battle_Pack.sets:
+					if(set_name.startswith(i)):
+						set_objects[set_name] = BP.Battle_Pack()
+
 				data = json.load(json_data)
 				for x in data:
 					if '\n' in x['rarity'] :
