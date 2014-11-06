@@ -1,0 +1,502 @@
+[
+   {
+      "set_number" : "NECH-EN000",
+      "name" : "Lancephorhynchus",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Performapal Cheermole",
+      "set_number" : "NECH-EN001"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "NECH-EN002",
+      "name" : "Performapal Trampolynx"
+   },
+   {
+      "name" : "Block Spider",
+      "set_number" : "NECH-EN003",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN004",
+      "name" : "Canon the Melodious Diva"
+   },
+   {
+      "set_number" : "NECH-EN005",
+      "name" : "Serenade the Melodious Diva",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "NECH-EN006",
+      "name" : "Elegy the Melodious Diva",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Shopina the Melodious Maestra",
+      "set_number" : "NECH-EN007"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Superheavy Samurai Kabuto",
+      "set_number" : "NECH-EN008"
+   },
+   {
+      "set_number" : "NECH-EN009",
+      "name" : "Superheavy Samurai Scales",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN010",
+      "name" : "Superheavy Samurai Soulfire Suit"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN011",
+      "name" : "Superheavy Samurai Soulshield Wall"
+   },
+   {
+      "set_number" : "NECH-EN012",
+      "name" : "Superheavy Samurai Soulbreaker Armor",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "NECH-EN013",
+      "name" : "Superheavy Samurai Soulbang Cannon",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Edge Imp Sabres",
+      "set_number" : "NECH-EN014",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NECH-EN015",
+      "name" : "Fluffal Leo",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN016",
+      "name" : "Fluffal Bear"
+   },
+   {
+      "name" : "Fluffal Dog",
+      "set_number" : "NECH-EN017",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "NECH-EN018",
+      "name" : "Fluffal Owl",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN019",
+      "name" : "Fluffal Cat"
+   },
+   {
+      "set_number" : "NECH-EN020",
+      "name" : "Fluffal Rabbit",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Qliphort Scout",
+      "set_number" : "NECH-EN021"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NECH-EN022",
+      "name" : "Qliphort Carrier"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Qliphort Helix",
+      "set_number" : "NECH-EN023"
+   },
+   {
+      "set_number" : "NECH-EN024",
+      "name" : "Qliphort Disk",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "NECH-EN025",
+      "name" : "Qliphort Shell"
+   },
+   {
+      "name" : "Apoqliphort Towers",
+      "set_number" : "NECH-EN026",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "NECH-EN027",
+      "name" : "Satellarknight Sirius"
+   },
+   {
+      "set_number" : "NECH-EN028",
+      "name" : "Satellarknight Procyon",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Satellarknight Betelgeuse",
+      "set_number" : "NECH-EN029",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Shaddoll Hound",
+      "set_number" : "NECH-EN030",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Taotie, Shadow of the Yang Zing",
+      "set_number" : "NECH-EN031",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Jiaotu, Darkness of the Yang Zing",
+      "set_number" : "NECH-EN032",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Lindbloom",
+      "set_number" : "NECH-EN033",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Night Dragolich",
+      "set_number" : "NECH-EN034"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Unmasked Dragon",
+      "set_number" : "NECH-EN035"
+   },
+   {
+      "name" : "Machina Megaform",
+      "set_number" : "NECH-EN036",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Zaborg the Mega Monarch",
+      "set_number" : "NECH-EN037",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN038",
+      "name" : "Valerifawn, Mystical Beast of the Forest"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Rescue Hamster",
+      "set_number" : "NECH-EN039"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN040",
+      "name" : "Watch Dog"
+   },
+   {
+      "name" : "Denko Sekka",
+      "set_number" : "NECH-EN041",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "NECH-EN042",
+      "name" : "Deskbot 002",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "NECH-EN043",
+      "name" : "Ms. Judge",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "NECH-EN044",
+      "name" : "Scrounging Goblin",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Herald of Ultimateness",
+      "set_number" : "NECH-EN045"
+   },
+   {
+      "name" : "Frightfur Bear",
+      "set_number" : "NECH-EN046",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Frightfur Wolf",
+      "set_number" : "NECH-EN047"
+   },
+   {
+      "name" : "El Shaddoll Grysta",
+      "set_number" : "NECH-EN048",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "El Shaddoll Shekhinaga",
+      "set_number" : "NECH-EN049",
+      "rarity" : "Secret Rare\nUltimate Rare"
+   },
+   {
+      "name" : "First of the Dragons",
+      "set_number" : "NECH-EN050",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare\nUltimate Rare",
+      "set_number" : "NECH-EN051",
+      "name" : "Yazi, Evil of the Yang Zing"
+   },
+   {
+      "name" : "Herald of the Arc Light",
+      "set_number" : "NECH-EN052",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "NECH-EN053",
+      "name" : "Dark Rebellion Xyz Dragon",
+      "rarity" : "Secret Rare\nUltimate Rare\nGhost Rare"
+   },
+   {
+      "set_number" : "NECH-EN054",
+      "name" : "Stellarknight Triverr",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "NECH-EN055",
+      "name" : "Wonder Balloons",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Mimiclay",
+      "set_number" : "NECH-EN056",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Draw Muscle",
+      "set_number" : "NECH-EN057",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN058",
+      "name" : "Magical Star Illusion"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "1st Movement Solo",
+      "set_number" : "NECH-EN059"
+   },
+   {
+      "set_number" : "NECH-EN060",
+      "name" : "Toy Vendor",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Saqlifice",
+      "set_number" : "NECH-EN061",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN062",
+      "name" : "Laser Qlip"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN063",
+      "name" : "Hexatellarknight"
+   },
+   {
+      "set_number" : "NECH-EN064",
+      "name" : "El Shaddoll Fusion",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Celestia",
+      "set_number" : "NECH-EN065",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN066",
+      "name" : "Oracle of the Herald"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Strike of the Monarchs",
+      "set_number" : "NECH-EN067"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN068",
+      "name" : "Cursed Bamboo Sword"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN069",
+      "name" : "Command Performance"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN070",
+      "name" : "Performapal Revival"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Punch-in-the-Box",
+      "set_number" : "NECH-EN071"
+   },
+   {
+      "name" : "The Phantom Knights of Shadow Veil",
+      "set_number" : "NECH-EN072",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "NECH-EN073",
+      "name" : "Qlimate Change",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN074",
+      "name" : "Qlipper Launch"
+   },
+   {
+      "set_number" : "NECH-EN075",
+      "name" : "Yang Zing Brutality",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "NECH-EN076",
+      "name" : "Naturia Sacred Tree"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "NECH-EN077",
+      "name" : "Oasis of Dragon Souls"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Fusion Reserve",
+      "set_number" : "NECH-EN078"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "NECH-EN079",
+      "name" : "Solemn Scolding"
+   },
+   {
+      "set_number" : "NECH-EN080",
+      "name" : "Different Dimension Encounter",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Fusion Substitute",
+      "set_number" : "NECH-EN081",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "NECH-EN082",
+      "name" : "Rubic, Malebranche of the Burning Abyss"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "NECH-EN083",
+      "name" : "Alich, Malebranche of the Burning Abyss"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "NECH-EN084",
+      "name" : "Calcab, Malebranche of the Burning Abyss"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Virgil, Rock Star of the Burning Abyss",
+      "set_number" : "NECH-EN085"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "NECH-EN086",
+      "name" : "Fire Lake of the Burning Abyss"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "U.A. Midfielder",
+      "set_number" : "NECH-EN087"
+   },
+   {
+      "set_number" : "NECH-EN088",
+      "name" : "U.A. Goalkeeper",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "NECH-EN089",
+      "name" : "U.A. Powered Jersey"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Ruffian Railcar",
+      "set_number" : "NECH-EN090"
+   },
+   {
+      "set_number" : "NECH-EN091",
+      "name" : "SZW - Fenrir Sword",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "NECH-EN092",
+      "name" : "Gogogo Goram",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Dododo Driver",
+      "set_number" : "NECH-EN093",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Xyz Change Tactics",
+      "set_number" : "NECH-EN094",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Number 39: Utopia Beyond",
+      "set_number" : "NECH-EN095",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "CXyz Barian Hope",
+      "set_number" : "NECH-EN096",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Shogi Lance",
+      "set_number" : "NECH-EN097"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Guiding Light",
+      "set_number" : "NECH-EN098"
+   },
+   {
+      "name" : "Number 99: Utopic Dragon",
+      "set_number" : "NECH-EN099",
+      "rarity" : "Secret Rare"
+   }
+]
