@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Dragoons of Draconia",
+      "set_number" : "SECE-EN000",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Performapal Fire Mufflerlion",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN001"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN002",
+      "name" : "Performapal Partnaga"
+   },
+   {
+      "set_number" : "SECE-EN003",
+      "rarity" : "Common",
+      "name" : "Performapal Friendonkey"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN004",
+      "name" : "Performapal Spikeagle"
+   },
+   {
+      "set_number" : "SECE-EN005",
+      "rarity" : "Common",
+      "name" : "Performapal Stamp Turtle"
+   },
+   {
+      "name" : "Performapal Trump Witch",
+      "set_number" : "SECE-EN006",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Superheavy Samurai Flutist",
+      "rarity" : "Super Rare",
+      "set_number" : "SECE-EN007"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SECE-EN008",
+      "name" : "Superheavy Samurai Trumpeter"
+   },
+   {
+      "name" : "Superheavy Samurai Soulpiercer",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN009"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN010",
+      "name" : "Superheavy Samurai Soulbeads"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN011",
+      "name" : "Raidraptor - Vanishing Lanius"
+   },
+   {
+      "name" : "Gem-Knight Lapis",
+      "set_number" : "SECE-EN012",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Infernoid Antra",
+      "rarity" : "Super Rare",
+      "set_number" : "SECE-EN013"
+   },
+   {
+      "name" : "Infernoid Harmadik",
+      "set_number" : "SECE-EN014",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Infernoid Patrulea",
+      "set_number" : "SECE-EN015",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Infernoid Piaty",
+      "set_number" : "SECE-EN016",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Infernoid Seitsemas",
+      "set_number" : "SECE-EN017",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Infernoid Attondel",
+      "set_number" : "SECE-EN018",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SECE-EN019",
+      "rarity" : "Secret Rare\nUltimate Rare",
+      "name" : "Infernoid Onuncu"
+   },
+   {
+      "name" : "Qliphort Monolith",
+      "rarity" : "Secret Rare",
+      "set_number" : "SECE-EN020"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SECE-EN021",
+      "name" : "Qliphort Cephalopod"
+   },
+   {
+      "name" : "Qliphort Stealth",
+      "set_number" : "SECE-EN022",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "SECE-EN023",
+      "name" : "Apoqliphort Skybase"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN024",
+      "name" : "Satellarknight Capella"
+   },
+   {
+      "name" : "Satellarknight Rigel",
+      "set_number" : "SECE-EN025",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN026",
+      "name" : "Yosenju Magat"
+   },
+   {
+      "name" : "Yosenju Tsujik",
+      "set_number" : "SECE-EN027",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SECE-EN028",
+      "rarity" : "Rare",
+      "name" : "Dance Princess of the Nekroz"
+   },
+   {
+      "name" : "Spiritual Beast Rampengu",
+      "set_number" : "SECE-EN029",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SECE-EN030",
+      "rarity" : "Common",
+      "name" : "Morphtronic Smartfon"
+   },
+   {
+      "name" : "Jinzo - Jector",
+      "set_number" : "SECE-EN031",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "SECE-EN032",
+      "rarity" : "Super Rare",
+      "name" : "Skilled Blue Magician"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN033",
+      "name" : "Koa'ki Meiru Overload"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN034",
+      "name" : "Jigabyte"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "SECE-EN035",
+      "name" : "Caius the Mega Monarch"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SECE-EN036",
+      "name" : "Thunderclap Skywolf"
+   },
+   {
+      "name" : "Lightning Rod Lord",
+      "set_number" : "SECE-EN037",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN038",
+      "name" : "Dragon Dowser"
+   },
+   {
+      "name" : "Frontline Observer",
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN039"
+   },
+   {
+      "name" : "Uni-Zombie",
+      "set_number" : "SECE-EN040",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN041",
+      "name" : "Deskbot 003"
+   },
+   {
+      "name" : "Legendary Maju Garzett",
+      "set_number" : "SECE-EN042",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "SECE-EN043",
+      "rarity" : "Short Print",
+      "name" : "Marmiting Captain"
+   },
+   {
+      "rarity" : "Secret Rare\nUltimate Rare",
+      "set_number" : "SECE-EN044",
+      "name" : "Nekroz of Gungnir"
+   },
+   {
+      "name" : "Rune-Eyes Pendulum Dragon",
+      "set_number" : "SECE-EN045",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Gem-Knight Lady Lapis Lazuli",
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN046"
+   },
+   {
+      "name" : "El Shaddoll Wendigo",
+      "set_number" : "SECE-EN047",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Superheavy Samurai Warlord Susanowo",
+      "set_number" : "SECE-EN048",
+      "rarity" : "Super Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "SECE-EN049",
+      "name" : "Metaphys Horus"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN050",
+      "name" : "Raidraptor - Rise Falcon"
+   },
+   {
+      "set_number" : "SECE-EN051",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Stellarknight Constellar Diamond"
+   },
+   {
+      "name" : "Sky Cavalry Centaurea",
+      "set_number" : "SECE-EN052",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Illusion Balloons",
+      "set_number" : "SECE-EN053",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Raidraptor - Nest",
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN054"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN055",
+      "name" : "Constellar Twinkle"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN056",
+      "name" : "Gottoms' Second Call"
+   },
+   {
+      "name" : "Void Seer",
+      "rarity" : "Super Rare",
+      "set_number" : "SECE-EN057"
+   },
+   {
+      "name" : "Void Expansion",
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN058"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "SECE-EN059",
+      "name" : "Nephe Shaddoll Fusion"
+   },
+   {
+      "set_number" : "SECE-EN060",
+      "rarity" : "Rare",
+      "name" : "Nekroz Cycle"
+   },
+   {
+      "name" : "Tenacity of the Monarchs",
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN061"
+   },
+   {
+      "set_number" : "SECE-EN062",
+      "rarity" : "Common",
+      "name" : "Dragunity Divine Lance"
+   },
+   {
+      "name" : "Pot of Riches",
+      "set_number" : "SECE-EN063",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "A Wild Monster Appears!",
+      "set_number" : "SECE-EN064",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Pendulum Shift",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN065"
+   },
+   {
+      "name" : "Extra Net",
+      "rarity" : "Short Print",
+      "set_number" : "SECE-EN066"
+   },
+   {
+      "name" : "Performapal Call",
+      "set_number" : "SECE-EN067",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN068",
+      "name" : "Wall of Disruption"
+   },
+   {
+      "set_number" : "SECE-EN069",
+      "rarity" : "Common",
+      "name" : "Last Minute Cancel"
+   },
+   {
+      "set_number" : "SECE-EN070",
+      "rarity" : "Common",
+      "name" : "Raidraptor - Readiness"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "SECE-EN071",
+      "name" : "Eye of the Void"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "SECE-EN072",
+      "name" : "Void Launch"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "SECE-EN073",
+      "name" : "Re-qliate"
+   },
+   {
+      "name" : "Ritual Beast Ambush",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN074"
+   },
+   {
+      "name" : "Zenmaiday",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN075"
+   },
+   {
+      "name" : "Unpossessed",
+      "set_number" : "SECE-EN076",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Blaze Accelerator Reload",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN077"
+   },
+   {
+      "set_number" : "SECE-EN078",
+      "rarity" : "Secret Rare",
+      "name" : "Soul Transition"
+   },
+   {
+      "name" : "Echo Oscillation",
+      "set_number" : "SECE-EN079",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Double Trap Hole",
+      "set_number" : "SECE-EN080",
+      "rarity" : "Short Print"
+   },
+   {
+      "name" : "Mischief of the Gnomes",
+      "set_number" : "SECE-EN081",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "SECE-EN082",
+      "rarity" : "Rare",
+      "name" : "Farfa, Malebranche of the Burning Abyss"
+   },
+   {
+      "set_number" : "SECE-EN083",
+      "rarity" : "Rare",
+      "name" : "Libic, Malebranche of the Burning Abyss"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN084",
+      "name" : "Cagna, Malebranche of the Burning Abyss"
+   },
+   {
+      "name" : "Malacoda, Netherlord of the Burning Abyss",
+      "rarity" : "Secret Rare\nGhost Rare",
+      "set_number" : "SECE-EN085"
+   },
+   {
+      "name" : "Good & Evil in the Burning Abyss",
+      "set_number" : "SECE-EN086",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN087",
+      "name" : "U.A. Playmaker"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "SECE-EN088",
+      "name" : "U.A. Blockbacker"
+   },
+   {
+      "name" : "U.A. Turnover Tactics",
+      "set_number" : "SECE-EN089",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Gogogo Golem - Golden Form",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN090"
+   },
+   {
+      "set_number" : "SECE-EN091",
+      "rarity" : "Common",
+      "name" : "Dododo Witch"
+   },
+   {
+      "set_number" : "SECE-EN092",
+      "rarity" : "Common",
+      "name" : "Dododo Swordsman"
+   },
+   {
+      "set_number" : "SECE-EN093",
+      "rarity" : "Common",
+      "name" : "Toy Knight"
+   },
+   {
+      "set_number" : "SECE-EN094",
+      "rarity" : "Common",
+      "name" : "Explossum"
+   },
+   {
+      "name" : "Swordsman of Revealing Light",
+      "set_number" : "SECE-EN095",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Doggy Diver",
+      "set_number" : "SECE-EN096",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Level Lifter",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN097"
+   },
+   {
+      "name" : "Gogogo Talisman",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN098"
+   },
+   {
+      "name" : "Soul Strike",
+      "rarity" : "Common",
+      "set_number" : "SECE-EN099"
+   }
+]

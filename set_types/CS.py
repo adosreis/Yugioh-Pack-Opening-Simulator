@@ -11,7 +11,7 @@ class Core_Set:
 			"LODT", "TDGS", "CSOC", "CRMS", "RGBT", "ANPR", "SOVR", "ABPF",
 			"TSHD", "DREV", "STBL", "STOR", "EXVC", "GENF", "PHSW", "ORCS",
 			"GAOV", "REDU", "ABYR", "CBLZ", "LTGY", "JOTL", "SHSP", "LVAL",
-			"PRIO", "DUEA", "NECH"] 
+			"PRIO", "DUEA", "NECH", "SECE" ] 
 
 	#Create the empty arrays:
 	def __init__(self):
