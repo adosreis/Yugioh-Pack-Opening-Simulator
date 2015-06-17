@@ -1,0 +1,302 @@
+[
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Mayosenju Daibak",
+      "set_number" : "THSF-EN001"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Yosenju Misak",
+      "set_number" : "THSF-EN002"
+   },
+   {
+      "set_number" : "THSF-EN003",
+      "name" : "Yosenju Kama 1",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "THSF-EN004",
+      "name" : "Yosenju Kama 2"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Yosenju Kama 3",
+      "set_number" : "THSF-EN005"
+   },
+   {
+      "set_number" : "THSF-EN006",
+      "name" : "Yosenju Shinchu L",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Yosenju Shinchu R",
+      "set_number" : "THSF-EN007",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Yosen Training Grounds",
+      "set_number" : "THSF-EN008",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "THSF-EN009",
+      "name" : "Yosenjus' Secret Move",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "THSF-EN010",
+      "name" : "Shurit, Strategist of the Nekroz",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Great Sorcerer of the Nekroz",
+      "set_number" : "THSF-EN011",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Exa, Enforcer of the Nekroz",
+      "set_number" : "THSF-EN012",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Nekroz of Clausolas",
+      "set_number" : "THSF-EN013",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Nekroz of Brionac",
+      "set_number" : "THSF-EN014"
+   },
+   {
+      "set_number" : "THSF-EN015",
+      "name" : "Nekroz of Trishula",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "THSF-EN016",
+      "name" : "Nekroz of Unicore"
+   },
+   {
+      "set_number" : "THSF-EN017",
+      "name" : "Nekroz of Valkyrus",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Nekroz of Catastor",
+      "set_number" : "THSF-EN018"
+   },
+   {
+      "name" : "Nekroz of Decisive Armor",
+      "set_number" : "THSF-EN019",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Nekroz Mirror",
+      "set_number" : "THSF-EN020",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Nekroz Kaleidoscope",
+      "set_number" : "THSF-EN021"
+   },
+   {
+      "set_number" : "THSF-EN022",
+      "name" : "Ritual Beast Tamer Lara",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "THSF-EN023",
+      "name" : "Ritual Beast Tamer Elder",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "name" : "Ritual Beast Tamer Wen",
+      "set_number" : "THSF-EN024",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "THSF-EN025",
+      "name" : "Spiritual Beast Apelio",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Spiritual Beast Pettlephin",
+      "set_number" : "THSF-EN026",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Spiritual Beast Cannahawk",
+      "set_number" : "THSF-EN027",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "THSF-EN028",
+      "name" : "Ritual Beast Ulti-Apelio"
+   },
+   {
+      "name" : "Ritual Beast Ulti-Pettlephin",
+      "set_number" : "THSF-EN029",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "THSF-EN030",
+      "name" : "Ritual Beast Ulti-Cannahawk"
+   },
+   {
+      "name" : "Ritual Beast's Bond",
+      "set_number" : "THSF-EN031",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN032",
+      "name" : "Ritual Beast Steeds"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN033",
+      "name" : "Manju of the Ten Thousand Hands"
+   },
+   {
+      "name" : "Necro Gardna",
+      "set_number" : "THSF-EN034",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN035",
+      "name" : "Armageddon Knight"
+   },
+   {
+      "set_number" : "THSF-EN036",
+      "name" : "Djinn Releaser of Rituals",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Djinn Presider of Rituals",
+      "set_number" : "THSF-EN037"
+   },
+   {
+      "name" : "Djinn Cursenchanter of Rituals",
+      "set_number" : "THSF-EN038",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN039",
+      "name" : "Djinn Prognosticator of Rituals"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Djinn Disserere of Rituals",
+      "set_number" : "THSF-EN040"
+   },
+   {
+      "name" : "Gishki Chain",
+      "set_number" : "THSF-EN041",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "THSF-EN042",
+      "name" : "Gishki Shadow",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Gishki Noellia",
+      "set_number" : "THSF-EN043"
+   },
+   {
+      "name" : "Cardcar D",
+      "set_number" : "THSF-EN044",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN045",
+      "name" : "Gishki Vision"
+   },
+   {
+      "set_number" : "THSF-EN046",
+      "name" : "Altitude Knight",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Abyss Dweller",
+      "set_number" : "THSF-EN047",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Soul Release",
+      "set_number" : "THSF-EN048",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Soul Absorption",
+      "set_number" : "THSF-EN049",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Ritual Weapon",
+      "set_number" : "THSF-EN050",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN051",
+      "name" : "Burial from a Different Dimension"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Advanced Ritual Art",
+      "set_number" : "THSF-EN052"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN053",
+      "name" : "Preparation of Rites"
+   },
+   {
+      "set_number" : "THSF-EN054",
+      "name" : "Ascending Soul",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "THSF-EN055",
+      "name" : "Ritual Cage"
+   },
+   {
+      "name" : "Divine Wind of Mist Valley",
+      "set_number" : "THSF-EN056",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Fire Formation - Tenki",
+      "set_number" : "THSF-EN057",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "THSF-EN058",
+      "name" : "Royal Decree",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vanity's Emptiness",
+      "set_number" : "THSF-EN059"
+   },
+   {
+      "name" : "Aquamirror Cycle",
+      "set_number" : "THSF-EN060",
+      "rarity" : "Super Rare"
+   }
+]

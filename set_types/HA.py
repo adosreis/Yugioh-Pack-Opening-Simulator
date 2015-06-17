@@ -4,7 +4,7 @@ import random
 class Hidden_Arsenal_Like:
 	#The sets that are considered Hidden Arsenal like:
 	sets = ["HA01", "HA02", "HA03", "HA04", "HA05", "HA06", "HA07", "NUMH",
-			"DRLG"]
+			"DRLG", "THSF"]
 
 	#Create the empty arrays:
 	def __init__(self):
