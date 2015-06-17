@@ -1,0 +1,502 @@
+[
+   {
+      "set_number" : "CROS-EN000",
+      "rarity" : "Rare",
+      "name" : "Sea Dragoons of Draconia"
+   },
+   {
+      "set_number" : "CROS-EN001",
+      "name" : "Phantom Gryphon",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "CROS-EN002",
+      "rarity" : "Rare",
+      "name" : "Performapal Elephammer"
+   },
+   {
+      "set_number" : "CROS-EN003",
+      "name" : "Performapal Bowhopper",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Performapal Lizardraw",
+      "rarity" : "Common",
+      "set_number" : "CROS-EN004"
+   },
+   {
+      "set_number" : "CROS-EN005",
+      "name" : "Performapal Springoose",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN006",
+      "name" : "Superheavy Samurai Big Waraji",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Superheavy Samurai Gigagloves",
+      "rarity" : "Common",
+      "set_number" : "CROS-EN007"
+   },
+   {
+      "set_number" : "CROS-EN008",
+      "name" : "Superheavy Samurai Battleball",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "CROS-EN009",
+      "rarity" : "Common",
+      "name" : "Superheavy Samurai Soulbuster Gauntlet"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Soprano the Melodious Songstress",
+      "set_number" : "CROS-EN010"
+   },
+   {
+      "set_number" : "CROS-EN011",
+      "name" : "Fluffal Sheep",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN012",
+      "rarity" : "Common",
+      "name" : "Edge Imp Saw"
+   },
+   {
+      "set_number" : "CROS-EN013",
+      "name" : "Edge Imp Chain",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN014",
+      "rarity" : "Rare",
+      "name" : "Edge Imp Tomahawk"
+   },
+   {
+      "set_number" : "CROS-EN015",
+      "rarity" : "Common",
+      "name" : "Edge Imp Frightfuloid"
+   },
+   {
+      "set_number" : "CROS-EN016",
+      "name" : "Raidraptor - Sharp Lanius",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN017",
+      "rarity" : "Common",
+      "name" : "Raidraptor - Mimicry Lanius"
+   },
+   {
+      "set_number" : "CROS-EN018",
+      "rarity" : "Common",
+      "name" : "Yosenju Kodam"
+   },
+   {
+      "set_number" : "CROS-EN019",
+      "name" : "Yosenju Oyam",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CROS-EN020",
+      "name" : "Satellarknight Zefrathuban",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Stellarknight Zefraxciton",
+      "set_number" : "CROS-EN021"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Shaddoll Zefranaga",
+      "set_number" : "CROS-EN022"
+   },
+   {
+      "set_number" : "CROS-EN023",
+      "name" : "Shaddoll Zefracore",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Zefraxi, Treasure of the Yang Zing",
+      "rarity" : "Ultra Rare",
+      "set_number" : "CROS-EN024"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Zefraniu, Secret of the Yang Zing",
+      "set_number" : "CROS-EN025"
+   },
+   {
+      "set_number" : "CROS-EN026",
+      "name" : "Zefrasaber, Swordmaster of the Nekroz",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN027",
+      "name" : "Zefraxa, Flame Beast of the Nekroz",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN028",
+      "rarity" : "Common",
+      "name" : "Ritual Beast Tamer Zeframpilica"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Ritual Beast Tamer Zefrawendi",
+      "set_number" : "CROS-EN029"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Infernoid Pirmais",
+      "set_number" : "CROS-EN030"
+   },
+   {
+      "name" : "Infernoid Sjette",
+      "rarity" : "Common",
+      "set_number" : "CROS-EN031"
+   },
+   {
+      "set_number" : "CROS-EN032",
+      "rarity" : "Ultra Rare",
+      "name" : "Infernoid Devyaty"
+   },
+   {
+      "set_number" : "CROS-EN033",
+      "rarity" : "Secret Rare",
+      "name" : "Ghost Ogre & Snow Rabbit"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Magma Dragon",
+      "set_number" : "CROS-EN034"
+   },
+   {
+      "set_number" : "CROS-EN035",
+      "rarity" : "Common",
+      "name" : "Deskbot 004"
+   },
+   {
+      "set_number" : "CROS-EN036",
+      "rarity" : "Common",
+      "name" : "Doomdog Octhros"
+   },
+   {
+      "name" : "Putrid Pudding Body Buddies",
+      "rarity" : "Short Print",
+      "set_number" : "CROS-EN037"
+   },
+   {
+      "rarity" : "Secret Rare\nUltimate Rare",
+      "name" : "Nekroz of Sophia",
+      "set_number" : "CROS-EN038"
+   },
+   {
+      "set_number" : "CROS-EN039",
+      "rarity" : "Rare",
+      "name" : "Schuberta the Melodious Maestra"
+   },
+   {
+      "set_number" : "CROS-EN040",
+      "rarity" : "Ultra Rare",
+      "name" : "Bloom Diva the Melodious Choir"
+   },
+   {
+      "set_number" : "CROS-EN041",
+      "rarity" : "Super Rare",
+      "name" : "Frightfur Leo"
+   },
+   {
+      "name" : "Frightfur Sheep",
+      "rarity" : "Super Rare",
+      "set_number" : "CROS-EN042"
+   },
+   {
+      "set_number" : "CROS-EN043",
+      "name" : "Frightfur Chimera",
+      "rarity" : "Rare\nUltimate Rare"
+   },
+   {
+      "set_number" : "CROS-EN044",
+      "name" : "El Shaddoll Anoyatyllis",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "CROS-EN045",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Ritual Beast Ulti-Gaiapelio"
+   },
+   {
+      "rarity" : "Secret Rare\nUltimate Rare\nGhost Rare",
+      "name" : "Clear Wing Synchro Dragon",
+      "set_number" : "CROS-EN046"
+   },
+   {
+      "name" : "Chaofeng, Phantom of the Yang Zing",
+      "rarity" : "Super Rare",
+      "set_number" : "CROS-EN047"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Raidraptor - Blaze Falcon",
+      "set_number" : "CROS-EN048"
+   },
+   {
+      "name" : "Raidraptor - Revolution Falcon",
+      "rarity" : "Rare",
+      "set_number" : "CROS-EN049"
+   },
+   {
+      "name" : "Tellarknight Ptolemaeus",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "set_number" : "CROS-EN050"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Madolche Puddingcess Chocolat-a-la-Mode",
+      "set_number" : "CROS-EN051"
+   },
+   {
+      "name" : "Performapal Recasting",
+      "rarity" : "Common",
+      "set_number" : "CROS-EN052"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Fusion Conscription",
+      "set_number" : "CROS-EN053"
+   },
+   {
+      "set_number" : "CROS-EN054",
+      "rarity" : "Common",
+      "name" : "Frightfur Factory"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Suture Rebirth",
+      "set_number" : "CROS-EN055"
+   },
+   {
+      "set_number" : "CROS-EN056",
+      "rarity" : "Rare",
+      "name" : "Frightfur Fusion"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Rank-Up-Magic Revolution Force",
+      "set_number" : "CROS-EN057"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Yosen Whirlwind",
+      "set_number" : "CROS-EN058"
+   },
+   {
+      "set_number" : "CROS-EN059",
+      "rarity" : "Common",
+      "name" : "Zefra Path"
+   },
+   {
+      "set_number" : "CROS-EN060",
+      "name" : "Oracle of Zefra",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Void Vanishment",
+      "set_number" : "CROS-EN061"
+   },
+   {
+      "set_number" : "CROS-EN062",
+      "rarity" : "Secret Rare",
+      "name" : "Galaxy Cyclone"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Harmonic Oscillation",
+      "set_number" : "CROS-EN063"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Pendulum Rising",
+      "set_number" : "CROS-EN064"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Unexpected Dai",
+      "set_number" : "CROS-EN065"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Performapal Pinch Helper",
+      "set_number" : "CROS-EN066"
+   },
+   {
+      "set_number" : "CROS-EN067",
+      "name" : "Melodious Illusion",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CROS-EN068",
+      "name" : "Fluffal Crane",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN069",
+      "rarity" : "Common",
+      "name" : "Designer Frightfur"
+   },
+   {
+      "set_number" : "CROS-EN070",
+      "name" : "Dizzying Winds of Yosen Village",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Chosen of Zefra",
+      "set_number" : "CROS-EN071"
+   },
+   {
+      "set_number" : "CROS-EN072",
+      "rarity" : "Super Rare",
+      "name" : "Zefra Divine Strike"
+   },
+   {
+      "name" : "Void Purification",
+      "rarity" : "Rare",
+      "set_number" : "CROS-EN073"
+   },
+   {
+      "set_number" : "CROS-EN074",
+      "rarity" : "Secret Rare",
+      "name" : "Jar of Avarice"
+   },
+   {
+      "set_number" : "CROS-EN075",
+      "rarity" : "Ultra Rare",
+      "name" : "Lose 1 Turn"
+   },
+   {
+      "set_number" : "CROS-EN076",
+      "rarity" : "Common",
+      "name" : "Fiend Griefing"
+   },
+   {
+      "set_number" : "CROS-EN077",
+      "rarity" : "Common",
+      "name" : "Abyss Stungray"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Statue of Anguish Pattern",
+      "set_number" : "CROS-EN078"
+   },
+   {
+      "set_number" : "CROS-EN079",
+      "name" : "Monster Rebone",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Diceversity",
+      "rarity" : "Short Print",
+      "set_number" : "CROS-EN080"
+   },
+   {
+      "set_number" : "CROS-EN081",
+      "rarity" : "Rare",
+      "name" : "Moon Mirror Shield"
+   },
+   {
+      "name" : "Draghig, Malebranche of the Burning Abyss",
+      "rarity" : "Super Rare",
+      "set_number" : "CROS-EN082"
+   },
+   {
+      "name" : "Barbar, Malebranche of the Burning Abyss",
+      "rarity" : "Rare",
+      "set_number" : "CROS-EN083"
+   },
+   {
+      "name" : "Dante, Pilgrim of the Burning Abyss",
+      "rarity" : "Secret Rare",
+      "set_number" : "CROS-EN084"
+   },
+   {
+      "set_number" : "CROS-EN085",
+      "rarity" : "Ultra Rare",
+      "name" : "The Terminus of the Burning Abyss"
+   },
+   {
+      "name" : "U.A. Dreadnought Dunker",
+      "rarity" : "Common",
+      "set_number" : "CROS-EN086"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "U.A. Rival Rebounder",
+      "set_number" : "CROS-EN087"
+   },
+   {
+      "name" : "U.A. Signing Deal",
+      "rarity" : "Common",
+      "set_number" : "CROS-EN088"
+   },
+   {
+      "set_number" : "CROS-EN089",
+      "name" : "U.A. Penalty Box",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN090",
+      "rarity" : "Common",
+      "name" : "Half Unbreak"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "The Melody of Awakening Dragon",
+      "set_number" : "CROS-EN091"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Cybernetic Fusion Support",
+      "set_number" : "CROS-EN092"
+   },
+   {
+      "set_number" : "CROS-EN093",
+      "name" : "Powerful Rebirth",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "CROS-EN094",
+      "name" : "Number S39: Utopia Prime",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Galaxy-Eyes Full Armor Photon Dragon",
+      "set_number" : "CROS-EN095"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Performapal Thunderhino",
+      "set_number" : "CROS-EN096"
+   },
+   {
+      "set_number" : "CROS-EN097",
+      "name" : "Primitive Butterfly",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CROS-EN098",
+      "name" : "Junk Anchor",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CROS-EN099",
+      "name" : "Harpie Harpist",
+      "rarity" : "Super Rare"
+   }
+]
