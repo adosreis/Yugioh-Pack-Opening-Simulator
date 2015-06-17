@@ -4,7 +4,7 @@ import random
 class Hidden_Arsenal_Like:
 	#The sets that are considered Hidden Arsenal like:
 	sets = ["HA01", "HA02", "HA03", "HA04", "HA05", "HA06", "HA07", "NUMH",
-			"DRLG", "THSF"]
+			"DRLG", "THSF", "WSUP"]
 
 	#Create the empty arrays:
 	def __init__(self):
@@ -15,7 +15,7 @@ class Hidden_Arsenal_Like:
 	def add_card(self, rarity, cardname):
 		if(rarity == "Super Rare"):
 			self.supers.append(cardname)
-		if(rarity == "Secret Rare"):
+		if(rarity.find("Secret Rare") != -1):
 			self.secret.append(cardname)
 
 	#Shuffles all the rarities in one simple call:
