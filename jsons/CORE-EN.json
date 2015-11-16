@@ -1,0 +1,502 @@
+[
+   {
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN000",
+      "name" : "Sky Dragoons of Draconia"
+   },
+   {
+      "set_number" : "CORE-EN001",
+      "rarity" : "Common",
+      "name" : "Mystery Shell Dragon"
+   },
+   {
+      "name" : "Risebell the Summoner",
+      "set_number" : "CORE-EN002",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "CORE-EN003",
+      "rarity" : "Super Rare",
+      "name" : "Xiangke Magician"
+   },
+   {
+      "name" : "Xiangsheng Magician",
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN004"
+   },
+   {
+      "name" : "Performapal Camelump",
+      "rarity" : "Common",
+      "set_number" : "CORE-EN005"
+   },
+   {
+      "name" : "Performapal Drummerilla",
+      "set_number" : "CORE-EN006",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Superheavy Samurai Blowtorch",
+      "set_number" : "CORE-EN007",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Opera the Melodious Diva",
+      "set_number" : "CORE-EN008",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Tamtam the Melodious Diva",
+      "set_number" : "CORE-EN009",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN010",
+      "name" : "Fluffal Mouse"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN011",
+      "name" : "D/D Pandora"
+   },
+   {
+      "name" : "Crystal Rose",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN012"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN013",
+      "name" : "Raidraptor - Fuzzy Lanius"
+   },
+   {
+      "name" : "Raidraptor - Singing Lanius",
+      "rarity" : "Common",
+      "set_number" : "CORE-EN014"
+   },
+   {
+      "name" : "Performage Damage Juggler",
+      "set_number" : "CORE-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Performage Flame Eater",
+      "set_number" : "CORE-EN016",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN017",
+      "name" : "Performage Hat Tricker"
+   },
+   {
+      "name" : "Performage Trick Clown",
+      "rarity" : "Common",
+      "set_number" : "CORE-EN018"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN019",
+      "name" : "Performage Stilts Launcher"
+   },
+   {
+      "set_number" : "CORE-EN020",
+      "rarity" : "Super Rare",
+      "name" : "Red-Eyes Black Flare Dragon"
+   },
+   {
+      "name" : "The Black Stone of Legend",
+      "rarity" : "Secret Rare",
+      "set_number" : "CORE-EN021"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN022",
+      "name" : "Black Metal Dragon"
+   },
+   {
+      "name" : "Red-Eyes Archfiend of Lightning",
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN023"
+   },
+   {
+      "name" : "Keeper of the Shrine",
+      "set_number" : "CORE-EN024",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN025",
+      "name" : "Luster Pendulum, the Dracoslayer"
+   },
+   {
+      "set_number" : "CORE-EN026",
+      "rarity" : "Common",
+      "name" : "Igknight Squire"
+   },
+   {
+      "set_number" : "CORE-EN027",
+      "rarity" : "Super Rare",
+      "name" : "Igknight Crusader"
+   },
+   {
+      "name" : "Igknight Templar",
+      "set_number" : "CORE-EN028",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN029",
+      "name" : "Igknight Paladin"
+   },
+   {
+      "name" : "Igknight Margrave",
+      "set_number" : "CORE-EN030",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CORE-EN031",
+      "rarity" : "Common",
+      "name" : "Igknight Gallant"
+   },
+   {
+      "set_number" : "CORE-EN032",
+      "rarity" : "Rare",
+      "name" : "Igknight Lancer"
+   },
+   {
+      "name" : "Igknight Champion",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN033"
+   },
+   {
+      "name" : "Aromage Jasmine",
+      "rarity" : "Secret Rare",
+      "set_number" : "CORE-EN034"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN035",
+      "name" : "Aromage Cananga"
+   },
+   {
+      "name" : "Aromage Rosemary",
+      "rarity" : "Ultra Rare",
+      "set_number" : "CORE-EN036"
+   },
+   {
+      "name" : "Aromage Bergamot",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN037"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN038",
+      "name" : "Aroma Jar"
+   },
+   {
+      "name" : "Infernoid Decatron",
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN039"
+   },
+   {
+      "name" : "Bird of Paradise Lost",
+      "set_number" : "CORE-EN040",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Magical Abductor",
+      "set_number" : "CORE-EN041",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CORE-EN042",
+      "rarity" : "Secret Rare",
+      "name" : "Archfiend Eccentrick"
+   },
+   {
+      "name" : "Toon Cyber Dragon",
+      "set_number" : "CORE-EN043",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Deskbot 005",
+      "set_number" : "CORE-EN044",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "CORE-EN045",
+      "rarity" : "Short Print",
+      "name" : "Retaliating \"C\""
+   },
+   {
+      "name" : "D/D/D Oracle King d'Arc",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN046"
+   },
+   {
+      "name" : "Gem-Knight Lady Brilliant Diamond",
+      "rarity" : "Ultra Rare",
+      "set_number" : "CORE-EN047"
+   },
+   {
+      "set_number" : "CORE-EN048",
+      "rarity" : "Ultra Rare\nUltimate Rare",
+      "name" : "Archfiend Black Skull Dragon"
+   },
+   {
+      "name" : "Infernoid Tierra",
+      "set_number" : "CORE-EN049",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Ignister Prominence, the Blasting Dracoslayer",
+      "set_number" : "CORE-EN050",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Odd-Eyes Rebellion Dragon",
+      "rarity" : "Secret Rare\nUltimate Rare",
+      "set_number" : "CORE-EN051"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN052",
+      "name" : "D/D/D Marksman King Tell"
+   },
+   {
+      "set_number" : "CORE-EN053",
+      "rarity" : "Rare",
+      "name" : "Performage Trapeze Magician"
+   },
+   {
+      "set_number" : "CORE-EN054",
+      "rarity" : "Secret Rare\nUltimate Rare\nGhost Rare",
+      "name" : "Red-Eyes Flare Metal Dragon"
+   },
+   {
+      "name" : "Pianissimo",
+      "rarity" : "Common",
+      "set_number" : "CORE-EN055"
+   },
+   {
+      "name" : "Brilliant Fusion",
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN056"
+   },
+   {
+      "set_number" : "CORE-EN057",
+      "rarity" : "Common",
+      "name" : "Rank-Up-Magic Raptor's Force"
+   },
+   {
+      "name" : "Bubble Barrier",
+      "rarity" : "Common",
+      "set_number" : "CORE-EN058"
+   },
+   {
+      "name" : "Red-Eyes Fusion",
+      "set_number" : "CORE-EN059",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Cards of the Red Stone",
+      "set_number" : "CORE-EN060",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Ignition Phoenix",
+      "rarity" : "Common",
+      "set_number" : "CORE-EN061"
+   },
+   {
+      "set_number" : "CORE-EN062",
+      "rarity" : "Common",
+      "name" : "Aroma Garden"
+   },
+   {
+      "name" : "Void Imagination",
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN063"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN064",
+      "name" : "Back-Up Rider"
+   },
+   {
+      "set_number" : "CORE-EN065",
+      "rarity" : "Secret Rare",
+      "name" : "Mistaken Arrest"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN066",
+      "name" : "Wavering Eyes"
+   },
+   {
+      "name" : "Chicken Game",
+      "rarity" : "Short Print",
+      "set_number" : "CORE-EN067"
+   },
+   {
+      "name" : "Brilliant Spark",
+      "set_number" : "CORE-EN068",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN069",
+      "name" : "Raidraptor - Return"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN070",
+      "name" : "Raptor's Gust"
+   },
+   {
+      "name" : "Trick Box",
+      "set_number" : "CORE-EN071",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN072",
+      "name" : "Return of the Red-Eyes"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN073",
+      "name" : "Igknight Burst"
+   },
+   {
+      "name" : "Humid Winds",
+      "set_number" : "CORE-EN074",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Dried Winds",
+      "rarity" : "Super Rare",
+      "set_number" : "CORE-EN075"
+   },
+   {
+      "name" : "Storming Mirror Force",
+      "rarity" : "Secret Rare",
+      "set_number" : "CORE-EN076"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN077",
+      "name" : "Ferret Flames"
+   },
+   {
+      "name" : "Balance of Judgment",
+      "rarity" : "Common",
+      "set_number" : "CORE-EN078"
+   },
+   {
+      "name" : "Extra Buck",
+      "set_number" : "CORE-EN079",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "CORE-EN080",
+      "rarity" : "Short Print",
+      "name" : "Side Effects?"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN081",
+      "name" : "Extinction on Schedule"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "CORE-EN082",
+      "name" : "Kozmo Farmgirl"
+   },
+   {
+      "set_number" : "CORE-EN083",
+      "rarity" : "Super Rare",
+      "name" : "Kozmo Goodwitch"
+   },
+   {
+      "name" : "Kozmo Sliprider",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN084"
+   },
+   {
+      "name" : "Kozmo Forerunner",
+      "set_number" : "CORE-EN085",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Kozmotown",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN086"
+   },
+   {
+      "name" : "Dogoran, the Mad Flame Kaiju",
+      "set_number" : "CORE-EN087",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Kumongous, the Sticky String Kaiju",
+      "set_number" : "CORE-EN088",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Kyoutou Waterfront",
+      "set_number" : "CORE-EN089",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN090",
+      "name" : "Performapal Silver Claw"
+   },
+   {
+      "name" : "Escher the Frost Vassal",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN091"
+   },
+   {
+      "set_number" : "CORE-EN092",
+      "rarity" : "Ultra Rare",
+      "name" : "Absorb Fusion"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN093",
+      "name" : "Performapal Salutiger"
+   },
+   {
+      "name" : "Superheavy Samurai Ogre Shutendoji",
+      "set_number" : "CORE-EN094",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Hi-Speedroid Kendama",
+      "rarity" : "Ultra Rare",
+      "set_number" : "CORE-EN095"
+   },
+   {
+      "name" : "Dragong",
+      "rarity" : "Rare",
+      "set_number" : "CORE-EN096"
+   },
+   {
+      "name" : "Mandragon",
+      "set_number" : "CORE-EN097",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Tatsunoko",
+      "rarity" : "Secret Rare",
+      "set_number" : "CORE-EN098"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "CORE-EN099",
+      "name" : "Secret Blast"
+   }
+]

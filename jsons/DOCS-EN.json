@@ -1,0 +1,502 @@
+[
+   {
+      "name" : "Samurai Cavalry of Reptier",
+      "rarity" : "Rare",
+      "set_number" : "DOCS-EN000"
+   },
+   {
+      "set_number" : "DOCS-EN001",
+      "rarity" : "Rare",
+      "name" : "Performapal Secondonkey"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Performapal Splashmammoth",
+      "set_number" : "DOCS-EN002"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Performapal Helpprincess",
+      "set_number" : "DOCS-EN003"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Superheavy Samurai Thief",
+      "set_number" : "DOCS-EN004"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Superheavy Samurai Transporter",
+      "set_number" : "DOCS-EN005"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Superheavy Samurai Drum",
+      "set_number" : "DOCS-EN006"
+   },
+   {
+      "set_number" : "DOCS-EN007",
+      "rarity" : "Common",
+      "name" : "Superheavy Samurai Soulhorns"
+   },
+   {
+      "set_number" : "DOCS-EN008",
+      "name" : "Superheavy Samurai Soulclaw",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Fluffal Wings",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN009"
+   },
+   {
+      "name" : "D/D Berfomet",
+      "rarity" : "Rare",
+      "set_number" : "DOCS-EN010"
+   },
+   {
+      "set_number" : "DOCS-EN011",
+      "rarity" : "Common",
+      "name" : "D/D Swirl Slime"
+   },
+   {
+      "set_number" : "DOCS-EN012",
+      "rarity" : "Common",
+      "name" : "D/D Necro Slime"
+   },
+   {
+      "set_number" : "DOCS-EN013",
+      "name" : "Raidraptor - Wild Vulture",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Raidraptor - Skull Eagle",
+      "set_number" : "DOCS-EN014"
+   },
+   {
+      "name" : "Performage Mirror Conductor",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN015"
+   },
+   {
+      "set_number" : "DOCS-EN016",
+      "rarity" : "Common",
+      "name" : "Performage Plushfire"
+   },
+   {
+      "set_number" : "DOCS-EN017",
+      "rarity" : "Super Rare",
+      "name" : "The Legendary Fisherman III"
+   },
+   {
+      "name" : "Assault Blackwing - Kunai the Drizzle",
+      "rarity" : "Rare",
+      "set_number" : "DOCS-EN018"
+   },
+   {
+      "set_number" : "DOCS-EN019",
+      "name" : "Charging Gaia the Fierce Knight",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Sphere Kuriboh",
+      "rarity" : "Rare",
+      "set_number" : "DOCS-EN020"
+   },
+   {
+      "name" : "Super Soldier Soul",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN021"
+   },
+   {
+      "set_number" : "DOCS-EN022",
+      "name" : "Beginning Knight",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "DOCS-EN023",
+      "rarity" : "Super Rare",
+      "name" : "Evening Twilight Knight"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Vector Pendulum, the Dracoverlord",
+      "set_number" : "DOCS-EN024"
+   },
+   {
+      "set_number" : "DOCS-EN025",
+      "rarity" : "Super Rare",
+      "name" : "Majespecter Cat - Nekomata"
+   },
+   {
+      "set_number" : "DOCS-EN026",
+      "name" : "Majespecter Raccoon - Bunbuku",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Majespecter Crow - Yata",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN027"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Majespecter Fox - Kyubi",
+      "set_number" : "DOCS-EN028"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Majespecter Unicorn - Kirin",
+      "set_number" : "DOCS-EN029"
+   },
+   {
+      "set_number" : "DOCS-EN030",
+      "name" : "Igknight Cavalier",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DOCS-EN031",
+      "name" : "Igknight Veteran",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DOCS-EN032",
+      "name" : "Graydle Slime",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Graydle Alligator",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN033"
+   },
+   {
+      "set_number" : "DOCS-EN034",
+      "rarity" : "Common",
+      "name" : "Graydle Cobra"
+   },
+   {
+      "set_number" : "DOCS-EN035",
+      "name" : "Graydle Eagle",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Skilled Red Magician",
+      "set_number" : "DOCS-EN036"
+   },
+   {
+      "set_number" : "DOCS-EN037",
+      "rarity" : "Rare",
+      "name" : "Giant Pairfish"
+   },
+   {
+      "set_number" : "DOCS-EN038",
+      "rarity" : "Rare",
+      "name" : "Toon Barrel Dragon"
+   },
+   {
+      "set_number" : "DOCS-EN039",
+      "rarity" : "Common",
+      "name" : "Deskbot 006"
+   },
+   {
+      "name" : "Pot of The Forbidden",
+      "rarity" : "Short Print",
+      "set_number" : "DOCS-EN040"
+   },
+   {
+      "set_number" : "DOCS-EN041",
+      "rarity" : "Short Print",
+      "name" : "Dr. Frankenderp"
+   },
+   {
+      "set_number" : "DOCS-EN042",
+      "name" : "Black Luster Soldier - Super Soldier",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Frightfur Sabre-Tooth",
+      "rarity" : "Ultra Rare",
+      "set_number" : "DOCS-EN043"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "D/D/D Wave Oblivion King Caesar Ragnarok",
+      "set_number" : "DOCS-EN044"
+   },
+   {
+      "rarity" : "Secret Rare\nUltimate Rare",
+      "name" : "Odd-Eyes Vortex Dragon",
+      "set_number" : "DOCS-EN045"
+   },
+   {
+      "name" : "Scarlight Red Dragon Archfiend",
+      "rarity" : "Secret Rare\nUltimate Rare\nGhost Rare",
+      "set_number" : "DOCS-EN046"
+   },
+   {
+      "set_number" : "DOCS-EN047",
+      "name" : "Assault Blackwing - Raikiri the Rain Shower",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Graydle Dragon",
+      "set_number" : "DOCS-EN048"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Deskbot Jet",
+      "set_number" : "DOCS-EN049"
+   },
+   {
+      "set_number" : "DOCS-EN050",
+      "rarity" : "Super Rare",
+      "name" : "D/D/D Duo-Dawn King Kali Yuga"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Raidraptor - Fiend Eagle",
+      "set_number" : "DOCS-EN051"
+   },
+   {
+      "set_number" : "DOCS-EN052",
+      "name" : "Majester Paladin, the Ascending Dracoslayer",
+      "rarity" : "Ultra Rare\nUltimate Rare"
+   },
+   {
+      "name" : "Shuffle Reborn",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN053"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Rank-Up-Magic Raid Force",
+      "set_number" : "DOCS-EN054"
+   },
+   {
+      "set_number" : "DOCS-EN055",
+      "name" : "Raptor's Ultimate Mace",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Super Soldier Ritual",
+      "set_number" : "DOCS-EN056"
+   },
+   {
+      "name" : "Gateway to Chaos",
+      "rarity" : "Super Rare",
+      "set_number" : "DOCS-EN057"
+   },
+   {
+      "set_number" : "DOCS-EN058",
+      "name" : "Majesty's Pegasus",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Majespecter Storm",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN059"
+   },
+   {
+      "set_number" : "DOCS-EN060",
+      "rarity" : "Super Rare",
+      "name" : "Majespecter Cyclone"
+   },
+   {
+      "name" : "Igknight Reload",
+      "rarity" : "Ultra Rare",
+      "set_number" : "DOCS-EN061"
+   },
+   {
+      "name" : "Graydle Impact",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN062"
+   },
+   {
+      "set_number" : "DOCS-EN063",
+      "rarity" : "Secret Rare",
+      "name" : "Odd-Eyes Fusion"
+   },
+   {
+      "name" : "Psychic Blade",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN064"
+   },
+   {
+      "set_number" : "DOCS-EN065",
+      "rarity" : "Secret Rare",
+      "name" : "Painful Decision"
+   },
+   {
+      "set_number" : "DOCS-EN066",
+      "name" : "Super Rush Headlong",
+      "rarity" : "Short Print"
+   },
+   {
+      "set_number" : "DOCS-EN067",
+      "rarity" : "Common",
+      "name" : "Frightfur March"
+   },
+   {
+      "set_number" : "DOCS-EN068",
+      "rarity" : "Common",
+      "name" : "D/D/D Contract Change"
+   },
+   {
+      "name" : "Dark Contract with Errors",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN069"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Super Soldier Rebirth",
+      "set_number" : "DOCS-EN070"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Super Soldier Shield",
+      "set_number" : "DOCS-EN071"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Majespecter Tornado",
+      "set_number" : "DOCS-EN072"
+   },
+   {
+      "name" : "Majespecter Tempest",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN073"
+   },
+   {
+      "set_number" : "DOCS-EN074",
+      "name" : "Graydle Parasite",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Graydle Split",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN075"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Blazing Mirror Force",
+      "set_number" : "DOCS-EN076"
+   },
+   {
+      "set_number" : "DOCS-EN077",
+      "name" : "Pendulum Area",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DOCS-EN078",
+      "name" : "Urgent Ritual Art",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "set_number" : "DOCS-EN079",
+      "name" : "Grand Horn of Heaven",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "First-Aid Squad",
+      "set_number" : "DOCS-EN080"
+   },
+   {
+      "set_number" : "DOCS-EN081",
+      "rarity" : "Secret Rare",
+      "name" : "Painful Escape"
+   },
+   {
+      "name" : "Kozmo Strawman",
+      "rarity" : "Ultra Rare",
+      "set_number" : "DOCS-EN082"
+   },
+   {
+      "name" : "Kozmoll Wickedwitch",
+      "rarity" : "Common",
+      "set_number" : "DOCS-EN083"
+   },
+   {
+      "set_number" : "DOCS-EN084",
+      "name" : "Kozmo DOG Fighter",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Kozmo Dark Destroyer",
+      "set_number" : "DOCS-EN085"
+   },
+   {
+      "set_number" : "DOCS-EN086",
+      "name" : "Kozmo Lightsword",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DOCS-EN087",
+      "name" : "Radian, the Multidimensional Kaiju",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "DOCS-EN088",
+      "rarity" : "Rare",
+      "name" : "Gameciel, the Sea Turtle Kaiju"
+   },
+   {
+      "set_number" : "DOCS-EN089",
+      "rarity" : "Common",
+      "name" : "Kaiju Capture Mission"
+   },
+   {
+      "name" : "D/D/D Wave King Caesar",
+      "rarity" : "Rare",
+      "set_number" : "DOCS-EN090"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "D/D Savant Galilei",
+      "set_number" : "DOCS-EN091"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "D/D Savant Kepler",
+      "set_number" : "DOCS-EN092"
+   },
+   {
+      "set_number" : "DOCS-EN093",
+      "name" : "Dark Contract with the Gate",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "DOCS-EN094",
+      "rarity" : "Common",
+      "name" : "Dark Contract with the Swamp King"
+   },
+   {
+      "set_number" : "DOCS-EN095",
+      "rarity" : "Common",
+      "name" : "Dark Contract with the Witch"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Contract Laundering",
+      "set_number" : "DOCS-EN096"
+   },
+   {
+      "set_number" : "DOCS-EN097",
+      "rarity" : "Common",
+      "name" : "D/D/D Human Resources"
+   },
+   {
+      "name" : "D/D/D Rebel King Leonidas",
+      "rarity" : "Super Rare",
+      "set_number" : "DOCS-EN098"
+   },
+   {
+      "name" : "D/D/D Oblivion King Abyss Ragnarok",
+      "rarity" : "Rare",
+      "set_number" : "DOCS-EN099"
+   }
+]
