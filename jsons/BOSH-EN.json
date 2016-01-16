@@ -1,0 +1,502 @@
+[
+   {
+      "rarity" : "Rare",
+      "name" : "Steel Cavalry of Dinon",
+      "set_number" : "BOSH-EN000"
+   },
+   {
+      "set_number" : "BOSH-EN001",
+      "name" : "Tuning Magician",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Timebreaker Magician",
+      "set_number" : "BOSH-EN002"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "BOSH-EN003",
+      "name" : "Performapal Monkeyboard"
+   },
+   {
+      "set_number" : "BOSH-EN004",
+      "name" : "Performapal Guitartle",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Performapal Bit Bite Turtle",
+      "set_number" : "BOSH-EN005",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "BOSH-EN006",
+      "name" : "Performapal Rain Goat",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Performapal Trump Girl",
+      "set_number" : "BOSH-EN007",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Superheavy Samurai Magnet",
+      "set_number" : "BOSH-EN008"
+   },
+   {
+      "set_number" : "BOSH-EN009",
+      "name" : "Superheavy Samurai Prepped Defense",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "BOSH-EN010",
+      "name" : "Superheavy Samurai General Jade"
+   },
+   {
+      "set_number" : "BOSH-EN011",
+      "name" : "Superheavy Samurai General Coral",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Solo the Melodious Songstress",
+      "set_number" : "BOSH-EN012"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "BOSH-EN013",
+      "name" : "Score the Melodious Diva"
+   },
+   {
+      "set_number" : "BOSH-EN014",
+      "name" : "Blackwing - Harmattan the Dust",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Twilight Ninja Shingetsu",
+      "set_number" : "BOSH-EN015",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Twilight Ninja Nichirin, the Chunin",
+      "set_number" : "BOSH-EN016",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "BOSH-EN017",
+      "name" : "Twilight Ninja Getsuga, the Shogun"
+   },
+   {
+      "set_number" : "BOSH-EN018",
+      "name" : "Buster Blader, the Destruction Swordmaster",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Buster Whelp of the Destruction Swordsman",
+      "set_number" : "BOSH-EN019"
+   },
+   {
+      "set_number" : "BOSH-EN020",
+      "name" : "Dragon Buster Destruction Sword",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Wizard Buster Destruction Sword",
+      "set_number" : "BOSH-EN021"
+   },
+   {
+      "set_number" : "BOSH-EN022",
+      "name" : "Robot Buster Destruction Sword",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Master Pendulum, the Dracoslayer",
+      "set_number" : "BOSH-EN023"
+   },
+   {
+      "set_number" : "BOSH-EN024",
+      "name" : "Dinomist Stegosaur",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dinomist Plesios",
+      "set_number" : "BOSH-EN025"
+   },
+   {
+      "set_number" : "BOSH-EN026",
+      "name" : "Dinomist Pteran",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "BOSH-EN027",
+      "name" : "Dinomist Brachion",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dinomist Ceratops",
+      "set_number" : "BOSH-EN028"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Dinomist Rex",
+      "set_number" : "BOSH-EN029"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "BOSH-EN030",
+      "name" : "Majespecter Toad - Ogama"
+   },
+   {
+      "name" : "Shiranui Spectralsword",
+      "set_number" : "BOSH-EN031",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "BOSH-EN032",
+      "name" : "Shiranui Smith"
+   },
+   {
+      "name" : "Shiranui Spiritmaster",
+      "set_number" : "BOSH-EN033",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "BOSH-EN034",
+      "name" : "Shiranui Samurai",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "BOSH-EN035",
+      "name" : "Dark Doriado",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "BOSH-EN036",
+      "name" : "Guiding Ariadne",
+      "rarity" : "Super Rare"
+   },
+   {
+      "name" : "Al-Lumi'raj",
+      "set_number" : "BOSH-EN037",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "BOSH-EN038",
+      "name" : "Toon Buster Blader"
+   },
+   {
+      "name" : "Deskbot 007",
+      "set_number" : "BOSH-EN039",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Deskbot 008",
+      "set_number" : "BOSH-EN040"
+   },
+   {
+      "set_number" : "BOSH-EN041",
+      "name" : "Engraver of the Mark",
+      "rarity" : "Short Print"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "BOSH-EN042",
+      "name" : "Zany Zebra"
+   },
+   {
+      "name" : "Odd-Eyes Gravity Dragon",
+      "set_number" : "BOSH-EN043",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "BOSH-EN044",
+      "name" : "Goyo Emperor"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "BOSH-EN045",
+      "name" : "Buster Blader, the Dragon Destroyer Swordsman"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "BOSH-EN046",
+      "name" : "Dinoster Power, the Mighty Dracoslayer"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "set_number" : "BOSH-EN047",
+      "name" : "Enlightenment Paladin"
+   },
+   {
+      "name" : "Superheavy Samurai Beast Kyubi",
+      "set_number" : "BOSH-EN048",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Hi-Speedroid Hagoita",
+      "set_number" : "BOSH-EN049",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Goyo Defender",
+      "set_number" : "BOSH-EN050",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "BOSH-EN051",
+      "name" : "Goyo King",
+      "rarity" : "Rare"
+   },
+   {
+      "name" : "Buster Dragon",
+      "set_number" : "BOSH-EN052",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Shiranui Samuraisaga",
+      "set_number" : "BOSH-EN053",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Shiranui Shogunsaga",
+      "set_number" : "BOSH-EN054"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Aegaion the Sea Castrum",
+      "set_number" : "BOSH-EN055"
+   },
+   {
+      "name" : "Performance Hurricane",
+      "set_number" : "BOSH-EN056",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "BOSH-EN057",
+      "name" : "Pendulum Storm"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Hi-Speed Re-Level",
+      "set_number" : "BOSH-EN058"
+   },
+   {
+      "set_number" : "BOSH-EN059",
+      "name" : "Destruction Swordsman Fusion",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "BOSH-EN060",
+      "name" : "Karma of the Destruction Swordsman"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Draco Face-Off",
+      "set_number" : "BOSH-EN061"
+   },
+   {
+      "name" : "Dinomic Powerload",
+      "set_number" : "BOSH-EN062",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "BOSH-EN063",
+      "name" : "Dinomist Charge",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Majespecter Sonics",
+      "set_number" : "BOSH-EN064",
+      "rarity" : "Common"
+   },
+   {
+      "set_number" : "BOSH-EN065",
+      "name" : "Shiranui Style Synthesis",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Odd-Eyes Advent",
+      "set_number" : "BOSH-EN066",
+      "rarity" : "Rare"
+   },
+   {
+      "set_number" : "BOSH-EN067",
+      "name" : "Twin Twisters",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Short Print",
+      "set_number" : "BOSH-EN068",
+      "name" : "Mistaken Accusation"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Dragon's Bind",
+      "set_number" : "BOSH-EN069"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "BOSH-EN070",
+      "name" : "Follow Wing"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Reject Reborn",
+      "set_number" : "BOSH-EN071"
+   },
+   {
+      "rarity" : "Common",
+      "name" : "Destruction Sword Flash",
+      "set_number" : "BOSH-EN072"
+   },
+   {
+      "rarity" : "Common",
+      "set_number" : "BOSH-EN073",
+      "name" : "Dinomist Rush"
+   },
+   {
+      "set_number" : "BOSH-EN074",
+      "name" : "Majespecter Supercell",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "BOSH-EN075",
+      "name" : "Shiranui Style Swallow's Slash",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Quaking Mirror Force",
+      "set_number" : "BOSH-EN076"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "BOSH-EN077",
+      "name" : "Pendulum Reborn"
+   },
+   {
+      "set_number" : "BOSH-EN078",
+      "name" : "Forbidden Apocrypha",
+      "rarity" : "Common"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "name" : "Solemn Strike",
+      "set_number" : "BOSH-EN079"
+   },
+   {
+      "rarity" : "Short Print",
+      "name" : "Bad Luck Blast",
+      "set_number" : "BOSH-EN080"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "BOSH-EN081",
+      "name" : "Ultimate Providence"
+   },
+   {
+      "set_number" : "BOSH-EN082",
+      "name" : "Kozmo Tincan",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "name" : "Kozmo Soartroopers",
+      "set_number" : "BOSH-EN083",
+      "rarity" : "Super Rare"
+   },
+   {
+      "set_number" : "BOSH-EN084",
+      "name" : "Kozmo Delta Shuttle",
+      "rarity" : "Common"
+   },
+   {
+      "name" : "Kozmo Dark Eclipser",
+      "set_number" : "BOSH-EN085",
+      "rarity" : "Secret Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "BOSH-EN086",
+      "name" : "Kozmojo"
+   },
+   {
+      "rarity" : "Rare",
+      "name" : "Gadarla, the Mystery Dust Kaiju",
+      "set_number" : "BOSH-EN087"
+   },
+   {
+      "rarity" : "Rare",
+      "set_number" : "BOSH-EN088",
+      "name" : "Jizukiru, the Star Destroying Kaiju"
+   },
+   {
+      "name" : "Interrupted Kaiju Slumber",
+      "set_number" : "BOSH-EN089",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "BOSH-EN090",
+      "name" : "Performapal Pendulum Sorcerer"
+   },
+   {
+      "set_number" : "BOSH-EN091",
+      "name" : "Fiendish Rhino Warrior",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Ultra Rare",
+      "name" : "Neptabyss, the Atlantean Prince",
+      "set_number" : "BOSH-EN092"
+   },
+   {
+      "rarity" : "Super Rare",
+      "name" : "Chimeratech Rampage Dragon",
+      "set_number" : "BOSH-EN093"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "BOSH-EN094",
+      "name" : "Cyber Dragon Infinity"
+   },
+   {
+      "name" : "Red-Eyes Retro Dragon",
+      "set_number" : "BOSH-EN095",
+      "rarity" : "Super Rare"
+   },
+   {
+      "rarity" : "Super Rare",
+      "set_number" : "BOSH-EN096",
+      "name" : "Dharma-Eye Magician"
+   },
+   {
+      "name" : "Black Luster Soldier - Sacred Soldier",
+      "set_number" : "BOSH-EN097",
+      "rarity" : "Ultra Rare"
+   },
+   {
+      "set_number" : "BOSH-EN098",
+      "name" : "Arisen Gaia the Fierce Knight",
+      "rarity" : "Rare"
+   },
+   {
+      "rarity" : "Secret Rare",
+      "set_number" : "BOSH-EN099",
+      "name" : "Traptrix Rafflesia"
+   }
+]
