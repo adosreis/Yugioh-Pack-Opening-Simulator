@@ -6,9 +6,9 @@ from set_types import *
 set_objects = dict()
 
 def sort_sets():
-	for file in os.listdir('./jsons/'): 
+	for file in os.listdir(os.path.join('.', 'jsons')): 
 		if file.endswith('.json'):
-			with open('./jsons/'+file) as json_data:
+			with open(os.path.join('jsons', file)) as json_data:
 				#Get the set name:
 				set_name = os.path.splitext(str(file))[0]
 
